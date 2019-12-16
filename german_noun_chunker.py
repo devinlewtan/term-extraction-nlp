@@ -10,7 +10,7 @@ def is_empty(line):
     return len(line.strip())==0
 
 def main():
-    with open("german_text.txt", "r") as input_file, open("german_output.txt", "w") as output_file:
+    with open("german_text.txt", "r") as input_file, open("german_output.tchunk", "w") as output_file:
         for line in input_file:
             if is_empty(line):
                 continue
@@ -25,7 +25,7 @@ def main():
                         word = word[0]
                     pos = t[1]
                     chunk = t[2]
-                    output_file.write(f"{word}\t{pos}\t{chunk}\n")
+                    output_file.write(f"{word}\t{word}\t{pos}\t{chunk}\n")
             output_file.write("\n")
 
 if __name__ == "__main__":
