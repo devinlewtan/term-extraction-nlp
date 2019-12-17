@@ -1,0 +1,28 @@
+Antitelefon
+
+Ein Antitelefon (auch Tachyon-Antitelefon) ist ein hypothetisches Gerät, mit dem Signale in die eigene Vergangenheit gesendet werden könnten. Es beruht auf einem Gedankenexperiment Albert Einsteins (1907),
+wonach sich mit Überlichtgeschwindigkeit ausbreitende Signale gemäß der speziellen Relativitätstheorie rückwärts durch die Zeit bewegen. Einstein (1910) bezeichnete das in einem Gespräch mit Arnold Sommerfeld als ein Mittel, um „in die Vergangenheit zu telegraphieren“.
+Ein ähnliches Gedankenexperiment wurde von Richard Chace Tolman (1917) besprochen, weswegen es auch als Tolmans Paradoxon bekannt ist.
+Ein hypothetisches Gerät, mit dem das bewerkstelligt werden könnte, wurde von Gregory Benford später als „Tachyon-Antitelefon“ bezeichnet. Bei Tachyonen handelt es sich um hypothetische, überlichtschnelle Teilchen, denen unübliche Eigenschaften, wie z. B. eine imaginärwertige Masse zugesprochen werden.
+
+Ein solches „Telegraphieren in die Vergangenheit“ mittels überlichtschneller Kommunikation würde allerdings zu Kausalitätsverletzungen führen, deswegen wurde es von Einstein, Tolman und von der überwiegenden Mehrheit der Physiker als praktisch nicht möglich eingestuft. Auch die damit zusammenhängenden Tachyon-Theorien sind umstritten.
+
+Basierend auf Einsteins Gedankenexperiment betrachtete Tolman folgende Situation: Es sei eine Strecke L mit den Endpunkten A und B gegeben. Ein Signal wird nun bei A zum Zeitpunkt formula_1 mit Geschwindigkeit formula_2 in Richtung B gesendet und kommt zum Zeitpunkt formula_3 dort an. Die Flugzeit des Signals ergibt sich mit
+
+Hier findet also die Ursache (Ereignis bei A) vor der Folge (Ereignis bei B) statt. Jedoch in einem Inertialsystem, das sich mit der Geschwindigkeit formula_5 relativ dazu bewegt, ergibt sich gemäß der Lorentz-Transformation die Flugzeit des Signals bis zur Ankunft bei B mit:
+
+Es ist zu sehen, dass man im Fall formula_7 durch geeignete Wahl von "v" ein negatives formula_8 erreicht. Mit anderen Worten, die Wirkung bei B ereignet sich in diesem System vor der Ursache bei A. Einstein und Tolman verwiesen darauf, dass dieses Resultat keinen logischen Widerspruch enthält, jedoch widerspricht es der Gesamtheit der Erfahrung, sodass die Unmöglichkeit von Überlichtgeschwindigkeiten ihrer Ansicht nach ausreichend bewiesen ist.
+
+Komplizierter werden die Zusammenhänge, wenn folgendes Beispiel diskutiert wird: Es sei ein Inertialsystem S' gegeben, in dem Beobachter A ruht, und ein Inertialsystem S, in dem B ruht. B bewegt sich in negativer x-Richtung aus Sicht von A. Ebenso wird vorausgesetzt, dass A und B über gleichartige Gerät verfügen, mit denen in ihren jeweiligen Inertialsystemen überlichtschnelle Signale gesendet werden können.
+
+A sendet zum Zeitpunkt formula_9 ein mit Überlichtgeschwindigkeit formula_10 (gemessen in S') sich ausbreitendes Signal zu B, das dort zum Zeitpunkt
+
+ankommt. Hier ist formula_12 die Strecke, die vom Signal durchlaufen wird, bis es das in negativer x-Richtung davonfliegende B erreicht hat. Bei B wird nun unmittelbar darauf der eigene Sender aktiviert und ein mit Überlichtgeschwindigkeit formula_2 (gemessen in S) sich ausbreitendes Signal zu A gesendet. Dabei muss berücksichtigt werden, dass die Strecke längenkontrahiert ist, und dass A dem Signal in positiver Richtung davonläuft. Das ergibt eine Ankunftszeit von
+
+In S' hingegen ergibt sich (vgl. Formel für formula_8 im Einwegbeispiel)
+
+Insgesamt ergibt sich also die Gesamtzeit formula_17 bis zur Rückkehr zu A
+
+Auch hier ergibt sich bei formula_7, dass bei geeigneter Wahl von formula_5 ein negatives formula_17 entsteht, das heißt, A erhält die Antwort zurück, bevor das ursprüngliche Signal überhaupt abgesendet wurde. Benford u. a. schrieben über solche Situationen:
+
+Daraus schlossen sie, dass überlichtschnelle Teilchen wie Tachyonen keine Signale übertragen dürften.

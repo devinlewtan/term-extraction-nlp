@@ -1,0 +1,59 @@
+Hall-Effekt
+
+Der Hall-Effekt [-], benannt nach Edwin Hall, beschreibt das Auftreten einer elektrischen Spannung in einem stromdurchflossenen Leiter, der sich in einem stationären Magnetfeld befindet. Die Spannung fällt dabei senkrecht sowohl zur Stromfluss- als auch zur Magnetfeldrichtung am Leiter ab und wird Hall-Spannung formula_1 genannt.
+
+Die Größe der Spannung kann mit Hilfe der weiter unten hergeleiteten Gleichung
+
+aus Stromstärke formula_3, magnetischer Flussdichte formula_4, Dicke der Probe formula_5 (parallel zu formula_4) und einer Materialkonstanten – der sogenannten "Hall-Konstanten" (auch: Hall-Koeffizient) formula_7 – berechnet werden.
+
+Der Hall-Effekt tritt in einem stromdurchflossenen elektrischen Leiter auf, der sich in einem Magnetfeld befindet, wobei sich ein elektrisches Feld aufbaut, das zur Stromrichtung und zum Magnetfeld senkrecht steht und das die auf die Elektronen wirkende Lorentzkraft kompensiert.
+
+Durch Anlegen einer Spannung an die Probe fließt ein Strom. Die Ladungsträger sind im Allgemeinen Elektronen, es kann aber auch Löcherleitung in entsprechend dotierten Halbleitern vorherrschen. Die Elektronen bewegen sich entgegen der technischen Stromrichtung mit einer mittleren Geschwindigkeit formula_8 (Driftgeschwindigkeit) durch den Leiter. Wegen der durch das Magnetfeld verursachten Lorentz-Kraft wird das Elektron senkrecht zu seiner Bewegungsrichtung abgelenkt. Hierdurch kommt es auf der entsprechenden Seite des Leiters zu einem Elektronenüberschuss (blau hervorgehoben), während es auf der gegenüberliegenden Seite im selben Maße zu einem Elektronenmangel kommt (rot hervorgehoben). Man hat es also mit einer Ladungstrennung zu tun, vergleichbar mit der eines Kondensators. Die sich nun gegenüberstehenden negativen und positiven Ladungsüberschüsse verursachen ein elektrisches Feld, das eine Kraft auf die Elektronen ausübt, die der Lorentz-Kraft entgegengerichtet ist. Die Verstärkung der Ladungstrennung kommt zum Stillstand, wenn sich beide Kräfte gerade kompensieren. Wie beim Kondensator kann eine Spannung abgegriffen werden, die hier als "Hall-Spannung" bezeichnet wird. Die Hall-Spannung folgt Strom- und Magnetfeldänderungen in der Regel unmittelbar. Sie steigt mit dem Magnetfeld linear an und ist antiproportional zur (vorzeichenbehafteten) Ladungsträgerdichte , da eine geringere Anzahl von Ladungsträgern nur bei höherer Geschwindigkeit der Einzelladungen zu einer unveränderten Stromstärke führen kann. Auf die schnelleren Ladungsträger wirkt eine höhere Lorentz-Kraft, wodurch die Hall-Spannung größer wird. Da die Ladungsträgerdichte in Halbleitern bedeutend kleiner ist als in Metallen, werden vorwiegend Halbleiter als Hall-Sonden benutzt.
+
+Die Hallspannung ist insbesondere unabhängig vom spezifischen Widerstand der Probe.
+Der Hall-Effekt wird sowohl zum Messen von Magnetfeldern (mit "Hall-Sonde") als auch zur Bestimmung der Ladungsträgerart (Elektronen oder Löcher) und deren Dichte eingesetzt.
+
+Die spezifischen Eigenschaften des Leitungsvorganges werden durch die Hall-Konstante formula_7 wiedergegeben.
+
+Edwin Hall beschrieb den später nach ihm benannten Effekt 1879 im Rahmen seiner Promotionsarbeit. Nach eigener Aussage wurde er durch eine Aussage von James Clerk Maxwell dazu motiviert, diesen Effekt zu suchen, denn diese Aussage Maxwells erschien ihm unnatürlich:
+Vor Hall hatten schon eine Reihe anderer Physiker einen solchen Effekt gesucht (etwa Feilitzsch, Mach, Wiedemann und sein Doktorvater Rowland), aber erst er erreichte eine ausreichende Messempfindlichkeit. Seine Doktorarbeit enthielt Messungen des Hall-Effekts in Gold. Zu späteren Messungen bemerkte Kelvin:
+
+An dieser Stelle soll eine kurze Herleitung der Formel für die Hallspannung skizziert werden. Die Gültigkeit der Herleitung beschränkt sich dabei auf elektrische Leiter mit nur einer Sorte von Ladungsträgern, wie bei Metallen (Elektronen) oder stark dotierten Halbleitern (stark überwiegend entweder Löcher oder Elektronen).
+
+Bewegte Ladungsträger in einem magnetischen Feld erfahren die Lorentzkraft:
+
+Beim Hall-Effekt baut sich ein kompensierendes elektrisches Feld auf, das die ablenkende Wirkung des Magnetfeldes neutralisiert. Für die resultierende Kraft auf die Ladungsträger muss folglich gelten:
+Der Einfachheit halber wird das Koordinatensystem so gelegt, dass sich die Ladungsträger in formula_12-Richtung bewegen und das Magnetfeld in formula_13-Richtung wirkt. Es ist also formula_14 und formula_15. Damit wird die y-Komponente der obigen Gleichung nach Division durch formula_16 zu:
+
+Die Stromdichte formula_18 im Leiter lässt sich allgemein durch formula_19 ausdrücken. Löst man diese Beziehung nach formula_20 auf und setzt sie in obige Gleichung, so erhält man
+
+Über diese Beziehung wird die Hall-Konstante formula_7 definiert, welche die Stärke des Hall-Effektes charakterisiert.
+
+Um die Gleichung etwas handlicher zu machen, kann man den Leiter, in dem ja eine Ladungstrennung stattgefunden hat, als Plattenkondensator auffassen. Für diesen gilt die Beziehung
+
+Außerdem kann die Stromdichte formula_24 im vorliegenden Fall durch formula_25 ausgedrückt werden. Setzt man diese beiden Schreibweisen ein, so erhält man für die Hallspannung formula_26 einen nur noch von einfach messbaren Größen abhängenden Ausdruck:
+
+Diese Gleichung ist auch für Leiter mit verschiedenen Sorten von Ladungsträgern korrekt, jedoch lässt sich dann die Hall-Konstante nicht mehr durch formula_28 berechnen. Aus der Gleichung lässt sich der sogenannte Hall-Widerstand angeben:
+
+Der Hall-Widerstand charakterisiert ein Hallelement, hat jedoch nichts mit dem gemessenen elektrischen Widerstand an einem Hallelement zu tun.
+Er gibt das Verhältnis Hallspannung zu Strom eines Hallelementes bei einer bestimmten magnetischen Flussdichte an:
+
+In der Elektronik wird der Hall-Effekt in sogenannten Hallsonden zur Messung der magnetischen Flussdichte benutzt. Fließt ein Strom durch den Leiter, so kann durch das Messen der erzeugten Hall-Spannung nach obiger Formel formula_4 berechnet werden. Materialien mit großer Hall-Konstante zeichnen sich dabei mit einer hohen Empfindlichkeit aus. Aus diesem Grund werden meist Halbleitermaterialien verwendet. Die Massenfertigung zum breiten Einsatz in der Industrie wurde erst durch die Integration von Hall-Platten in CMOS-Technologie möglich. Erst damit können Temperaturabhängigkeiten und andere Effekte kompensiert und die Hallspannung entsprechend ausgewertet und digital aufbereitet werden. Heute gibt es immer komplexere Hall-Sensoren auf CMOS-Basis in Anwendungen zur Winkel-, Positions-, Geschwindigkeits- und Strommessung.
+
+Ein weiteres Anwendungsgebiet ist die Bestimmung von Ladungsträgerdichten durch Messen der Hall-Konstanten. Durch eine zusätzliche Messung der elektrischen Leitfähigkeit (oder des spezifischen Widerstands) ist es zudem möglich, die Beweglichkeit der Ladungsträger im Material zu ermitteln. Eine komfortable Methode zur Bestimmung des spezifischen Widerstandes und der Hallkonstanten an dünnen Schichten ist die Van-der-Pauw-Messmethode.
+
+Ein elektronischer Kompass kann mit Hallsonden gebaut werden.
+
+Praktische Anwendungen finden sich auch in der Raumfahrt, bei Hall-Ionentriebwerken.
+
+Schon um 1930 hatte Landau den Gedanken, dass bei sehr tiefen Temperaturen, starken Magnetfeldern und zweidimensionalen Leitern Quanteneffekte auftreten sollten. Der Quanten-Hall-Effekt bewirkt, dass in zweidimensionalen Systemen bei sehr starken Magnetfeldern formula_4 und tiefen Temperaturen (wenige Kelvin) die Hall-Spannung formula_1 geteilt durch den Strom formula_3 nicht beliebig variieren kann, wenn die Magnetfeldstärke variiert wird, sondern dass das Verhältnis in Stufen variiert. formula_35 ist z. B. an Grenz- oder Oberflächen unter den angegebenen Bedingungen immer ein ganzzahliger Bruchteil der Von-Klitzing-Konstanten
+
+(in der Einheit Ohm=Volt/Ampere; formula_37 ist die plancksche Konstante, formula_38 die Elementarladung). Die angegebenen Stufenwerte für das Verhältnis formula_39 sind also: formula_40, formula_41, formula_42 und so weiter. Die Genauigkeit, mit der diese Plateaus reproduziert werden können, ist so gut, dass formula_40 durch internationale Verträge als Standard für den elektrischen Widerstand festgelegt worden ist. Der Quanten-Hall-Effekt ist weitgehend verstanden. Klaus von Klitzing bekam für diese Entdeckung 1985 den Nobelpreis.
+
+Wenn sich Elektronen durch einen Festkörper bewegen, werden sie durch quantenmechanische Effekte seitlich abgelenkt – je nach Ausrichtung des Spins (Eigendrehimpuls des Elektrons) nach rechts oder links. Es entsteht ein „Spin-Strom“ in transversaler Richtung. Im Gegensatz zum gewöhnlichen Hall-Effekt ist für diesen so genannte „Spin-Hall-Effekt“ kein externes magnetisches Feld erforderlich, der Effekt entsteht durch extrinsische (z. B. durch Störstellen) oder durch intrinsische Mechanismen (z. B. durch die Spin-Bahn-Kopplung).
+
+Der sogenannte "planare Hall-Effekt" ist ein magnetoresistiver Effekt in ferromagnetischen Materialien, der trotz des Namens nichts mit dem gewöhnlichen Hall-Effekt zu tun hat. Der Hauptunterschied zum gewöhnlichen Hall-Effekt – und zugleich Grund für die Namensgebung – ist, dass in diesem Fall das Magnetfeld "nicht senkrecht" zur Probe, sondern "in" der Probe (also „planar“) verläuft, aber „quer“ zum longitudinalen Strom, wobei ebenfalls extrinsische und intrinsische Effekte unterschieden werden. Insofern ist der Spin-Hall-Effekt eher analog zum "planaren" Hall-Effekt als zum "gewöhnlichen" Hall-Effekt.
+
+Der Righi-Leduc-Effekt, auch „Thermischer Hall-Effekt“ (engl.: "thermal Hall effect") genannt, beschreibt das Auftreten einer transversalen Temperaturdifferenz, wenn Wärme durch einen Leiter fließt, der sich in einem stationären Magnetfeld befindet. Er ist das thermomagnetische Analogon zum Hall-Effekt.
+
+Der Nernst-Effekt beschreibt das Auftreten einer transversalen Spannung, wenn Wärme durch einen Leiter fließt, der sich in einem stationären Magnetfeld befindet.

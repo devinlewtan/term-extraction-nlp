@@ -1,0 +1,31 @@
+Anisotroper magnetoresistiver Effekt
+
+Der anisotrope magnetoresistive Effekt, kurz AMR-Effekt, ist der am längsten bekannte magnetoresistive Effekt und wurde 1857 durch William Thomson, 1. Baron Kelvin entdeckt. Er beruht auf anisotroper (von der Raumrichtung abhängiger) Streuung in ferromagnetischen Metallen. Das heißt, er tritt in Materialien auf, die eine eigene Magnetisierung aufweisen.
+
+Besonders gut lässt sich der Effekt in einer dünnen Schicht (ca. 20 nm) aus Permalloy, einer Legierung aus Nickel (81 %) und Eisen (19 %), beobachten. Es lässt sich feststellen, dass der elektrische Widerstand der Schicht abhängig vom äußeren Magnetfeld ist. Dabei haben nur Magnetfeldkomponenten in der Schichtebene einen merklichen Einfluss auf den Widerstand. Dieser ist am größten, wenn das äußere Magnetfeld in der Stromrichtung oder gegen die Stromrichtung gerichtet ist. Am kleinsten ist der Widerstand, wenn das äußere Magnetfeld senkrecht zur Stromrichtung in der Schichtebene gerichtet ist.
+
+Der Effekt wird auf eine Verzerrung der Atomorbitale durch die Spin-Ausrichtung im Magnetfeld zurückgeführt. Dadurch ändert sich deren Streuquerschnitt für Leitungselektronen und damit der Widerstand.
+
+Betrachtet wird eine Probe eines ferromagnetischen Materialquaders für den gilt: Länge ≫ Breite ≫ Dicke. Der betrachtete Stromdichtevektor und der Magnetfeldvektor liegen in der Ebene, die durch Länge und Breite aufgespannt werden.
+
+Ein von außen auf das Material wirkendes Magnetfeld dreht die interne Magnetisierung der Domänen des Materials so, dass diese sich mit steigender Magnetfeldstärke immer mehr an dem äußeren Feld orientieren. Ist die Feldstärke des äußeren Felds stark genug, so ist die Orientierung der internen Magnetisierung und des äußeren Feldes gleich.
+
+Stehen der Stromdichtevektor des durch das Material fließenden Stroms und der Magnetfeldvektor der internen Magnetisierung senkrecht aufeinander, so ist der Widerstand des Materials minimal, sind sie parallel zueinander, ist der Widerstand maximal.
+
+Der sich ergebene Widerstand lautet:
+formula_1, wobei formula_2
+
+formula_3 ist der Widerstand, falls beide Vektoren parallel sind, formula_4 ist der Widerstand, falls beide Vektoren senkrecht zueinander stehen.
+
+Wie man aus der Gleichung erkennt, kann man anhand des Widerstands zwar den Betrag des Winkels bestimmen, aber nicht dessen Vorzeichen. Mögliche Werte liegen im Bereich zwischen formula_5 und formula_6.
+
+Um dieses Problem zu beheben, ist für Sensoren die sog. Barberpole-Anordnung entwickelt worden (benannt nach den bekannten sich drehenden Dekorationszylindern mit einem durchgehenden Querstreifen). Dabei werden auf das magnetische Material (z. B. Permalloy) im Winkel von 45° Leiterstreifen aus Gold oder Aluminium aufgebracht. Mit ihrer Hilfe kann man im Intervall zwischen −45° und +45° den Winkel genau bestimmen. Ein weiterer Vorteil der Barberpole-Anordnung ist, dass sie für kleine Winkeländerungen um die 0° nahezu lineares Verhalten aufweist.
+
+AMR wird vor allem bei Leseköpfen (seit 1990) in Festplattenlaufwerken angewendet, aber auch bei MRAM–Chips (von englisch ) für die Raumfahrt. In günstigen Fällen liegt die Effektgröße ∆R/R zwischen 3 und 4 %; sie ist daher zu klein für die Massenproduktion kostengünstiger MRAM–Speicher.
+
+AMR-Sensoren werden sowohl in der Automobilindustrie als auch in der industriellen Messtechnik und der Unterhaltungselektronik eingesetzt. Die Messaufgaben reichen von Feldmessungen und Kompassanwendungen über Längen- und Winkelmessung bis zur Stromsensorik.
+AMR-Sensoren ersetzen zunehmend Feldplatten, da sie bei höheren Betriebstemperaturen eingesetzt werden können und eine bessere Linearität aufweisen.
+
+In der Medizin wird der Effekt beim zur Bestimmung von Motilität und Passagezeit im Darm ausgenutzt.
+
+Mit modernen Sensoren aus schmalen Streifen von Permalloyschichten, die in Form einer Wheatstone-Brücke geschaltet werden, lassen sich Magnetfelder der Größenordnung 0,01 A/m detektieren.

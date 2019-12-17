@@ -1,0 +1,9 @@
+Leiterschaukel
+
+Die Leiterschaukel ist ein physikalisches Experiment aus dem Bereich der elektromagnetischen Induktion.
+
+Eine Leiterschaukel besteht aus einem Hufeisenmagneten, zwischen dessen Polen ein nicht magnetisierbarer, aber leitfähiger Stab befestigt wird, der an einen Stromkreis angeschlossen wird.
+
+Sobald der Stromkreis geschlossen wird, was oft durch das Leuchten einer Lampe oder durch ein Strommessgerät angezeigt wird, beginnt der Stab sich in eine Richtung zu bewegen. Diese Richtung wird durch die Drei-Finger-Regel bestimmt, Ursache der Bewegung ist die Lorentzkraft. 
+
+Wenn der Stab im Magnetfeld manuell bewegt wird, werden sich durch die Lorentzkraft Elektronen im Stab bewegen. Bei geöffnetem Stromkreis werden sie sich – anschaulich gesprochen – an einem Ende sammeln. Die Ladungstrennung wird enden, wenn die Lorentzkraft mit der elektrischen Kraft im Gleichgewicht steht, also wenn formula_1 gilt, anders gesagt formula_2. Es ergibt sich das Induktionsgesetz für den bewegten Leiter.

@@ -1,0 +1,39 @@
+Quadrupol
+
+Ein Quadrupol entsteht aus der nebenstehend dargestellten Anordnung zweier entgegengesetzt-gleicher Dipole mit beliebigem Abstandsvektor, typischerweise formula_1 genannt.
+
+Allgemein kann einer beliebigen Ladungs- oder Stromverteilung, sofern sie "nicht" bestimmte Symmetrien besitzt, in zweiter Ordnung ein Multipolmoment zugeordnet werden. Dazu wird das eigentliche Potential durch eine Taylorentwicklung genähert. Dabei ergibt sich in dieser Multipolentwicklung u. a. auch ein Quadrupolmoment.
+
+Ein elektrischer Quadrupol kann aus zwei gleich großen positiven und zwei ebensogroßen negativen Ladungen bestehen, die zwei entgegengesetzt-gleiche Dipole bilden. Im einfachsten Fall befinden sich die vier Ladungen in abwechselnder Anordnung an den Ecken eines Parallelogramms (in der Regel sogar eines Quadrates). 
+
+Mathematisch präzise wird die Definition durch einen als „Quadrupol-Limes“ bezeichneten Grenzwertprozess, bei dem der Flächeninhalt des Parallelogramms gegen Null "konvergiert", während gleichzeitig die Ladungsstärke der an den Ecken des Parallelogramms befindlichen Ladungen "divergiert", und zwar so, dass das Produkt konstant bleibt, etwa formula_2 wobei die Konstante positiv sein soll.
+
+Das Quadrupolpotential formula_3 ergibt sich als Überlagerung (Superposition) der Dipolpotentiale formula_4:
+
+Beim Übergang zur letzten Gleichung wurden die Taylorentwicklung benutzt und Terme der Größenordnung formula_6 vernachlässigt.
+
+Aus der Multipolentwicklung erhält man mit dem Kronecker-Delta formula_7 den "Quadrupolmomenttensor" formula_8 mit SI-Einheit C·m²:
+
+bzw. für kontinuierliche Ladungsverteilungen:
+
+Alternativ lässt sich das Potential auch darstellen als:
+
+wobei
+
+In der Praxis wird jede Anordnung von vier abwechselnd gepolten Elektroden verkürzt als „Quadrupol“ bezeichnet, auch wenn sie kein reines Quadrupolfeld erzeugt. 
+
+Im Wechselspannungsbetrieb lässt diese Anordnung von einem entlang der Achse fliegenden Strahl geladener Teilchen nur Teilchen mit einem bestimmten Verhältnis von Masse zu Ladung durch. Daher wird diese Anordnung in Massenspektrometern verwendet.
+
+Eine weitere Anwendung eines elektrischen Quadrupols ist der Hochfrequenz-Quadrupol-Beschleuniger.
+
+Ein magnetischer Quadrupol besteht im einfachsten Fall aus zwei entgegengesetzt gerichteten magnetischen Dipolen im Abstand formula_1.
+
+Anwendungen:
+
+Ein sphärisches magnetisches Quadrupolfeld lässt sich zum Beispiel mit einer Maxwell-Spule erzeugen.
+
+Im Gegensatz zum Elektromagnetismus besitzt die Gravitation nur positive "Ladungen" (Massen). Daher ist die Definition eines gravitativen Quadrupols wie oben über zwei Dipole "nicht" möglich. Dennoch besitzen Massenverteilungen ein Quadrupolmoment mit SI-Einheit kg·m². Beispielsweise besitzt die Erde ein Quadrupolmoment, da sie keine perfekte Kugel ist. Die Abplattung der Erde führt dazu, dass im Vergleich zu einer exakt sphärischen Massenverteilung (reiner Monopol) an den Polen Masse „fehlt“ und am Äquator ein „Überschuss“ vorliegt („Äquatorwulst“). Einige himmelsmechanische Phänomene, wie die Präzession der Erdachse und die dynamische Entwicklung der Bahnelemente von Satelliten, lassen sich mit dem daraus resultierende Quadrupolmoment beschreiben.
+
+In der Theorie der Gravitationswellen ist der Quadrupol von fundamentaler Bedeutung. Da es keine gravitativen Dipole gibt, ist die niedrigste Ordnung von Gravitationswellen eine Quadrupolstrahlung, die in der Form der Ausbreitung der elektromagnetischen Quadrupolstrahlung entspricht.
+
+Analog können höhere Multipole behandelt werden, sog. "Oktupole" beispielsweise durch alternierende Punktladungen auf den acht Ecken eines Parallelepipeds, z. B. eines Würfels der Kantenlänge "a", mit dem „Oktupol-Limes“  formula_14 (oder allgemeiner: ein einziger 2-Pol wird angenähert durch Überlagerung zweier verschobener 2-Pole mit entgegengesetztem Vorzeichen).

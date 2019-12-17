@@ -1,0 +1,21 @@
+Magnetischer Widerstand
+
+Der magnetische Widerstand oder auch Reluktanz formula_1 ist der Proportionalitätsfaktor zwischen der magnetischen Spannung formula_2 und dem magnetischen Fluss formula_3 in der Form:
+
+Die Gleichung wird nach John Hopkinson als das hopkinsonsche Gesetz bezeichnet und hat eine ähnliche Form wie das ohmsche Gesetz für den elektrischen Stromkreis, wenn der magnetische Fluss formula_3 zur elektrischen Stromstärke formula_6 und die magnetische Spannung formula_2 zur elektrischen Spannung formula_8 in Analogie gesetzt werden. Der magnetische Widerstand ist nicht mit dem magnetoresistiven Effekt zu verwechseln, welcher einen elektrischen Widerstand beschreibt, der durch einen magnetischen Fluss beeinflusst wird.
+
+Aufgrund der historisch bedingten Begriffsbildung wird die magnetische Spannung formula_2 in der Fachliteratur manchmal auch als "magnetische Durchflutung" mit dem Formelzeichen formula_10 bezeichnet.
+
+Der magnetische Widerstand für ein Element mit gleichmäßigem magnetischem Fluss entspricht der Größe:
+
+Dabei entspricht
+
+Bei magnetischen Kreisen mit abschnittsweise konstanten magnetischen Leitwerten, Querschnitten und Längen können nach obiger Beziehung magnetische Teilwiderstände bestimmt werden. Die Rechenregeln zur Zusammenfassung dieser Widerstände sind dabei analog wie bei der Reihen- und Parallelschaltung von elektrischen Widerständen.
+
+Der Gesamtwiderstand im magnetischen Kreis ist zudem maßgeblich für dessen Induktivität formula_17 und magnetische Flussdichte formula_18.
+
+Magnetische Widerstände werden in der Theorie der magnetischen Kreise benutzt, die von John Hopkinson und seinem Sohn Edward Hopkinson am Ende des 19. Jahrhunderts entwickelt wurde. Die damals entwickelten Vorstellungen waren eine Grundlage für den Bau elektrischer Maschinen und werden auch heute noch zum Verständnis von einfachen magnetischen Kreisen benutzt.
+
+Der Kehrwert des magnetischen Widerstandes ist der magnetische Leitwert oder auch Permeanz formula_19.
+
+Die Einheit des magnetischen Widerstandes formula_1 im Internationalen Einheitensystem (SI) ist der Kehrwert der Einheit Henry und kann als H ausgedrückt werden. Die Einheit des magnetischen Leitwertes formula_19 ist das Henry.

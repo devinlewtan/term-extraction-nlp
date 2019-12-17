@@ -1,0 +1,14 @@
+Σ-Baryon
+
+Die drei Σ-Baryonen, auch Sigma-Baryonen, sind Baryonen, die aus einem Strange-Quark sowie allen Paarkombinationen von Up- und Down-Quark bestehen. Sie besitzen Spin 1/2, Isospin 1 und werden durch ihre elektrische Ladung gekennzeichnet: Σ, Σ und Σ.
+
+Die Σ-Baryonen gehören zu den Hyperonen.
+
+Die Σ-Baryonen gehören dem SU(3)-Oktett an.
+
+Die geladenen Σ-Baryonen zerfallen zu beinahe 100 % in ein Nukleon und ein Pion. Dabei kann das Σ aufgrund seiner negativen Ladung nur in ein Neutron und ein π zerfallen, wogegen das Σ mit gleicher Wahrscheinlichkeit in ein Neutron und ein π wie in ein Proton und ein π zerfällt.
+
+Das ungeladene Σ zerfällt mit nahezu 100 % Wahrscheinlichkeit in ein Λ-Baryon und ein Photon. Dieser Zerfall erfolgt mittels der elektromagnetischen Wechselwirkung, so dass dieses Teilchen deutlich kurzlebiger als die geladenen Σ-Baryonen ist.
+Die Σ-Baryonen besitzen angeregte Zustände, welche als "Σ-Baryonen" bezeichnet werden. Sie haben denselben Quarkinhalt wie die Σ-Baryonen, jedoch Spin 3/2, und sind Teil des Baryon-Dekupletts. Sie sind etwas schwerer als die Σ-Baryonen (Σ≈ 1387 MeV/c, Σ≈ 1384 MeV/c, Σ≈ 1383 MeV/c).
+
+Die Σ-Baryonen zerfallen zum größten Teil unter der starken Kernkraft in ein Pion und ein Σ-Baryon oder in ein Pion und ein Λ-Baryon. Zu einem geringen Anteil (≈ 1,3 %) zerfällt das Σ-Baryon in ein Λ-Baryon und ein Photon.

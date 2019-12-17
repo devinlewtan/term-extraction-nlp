@@ -1,0 +1,7 @@
+Cauchy-Zahl
+
+Die Cauchy-Zahl formula_1 (nach Augustin Louis Cauchy) gehört zu den dimensionslosen Kennzahlen der Physik. Sie gibt das Verhältnis der Trägheitskräfte zu den elastischen Kräften in festen Körpern an:
+
+wobei 
+
+Die Cauchy-Zahl wird bei der Untersuchung elastischer Schwingungsvorgänge benutzt. Weiterhin findet sie Einsatz in der Ähnlichkeitstheorie: zwei Vorgänge, die hauptsächlich unter Trägheits- und elastischen Kräften stattfinden, sind mechanisch ähnlich, wenn ihre Cauchy-Zahlen übereinstimmen.

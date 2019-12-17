@@ -1,0 +1,42 @@
+Tonne (Einheit)
+
+Mit Tonne werden unter anderem verschiedene Maßeinheiten bezeichnet, insbesondere für Massen. Während im deutschsprachigen Bereich mit der Masseneinheit „Tonne“ stets die „metrische Tonne“, also 1000 Kilogramm, gemeint ist, ist in Ländern vor allem des angelsächsischen Sprachraums die Unterscheidung von "metrischer Tonne", "Long ton" und "Short ton" wichtig.
+
+Die Tonne (von ‚das Fass‘) oder auch metrische Tonne mit dem Einheitenzeichen „t“ ist eine Maßeinheit der Masse. Nach dem internationalen Einheitensystem entspricht eine Tonne 1000 Kilogramm (oder einer Million Gramm, also einem Megagramm). In Ländern, in denen das metrische System als Standard eingerichtet ist, wird gewöhnlicherweise einfach „Tonne“ gesprochen. In allen anderen Ländern, vor allem im angelsächsischen Sprachraum, spricht man von der „metrischen Tonne“ ("metric ton," abgekürzt "mT", nicht zu verwechseln mit Metertonne), um sie von der "long ton" und der "short ton" zu unterscheiden.
+
+In manchen wissenschaftlichen Büchern und Zeitschriften, wie auch vereinzelt in amtlichen Bekanntmachungen, wird der Schritt von der Bezeichnung „Tonne“ hin zur Bezeichnung „Megagramm“ (Mg) vollzogen. Vor allem auf internationaler Ebene sollen damit Verwirrungen vermieden werden. Entsprechend wird in englischsprachiger Literatur die „Gigatonne“ (Gt) inzwischen manchmal auch durch „Petagramm“ (Pg) ersetzt.
+
+Die Tonne gehört zwar nicht zum Internationalen Einheitensystem (SI), ist zum Gebrauch mit dem SI aber zugelassen. Dadurch ist sie eine gesetzliche Einheit.
+
+Natürlich sind auch alle weiteren Vorsätze für Maßeinheiten denkbar, manche werden auch verwendet.
+
+In der deutschen Landwirtschaft wurden früher häufig die Einheiten Zentner (Einheitenzeichen: ztr; entspricht 50 kg) und der daraus resultierende Doppelzentner (Einheitenzeichen: dz; entspricht 100 kg) verwendet. Der Doppelzentner ist in Deutschland durch die gesetzliche Einheit „Dezitonne“ (Einheitenzeichen: dt) abgelöst worden. Somit ist die alte Einheit dz massengleich der neuen Einheit dt (1 dz = 1 dt = 100 kg). Landwirtschaftliche Erträge sind in deutschen Büchern oft in „Dezitonnen pro Hektar“ (dt/ha) angegeben, international werden sie aber in der zehnmal so großen Einheit „Tonnen pro Hektar“ (t/ha) angegeben; diese wiederum wird in der jüngsten Literatur zunehmend durch die Bezeichnung „Megagramm pro Hektar“ (Mg/ha) ersetzt.
+
+Es gilt: formula_1
+
+Die sogenannte "Long ton" – von englisch ', wörtlich "lange Tonne"; auch „Britische Tonne“ genannt – ist eine Masseeinheit im Avoirdupois-Maßsystem. Das Einheitenzeichen der Long ton ist tn. l. (mit Leerzeichen). Die Long ton entspricht 20 ' und damit 2240 Angloamerikanischen Pfund (englisch "").
+
+Im militärischen Bereich wird die Einheit häufig mit dem Einheitenzeichen "ts", von englisch "", verwendet. Besonders für die 1922 auf der Flottenkonferenz in Washington festgelegte Standardverdrängung eines Schiffs wird die long ton genutzt. Die festgelegten Größen der Standardverdrängung ergeben in tons runde Zahlen.
+
+Der Ausdruck "long ton" wurde gebildet zur Unterscheidung von der "short ton".
+Die sogenannte "Short ton" – von englisch ', wörtlich "kurze Tonne"; auch „Amerikanische Tonne“ genannt – ist eine Masseeinheit, die vor allem in den USA gebräuchlich ist. Das Einheitenzeichen ist: tn. sh. (mit Leerzeichen). Eine Short ton entspricht 20 ' und damit 2000 Angloamerikanischen Pfund (Pound).
+Im Bergbau wird mit der sogenannten ' (kurz ', amerikanisch-englisch wörtlich für „Trocken-Metrische-Tonnen-Einheit“) gearbeitet. 1 DMTU entspricht einer metrischen Tonne Erz ohne Wasseranteil mit einem Metallgehalt von einem Prozent, was einem Metallgewicht von 10 Kilogramm entspricht. Wird beispielsweise der Preis eines 48-prozentigen Manganerzes mit 2,30 USD/DMTU angegeben, so wird das Erz mit 48 × 2,30 USD/Tonne gehandelt.
+
+Bei der Angabe von Fertigungskapazitäten von Massenware, wie beispielsweise Stahl oder Chemikalien, wird anstelle von „Tonnen pro Jahr“ oft – in Anlehnung zum „Stundenkilometer“ – die Umschreibung „Jahrestonne(n)“, kurz „Jato“ oder „jato“ genutzt; das Jahr ist in Deutschland jedoch keine gesetzliche Einheit. Im Englischen ist die Abkürzung ‚‘ (für ‚‘ bzw. ‚‘) üblich.
+
+Die Preußische Tonne war ein Volumen-, Raum- oder Hohlmaß für Schüttgüter wie Salz, Kalk, Gips, Steinkohlen, Holzkohle, Asche und ähnlich grobe Güter.
+Beispiele:
+In Riga wurde die Tonne ebenso für Schüttgüter genutzt, damit jedoch folgendermaßen gerechnet:
+
+Die "Lüneburger Salztonne" war ein Gewichtsmaß gleichermaßen seit dem 13. Jahrhundert und durch kaiserlichen Erlass geschützt gewesen.
+
+Eine Lüneburger Salztonne als Maß- und Normgefäß:
+
+In Königsberg und Danzig war die Tonne ein Stückmaß im Handel mit Heringen.
+
+
+Eine Besonderheit für das Maß Tonne ist aus Braunschweig, Hamburg und Bremen bekannt. Geführt wird diese Tonne unter zählbaren Maßen. Hier erhielt das Maß bei Butter den Zusatz kleines bzw. schmal (Kleinband) oder großes Band bzw. bucket (Großband), also:
+
+In Schleswig-Holstein, Lübeck, Dänemark, Norwegen und Island existierten auch Tonnenbezeichnungen als Flächenmaß.
+
+Die Registertonne ist ein Volumenmaß aus der Schiffsvermessung.

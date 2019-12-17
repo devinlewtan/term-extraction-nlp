@@ -1,0 +1,25 @@
+Zugkraftdiagramm
+
+Das nach Alfred Jante benannte Zugkraftdiagramm (nach Jante) bzw. Jante-Normalfahrdiagramm oder Normal-Fahrzustands-Diagramm stellt den Verlauf von Fahrwiderständen und ihrer Summe und den Verlauf der Antriebskraft in Abhängigkeit von der Fahrgeschwindigkeit dar. Es hat sich in der Fachliteratur durchgesetzt und wird auch oft in Testberichten verwendet.
+
+Damit ein Kraftfahrzeug auf einer Straße fahren kann, muss es verschiedene Widerstände überwinden. Die von den Antriebsrädern auf die Fahrbahnoberfläche übertragene Antriebskraft muss in einem bestimmten Verhältnis zur Summe der Fahrwiderstände stehen. Ist sie größer, wird beschleunigt, ist sie kleiner, so verliert das Kraftfahrzeug an Geschwindigkeit.
+
+Oft wird der Verlauf der Antriebskraft nur für Volllast in den einzelnen Vorwärtsgängen dargestellt. Ein Kraftüberschuss im Vergleich zur Fahrwiderstands-Summe für die Ebene zeigt das Vermögen des Kraftfahrzeugs an, Steigungen ohne Geschwindigkeitseinbuße zu überwinden.
+
+Aussagekräftig ist dieses Diagramm auch für die Auswahl von Übersetzungen („Schongang“ oder „sportlicher Gang“).
+
+Als Formel bedeutet das:
+
+formula_1
+
+wobei:
+
+formula_2 Antriebskraft
+
+formula_3 Rollreibungskraft
+
+formula_4 Steigungswiderstandskraft
+
+formula_5 Luftwiderstandskraft
+
+formula_6 Beschleunigungswiderstandskraft

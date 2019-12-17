@@ -1,0 +1,8 @@
+Deviationsgleichung
+
+Die Deviationsgleichung oder geodätische Abweichung ist eine Gleichung der Riemannschen Geometrie bzw. Allgemeinen Relativitätstheorie und beschreibt die Änderung des Abstandes zweier benachbarter Geodäten mit Hilfe des Riemannschen Krümmungstensors. Mittels dieser Gleichung kann festgestellt werden, ob und in welcher Art ein Raum gekrümmt ist, indem die Relativbeschleunigung zweier Probekörper auf benachbarten Geodäten gemessen wird. Wird keine Relativbeschleunigung zwischen zwei Geodäten gemessen, so ist der Raum flach. Die Relativbeschleunigung zwischen den Probekörpern rührt nur von der Krümmung des Raumes her, nicht von ihrer gegenseitigen gravitativen Anziehung, die bei einem realen Experiment noch zusätzlich wirken würde.
+
+Die mathematische Formulierung der Deviationsgleichung lautet:
+und vereinfacht sich in einem torsionsfreien Raum zu
+Die Symbole in den Gleichungen bedeuten dabei folgendes:
+Im flachen Raum wächst der Abstand zweier sich schneidenden Geodäten formula_16 und formula_17 proportional zu formula_18. Ist dies nicht der Fall, so ist dies ein Symptom für die Krümmung des Raumes und entspricht der obigen Gleichung bei nichtverschwindendem Krümmungstensor.

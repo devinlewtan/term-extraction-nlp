@@ -1,0 +1,9 @@
+DEMO
+
+DEMO (DEMOnstration Power Plant) könnte das Nachfolgeprojekt zum im Bau befindlichen experimentellen Kernfusionsreaktor ITER werden. DEMO würde der Entwicklung und dem Test von Technologien, physikalischen Betriebsbereichen und Steuerungsalgorithmen dienen und soll einen sogenannten „geschlossenen Brennstoffkreislauf“, d. h. das Erbrüten des laufend benötigten Tritiums im Blanket des Reaktors, demonstrieren. Als Demonstrationskraftwerk würde DEMO alle Komponenten zur Stromerzeugung enthalten und bei 2 bis 4 Gigawatt Fusionsleistung frühestens ab 2040 oder 2050 1 bis 1,5 Gigawatt ins Netz einspeisen. Aufgrund der großen Verzögerungen bei ITER (Zündung eines DT-Plasmas nun erst 2035 geplant.) dürfte sich der Zeitplan allerdings entsprechend nach hinten schieben. Entwicklungsziele für DEMO sind auch genügende Verfügbarkeit und möglichst kompakte Abmessungen. DEMO wird als Forschungsprojekt noch nicht wirtschaftlich Strom produzieren, soll aber eine Abschätzung der Kosten kommerzieller Kraftwerke ermöglichen. Um wirtschaftlich zu arbeiten, müssten kommerzielle Fusionskraftwerke im letzten Viertel dieses Jahrhunderts voraussichtlich größer als DEMO sein.
+
+Nach einem Ansatz würde sich die konkrete Planung und Konstruktion von DEMO auf etwa zehn Jahre Plasmaforschung mit ITER stützen, die 2025 beginnen soll. Ein anderer Ansatz (K-DEMO) ging zugunsten der Auslegung schon nach zwei Jahren ITER-Betrieb von dann noch unbestätigten, aber konservativeren Annahmen für die erreichbaren Parameter aus.
+
+Auch ist noch nicht sicher, ob mit dem Tokamak-Prinzip ein dauerhaft brennendes Plasma wirtschaftlich möglich ist; DEMO könnte auch ein Nachfolger des Stellarators Wendelstein 7-X werden.
+
+PROTO ist ein vorgeschlagener Kernfusionsreaktor, der aber nicht vor 2050 in Bau gehen kann und ein Nachfolgeprojekt des DEMO-Projekts wäre. Es gibt aber auch Überlegungen PROTO und DEMO zu kombinieren.

@@ -1,0 +1,19 @@
+Dynamotheorie
+
+Die Dynamotheorie beschreibt die Erzeugung und das Verhalten von Magnetfeldern in elektrisch leitfähiger Materie (Plasma). Sie ist Teil der Magnetohydrodynamik (MHD). 
+
+Der „Dynamoeffekt“, also die Erzeugung von Magnetfeldern, hat seine Ursache in der elektromagnetischen Induktion aufgrund der Wechselwirkung zwischen Konvektion in elektrisch leitender Materie und ihrer Rotation. 
+
+Die Magnetfelder der Erde, der Sonne, sowie weiterer astronomischer Objekte, lassen sich durch die Dynamotheorie erklären. Zur besseren Unterscheidung von technischen Dynamos (elektrische Generatoren) nennt man solche Dynamos dann auch magnetohydrodynamische oder MHD-Dynamos.
+
+Die theoretische Grundlage zur Beschreibung von Dynamos bildet die Induktionsgleichung:
+
+Hierbei bedeuten:
+
+Die Induktionsgleichung lässt sich aus den Maxwellgleichungen und dem ohmschen Gesetz herleiten.
+
+Antidynamotheoreme machen Aussagen über Bedingungen, unter denen "kein" Dynamoprozess zustande kommen kann. Sie vermitteln einen Einblick in die Funktionsweise von Dynamos, da sie die Lösungsvielfalt der Dynamogleichung einschränken, und damit aufzeigen, welche Voraussetzungen für einen funktionierenden Dynamo wesentlich sind.
+
+Das Cowling-Theorem besagt, dass ein axialsymmetrisches Magnetfeld durch keinen Dynamoprozess aufrechterhalten werden kann.
+
+Das Elsasser-Theorem (auch Toroidal-Theorem) besagt, dass eine rein toroidale Strömung keinen Dynamo aufrechterhalten kann. Dies ist jedoch in einer sphärischen Geometrie nur unter der einschränkenden Bedingung der Fall, dass die elektrische Leitfähigkeit nicht winkelabhängig ist.

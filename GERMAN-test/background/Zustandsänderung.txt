@@ -1,0 +1,18 @@
+Zustandsänderung
+
+Mit Zustandsänderung wird allgemein die Veränderung eines Systems von einem Zustand in einen anderen bezeichnet.
+
+In der Biologie finden sich solche Zustandsänderungen etwa in der Metamorphose oder im Sterben.
+
+Die Physik beschäftigt sich wesentlich mit der Beschreibung und der Veränderung von Zuständen.
+
+So beschreibt etwa die physikalische Größe der Beschleunigung die Änderung des Bewegungszustandes eines Körpers.
+
+In der Thermodynamik sind zum einen die Änderungen von Aggregatzuständen und die damit einhergehenden Phasenübergänge von Stoffen zu erwähnen, die stets auch mit einer Entropieänderung verbunden sind. Beispiele hierzu sind das Schmelzen von Eis oder das Verdampfen und Kondensieren von Wasser.
+
+Zum anderen werden Zustandsänderungen von Gasen beschrieben. Dabei wird das thermodynamische System von einem Zustand in einen anderen überführt. Eine einfache Zustandsänderung ist z. B. bei einem Luftballon zu beobachten, der an einem Sommertag bei hoher Temperatur mit einem Gas gefüllt wurde. Kommt dieser in einen klimatisierten Raum, so schrumpft der Ballon.
+Man unterscheidet folgende Spezialfälle von Zustandsänderungen:
+
+Die Zustandsänderungen a) bis f) sind Spezialfälle von g). Bei der Zustandsänderung g) (polytrope Zustandsänderung) kann der Exponent theoretisch jeden Wert zwischen formula_1 und +formula_2 annehmen. Zu bemerken ist, dass es sich bei diesen Zustandsänderungen um Idealisierungen handelt, denn bei realen Zustandsänderungen ist auch n nicht konstant.
+
+In den mikrophysikalischen Spezialgebieten der Atom-, Kern- und Quantenphysik werden vor allem die Veränderung von Energiezuständen beschrieben.

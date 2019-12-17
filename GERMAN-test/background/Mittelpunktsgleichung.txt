@@ -1,0 +1,17 @@
+Mittelpunktsgleichung
+
+Als Mittelpunktsgleichung wird seit der antiken Astronomie die Abweichung der ungleichmäßigen Bewegung von Mond und Planeten von einer gleichmäßigen Bewegung entlang einer Kreisbahn bezeichnet. Wie Johannes Kepler 1609 zeigte, hängt sie von der Exzentrizität "e" der jeweiligen Bahnellipse ab. Ihr Maximalbetrag wird große Ungleichheit genannt.
+
+Sie ergibt sich aus der Kepler-Gleichung als Differenz zwischen "mittlerer Anomalie M" und "wahrer Anomalie V". Letztere ist der momentane Winkelabstand des Himmelskörpers von seiner Periapsis (erd- bzw. sonnennächster Punkt der Bahnellipse), während der Winkel M gleichmäßig mit der Zeit abläuft und im Periapsis mit Null beginnt. Weil sich die Kepler-Gleichung nur iterativ lösen lässt, wird "V - M" heute meist durch eine Reihenentwicklung berechnet. Für Gradmaß ergibt sich in Näherung zweiter Ordnung
+
+bzw. in Näherung dritter Ordnung
+
+Das Maximum tritt bei den Winkeln 90° und 270° auf -- d. h. zum Viertel bzw. zu ¾ der Umlaufzeit -- und wird "Große Ungleichheit" genannt. Sie entspricht dem 1. Term "2e" der obigen Reihe und beträgt beim Mond ± 6,3°, bei der Erdbahn bzw. der scheinbaren Sonnenbahn ± 1,9°, beim Merkur 24°, bei Venus 0,8°, beim Mars 10,7°, bei Jupiter 5° und bei Saturn 6°. Diese Werte waren schon Claudius Ptolemäus wohlbekannt; vermutlich hat sie schon Apollonios von Perge um 200 v. Chr. aus langjährigen Beobachtungen hergeleitet. Ähnliche Untersuchungen wurden auch im alten Indien, in Babylonien und in Persien durchgeführt.
+
+Der größte Term der Mittelpunktsgleichung, die Sinus-Schwingung "2e·sinM" der obigen Reihenentwicklung, wurde in der griechischen Planetentheorie durch Epizykel berücksichtigt. Man ließ den Epizykelmittelpunkt so auf einem Exzenter laufen, dass
+die Bewegung von einem Ausgleichspunkt gesehen gleichförmig erscheint
+Die Babylonier berechneten ihn jedoch nicht mittels Epizykeltheorie, sondern durch arithmetische Reihen.
+
+Dass sich die Mondbahn damit noch nicht befriedigend berechnen lässt, schreibt aber schon Ptolemäus in seinem Almagest. Als Korrektur führt er die Evektion ein, eine Störung von 1,3°, die von der gegenseitigen Stellung Sonne-Mond abhängt. 1500 Jahre später entdeckt Tycho de Brahe in seinen 0,02° genauen Beobachtungen zwei weitere Störungen (Variation und jährliche Gleichung), die durch Newtons Gravitationsgesetz bestätigt wurden. Heute berücksichtigt die Theorie der Mondbahn weit über 1000 periodische Störungsterme, zu denen noch säkulare Effekte (z. B. Drehung der Mondbahnebene) kommen.
+
+Auch bei den Planeten beschreibt die Mittelpunktsgleichung die ungleichförmige Geschwindigkeit infolge der Bahnelliptizität, doch übertrifft sie nur bei Merkur ("e" = 0,206) und Mars (0,093) jene des Mondes. Die sonstigen Störungen sind geringer, weil die Erde und andere Planeten weit entfernt sind.

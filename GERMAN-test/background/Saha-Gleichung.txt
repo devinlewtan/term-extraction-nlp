@@ -1,0 +1,11 @@
+Saha-Gleichung
+
+Die Saha-Gleichung (auch "Saha-Ionisierungs-Gleichung" oder "Eggert-Saha-Gleichung") beschreibt im thermodynamischen Gleichgewicht die Abhängigkeit des Ionisationsgrades eines Gases von der Temperatur; erreicht der Ionisationsgrad eine nennenswerte Größenordnung, spricht man nicht mehr von einem Gas, sondern von einem Plasma. 
+
+Die Gleichung wurde 1920 von dem damals 27-jährigen indischen Astrophysiker Meghnad Saha aus der Boltzmann-Statistik abgeleitet und ist bedeutend für die Physik der Sterne. John Eggert lieferte Vorarbeiten 1919 durch eine Veröffentlichung in der Physikalischen Zeitschrift. Saha las diese Arbeit in Indien und konnte sie entscheidend verbessern.
+
+Man kann die Saha-Gleichung so lesen, dass gerade diejenigen Atome ionisiert sind, bei denen die thermische Energie der Elektronen gemäß der Boltzmann-Verteilung über der Ionisierungsenergie liegt.
+
+Für reine Gase lautet die Saha-Gleichung
+
+mit:

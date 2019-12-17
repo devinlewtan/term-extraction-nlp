@@ -1,0 +1,17 @@
+Preisach-Modell
+
+Das Preisach-Modell ist ein mathematisches Modell zur Beschreibung von Hysteresekurven. Es wurde erstmals 1935 vom ungarischen Physiker Ferenc Preisach unter dem Titel "Über die magnetische Nachwirkung" in der "Zeitschrift für Physik" veröffentlicht. Anfangs wurde es entwickelt zur Beschreibung der Hystereseeigenschaften von ferromagnetischen Materialien, inzwischen findet es jedoch auch in anderen physikalischen Bereichen Anwendung.
+
+Einfach gesprochen besteht das Preisach-Modell aus einer Ansammlung vieler einfachster Rechteckhysteresekurven mit dem Hystereseoperator formula_1.
+
+Der Ausgang dieser Hysteresefunktionen ergibt sich wie folgt:
+
+formula_2
+
+Dabei ist formula_3 die sogenannte Memory-Funktion, welche den vorherigen Wert der Ausgangsfunktion formula_4 enthält.
+
+Integriert man nun über sehr viele solcher Rechteckhysteresekurven und gewichtet diese mit einem Verteilungsfaktor, so erhält man das Preisach-Modell in kontinuierlicher Form:
+
+formula_5
+
+wobei formula_6 die Eingangsvariable und formula_4 die Ausgangsvariable darstellen. formula_8 ist die Gewichtungsfunktion (auch Preisachfunktion bzw. Verteilungsfunktion genannt) und formula_9 der Hystereseoperator.

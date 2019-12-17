@@ -1,0 +1,7 @@
+D-Meson
+
+Als D-Mesonen bezeichnet man die Mesonen, welche genau ein Charm-Quark als schwerstes Quark enthalten. Ihre Masse liegt im Bereich von etwa 1,9 GeV/c² und sie leben im Mittel einige 10 Sekunden lang.
+
+D-Mesonen sind Testteilchen für die Erforschung der Quark-Umwandlung über die schwache Wechselwirkung.
+
+Ähnlich wie Kaonen und B-Mesonen mischen auch neutrale D-Mesonen, sie können also in ihre eigenen Antiteilchen übergehen. Dies wird unter anderem untersucht, um Hinweise auf eine CP-Verletzung sowie auf Physik außerhalb des Standardmodells zu finden.

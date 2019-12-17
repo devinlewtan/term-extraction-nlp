@@ -1,0 +1,23 @@
+Jahn-Teller-Effekt
+
+Der Jahn-Teller-Effekt, entdeckt 1937, geht auf die Wissenschaftler Edward Teller (1908–2003) und Hermann Arthur Jahn (1907–1979) zurück. Das Jahn-Teller-Theorem erklärt die Verzerrung in der Geometrie des Ligandenfelds einiger oktaedrischer Komplexverbindungen entlang einer Raumachse.
+
+Das Theorem besagt:
+
+Der Jahn-Teller-Effekt lässt sich auch bei Komplexen mit oktaedrischen Struktur beobachten, führt dabei aber zu keinen strukturellen Veränderungen. Insbesondere Komplexe mit schwachen Ligandenfeldern zeigen sich anfällig für Jahn-Teller-Verzerrungen, sodass man im starken Ligandenfeld nur bei oktaedrischen d-low-spin-Komplexen (te) eine starke Jahn-Teller-Verzerrung beobachten kann.
+
+Zwei der Liganden nehmen durch eine Verzerrung (Jahn-Teller-Verzerrung) einen größeren oder geringeren Abstand zum Zentralatom ein als die Liganden in der Äquatorialebene der Komplexverbindung. Die quadratisch planare Koordination kann als Extremfall einer Jahn-Teller-Verzerrung aufgefasst werden, wenn die Liganden entlang der z-Achse unendlich weit vom Zentralatom entfernt sind.
+
+Die Verzerrung erweist sich bei den betroffenen Komplexen als energetisch günstig, da die besetzten Molekülorbitale energetisch abgesenkt werden. Unbesetzte Molekülorbitale werden energetisch angehoben. Durch die energetische Aufspaltung der Molekülorbitale geht die Entartung verloren.
+
+Eine Jahn-Teller-Verzerrung (Streckung oder Stauchung) tritt ein, wenn es aufgrund der Ligandenfeldaufspaltung Gruppen von d-Zuständen gibt, so dass es mehr als eine Möglichkeit der Elektronenanordnung gibt und diese Elektronenanordnung energetisch entartet ist. Da entartete Zustände instabil sind, wird durch die Verzerrung die Symmetrie der Struktur aufgehoben; aus den teilweise besetzten Orbitalen gleicher Energie werden dabei Orbitale unterschiedlicher Energie. Dies bedeutet einen Energiegewinn, weil nur die Orbitale niedrigerer Energie besetzt werden. Eine Verzerrung ist z. B. für die Elektronenanordnungen d-high-spin, sowie bei d-low-spin und d zu erwarten.
+
+Liegt nun ein High-spin-Komplex vor, beispielsweise d(te), so kann das vierte d-Elektron entweder das d- oder das energiegleiche d-Orbital besetzen. Wird das d-Orbital besetzt, so werden die 4 äquatorial angeordneten Liganden abgestoßen, was eine Stauchung des Oktaeders zur Folge hat. Wird dagegen das d-Orbital besetzt, so werden nur die beiden axial angeordneten Liganden abgestoßen, was zu einer Streckung des Oktaeders in z-Richtung führt. In beiden Fällen führt die Besetzung des abgesenkten Orbitals zu einem wenn auch nicht sehr großen Energiegewinn, welcher als Jahn-Teller-Stabilisierungsenergie bezeichnet wird.
+Ob es nun zu einer Streckung oder Stauchung kommt, hängt unter anderem auch vom Gegenion ab.
+Beispielsweise findet man einen [Cu(NO)]-Komplex je nach Gegenion teils als oktaedrisch-gestauchten oder als oktaedrisch-gestrecken Komplex wieder. Andere wie zum Beispiel [Cu(py')] mit py' = Pyridinoxid haben sogar einen zwischen beiden Formen fluktuierenden Bau.
+
+Ein sehr ähnlicher Mechanismus tritt auch in eindimensionalen Ketten von Atomen und in Festkörpern auf, er wird dann als Peierls-Verzerrung bezeichnet.
+
+Als Beispiel für eine derartige Verzerrung in der organischen Chemie lässt sich der Antiaromat Cyclobutadien heranziehen. (Vgl. Frost-Musulin-Diagramm)
+
+Zwischen den durch den Jahn-Teller-Effekt aufgespalteten Energieniveaus kann es durch Lichteinfall zu Elektronenübergängen kommen, wobei Licht der entsprechenden Wellenlänge absorbiert wird. Dieser Mechanismus ist hauptverantwortlich für die Farbe verschiedener Minerale, z. B. der Grünfärbung des Malachits und der Blaufärbung des Azurits.

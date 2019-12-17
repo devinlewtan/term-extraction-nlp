@@ -1,0 +1,17 @@
+Particle Data Group
+
+Die Particle Data Group ist eine internationale Kollaboration von Teilchenphysikern, die publizierte Resultate, die Eigenschaften von Elementarteilchen und den Grundkräften der Physik behandeln, zusammenstellt und nochmals analysiert. Die Gruppe veröffentlicht auch Reviews von theoretischen Resultaten, die für die Phänomenologie und verwandte Felder wie die Kosmologie interessant sind.
+Die Particle Data Group veröffentlicht momentan den "Review of Particle Physics" und seine Taschenausgabe, das "Particle Physics Booklet", die jährlich im Netz aktualisiert und alle zwei Jahre in Buchform herausgegeben werden.
+
+Die Particle Data Group veröffentlicht auch das "Pocket Diary for Physicists", einen Kalender mit den Daten von wichtigen internationalen Konferenzen und Kontaktinformationen von großen Hochenergiephysikinstitutionen. Die Particle Data Group verwaltet darüber hinaus in Zusammenarbeit mit den Autoren von Event-Generatoren (Programmen, die mittels Monte-Carlo-Berechnungen Teilchenkollisionen simulieren) das standardisierte Nummernschema für Teilchen in solchen Simulationen.
+
+Der Review of Particle Physics (früher Review of Particle Properties, Data on Particles and Resonant States, und Data on Elementary Particles and Resonant States) ist ein umfangreiches, 1200 Seiten starkes Referenzwerk, das Teilcheneigenschaften zusammenfasst und einen Überblick über den aktuellen Stand der Elementarteilchenphysik, Allgemeinen Relativitätstheorie und Big Bang Kosmologie gibt.
+Es ist mit mehr als 3000 Zitationen jährlich momentan das am häufigsten zitierte Dokument in der Hochenergiephysik.
+
+Der Review ist im Moment in 3 Bereiche aufgeteilt:
+
+Eine gekürzte Version des "Reviews", mit den "Summary Tables", einem stark gekürzten Abschnitt "Reviews, Tables and Plots", und ohne den Abschnitt "Particle Listings" ist als ein 300 Seiten starkes Particle Data Booklet im Taschenbuchformat verfügbar.
+
+Die Geschichte des "Review of Particle Physics" kann auf den 1957 erschienenen Artikel "Hyperons and Heavy Mesons (Systematics and Decay)" von Murray Gell-Mann und Arthur H. Rosenfeld und die Aktualisierung "Data for Elementary Particle Physics" (University of California Radiation Laboratory Report UCRL-8030) zurückverfolgt werden. 1963 veröffentlichte Matts Ross unabhängig davon eine Zusammenstellung "Data on Elementary Particles and Resonant States". Auf seinen Vorschlag hin wurden die beiden Veröffentlichungen ein Jahr später im "Data on Elementary Particles and Resonant States" von 1964 zusammengeführt.
+
+Der Name der Veröffentlichung wurde danach noch dreimal gewechselt: 1965 in "Data on Particles and Resonant States", 1970 in "Review of Particle Properties", und 1996 in die aktuelle Form des "Review of Particle Physics".

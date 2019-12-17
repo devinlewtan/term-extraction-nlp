@@ -1,0 +1,312 @@
+<doc id="28481" url="https://en.wikipedia.org/wiki?curid=28481" title="Statistical mechanics">
+Statistical mechanics
+
+Statistical mechanics is one of the pillars of modern physics. It is necessary for the fundamental study of any physical system that has many degrees of freedom. The approach is based on statistical methods, probability theory and the microscopic physical laws.
+
+It can be used to explain the thermodynamic behaviour of large systems. This branch of statistical mechanics, which treats and extends classical thermodynamics, is known as statistical thermodynamics or equilibrium statistical mechanics.
+
+Statistical mechanics shows how the concepts from macroscopic observations (such as temperature and pressure) are related to the description of microscopic state that fluctuates around an average state. It connects thermodynamic quantities (such as heat capacity) to microscopic behavior, whereas, in classical thermodynamics, the only available option would be to measure and tabulate such quantities for various materials.
+
+Statistical mechanics can also be used to study systems that are out of equilibrium. An important subbranch known as non-equilibrium statistical mechanics (sometimes called statistical dynamics) deals with the issue of microscopically modelling the speed of irreversible processes that are driven by imbalances. Examples of such processes include chemical reactions or flows of particles and heat. The fluctuation–dissipation theorem is the basic knowledge obtained from applying non-equilibrium statistical mechanics to study the simplest non-equilibrium situation of a steady state current flow in a system of many particles.
+
+In physics, there are two types of mechanics usually examined: classical mechanics and quantum mechanics. For both types of mechanics, the standard mathematical approach is to consider two concepts:
+Using these two concepts, the state at any other time, past or future, can in principle be calculated.
+There is however a disconnection between these laws and everyday life experiences, as we do not find it necessary (nor even theoretically possible) to know exactly at a microscopic level the simultaneous positions and velocities of each molecule while carrying out processes at the human scale (for example, when performing a chemical reaction). Statistical mechanics fills this disconnection between the laws of mechanics and the practical experience of incomplete knowledge, by adding some uncertainty about which state the system is in.
+
+Whereas ordinary mechanics only considers the behaviour of a single state, statistical mechanics introduces the statistical ensemble, which is a large collection of virtual, independent copies of the system in various states. The statistical ensemble is a probability distribution over all possible states of the system. In classical statistical mechanics, the ensemble is a probability distribution over phase points (as opposed to a single phase point in ordinary mechanics), usually represented as a distribution in a phase space with canonical coordinates. In quantum statistical mechanics, the ensemble is a probability distribution over pure states, and can be compactly summarized as a density matrix.
+
+As is usual for probabilities, the ensemble can be interpreted in different ways:
+These two meanings are equivalent for many purposes, and will be used interchangeably in this article.
+
+However the probability is interpreted, each state in the ensemble evolves over time according to the equation of motion. Thus, the ensemble itself (the probability distribution over states) also evolves, as the virtual systems in the ensemble continually leave one state and enter another. The ensemble evolution is given by the Liouville equation (classical mechanics) or the von Neumann equation (quantum mechanics). These equations are simply derived by the application of the mechanical equation of motion separately to each virtual system contained in the ensemble, with the probability of the virtual system being conserved over time as it evolves from state to state.
+
+One special class of ensemble is those ensembles that do not evolve over time. These ensembles are known as "equilibrium ensembles" and their condition is known as "statistical equilibrium". Statistical equilibrium occurs if, for each state in the ensemble, the ensemble also contains all of its future and past states with probabilities equal to the probability of being in that state. The study of equilibrium ensembles of isolated systems is the focus of statistical thermodynamics. Non-equilibrium statistical mechanics addresses the more general case of ensembles that change over time, and/or ensembles of non-isolated systems.
+
+The primary goal of statistical thermodynamics (also known as equilibrium statistical mechanics) is to derive the classical thermodynamics of materials in terms of the properties of their constituent particles and the interactions between them. In other words, statistical thermodynamics provides a connection between the macroscopic properties of materials in thermodynamic equilibrium, and the microscopic behaviours and motions occurring inside the material.
+
+Whereas statistical mechanics proper involves dynamics, here the attention is focussed on "statistical equilibrium" (steady state). Statistical equilibrium does not mean that the particles have stopped moving (mechanical equilibrium), rather, only that the ensemble is not evolving.
+
+A sufficient (but not necessary) condition for statistical equilibrium with an isolated system is that the probability distribution is a function only of conserved properties (total energy, total particle numbers, etc.).
+There are many different equilibrium ensembles that can be considered, and only some of them correspond to thermodynamics. Additional postulates are necessary to motivate why the ensemble for a given system should have one form or another.
+
+A common approach found in many textbooks is to take the "equal a priori probability postulate". This postulate states that
+The equal a priori probability postulate therefore provides a motivation for the microcanonical ensemble described below. There are various arguments in favour of the equal a priori probability postulate:
+Other fundamental postulates for statistical mechanics have also been proposed.
+
+There are three equilibrium ensembles with a simple form that can be defined for any isolated system bounded inside a finite volume. These are the most often discussed ensembles in statistical thermodynamics. In the macroscopic limit (defined below) they all correspond to classical thermodynamics.
+
+For systems containing many particles (the thermodynamic limit), all three of the ensembles listed above tend to give identical behaviour. It is then simply a matter of mathematical convenience which ensemble is used. The Gibbs theorem about equivalence of ensembles was developed into the theory of concentration of measure phenomenon, which has applications in many areas of science, from functional analysis to methods of artificial intelligence and big data technology.
+
+Important cases where the thermodynamic ensembles "do not" give identical results include:
+In these cases the correct thermodynamic ensemble must be chosen as there are observable differences between these ensembles not just in the size of fluctuations, but also in average quantities such as the distribution of particles. The correct ensemble is that which corresponds to the way the system has been prepared and characterized—in other words, the ensemble that reflects the knowledge about that system.
+
+Once the characteristic state function for an ensemble has been calculated for a given system, that system is 'solved' (macroscopic observables can be extracted from the characteristic state function). Calculating the characteristic state function of a thermodynamic ensemble is not necessarily a simple task, however, since it involves considering every possible state of the system. While some hypothetical systems have been exactly solved, the most general (and realistic) case is too complex for an exact solution. Various approaches exist to approximate the true ensemble and allow calculation of average quantities.
+
+There are some cases which allow exact solutions.
+
+
+One approximate approach that is particularly well suited to computers is the Monte Carlo method, which examines just a few of the possible states of the system, with the states chosen randomly (with a fair weight). As long as these states form a representative sample of the whole set of states of the system, the approximate characteristic function is obtained. As more and more random samples are included, the errors are reduced to an arbitrarily low level.
+
+
+
+There are many physical phenomena of interest that involve quasi-thermodynamic processes out of equilibrium, for example:
+All of these processes occur over time with characteristic rates, and these rates are of importance for engineering. The field of non-equilibrium statistical mechanics is concerned with understanding these non-equilibrium processes at the microscopic level. (Statistical thermodynamics can only be used to calculate the final result, after the external imbalances have been removed and the ensemble has settled back down to equilibrium.)
+
+In principle, non-equilibrium statistical mechanics could be mathematically exact: ensembles for an isolated system evolve over time according to deterministic equations such as Liouville's equation or its quantum equivalent, the von Neumann equation. These equations are the result of applying the mechanical equations of motion independently to each state in the ensemble. Unfortunately, these ensemble evolution equations inherit much of the complexity of the underlying mechanical motion, and so exact solutions are very difficult to obtain. Moreover, the ensemble evolution equations are fully reversible and do not destroy information (the ensemble's Gibbs entropy is preserved). In order to make headway in modelling irreversible processes, it is necessary to consider additional factors besides probability and reversible mechanics.
+
+Non-equilibrium mechanics is therefore an active area of theoretical research as the range of validity of these additional assumptions continues to be explored. A few approaches are described in the following subsections.
+
+One approach to non-equilibrium statistical mechanics is to incorporate stochastic (random) behaviour into the system. Stochastic behaviour destroys information contained in the ensemble. While this is technically inaccurate (aside from hypothetical situations involving black holes, a system cannot in itself cause loss of information), the randomness is added to reflect that information of interest becomes converted over time into subtle correlations within the system, or to correlations between the system and environment. These correlations appear as chaotic or pseudorandom influences on the variables of interest. By replacing these correlations with randomness proper, the calculations can be made much easier.
+
+Another important class of non-equilibrium statistical mechanical models deals with systems that are only very slightly perturbed from equilibrium. With very small perturbations, the response can be analysed in linear response theory. A remarkable result, as formalized by the fluctuation-dissipation theorem, is that the response of a system when near equilibrium is precisely related to the fluctuations that occur when the system is in total equilibrium. Essentially, a system that is slightly away from equilibrium—whether put there by external forces or by fluctuations—relaxes towards equilibrium in the same way, since the system cannot tell the difference or "know" how it came to be away from equilibrium.
+
+This provides an indirect avenue for obtaining numbers such as ohmic conductivity and thermal conductivity by extracting results from equilibrium statistical mechanics. Since equilibrium statistical mechanics is mathematically well defined and (in some cases) more amenable for calculations, the fluctuation-dissipation connection can be a convenient shortcut for calculations in near-equilibrium statistical mechanics.
+
+A few of the theoretical tools used to make this connection include:
+
+An advanced approach uses a combination of stochastic methods and linear response theory. As an example, one approach to compute quantum coherence effects (weak localization, conductance fluctuations) in the conductance of an electronic system is the use of the Green-Kubo relations, with the inclusion of stochastic dephasing by interactions between various electrons by use of the Keldysh method.
+
+The ensemble formalism also can be used to analyze general mechanical systems with uncertainty in knowledge about the state of a system. Ensembles are also used in:
+
+In 1738, Swiss physicist and mathematician Daniel Bernoulli published "Hydrodynamica" which laid the basis for the kinetic theory of gases. In this work, Bernoulli posited the argument, still used to this day, that gases consist of great numbers of molecules moving in all directions, that their impact on a surface causes the gas pressure that we feel, and that what we experience as heat is simply the kinetic energy of their motion.
+
+In 1859, after reading a paper on the diffusion of molecules by Rudolf Clausius, Scottish physicist James Clerk Maxwell formulated the Maxwell distribution of molecular velocities, which gave the proportion of molecules having a certain velocity in a specific range. This was the first-ever statistical law in physics. Maxwell also gave the first mechanical argument that molecular collisions entail an equalization of temperatures and hence a tendency towards equilibrium. Five years later, in 1864, Ludwig Boltzmann, a young student in Vienna, came across Maxwell's paper and spent much of his life developing the subject further.
+
+Statistical mechanics proper was initiated in the 1870s with the work of Boltzmann, much of which was collectively published in his 1896 "Lectures on Gas Theory". Boltzmann's original papers on the statistical interpretation of thermodynamics, the H-theorem, transport theory, thermal equilibrium, the equation of state of gases, and similar subjects, occupy about 2,000 pages in the proceedings of the Vienna Academy and other societies. Boltzmann introduced the concept of an equilibrium statistical ensemble and also investigated for the first time non-equilibrium statistical mechanics, with his "H"-theorem.
+
+The term "statistical mechanics" was coined by the American mathematical physicist J. Willard Gibbs in 1884. "Probabilistic mechanics" might today seem a more appropriate term, but "statistical mechanics" is firmly entrenched. Shortly before his death, Gibbs published in 1902 "Elementary Principles in Statistical Mechanics", a book which formalized statistical mechanics as a fully general approach to address all mechanical systems—macroscopic or microscopic, gaseous or non-gaseous. Gibbs' methods were initially derived in the framework classical mechanics, however they were of such generality that they were found to adapt easily to the later quantum mechanics, and still form the foundation of statistical mechanics to this day.
+
+
+
+</doc>
+<doc id="102847" url="https://en.wikipedia.org/wiki?curid=102847" title="Solid-state physics">
+Solid-state physics
+
+Solid-state physics is the study of rigid matter, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy. It is the largest branch of condensed matter physics. Solid-state physics studies how the large-scale properties of solid materials result from their atomic-scale properties. Thus, solid-state physics forms a theoretical basis of materials science. It also has direct applications, for example in the technology of transistors and semiconductors.
+
+Solid materials are formed from densely packed atoms, which interact intensely. These interactions produce the mechanical (e.g. hardness and elasticity), thermal, electrical, magnetic and optical properties of solids. Depending on the material involved and the conditions in which it was formed, the atoms may be arranged in a regular, geometric pattern (crystalline solids, which include metals and ordinary water ice) or irregularly (an amorphous solid such as common window glass).
+
+The bulk of solid-state physics, as a general theory, is focused on crystals. Primarily, this is because the periodicity of atoms in a crystal — its defining characteristic — facilitates mathematical modeling. Likewise, crystalline materials often have electrical, magnetic, optical, or mechanical properties that can be exploited for engineering purposes.
+
+The forces between the atoms in a crystal can take a variety of forms. For example, in a crystal of sodium chloride (common salt), the crystal is made up of ionic sodium and chlorine, and held together with ionic bonds. In others, the atoms share electrons and form covalent bonds. In metals, electrons are shared amongst the whole crystal in metallic bonding. Finally, the noble gases do not undergo any of these types of bonding. In solid form, the noble gases are held together with van der Waals forces resulting from the polarisation of the electronic charge cloud on each atom. The differences between the types of solid result from the differences between their bonding.
+
+The physical properties of solids have been common subjects of scientific inquiry for centuries, but a separate field going by the name of solid-state physics did not emerge until the 1940s, in particular with the establishment of the Division of Solid State Physics (DSSP) within the American Physical Society. The DSSP catered to industrial physicists, and solid-state physics became associated with the technological applications made possible by research on solids. By the early 1960s, the DSSP was the largest division of the American Physical Society.
+
+Large communities of solid state physicists also emerged in Europe after World War II, in particular in England, Germany, and the Soviet Union. In the United States and Europe, solid state became a prominent field through its investigations into semiconductors, superconductivity, nuclear magnetic resonance, and diverse other phenomena. During the early Cold War, research in solid state physics was often not restricted to solids, which led some physicists in the 1970s and 1980s to found the field of condensed matter physics, which organized around common techniques used to investigate solids, liquids, plasmas, and other complex matter. Today, solid-state physics is broadly considered to be the subfield of condensed matter physics that focuses on the properties of solids with regular crystal lattices.
+
+Many properties of materials are affected by their crystal structure. This structure can be investigated using a range of crystallographic techniques, including X-ray crystallography, neutron diffraction and electron diffraction.
+
+The sizes of the individual crystals in a crystalline solid material vary depending on the material involved and the conditions when it was formed. Most crystalline materials encountered in everyday life are polycrystalline, with the individual crystals being microscopic in scale, but macroscopic single crystals can be produced either naturally (e.g. diamonds) or artificially.
+
+Real crystals feature defects or irregularities in the ideal arrangements, and it is these defects that critically determine many of the electrical and mechanical properties of real materials.
+
+Properties of materials such as electrical conduction and heat capacity are investigated by solid state physics. An early model of electrical conduction was the Drude model, which applied kinetic theory to the electrons in a solid. By assuming that the material contains immobile positive ions and an "electron gas" of classical, non-interacting electrons, the Drude model was able to explain electrical and thermal conductivity and the Hall effect in metals, although it greatly overestimated the electronic heat capacity.
+
+Arnold Sommerfeld combined the classical Drude model with quantum mechanics in the free electron model (or Drude-Sommerfeld model). Here, the electrons are modelled as a Fermi gas, a gas of particles which obey the quantum mechanical Fermi–Dirac statistics. The free electron model gave improved predictions for the heat capacity of metals, however, it was unable to explain the existence of insulators.
+
+The nearly free electron model is a modification of the free electron model which includes a weak periodic perturbation meant to model the interaction between the conduction electrons and the ions in a crystalline solid. By introducing the idea of electronic bands, the theory explains the existence of conductors, semiconductors and insulators.
+
+The nearly free electron model rewrites the Schrödinger equation for the case of a periodic potential. The solutions in this case are known as Bloch states. Since Bloch's theorem applies only to periodic potentials, and since unceasing random movements of atoms in a crystal disrupt periodicity, this use of Bloch's theorem is only an approximation, but it has proven to be a tremendously valuable approximation, without which most solid-state physics analysis would be intractable. Deviations from periodicity are treated by quantum mechanical perturbation theory.
+
+Modern research topics in solid-state physics include:
+
+
+
+
+</doc>
+<doc id="3591456" url="https://en.wikipedia.org/wiki?curid=3591456" title="Interface (matter)">
+Interface (matter)
+
+In the physical sciences, an interface is the boundary between two spatial regions occupied by different matter, or by matter in different physical states. The interface between matter and air, or matter and vacuum, is called a surface, and studied in surface science. In thermal equilibrium, the regions in contact are called phases, and the interface is called a phase boundary. An example for an interface out of equilibrium is the grain boundary in polycrystalline matter.
+
+The importance of the interface depends on the type of system: the bigger the quotient area/volume, the greater the effect the interface will have. Consequently, interfaces are very important in systems with large interface area-to-volume ratios, such as colloids.
+
+Interfaces can be flat or curved. For example, oil droplets in a salad dressing are spherical but the interface between water and air in a glass of water is mostly flat.
+
+Surface tension is the physical property which rules interface processes involving liquids. For a liquid film on flat surfaces, the liquid-vapor interface keeps flat to minimize interfacial area and system free energy. For a liquid film on rough surfaces, the surface tension tends to keep the meniscus flat, while the disjoining pressure makes the film conformal to the substrate. The equilibrium meniscus shape is a result of the competition between the capillary pressure and disjoining pressure.
+
+Interfaces may cause various optical phenomena, such as refraction. Optical lenses serve as an example of a practical application of the interface between glass and air.
+
+One topical interface system is the gas-liquid interface between aerosols and other atmospheric molecules.
+
+
+
+</doc>
+<doc id="49400436" url="https://en.wikipedia.org/wiki?curid=49400436" title="Riemannian metric and Lie bracket in computational anatomy">
+Riemannian metric and Lie bracket in computational anatomy
+
+Computational anatomy (CA) is the study of shape and form in medical imaging. The study of deformable shapes in computational anatomy rely on high-dimensional diffeomorphism groups formula_1 which generate orbits of the form formula_2. In CA, this orbit is in general considered a smooth Riemannian manifold
+since at every point of the manifold formula_3 there is an inner product inducing the norm formula_4 on the tangent space
+that varies smoothly from point to point in the manifold of shapes formula_3. This is generated by viewing the
+group of diffeomorphisms formula_1 as a Riemannian manifold with formula_7, associated to the tangent space at formula_8 . This induces the norm and metric on the orbit formula_3 under the action from the group of diffeomorphisms.
+
+The diffeomorphisms in computational anatomy are generated to satisfy the Lagrangian and Eulerian specification of the flow fields, formula_10, generated via the ordinary differential equation
+with the Eulerian vector fields formula_11 in formula_12 for formula_13, with the inverse for the flow given by
+and the formula_14 Jacobian matrix for flows in formula_15 given as formula_16
+
+To ensure smooth flows of diffeomorphisms with inverse, the vector fields formula_12 must be at least 1-time continuously differentiable in space which are modelled as elements of the Hilbert space formula_18 using the Sobolev embedding theorems so that each element formula_19 has 3-square-integrable derivatives thusly implies formula_18 embeds smoothly in 1-time continuously differentiable functions. The diffeomorphism group are flows with vector fields absolutely integrable in Sobolev norm:
+
+Shapes in Computational Anatomy (CA) are studied via the use of diffeomorphic mapping for establishing correspondences between anatomical coordinate systems. In this setting, 3-dimensional medical images are modelled as diffemorphic transformations of some exemplar, termed the template formula_21, resulting in the observed images to be elements of the random orbit model of CA. For images these are defined as formula_22, with for charts representing sub-manifolds denoted as formula_23.
+
+The orbit of shapes and forms in Computational Anatomy are generated by the group actionformula_24. This is made into a Riemannian orbit by introducing a metric associated to each point and associated tangent space. For this a metric is defined on the group which induces the metric on the orbit. Take as the metric for Computational anatomy at each element of the tangent space formula_25 in the group of diffeomorphisms 
+with the vector fields modelled to be in a Hilbert space with the norm in the Hilbert space formula_18. We model formula_28 as a reproducing kernel Hilbert space (RKHS) defined by a 1-1, differential operatorformula_29. For formula_30 a distribution or generalized function, the linear form formula_31 determines the norm:and inner product for formula_32 according to 
+where the integral is calculated by integration by parts for formula_34 a generalized function formula_35 the dual-space.
+The differential operator is selected so that the Green's kernel associated to the inverse is sufficiently smooth so that the vector fields support 1-continuous derivative.
+
+The metric on the group of diffeomorphisms is defined by the distance as defined on pairs of elements in the group of diffeomorphisms according to
+
+This distance provides a right-invariant metric of diffeomorphometry, invariant to reparameterization of space since for all formula_1,
+
+The Lie bracket gives the adjustment of the velocity term resulting from a perturbation of the motion in the setting of curved spaces. Using Hamilton's principle of least-action derives the optimizing flows as a critical point for the action integral of the integral of the kinetic energy. The Lie bracket for vector fields in Computational Anatomy was first introduced in Miller, Trouve and Younes. The derivation calculates the perturbation formula_38 on the vector fields
+formula_39 in terms of the derivative in time of the group perturbation adjusted by the correction of the Lie bracket of vector fields in this function setting involving the Jacobian matrix, unlike the matrix group case:
+Proof:
+Proving Lie bracket of vector fields take a first order perturbation of the flow at point formula_1.
+
+The Lie bracket gives the first order variation of the vector field with respect to first order variation of the flow.
+
+The Euler–Lagrange equation can be used to calculate geodesic flows through the group which form the basis for the metric. The action integral for the Lagrangian of the kinetic energy for Hamilton's principle becomes 
+
+The action integral in terms of the vector field corresponds to integrating the kinetic energy
+The shortest paths geodesic connections in the orbit are defined via Hamilton's Principle of least action requires first order variations of the solutions in the orbits of Computational Anatomy which are based on computing critical points on the metric length or energy of the path.
+The original derivation of the Euler equation associated to the geodesic flow of diffeomorphisms exploits the was a generalized function equation whenformula_43 is a distribution, or generalized function, take the first order variation of the action integral using the adjoint operator for the Lie bracket () gives for all smooth formula_44, 
+Using the bracket formula_46 and formula_47 gives
+meaning for all smooth formula_48
+Equation () is the Euler-equation when diffeomorphic shape momentum is a generalized function.
+
+This equation has been called EPDiff, Euler–Poincare equation for diffeomorphisms and has been studied in the context of fluid mechanics for incompressible fluids with formula_50 metric.
+
+In the random orbit model of Computational anatomy, the entire flow is reduced to the initial condition which forms the coordinates encoding the diffeomorphism, as well as providing the means of positioning information in the orbit. This was first terms a geodesic positioning system in Miller, Trouve, and Younes. From the initial condition formula_51 then geodesic positioning with respect to the Riemannian metric of Computational anatomy solves for the flow of the Euler–Lagrange equation. Solving the geodesic from the initial condition formula_51 is termed the Riemannian-exponential, a mapping formula_53 at identity to the group.
+
+The Riemannian exponential satisfies formula_54 for initial condition formula_55, vector field dynamics formula_56, 
+
+
+It is
+extended to the entire group,
+formula_62.
+
+Matching information across coordinate systems is central to computational anatomy. Adding a matching term formula_63 to the action integral of Equation ()
+which represents the target endpoint 
+The endpoint term adds a boundary condition for the Euler–Lagrange equation ()
+which gives the Euler equation with boundary term. Taking the variation gives
+
+Proof: The Proof via variation calculus uses the perturbations from above and classic calculus of variation arguments.
+The earliest large deformation diffeomorphic metric mapping (LDDMM) algorithms solved matching problems associated to images and registered landmarks. are in a vector spaces. The image matching geodesic equation satisfies the classical dynamical equation with endpoint condition. The necessary conditions for the geodesic for image matching takes the form of the classic Equation () of Euler–Lagrange with boundary condition:
+
+
+The registered landmark matching problem satisfies the dynamical equation for generalized functions with endpoint condition:
+Proof:
+
+The variation formula_70 requires variation of the inverse formula_71 generalizes the matrix perturbation of the inverse via formula_72 giving 
+formula_73
+giving
+
+
+</doc>
+<doc id="49885288" url="https://en.wikipedia.org/wiki?curid=49885288" title="Dirac membrane">
+Dirac membrane
+
+A model of a charged membrane introduced by Paul Dirac in 1962. Dirac's original motivation was to explain the mass of the muon as an excitation of the ground state corresponding to an electron. Anticipating the birth of string theory by almost a decade, he was the first to introduce what is now called a type of Nambu–Goto action for membranes.
+
+In the Dirac membrane model the repulsive electromagnetic forces on the membrane are balanced by the contracting ones coming from the positive tension. In the case of the spherical membrane, classical equations of motion imply that the balance is met for the radius formula_1, where formula_2 is the classical electron radius. Using Bohr–Sommerfeld quantisation condition for the Hamiltonian of the spherically symmetric membrane, Dirac finds the approximation of the mass corresponding to the first excitation as formula_3, where formula_4 is the mass of the electron, which is about a quarter of the observed muon mass.
+
+Dirac chose a non-standard way to formulate the action principle for the membrane. Because closed membranes in formula_5 provide a natural split of space into the interior and the exterior there exists a special curvilinear system of coordinates formula_6 in spacetime and a function formula_7 such that 
+- formula_8 defines a membrane
+
+- formula_9, formula_10 describe a region outside or inside the membrane
+Choosing formula_11 and the following gauge formula_12, formula_13, formula_14 
+where formula_15, ( formula_16) is the internal parametrization of the membrane word-volume, the membrane action proposed by Dirac is
+
+where the induced metric and the factors J and M are given by
+
+In the above formula_21 are rectilinear and orthogonal. The space-time signature used is (+,-,-,-). Note that formula_22 is just a usual action for the electromagnetic field in a curvilinear system while formula_23is the integral over the membrane world-volume i.e. precisely the type of the action used later in string theory.
+
+There are 3 equations of motion following from the variation with respect to formula_24 and formula_25. They are:
+- variation w.r.t. formula_24 for formula_27 - this results in sourceless Maxwell equations 
+- variation w.r.t. formula_21 for formula_27 - this gives a consequence of Maxwell equations
+- variation w.r.t. formula_21 for formula_31
+
+The last equation has a geometric interpretation: the r.h.s. is proportional to the curvature of the membrane. For the spherically symmetric case we get
+
+Therefore, the balance condition formula_34 implies formula_35 where formula_36 is the radius of the balanced membrane. The total energy for the spherical membrane with radius formula_37 is
+and it is minimal in the equilibrium for formula_39, hence formula_40. On the other hand, the total energy in the equilibrium should be formula_4 (in formula_42 units)
+and so we obtain formula_43.
+
+Small oscillations about the equilibrium in the spherically symmetric case imply frequencies - formula_44. Therefore, going to quantum theory, the energy of one quantum would be formula_45.
+This is much more than the muon mass but the frequencies are by no means small so this approximation may not work properly. To get a better quantum theory one needs to work out the Hamiltonian of the system and solve the corresponding Schroedinger equation.
+
+For the Hamiltonian formulation Dirac introduces generalised momenta
+
+- for formula_46: formula_47 and formula_48 - momenta conjugate to formula_24 and formula_50 respectively (formula_51, coordinate choice formula_52)
+
+- for formula_53: formula_54 - momenta conjugate to formula_50
+
+Then one notices the following constraints
+
+- for the Maxwell field 
+
+- for membrane momenta
+
+where formula_58 - reciprocal of formula_59, formula_60.
+
+These constraints need to be included when calculating the Hamiltonian, using the Dirac bracket method. 
+The result of this calculation is the Hamiltonian of the form
+where formula_63 is the Hamiltonian for the electromagnetic field written in the curvilinear system.
+
+For spherically symmetric motion the Hamiltonian is 
+
+however the direct quantisation is not clear due to the square-root of the differential operator. To get any further Dirac considers the Bohr - Sommerfeld method:
+and finds formula_66 for formula_67.
+
+
+P. A. M. Dirac, An Extensible Model of the Electron, Proc. Roy. Soc. A268, (1962) 57–67.
+
+
+</doc>
+<doc id="50791779" url="https://en.wikipedia.org/wiki?curid=50791779" title="Energy well">
+Energy well
+
+In physics, an energy well describes a 'stable' equilibrium that is not at lowest possible energy.
+
+In general, modern physics holds the view that the universe - and systems therein - spontaneously drives toward a state of lower energy, if possible. For example, a bowling ball pitched atop a smooth hump (which has potential energy in the presence of gravity), will tend to roll down to the lowest point it possibly can. Once there, this reduces the total potential energy of the system.
+
+On the other hand, if the bowling ball is resting in a valley between two humps - no matter how big the drops outside the humps - it will stay there indefinitely. Even though the system could achieve a lower energy state, it cannot do so without external energy being applied: (locally) it is at its lowest energy state, and only a force from outside the system can 'push' it over one of the humps so a lower state can be achieved.
+
+The concept of an energy well is a key part of teaching basic physics, especially quantum mechanics. Here, students often solve the one-dimensional Schrödinger Equation for an electron trapped in a potential well from which it has insufficient energy to escape. The solution to this problem is a series of sinusoidal waves of fractional integral wavelengths determined by the width of the well.
+
+
+</doc>
+<doc id="55121627" url="https://en.wikipedia.org/wiki?curid=55121627" title="Parallel force system">
+Parallel force system
+
+In mechanical engineering, a parallel force system is a situation in which two forces of equal magnitude act in the same direction within the same plane, with the counter force in the middle. An example of this is a see saw. The children are applying the two forces at the ends, and the fulcrum in the middle gives the counter force to maintain the see saw in neutral position. Another example are the major vertical forces on an airplane in flight (see image at right).
+
+
+
+</doc>
+<doc id="56310192" url="https://en.wikipedia.org/wiki?curid=56310192" title="Self-propulsion">
+Self-propulsion
+
+Self-propulsion is the autonomous displacement of nano-, micro- and macroscopic natural and artificial objects, containing their own means of motion. Self-propulsion is driven mainly by interfacial phenomena. Various mechanisms of self-propelling have been introduced and investigated, which exploited phoretic effects, gradient surfaces, breaking the wetting symmetry of a droplet on a surface, the Leidenfrost effect, the self-generated hydrodynamic and chemical fields originating from the geometrical confinements, and soluto- and thermo-capillary Marangoni flows. Self-propelled system demonstrate a potential as micro-fluidics devices and micro-mixers. Self-propelled liquid marbles have been demonstrated.
+
+
+</doc>
+<doc id="60672870" url="https://en.wikipedia.org/wiki?curid=60672870" title="Surface growth">
+Surface growth
+
+In mathematics and physics, a surface growth model is the dynamical study of growth of a surface, usually by means of a stochastic differential equation of a field. Popular growth models include:
+
+
+They are studied for their fractal properties, scaling behavior, critical exponents, universality classes, and relations to chaos theory, dynamical system, non-equilibrium / disordered / complex systems.
+
+Popular tools include statistical mechanics, renormalization group, rough path theory, etc.
+
+
+
+</doc>
+<doc id="61475631" url="https://en.wikipedia.org/wiki?curid=61475631" title="Biorheology (journal)">
+Biorheology (journal)
+
+Biorheology is a scientific journal in the field of biorheology, the study of flow properties (rheology) of biological fluids, published by IOS Press.
+
+
+</doc>

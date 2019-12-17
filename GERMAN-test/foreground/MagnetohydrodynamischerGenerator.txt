@@ -1,0 +1,33 @@
+Magnetohydrodynamischer Generator
+
+Ein Magnetohydrodynamischer Generator beruht auf den Wirkungen der Lorentzkraft. Demnach können bewegte Ladungsträger in einem Magnetfeld abgelenkt werden, wenn sich diese relativ zu einem solchen bewegen (Richtung der Lorentzkraft siehe Linke-Hand-Regel bzw. Drei-Finger-Regel). Beim MHD-Generator strömt ein elektrisch leitendes Fluid durch das Magnetfeld. Die Konsistenz des Fluids ermöglicht es der Lorentzkraft, ungleichnamige Ladungen zu trennen, welche sich dann an dafür vorgesehenen Kollektoren sammeln. Damit kommt es zur direkten Umwandlung mechanischer Energie (als Verschiebearbeit oder Volumenarbeit) in elektrische Energie.
+
+Wird durch eine Spannung formula_1 zwischen den Elektroden ein elektrisches Feld formula_2 erzeugt, dann ergibt sich eine induzierte Stromdichte:
+
+Durch Wechselwirkung mit dem Magnetfeld erzeugt dieser induzierte Strom eine flächenspezifische Kraft:
+
+Mit dieser Kraft steht der Druckgradient im Strömungskanal im Kräftegleichgewicht.
+
+Daraus sieht man, dass es in einem MHD-Generator nicht möglich ist, Wärme direkt in elektrische Energie umzuwandeln, sondern man ihn dazu in einen thermodynamischen Kreisprozess, beispielsweise nach Joule-Brayton oder Clausius-Rankine, integrieren muss.
+
+Für den Fall, dass in Strömungsrichtung kein elektrischer Strom fließt, kann der Wirkungsgrad geschrieben werden zu:
+
+Wobei hier formula_7 der äußere und formula_8 der innere Widerstand des Plasmas ist.
+
+An der Wand eines von den Verbrennungsgasen durchströmten Kanales sind in einer Ebene Elektroden angebracht. Senkrecht zu diesen Elektroden wird die Anordnung von einem Magnetfeld durchsetzt. Strömt durch eine solche Anordnung eine elektrisch leitende Substanz (die ionisierten Verbrennungsgase), so entsteht an den Elektroden eine elektrische Spannung. Diese ist dem Volumendurchsatz proportional, weshalb diese Anordnung auch als Durchflussmessgerät ohne bewegliche Teile verwendbar ist.
+
+Die Anwendung in Kraftwerken erfordert, dass der Kanal von den ca. 3000 °C heißen Verbrennungsgasen durchströmt wird. Eine derartig hohe Temperatur ist nötig, um das Gas ausreichend elektrisch leitfähig zu machen. Dennoch ist ein Zusatz von leicht ionisierbaren Substanzen, wie Salzen von Alkalimetallen nötig, um die elektrische Leitfähigkeit weiter zu erhöhen. Aufgrund der hohen Gastemperatur müssen die Wände des Kanals aus sehr hitzebeständigen Materialien gefertigt sein. Als Werkstoff hierfür kommen u. a. Yttriumoxid oder Zirkoniumdioxid in Frage. Auch die Elektroden müssen aus sehr hitzebeständigem Material wie Wolfram, Graphit oder Siliciumcarbid gefertigt sein. Nach dem Kanal ist ggf. eine Vorrichtung erforderlich, in der die Alkalisalze aus dem Abgas abgetrennt werden.
+
+Der Wirkungsgrad eines magnetohydrodynamischen Generators beträgt 10 bis 20 Prozent. Da jedoch die Abgase des magnetohydrodynamischen Generators noch eine Temperatur von über 1000 Grad Celsius haben, kann man sie noch als Wärmequelle für ein konventionelles Dampfkraftwerk (Wirkungsgrad bis 50 %) nutzen. Mit einer solchen kombinierten Anordnung kann man Brennstoffe mit einem Wirkungsgrad von bis zu 65 Prozent in elektrische Energie umsetzen, da der MHD-Prozess die für den thermischen Gesamt-Wirkungsgrad entscheidende Temperaturdifferenz nach oben erweitert (Gas- und Dampfturbinen haben aufgrund der Temperaturbeanspruchung der Turbinenschaufeln eine obere Temperaturgrenze bei ca. 600…1.000 °C). Auch bei gasgekühlten Kernkraftwerken ist der Einsatz eines magnetohydrodynamischen Generators als erste Stufe denkbar.
+
+Im März 1971 wurde in der Sowjetunion der erste MHD-Generator (Bezeichnung „U-25“) fertiggestellt, der etwa 25 Megawatt elektrischer Leistung für das Moskauer Stromnetz erzeugte und auch für wissenschaftliche Forschungen benutzt wurde.
+
+Der Magnetohydrodynamische Generator kann auch als Motor betrieben werden, in dem man durch die Elektroden einen Strom fließen lässt. Anwendungen hierfür finden sich in der Medizintechnik, aber auch beim magnetohydrodynamischen Antrieb von Wasserfahrzeugen.
+
+Er kann auch zur Erhöhung der Ausstoßgeschwindigkeit von Abgasen von Raketentriebwerken verwendet werden, um somit Raketentriebwerke leistungsfähiger zu machen, allerdings ist dies wegen des hohen Gewichts von Magneten nicht praktikabel (Magnetoplasmadynamischer Antrieb).
+
+Eine weitere Anwendung des Magnetohydrodynamischen Generators als Motor liegt im Antrieb von Schiffen (Magnethydrodynamischer Antrieb). Da hierzu das Wasser über eine möglichst gute elektrische Leitfähigkeit verfügen muss, ist diese Form des Antriebs für Schiffe, die in Gewässern mit Süßwasser fahren, ungeeignet. In Japan wurden diesbezügliche Studien schon durchgeführt. Mitte der 1990er Jahre wurden von Mitsubishi einige Prototypen eines MHA-betriebenen Schiffes gebaut, doch erreichten die Fahrzeuge, neben zahlreicher anderer auftretenden Schwierigkeiten, lediglich eine Geschwindigkeit von etwa 15 km/h.
+
+Der Einsatz des Magnetohydrodynamischen Generators für die Stromerzeugung scheiterte bisher an folgenden Problemen:
+
+Man leitet z. B. die Abgase eines fixierten Modellraketen-Treibsatzes durch die Polschuhe eines Magneten. Im rechten Winkel zu diesem befinden sich dahinter zwei Elektroden, zwischen denen die erzeugte Spannung abgegriffen werden kann. Die erzeugte Spannung kann an einem in sicherer Entfernung aufgestellten Messgerät abgelesen werden. Bei diesem Versuch muss auf eine sichere Befestigung des Raketenmotors sowie auf die nötigen Sicherheitsabstände geachtet werden!

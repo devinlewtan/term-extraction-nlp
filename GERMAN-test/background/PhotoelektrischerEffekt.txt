@@ -1,0 +1,75 @@
+Photoelektrischer Effekt
+
+Unter dem Begriff photoelektrischer Effekt (auch lichtelektrischer Effekt oder kurz Photoeffekt) werden drei nah verwandte, aber unterschiedliche Prozesse der Wechselwirkung von Photonen mit Materie zusammengefasst. In allen drei Fällen wird ein Elektron aus einer Bindung – z. B. in einem Atom oder im Valenzband oder im Leitungsband eines Festkörpers – gelöst, indem es ein Photon absorbiert. Die Energie des Photons muss dazu mindestens so groß wie die Bindungsenergie des Elektrons sein.
+
+Man unterscheidet drei Arten des photoelektrischen Effekts:
+
+
+Die Freisetzung von Ladungsträgern aus einer blanken Metalloberfläche in Elektrolyten durch Licht wurde erstmals 1839 von Alexandre Edmond Becquerel beim sogenannten Becquerel-Effekt beobachtet.
+
+Im Jahr 1886 konnte Heinrich Hertz den Einfluss von Ultraviolettstrahlung (UV) auf die Metalloberflächen in einer Funkenstrecke demonstrieren. Dabei beobachtete er, dass das ultraviolette Licht, das von einem „Primärfunken“ A ausgesandt wird, die Länge eines zweiten Funkens B vergrößert. Die Länge von B hing reziprok vom Abstand der Funken ab, verschiedene Absorber für Ultraviolett (auch solche, die im sichtbaren Spektralbereich durchsichtig sind) verkleinerten den Funken. Einen Einfluss des sichtbaren Lichts auf die Funkenlänge konnte Hertz nicht nachweisen. Die Erklärung dieser Beobachtungen ist, dass das ultraviolette Licht Elektronen aus den Elektroden der Funkenstrecke herausschlägt, die dann schon bei geringerer elektrischer Feldstärke zu einem Überschlag führen, da nicht erst die Austrittsarbeit aufgewendet werden muss.
+Wilhelm Hallwachs, damals Assistent von Gustav Wiedemann in Leipzig, führte weitere systematische Untersuchungen durch (daher auch die Bezeichnung "Hallwachs-Effekt"). Dabei zeigte er z. B. mit einem „Goldblattelectroskop“ (siehe Abbildung rechts), dass sich eine Metallplatte durch Bestrahlung mit einer Lichtbogenlampe elektrisch aufladen ließ.
+
+Philipp Lenard untersuchte als erster den Photoeffekt im Hochvakuum. Er konnte 1899 durch Ablenkung der Ladungsträger im Magnetfeld ihre spezifische Ladung bestimmen und sie so als Elektronen identifizieren. Er entdeckte die oben beschriebenen Abhängigkeiten von der Frequenz und der Bestrahlungsstärke. Albert Einstein lieferte 1905 in § 8 seiner Arbeit "Ueber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt", für die er den Nobelpreis für Physik des Jahres 1921 erhielt, die Erklärung des Effekts. Robert Andrews Millikan konnte ab 1912 bis 1915 mit Hilfe der Gegenfeldmethode (siehe unten) bestätigen, dass der Proportionalitätsfaktor der einsteinschen Gleichung mit dem bereits bekannten planckschen Wirkungsquantum übereinstimmt.
+
+Die Gegenfeldmethode, eine von verschiedenen Methoden zur Vermessung des Photoeffekts, ist u. A. hilfreich für Demonstrationsversuche zum äußeren Photoeffekt in Schule und Universität.
+Aus dem Licht einer Quecksilberdampflampe wird durch einen Interferenzfilter oder einen Monochromator ein schmaler Wellenlängenbereich gefiltert und (gegebenenfalls durch eine Linse) auf die Kathode (im Bild rot) einer Vakuum-Photozelle gebündelt. Vakuum ist erforderlich, um die Oberfläche der Photokathode vor Oxidation zu schützen, vor allem jedoch, damit die mittlere freie Weglänge der ausgetretenen Elektronen ausreicht, um die gegenüberliegende, oft ringförmige Anode zu erreichen. Eine Spannung formula_1 kann zwischen den beiden Elektroden angelegt werden, und es kann der Strom formula_2 mittels eines empfindlichen Amperemeters gemessen werden. Eine genauere Versuchsbeschreibung findet sich z. B. in der genannten Arbeit von Millikan oder in einem Praktikums-Skript.
+
+Wird die Kathode mit Licht ausreichend kurzer Wellenlänge bestrahlt, so werden dort Elektronen „herausgeschlagen“. Diese bewegen sich aufgrund ihrer kinetischen Energie formula_3 zur Anode. Die Photozelle wird also zur Stromquelle und der fließende "Photostrom" formula_2 kann mit einem empfindlichen Amperemeter gemessen werden. Wird nun eine Gegenspannung formula_1 angelegt, so müssen die Elektronen, die die Anode erreichen und zu einem Photostrom führen, neben der Austrittsarbeit formula_6 aus der Kathode auch das erzeugte elektrische Feld überwunden haben.
+
+Die Gegenspannung formula_7, ab der jeweils kein Photostrom mehr fließt, kann für verschiedene Frequenzen formula_8 des Lichts ermittelt werden; bei dieser Spannung ist die Potentialdifferenz formula_9, die die Elektronen (elektrische Ladung formula_10) überwinden müssen, gleich der maximalen kinetische Energie der Elektronen formula_3 nach ihrem Austritt aus der Kathode. Nimmt man an, dass die Energie des Lichts nur durch Energiequanten mit der Energie formula_12 (mit dem Planckschen Wirkungsquantum formula_13) an die Elektronen übertragen wird, kann man aus der Steigung der gemessenen Geraden formula_14 das Wirkungsquantum formula_13 bestimmen (siehe auch Millikan). Auch die Austrittsarbeit formula_6 kann bestimmt werden.
+
+Am Beispiel von Zink (Abbildung rechts) ergibt sich die Steigung im Diagramm mit Hilfe des Steigungsdreiecks zu
+ungefähr dem Planckschen Wirkungsquantum. Der y-Achsenabschnitt der gestrichelten Geraden entspricht der Austrittsarbeit; bei Zink liest man diesen Wert als ca. (−) 4,3 eV ab. Der wahre Wert beträgt 4,34 eV.
+
+In den eben beschriebenen Versuchen können folgende Beobachtungen gemacht werden:
+
+
+Bis auf die letzte Beobachtung stehen alle gefundenen Zusammenhänge im Widerspruch zur klassischen Vorstellung von Licht als Wellenerscheinung. Nach dieser hängt die Energie einer Welle allein von ihrer Amplitude, nicht jedoch von ihrer Frequenz ab. Somit müsste mit sinkender Bestrahlungsstärke auch die kinetische Energie der Elektronen abnehmen. Der Effekt sollte dann verzögert auftreten, da die Übertragung der zur Freisetzung der Elektronen nötigen Energie dann länger dauert. Statt einer Minimalfrequenz wäre nach klassischer Vorstellung zu erwarten, dass mit sinkender Frequenz lediglich die Zeit, bis ein Elektron genügend Lichtenergie aufgesammelt hat, zunimmt.
+
+Physiker wie Isaac Newton hatten zwar schon angenommen, dass Licht aus Teilchen, sogenannten Korpuskeln besteht. Spätestens Ende des 19. Jahrhunderts galt die Vorstellung von Lichtteilchen allerdings als überholt, da zum einen Maxwells Elektrodynamik Licht als elektromagnetische Welle auffasste und in Übereinstimmung damit Interferenzexperimente den Wellencharakter des Lichts unzweifelhaft belegten.
+
+Einsteins Erklärung des photoelektrischen Effekts durch Lichtteilchen 1905 war vor diesem Hintergrund eine mutige Hypothese. Grundlage war die plancksche Strahlungshypothese aus dem Jahre 1900, nach der das Licht aus einem Strom von Teilchen besteht, den "Photonen", deren Energie formula_20 das Produkt aus der Frequenz formula_8 des Lichts und dem planckschen Wirkungsquantum formula_13 ist (formula_12). Mit Hilfe dieser Annahme lässt sich zunächst der Zusammenhang zwischen der Frequenz und der kinetischen Energie des (zunächst als Teilchen mit Masse gedachten) Photons erklären, darauf aufbauend auch alle weiteren experimentellen Beobachtungen.
+
+Der damit gefundene scheinbare Widerspruch, dass Licht in bestimmten Experimenten Wellen-, in anderen aber Teilchenverhalten zeigt (Welle-Teilchen-Dualismus), wurde erst durch die Quantenmechanik aufgelöst. Der photoelektrische Effekt war eines der Schlüsselexperimente zur Begründung der Quantenphysik. Einstein wurde 1921 für die Erklärung des Effekts mit dem Nobelpreis für Physik ausgezeichnet.
+
+Mit der Entwicklung der Quantentheorie des Lichts in den 1960er Jahren war es möglich, den Photoeffekt semi-klassisch zu erklären: Eine klassische elektromagnetische Welle wechselwirkt dabei mit dem quantisierten Detektor. Der Photoeffekt ist somit kein eindeutiger Nachweis für die Quantennatur von Licht.
+
+Verschiedene physikalische Geräte, wie Photozellen und Photokathoden von Photomultipliern und Bildwandlerröhren, sowie eine wichtige oberflächenphysikalische Messmethode, die Photoelektronenspektroskopie, nutzen den photoelektrischen Effekt aus. Dabei werden photoelektrische Messverfahren angewendet.
+
+Unter Photoleitung versteht man die Erhöhung der elektrischen Leitfähigkeit von Halbleitermaterialien aufgrund der Bildung von ungebundenen Elektron-Loch-Paaren bei Bestrahlung. Die Elektronen werden dabei mittels der Energie der Photonen vom Valenzband in das energetisch höher gelegene Leitungsband gehoben, wofür die Energie des einzelnen Photons mindestens der Bandlücke des bestrahlten Halbleiters entsprechen muss. Da die Größe der Bandlücke materialabhängig ist, unterscheidet sich die maximale Wellenlänge des Lichtes, bis zu der Photoleitung auftritt, je nach Halbleiter (Galliumarsenid: 0,85 μm, Germanium: 1,8 μm, Silizium: 1,1 μm).
+
+Spektren der Photoleitung zeigen die Abhängigkeit der elektrischen Leitfähigkeit von der Energie (beziehungsweise der Wellenlänge) des eingestrahlten Lichts. Die Leitfähigkeit steigt ab der Bandlückenenergie deutlich an, so dass man auf diese Weise die (direkte) Bandlücke bestimmen kann. Die detaillierte Analyse solcher Photoleitungsspektren ist in Kombination mit den Erkenntnissen aus anderen Untersuchungen eine wichtige Grundlage für das Verständnis der Bandstruktur des verwendeten Materials (siehe auch Bändermodell).
+
+Wenn die Untersuchungen im Magnetfeld vorgenommen werden, können noch weitere Details bestimmt werden, die sich sonst in ihren Auswirkungen untrennbar überlagern, durch das Magnetfeld aber getrennt werden. Beispiele sind der magnetooptische Kerr-Effekt und der Halleffekt, mit welchem die Elektronenbeweglichkeit bestimmt werden kann.
+
+Für Messungen der Wellenlängenabhängigkeit der Photoleitung verwendet man Monochromatoren. Messungen erfolgen meistens im Vakuum, um z. B. Wasserbanden (siehe Infrarotspektroskopie) im nahen Infrarot zu vermeiden, oder bei tiefen Temperaturen, um z. B. Magnetfeldeffekte vom Rauschen zu trennen.
+
+Die Photoleitung wird in Photowiderständen, Phototransistoren, Photodioden und CCD-Sensoren ("siehe auch pin-Diode und Avalanche-Photodiode") ausgenutzt, welche bei der Herstellung einer Vielzahl von Lichtsensoren Verwendung finden.
+
+In Photowiderständen und auch anderen Halbleitern können durch Licht erzeugte Ladungsträger unter Umständen auch nach Abdunkelung sehr lange (Stunden bis Tage) bestehen bleiben, man spricht dann vom langanhaltenden Photoeffekt (kurz PPE, von engl. "persistent photoeffect").
+
+Phototransistoren enthalten photoempfindliche PN-Übergänge. Sie verstärken den in ihrer Basis auftretenden Strom.
+
+Für Messungen im sichtbaren und im infraroten Spektralbereich werden als Photoleiter meist Photodioden im Quasikurzschluss oder im Sperrbereich betrieben – sie liefern dann einen zum einfallenden Strahlungsfluss über viele Größenordnungen proportionalen Strom.
+
+Persistente Photoleitung wird in Strontiumtitanat-Einkristallen bei Raumtemperatur beobachtet. Nach Belichtung erhöht sich die freie Elektronen-Konzentration um zwei Größenordnungen und bleibt über Tage erhöht.Marianne C. Tarun, Farida A. Selim, Matthew D. McCluskey: "Persistent Photoconductivity in Strontium Titanate." In: "Physical Review Letters." 111, 2013, S. , .
+
+Der photovoltaische Effekt basiert ebenfalls auf dem inneren photoelektrischen Effekt. Ladungsträgerpaare, die in der Raumladungszone, also am p-n-Übergang einer Photodiode, entstehen, werden in p- und n-Schicht getrennt. Dabei gehen die Elektronen in die n-Schicht und die Löcher in die p-Schicht über und es entsteht ein Strom gegen die Durchlassrichtung des Übergangs. Dieser Strom wird Photostrom genannt.
+
+Großflächige Photodioden (Solarzellen) dienen der Wandlung der Strahlungsenergie der Sonne in elektrische Energie.
+
+Werden die Atome oder Moleküle eines Gases durch kurzwellige Strahlung eines oder mehrerer ihrer Elektronen beraubt, spricht man von "Photoionisation" oder auch "atomarem" oder "molekularem Photoeffekt." Dazu sind Photonen mit wesentlich höheren Energien nötig als für das Lösen der Bindung in einem Festkörper. Diese sind in Ultraviolett-, Röntgen- oder Gammastrahlung enthalten.
+
+Wird das Photon absorbiert und gibt seine "gesamte" Energie an ein Elektron ab, wird dies in der Kernphysik gemeinhin als "Photoeffekt" bezeichnet. Dieser wird z. B. in Strahlungsdetektoren ausgenutzt. Daneben trägt zur Photoionisation auch der Compton-Effekt bei, bei dem das Elektron nur einen Teil der Energie übernimmt, während der Rest der Energie als Photon größerer Wellenlänge wieder emittiert wird.
+Der Wirkungsquerschnitt formula_24, also die Wahrscheinlichkeit für das Eintreten der Photoionisation, hängt von der Photonenenergie formula_25 und der Ordnungszahl formula_26 des Materials ab:
+
+Er ist also näherungsweise proportional der fünften Potenz der Ordnungszahl. Das bedeutet, dass Materialien mit hoher Ordnungszahl besonders gut Röntgen- und Gammastrahlung absorbieren. Blei (formula_28) ist daher besser zur Abschirmung von Röntgenstrahlung geeignet als beispielsweise Aluminium (formula_29).
+
+Mit steigender Photonenenergie nimmt der Wirkungsquerschnitt ab, wie die negative Potenz in der Formel zeigt; dies gilt allerdings nur, solange eine gleichbleibende Zahl der Elektronen des Atoms zur Ionisation verfügbar ist. Sobald die Photonenenergie die Bindungsenergie der jeweils nächst fester gebundenen Elektronenschale erreicht, springt der Wirkungsquerschnitt auf einen entsprechend höheren Wert, von dem er dann bei weiterem Energieanstieg wieder allmählich abfällt. Dies führt im Absorptionsspektrum zu charakteristischen Strukturen, den "Absorptionskanten." Elektronen-Bindungsenergien reichen von wenigen eV bis zu rund 100 keV in Elementen hoher Ordnungszahl.
+
+Die Photoionisation von Luft mittels Ultraviolettstrahlung durch Ionisatoren wird zur Erhöhung ihrer Leitfähigkeit und dadurch zur Ableitung elektrostatischer Aufladungen genutzt.
+
+Die Messung der Leitfähigkeit der Luft wurde zum erstmaligen Nachweis der kosmischen Herkunft eines Teiles der natürlichen Radioaktivität herangezogen, indem sie bei Ballonaufstiegen gemessen wurde: die kosmische Strahlung erzeugt Schauer ionisierender Teilchen und teilweise radioaktive Spallationsprodukte.
+
+Es gibt auch einen Kernphotoeffekt, bei dem ein sehr energiereiches Gamma-Quant im Atomkern absorbiert wird und mit einer Kernreaktion ein Neutron, Proton oder Alphateilchen freisetzt. Dies wird auch als (γ,n)-, (γ,p)- beziehungsweise (γ,α)-Reaktion bezeichnet.

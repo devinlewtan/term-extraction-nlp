@@ -1,0 +1,7 @@
+Hurst-Exponent
+
+Der Hurst-Exponent formula_1 ist eine Kennzahl aus der Chaostheorie bzw. aus der Fraktalgeometrie, die von Benoît Mandelbrot sowohl nach Harold Edwin Hurst als auch nach Otto Ludwig Hölder benannt wurde. Sie stellt einen Abhängigkeitsindex zwischen verschiedenen Größen dar. Zudem kann sie als relative Tendenz einer Zeitreihe gesehen werden.
+
+Angewandt auf fraktale Oberflächen stellt sie einen Rauhigkeitskoeffizient dar, der direkt mit der fraktalen Dimension "D" in Verbindung steht:
+
+Der Hurst-Exponent variiert zwischen Null und Eins, wobei größere Werte weichere Formen erzeugen:

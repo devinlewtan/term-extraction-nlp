@@ -1,0 +1,6 @@
+Nachwirkungsverlust
+
+Die Nachwirkungsverluste (auch "Rest-" oder "Viskositätsverluste" genannt) sind Teil der Eisenverluste neben den Hysterese- und Wirbelstromverlusten.
+Sie erfassen das zeitliche Nacheilen der Induktion hinter einer vorangegangenen Feldänderung (Verzögerungen der Drehprozesse und der Diffusionsvorgänge). Für hohe Induktionen sind sie gegenüber den vorstehenden Verlusten (Hysterese- und Wirbelstromverlusten) zu vernachlässigen.
+
+Diese Verluste entstehen durch Gitterverzerrungen als Folge von nichtmagnetischen Fremdeinschlüssen. Ein hoher Kohlenstoffanteil erhöht diese Verluste enorm.

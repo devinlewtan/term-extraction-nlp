@@ -1,0 +1,96 @@
+Permittivität
+
+Die Permittivität "ε" (von lat. "permittere": erlauben, überlassen, durchlassen), auch dielektrische Leitfähigkeit oder dielektrische Funktion genannt, gibt in der Elektrodynamik und auch in der Elektrostatik die Durchlässigkeit eines Materials für elektrische Felder an.
+
+Auch dem Vakuum ist eine Permittivität zugewiesen, da sich auch im Vakuum elektrische Felder einstellen oder elektromagnetische Felder ausbreiten können. Es handelt sich um eine Naturkonstante, nämlich die elektrische Feldkonstante formula_1. Die Permittivität eines Stoffes wird dann als Vielfaches der Permittivität des Vakuums angegeben:
+
+Hierbei ist der Faktor formula_3 die stoffabhängige relative Permittivität. Sie hängt jedoch nicht nur von der Art des Stoffes ab, sondern unter anderem auch von der Frequenz der wirksamen Felder.
+
+Als Permittivität bezeichnet man eine Materialeigenschaft elektrisch isolierender, polarer oder unpolarer Stoffe, die auch Dielektrika genannt werden. Die Eigenschaft wirkt sich aus, wenn der Stoff mit einem elektrischen Feld wechselwirkt, etwa wenn er sich in einem Kondensator befindet.
+
+In einem mit Material gefüllten Kondensator orientieren sich die Ladungsträger des Isolationsmaterials am Vektor des elektrischen Feldes und erzeugen ein Polarisationsfeld, das dem äußeren Feld entgegenwirkt und dieses schwächt. Dieses Phänomen der Feldschwächung lässt sich bei Annahme eines gegebenen elektrischen Erregungsfeldes formula_4, auch elektrische Flussdichte genannt, dadurch beschreiben, dass dem isolierenden Material ein Faktor formula_5 zur elektrischen Feldkonstante formula_1 (Permittivität des Vakuums) zugewiesen wird. Im Vakuum als Referenzmaterial eines Isolierstoffes gilt die relative Permittivität formula_7
+
+Aus der äußeren elektrischen Erregung ergibt sich dann mit der Permittivität formula_8 das elektrische Feld formula_9 zu:
+
+Bei konstanter elektrischer Erregung und steigenden Werten von formula_5 nimmt die elektrische Feldstärke ab. Auf diese Weise wird der feldschwächende Effekt bei gleicher elektrischer Erregung erfasst, d. h. bei vorgegebener elektrischer Flussdichte oder vorgegebener elektrischer Ladung.
+
+Unter der Einwirkung einer an den Kondensatorplatten angelegten festen Spannung "U" und dem elektrischen Feld formula_12 (Plattenabstand "d") ergibt sich mit der Permittivität als Proportionalitätsfaktor die elektrische Erregung zu:
+
+formula_13
+
+Die elektrische Suszeptibilität formula_14 ist mit der relativen Permittivität verknüpft über
+
+Die Suszeptibilität ist dabei ein Maß für die Dichte der im Isolationsmaterial gebundenen Ladungsträger, bezogen auf die Dichte freier Ladungsträger.
+
+Gemäß der Poisson-Gleichung der Elektrostatik kann die Permittivität außerdem als Proportionalitätsfaktor zwischen der Raumladungsdichte formula_16 und der zweiten partiellen Ableitung des Potenzialfelds formula_17 angesehen werden:
+
+Die Permittivität des Vakuums formula_1 ist eine Naturkonstante. Im Vakuum besteht zwischen der magnetischen Feldkonstanten formula_20, der Permittivität formula_1 des Vakuums und der Vakuumlichtgeschwindigkeit formula_22 folgender Zusammenhang:
+
+Die Einheit der Permittivität kann ausgedrückt werden als:
+
+Da die elektrische Polarisierbarkeit von Luft gering ist, kann die Permittivität der Luft ("ε" ≈ 1,00059) häufig in ausreichender Genauigkeit durch formula_1 genähert werden. Dies ist insbesondere bei Radar und in der Funktechnik der Fall.
+
+Neben dem Coulomb-Gesetz, dem Ampèreschen Gesetz und dem Faradayschen Induktionsgesetz stellt der Zusammenhang zwischen "μ", formula_1 und "c" eine weitere Verknüpfung elektromagnetischer und mechanischer Einheiten dar, die bei der Wahl eines elektromagnetischen Einheitensystems zu berücksichtigen ist.
+
+Abhängig vom verwendeten Einheitensystem verändert sich dabei die Darstellung der Permittivität formula_27 analog zur Darstellung von formula_1.
+
+Die Verhältnisse im SI sind oben angegeben. In Einheitensystemen, die die elektromagnetischen Größen explizit auf mechanische Basisgrößen zurückführen, namentlich den verschiedenen Varianten des CGS-Einheitensystems, wird formula_1 als dimensionslose Zahl gewählt:
+
+Die relative Permittivität formula_5 eines Mediums (Bezeichnung nach Norm), auch Permittivitäts- oder Dielektrizitätszahl genannt, ist das dimensionslose Verhältnis seiner Permittivität formula_33 zur Permittivität formula_1 des Vakuums:
+
+Für gasförmige, flüssige und feste Materie ist formula_36. Allerdings gibt es in anderen Materiezuständen, z. B. im Plasma, auch Werte formula_37.
+
+Die relative Permittivität ist ein Maß für die feldschwächenden Effekte der dielektrischen Polarisation des Mediums. In der englischsprachigen Literatur und in der Halbleitertechnik wird die relative Permittivität auch mit formula_38 (kappa) oder – wie etwa bei den high-k-Dielektrika bzw. bei den low-k-Dielektrika – mit "k" bezeichnet.
+
+Als Synonym für die (relative) Permittivität ist die frühere Bezeichnung (relative) Dielektrizitätskonstante weiterhin in Gebrauch. Die Bezeichnung als Konstante ist unangemessen, da formula_5 im Allgemeinen eine Funktion mehrerer Parameter ist, insbesondere der Frequenz und der Temperatur; außerdem hängt sie auch vom magnetischen und vom äußeren elektrischen Feld ab.
+
+Nur für isotrope Medien ist formula_5 eine skalare Größe. In diesem einfachsten Fall gibt sie den Faktor an, um den die Spannung an einem Kondensator sinkt, wenn man bei gleicher Geometrie ein zwischen den Kondensatorelektroden angenommenes Vakuum durch ein dielektrisches, nicht leitendes Material ersetzt. Im Versuch lässt sich dies nachvollziehen, wenn ein Luftvolumen um die Kondensatorelektroden z. B. durch eine dielektrische Flüssigkeit ersetzt wird. Für einen Plattenkondensator genügt es, einen dielektrischen Gegenstand zwischen die Elektroden zu schieben.
+
+Im Allgemeinen ist die relative Permittivität ein Tensor zweiter Stufe. So wird ihre Richtungsabhängigkeit widergespiegelt, die sich aus der kristallinen (oder anders geordneten) Struktur der Materie ergibt, z. B. für doppelbrechende Materialien, die u. a. bei Verzögerungsplatten angewendet werden. Die Tensoreigenschaft der Permittivität ist Grundlage der Kristalloptik.
+
+Neben der „natürlichen“ Richtungsabhängigkeit können die Eigenschaften auch durch äußere Einwirkungen wie ein Magnetfeld (siehe Magnetooptik) oder Druck eine ähnliche Richtungsabhängigkeit erfahren.
+
+Die Frequenzabhängigkeit (Dispersion) der Permittivität in Materie kann über den Lorentz-Oszillator recht gut modelliert werden und ist z. B. bei Wasser sehr stark ausgeprägt, vgl. Abbildung.
+
+Wie die elektrische Permittivität hängt auch der Brechungsindex formula_41 eines Materials von der Frequenz formula_42 ab, da er gemäß den Maxwell-Gleichungen zur Permittivität in folgender Relation steht:
+
+mit
+
+Hier sind formula_33 und "μ" bei der einschlägigen optischen Frequenz gemeint (Größenordnung 10 Hz). Die optische Dispersion ist ein Ausdruck dafür, dass formula_33 auch bei den Frequenzen sichtbaren Lichts keine konstante Zahl ist.
+
+In Tabellenwerken ist in der Regel der Zahlenwert bei niedrigen Frequenzen (Größenordnung 50 Hz bis 100 kHz) angegeben, bei denen molekulare Dipole dem äußeren Feld noch nahezu unverzögert folgen können.
+
+Genauso wie bei Gleichfeldern bilden sich in Dielektrika auch bei Wechselfeldern Polarisationsfelder, die aber der angelegten äußeren Feldgröße um einen gewissen Phasenwinkel nacheilen. D. h., die Orientierung der Ladungsträger im Dielektrikum bleibt in der Phase zeitlich hinter der Umpolarisierung des Wechselfeldes zurück.
+
+Daher ist die relative Permittivität im Allgemeinen komplexwertig:
+
+oder auch
+
+Dabei können in Real- und Imaginärteil die Beiträge verschiedener Mechanismen im Material (z. B. Bandübergänge) angegeben und in ihrer Frequenzabhängigkeit addiert werden – eine detailliertere Darstellung findet sich unter elektrische Suszeptibilität.
+
+Mit zunehmender Frequenz wird der Effekt des Nacheilens stärker. Indem sie isolierende Materialien schnell und wiederkehrend umpolarisieren, wandeln Wechselfelder hoher Frequenz elektromagnetische Feldenergie in Wärmeenergie um. Dieser Wärmeverlust wird dielektrischer Verlust genannt und durch den Imaginärteil formula_51 bzw. formula_52 der komplexwertigen relativen Permittivität beschrieben.
+
+Eine weitverbreitete Anwendung, die das Phänomen der dielektrischen Erwärmung ausnutzt, ist der Mikrowellenofen.
+
+Bei dielektrischer Erwärmung beträgt die Verlustleistungsdichte, bezogen auf das Materialvolumen
+
+mit der Kreisfrequenz formula_54. Siehe auch Dielektrischer Verlustfaktor.
+
+Die mit der dielektrischen Erwärmung verbundene Verlustleistung entspricht bei Integration über den Erwärmungszeitraum exakt der inneren Energie, die dem Materialvolumen mit elektromagnetischen Wellen zugeführt wurde, wie in der Thermodynamik beschrieben.
+
+Bei noch höheren Frequenzen, mit denen Ladungsträger im Bändermodell eines Kristalls angeregt werden können, wird ebenfalls Energie absorbiert (dielektrische Absorption).
+
+Im Falle großer Feldstärken wird der Zusammenhang zwischen elektrischem Feld und Flussdichte nichtlinear. Entweder fasst man die Permittivität als feldstärkeabhängig auf formula_55 oder man führt neben formula_56 weitere Taylor-Koeffizienten formula_57 usw. ein, die die Feldstärkeabhängigkeit von formula_4 beschreiben:
+
+Temperaturabhängig ist beispielsweise die komplexwertige relative Permittivität von Wasser, deren Realteil bei einer Frequenz von 1 GHz und einer Temperatur von 20 °C einen Wert von etwa 80 annimmt, und bei 95 °C circa 52 beträgt. Die Abnahme der Permittivität bei steigender Temperatur hängt mit dem zunehmenden Grad der Unordnung der Ladungsträger bei einer Zunahme der inneren Energie zusammen. Molekular betrachtet nimmt die Polarisierbarkeit aufgrund der zunehmenden Eigenbewegung der Ladungsträger bei höherer innerer Energie ab; makroskopisch betrachtet sinkt somit die relative Permittivität bei Temperaturerhöhung.
+
+Tabellierte, umfassende Übersichten frequenz- und temperaturabhängiger, komplexer relativer Permittivitäten vieler Materialien
+finden sich in "Industrial Microwave Heating" und vor allem in "Dielectric Materials and Applications".
+
+Über die Kramers-Kronig-Relation kann der dispergierende Zusammenhang zwischen der komplexen Permittivität und den optischen Kenngrößen Brechungsindex und Absorptionskoeffizient "k" dargestellt werden:
+
+Im Falle nichtmagnetischer Materialien (formula_45) folgt nach einem Koeffizientenvergleich:
+
+Für die Berechnung theoretischer Spektren von Reflexion und Absorption, die mit gemessenen Spektren verglichen und angepasst werden können, sind die Komponenten des komplexen Brechungsindizes direkt aus Real- und Imaginärteil der Permittivität zu bestimmen:
+
+Ebenfalls kann u. a. der Reflexionsgrad "R" berechnet werden für einen Strahl, der aus dem Vakuum (bzw. Luft) kommend senkrecht an einer Grenzfläche zu einem Medium mit Brechungsindex formula_66 reflektiert wird:

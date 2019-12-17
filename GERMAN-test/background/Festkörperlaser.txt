@@ -1,0 +1,65 @@
+Festkörperlaser
+
+Als Festkörperlaser werden optisch angeregte Laser bezeichnet, deren verstärkendes (aktives) Medium aus einem kristallinen oder glasartigen (amorphen) Festkörper besteht. In diesem sog. Wirtsmaterial oder Wirtskristall sind in bestimmter Konzentration (Dotierung) die laseraktiven Ionen enthalten.
+
+Festkörperlaser werden mit Licht oder Infrarotstrahlung gepumpt.
+
+Der Wirtskristall oder ein Glas ist mit Ionen eines fremden Stoffes dotiert. Diese Fremdionen sind das eigentliche aktive Medium der Festkörperlaser.
+
+Die für das Lasern genutzten Elektronenniveaus dieser Ionen liegen innerhalb des d-Orbitals (Titan, Chrom, Cobalt) bzw. f-Orbitals (Neodym, Erbium, Ytterbium). Diese Orbitale sind nicht an chemischen Bindungen beteiligt. Das Trägermaterial (Wirtskristall, Glas) hat daher nur geringen Einfluss auf die Laser-Eigenschaften der Ionen.
+
+Um im aktiven Medium eine Energieaufnahme zu erreichen, müssen Elektronen auf ein höheres Energieniveau gehoben werden. Dieser Vorgang heißt Pumpen. Festkörperlaser werden immer optisch, d. h. durch Strahlung, gepumpt. Aus der für die Dotierungsionen charakteristischen Energiedifferenz zwischen unterem und oberem Energieniveau ergibt sich die wirksame Pumplichtwellenlänge.
+
+Das durch Pumpen erreichte Energieniveau stimmt nicht mit oberem und unterem Laserniveau überein (man spricht von 3- oder 4-Niveau-Lasern): Leert sich z. B. das untere Laserniveau sehr schnell durch Gitter-Relaxationen in das untere Energieniveau, lässt sich viel leichter eine zum Lasern erforderliche Besetzungsinversion erreichen, da ja das untere Laserniveau kaum gefüllt ist.
+
+Ebenso ist es hilfreich, wenn die Elektronen im oberen Laserniveau eine lange Verweildauer haben – deren Energie kann dann mit einer Güteschaltung schlagartig als Lichtpuls freigesetzt werden.
+
+Die Betriebsart kann kontinuierlich („“, CW) oder gepulst sein. Die Pulsung kann durch das Pumpen (Blitzlampen) oder einen resonatorinternen () optischen Schalter (Güteschalter) erfolgen. Kombiniert man beides (hohe Pump-Spitzenleistung durch Blitzlampe, danach Freisetzung der im oberen Laserniveau gespeicherten Energie durch Öffnen des Güteschalters), sind während einiger Nanosekunden Spitzenleistungen von einigen Megawatt erreichbar.
+
+Durch Nachverstärkung und Impulsweitung und -kontraktion sind während weniger Femtosekunden Leistungen im Petawattbereich erzielbar. Mit Festkörperlasern lassen sich die höchsten Spitzenleistungen und die kürzesten Impulsdauern aller Laserarten erzeugen.
+
+
+
+
+Das Pumpen erfolgt z. B. durch das Beleuchten des Lasermediums (Laserstab) mit intensiven Lichtquellen wie zum Beispiel Gasentladungslampen (Bogenlampen oder Blitzlampen).
+Die gepulste Laseremission – bei den mit Blitzlampen gepumpten Festkörperlasern- zeigt oft eine stark unregelmäßige Struktur. Die statistischen Peaks der ausgesendeten Laserintensität werden Spikes genannt und sind auf das Fallen (bei Emission) und Steigen der Elektronendichte im gehobenen Energieniveau zurückzuführen.
+
+Die verwendeten Gasentladungslampen müssen einen möglichst hohen Spektralanteil bei der Pump- Wellenlänge (im Allgemeinen im nahen Infrarot NIR) besitzen. Es sind Krypton- oder Xenon-Bogenlampen mit Wolfram-Elektroden, die einzeln oder zu zweit parallel zum Stab angeordnet sind.
+
+Laserstab und Lampen sind meist wassergekühlt (deionisiertes Wasser umspült Lampen und Stab).
+
+Der Laserstab muss möglichst gleichmäßig ausgeleuchtet sein. Das erreicht man mit Innenreflektoren aus einer Goldschicht oder Halbschalen aus einer diffus reflektierenden weißen Keramik.
+
+Der Laserstab muss vor harter Ultraviolettstrahlung der Lampen geschützt werden – dazu dient ein Schutzglasrohr.
+
+Seitdem Halbleiterlaser ausreichender Leistung verfügbar sind, werden Festkörperlaser häufig mit Laserdioden geeigneter Wellenlänge optisch gepumpt.
+Dadurch sind ganz neuartige Festkörperlaser realisierbar geworden (Faserlaser und Scheibenlaser), jedoch ergeben sich auch Vorteile bei konventionellen Festkörperlasern durch das Pumpen mit Laserdioden.
+
+Vorteile
+
+Nachteile
+
+Bei Faser- und Scheibenlasern entfällt das Problem der thermischen Einflüsse auf die optischen Eigenschaften – mit ihnen lassen sich daher hohe Leistungen bei guter Strahlqualität erzeugen. Jedoch muss die Pumpstrahlung auf kleine Flächen konzentriert werden, weshalb das Pumpen nur mit Diodenlasern möglich ist.
+
+Bei Scheibenlasern durchläuft die Pumpstrahlung die Scheibe mehrfach, indem sie mit einem Prismenreflektor mehrfach zurück auf die Scheibe gelenkt wird, um möglichst vollständig absorbiert zu werden.
+
+Beim Faserlaser gelangt die fokussierte Pumpstrahlung durch die Endfläche der Faser in diese hinein (endgepumpt) oder eine Umhüllung () der Faser führt die Pumpstrahlung entlang dem aktiven (dotierten) Faserkern. Auch die umgekehrte Anordnung (Pumpstrahlung im Kern) ist möglich.
+
+Ein Resonator ist (außer beim Faserlaser) erforderlich und besteht wie bei anderen Lasern aus einem 100 %-Spiegel (Endspiegel) und einem teildurchlässigen Spiegel (Auskoppelspiegel). Es sind für die Laserwellenlänge geeignete dielektrische Interferenz-Spiegel, da Metallspiegel die Strahlintensität nicht überstehen bzw. zu große Verluste aufweisen.
+
+Innerhalb der Spiegel befindet sich der an seinen Endflächen entspiegelte Kristallstab sowie ggf. weitere optische Bauteile, z. B. Kristalle zur Frequenzverdopplung/-vervielfachung oder zur Güteschaltung.
+
+Festkörperlaser sind die neben dem Kohlendioxidlaser am häufigsten in der Industrie zur Materialbearbeitung eingesetzten Laser.
+Typische Anwendungen sind:
+
+Weitere vielfältige Anwendungen gibt es im wissenschaftlichen Bereich. Die Laser mit den kürzesten Pulslängen und den höchsten Spitzenleistungen sind Festkörperlaser.
+
+Der erste je gebaute Laser, entwickelt von Maiman im Jahre 1960, war ein Festkörperlaser – ein lampengepumpter Rubinlaser.
+
+Lampengepumpte für kontinuierlichen und gepulsten Betrieb sowie Nd:Glas-Laser für sehr hohe Pulsenergien bildeten lange Jahre die wesentlichsten Vertreter von Festkörperlasern in Industrie und Forschung.
+
+Seit etwa 1995 erobern durch die Möglichkeit des Pumpens mit Laserdioden eine Vielzahl neuartiger Festkörperlaser und aktiver Materialien zahlreiche neue Anwendungen in Forschung und Industrie.
+
+Herausragende Ergebnisse sind Kurzpulslaser bis in den Sub-Pico-Sekunden-Bereich, miniaturisierte frequenzverdoppelte Festkörperlaser (z. B. grüne Laserpointer) und die extrem gute Fokussierbarkeit von Scheiben- und Faserlasern, die hohe Arbeitsabstände (z. B. in 1 Meter Abstand Metall schweißen) bzw. gute Schnittleistungen ermöglichen.
+
+Festkörperlaser lösen durch ihre gestiegene Effizienz, Strahlqualität und Leistung vielfach die industriellen CO-Laser mittlerer Leistung ab, da auf diese Weise z. B. die Strahlübertragung mit Lichtwellenleitern möglich ist und die Absorption auf Metallen besser ist.

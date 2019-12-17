@@ -1,0 +1,13 @@
+Wendelstein 7-AS
+
+Wendelstein 7-AS war ein Experiment zum Einschluss eines heißen Plasmas mit dem Ziel der Entwicklung eines Kernfusionsreaktors zur Energiegewinnung. Die Anlage basiert auf dem Prinzip des Stellarators, in dem Plasmen von Magnetfeldern eingeschlossen sind, die ausschließlich von stromdurchflossenen Spulen außerhalb erzeugt werden. Im Gegensatz dazu wird beim Tokamak-Prinzip die benötigte Verdrillung der magnetischen Feldlinien durch einen Strom erzeugt, der im Plasma selbst fließt.
+
+Wendelstein 7-AS (für „Advanced Stellarator“) war weltweit der erste einer neuen Klasse von fortgeschrittenen Stellaratoren mit modularen Spulen und wurde von 1988 bis 2002 in Garching vom Max-Planck-Institut für Plasmaphysik betrieben.
+
+Das seit 2002 in Greifswald im Aufbau befindliche Nachfolgeexperiment Wendelstein 7-X wurde 2014 fertiggestellt und nahm im Dezember 2015 den Betrieb auf. Hierbei soll mit Plasmen im Langzeitbetrieb die Reaktortauglichkeit der gewählten Anordnung untersucht werden.
+
+Stellaratoren erzeugen das zum Einschluss eines heißen Wasserstoffplasmas notwendige Magnetfeld ausschließlich über stromdurchflossene Spulen außerhalb des Plasmas. Da dort der Strom kontinuierlich fließen kann, sind Stellaratoren Kandidaten für einen im Dauerbetrieb arbeitenden späteren Fusionsreaktor. Beim dazu alternativen Tokamak-Konzept wird dagegen ein Teil des benötigten Magnetfeldes durch einen im Plasma selbst fließenden Strom erzeugt. Dabei gelingt es derzeit noch nicht, diesen Strom mit vertretbarem Aufwand kontinuierlich aufrechtzuerhalten.
+
+Wendelstein 7-AS war der erste Stellarator mit modularen – d. h. entlang des Plasmarings aufgestellten getrennten – Spulen, die die benötigten Magnetfelder durch ihre verwundene Formung erreichen. Die große Zahl dadurch möglich gewordener Freiheitsgrade bei der Gestaltung des Magnetfeldes wurden genutzt, um das erzeugte Magnetfeld an das theoretische Optimum anzunähern. Um möglichst schnell die grundlegende Richtigkeit des Konzepts zu testen und auch wegen der bis 1980 nur begrenzt zur Verfügung stehenden Computerkapazität wurde bei Wendelstein 7-AS zunächst nur eine Teil-Optimierung durchgeführt. Erst im nächsten Schritt, dem voll optimierten Stellarator Wendelstein 7-X, welcher 2015 in Greifswald in Betrieb gegangen ist, soll die Reaktortauglichkeit dieses Konzept überprüft werden.
+
+Die experimentellen Ergebnisse des Wendelstein 7-AS bestätigten die Vorhersagen hinsichtlich der teilweisen Optimierung und führten damit zum Bau des Wendelstein 7-X als dem nächsten Entwicklungsschritt:

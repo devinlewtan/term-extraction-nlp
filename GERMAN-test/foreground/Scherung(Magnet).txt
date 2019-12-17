@@ -1,0 +1,10 @@
+Scherung (Magnet)
+
+Als magnetische Scherung bezeichnet man die Selbstentmagnetisierung eines Permanentmagneten bei der Entnahme aus dem geschlossenen magnetischen Kreis, der zur Magnetisierung benutzt wurde.
+
+Beim Magnetisieren eines Dauermagneten wird dieser in einen geschlossenen Ring von Flussleitstücken (Weicheisenteilen) gebracht, in denen durch Magnetisierspulen ein starkes Magnetfeld erzeugt wird, das "magnetisierende Feld". Der magnetische Fluss wird von den Flussleitstücken konzentriert und durch den Magneten geleitet, wodurch dieser selbst magnetisiert wird.
+
+Durch die Entnahme aus dem geschlossenen Magnetkreis kann der magnetische Fluss nicht mehr wie vorher nahtlos aus den Kontaktflächen des Magneten in die Flussleitstücke aus- bzw. aus den Leitstücken wieder in den Magneten eintreten. Die nun im Magneten vorhandenen magnetischen Momente müssen vielmehr im umgebenden Luftraum, den bisher nur der Fluss eines geringfügigen Streufeldes durchsetzte, ein neues Magnetfeld aufbauen. An den Kontaktflächen bilden sich zwei Pole, aus denen die Feldlinien bzw. der magnetische Fluss austreten, um den Magneten herumlaufen und wieder eintreten. Die Energie dazu kommt aus der Magnetisierung des Magneten, die sich damit verringert. Dieser Prozess wird Scherung oder Selbstentmagnetisierung genannt und führt dazu, dass kein (aus dem Magnetkreis ausgebauter) Permanentmagnet tatsächlich die für sein Material angegebene Remanenzflussdichte besitzt.
+
+Die Stärke der Scherung hängt ab
+Deshalb müssen hochremanente Magnete eher zylindrisch dimensioniert werden, niedrigremanente Magnete können hingegen auch sehr flach ausgeführt werden, ohne dass es zu nennenswerten Scherungsverlusten kommt.

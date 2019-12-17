@@ -1,0 +1,67 @@
+Myonenspinspektroskopie
+
+Myonenspinspektroskopie (µSR) ist die Sammelbezeichnung für drei Messmethoden der Nuklearen Festkörperphysik. Dabei werden positiv geladene, spinpolarisierte Myonen in die zu untersuchende Materialprobe implantiert und kommen dort auf Zwischengitterplätzen oder atomaren Fehlstellen zur Ruhe. Die Wechselwirkung des Myonenspins mit den magnetischen Momenten des Wirtsgitters führt zu einer charakteristischen zeitlichen Entwicklung der Spinpolarisation, welche beobachtet wird und Rückschlüsse auf lokale magnetische Eigenschaften der untersuchten Materialprobe ermöglicht.
+
+Das Akronym µSR steht dabei für
+
+1956 kamen die beiden theoretischen Physiker Tsung-Dao Lee und Chen Ning Yang
+in einer bahnbrechenden Arbeit zu der Schlussfolgerung, dass im Gegensatz zu den anderen drei fundamentalen Wechselwirkungen Gravitation, Elektromagnetismus und starke Wechselwirkung der Paritätserhaltungssatz bei der schwachen Wechselwirkung verletzt wird und schlugen zur Überprüfung mehrere Experimente vor. Für diese Hypothese, die nur wenig später von der Physikerin Chien-Shiung Wu, in dem nach ihr benannten Wu-Experiment an Co-Kernen experimentell bestätigt werden konnte, bekamen Lee und Yang im folgenden Jahr den Nobelpreis für Physik 1957.
+
+Im selben Jahr wurde die Paritätsverletzung durch Gruppen um Leon Max Lederman, Richard Garwin und Vince Telegdi im schwachen Zerfall des Myons nachgewiesen. In ihrem Artikel machten Garwin et al. die richtungsweisende Schlussbemerkung: "It seems possible that polarized positive and negative muons will become a powerful tool for exploring magnetic fields in nuclei [...], atoms, and interatomic regions": Der Beginn der Myonenspinspektroskopie.
+
+Mit der Myonenspinspektroskopie können Betrag, Richtung, Verteilung und Dynamik innerer magnetischer Felder gemessen werden.
+
+Aufgrund der charakteristischen Eigenschaften:
+
+
+ist das Myon als magnetische Sonde komplementär zu anderen Methoden der nuklearen Festkörperphysik wie Kernspinresonanzspektroskopie und Neutronenstreuung und besonders geeignet zur Untersuchung
+
+
+Da die Pionen-Produktion Protonenbeschleuniger eines bestimmten Energiebereichs voraussetzt, sind µSR-Messungen nur an vier sogenannten Mesonenfabriken möglich:
+
+
+Die µSR-Messmethode beruht auf der Paritätsverletzung in der schwachen Zerfallskette:
+
+Unter Berücksichtigung der Erhaltungssätze für linearen Impuls und Spin führen
+
+zu den beiden Charakteristika dieser Zerfallskette:
+
+Positive Pionen (formula_12) werden durch Spallationsreaktion beim Beschuss leichter Targetkerne (C, Be) mit hochenergetischen Protonen (ca. 600 MeV) erzeugt. 
+Die zwei dominierenden Kernreaktionen sind:
+
+Die so erzeugten freien Pionen zerfallen nach einer mittleren Lebensdauer von formula_14 in ein positives Myon und ein Myon-Neutrino.
+
+Je nachdem, ob dieser Zerfall in Ruhe oder im Flug stattfindet, unterscheidet man zwischen Oberflächen- oder Zerfallskanal-Myonen:
+
+Oberflächenmyonen stammen aus dem Zerfall niederenergetischer Pionen, die innerhalb des Produktionstargets gestoppt werden. Da es sich beim Zerfall des Pions um einen
+Zweikörperzerfall handelt, sind Energie, Impuls und Drehimpuls der Zerfallsprodukte eindeutig festgelegt. Im Ruhesystem des Pions gilt:
+
+Wegen ihrer geringen kinetischen Energie können nur Myonen nahe der Oberfläche des Targets dieses verlassen und besitzen eine geringe Eindringtiefe. Sie sind zum Studium dünner Schichten bzw. leichter Proben geeignet.
+
+Hochenergetische Pionen durchlaufen einen sogenannten Zerfallskanal. Aufgrund der wesentlich geringeren, mittleren Lebensdauer der Pionen besteht der Strahl nach einer gewissen Flugstrecke vorwiegend aus Myonen. Da der Zerfall der Pionen im Flug erfolgt, besitzen diese Myonen einen höheren Impuls, sind jedoch nicht mehr zu 100 % spinpolarisiert. Durch den Übergang vom Ruhesystem des Pions ins Laborsystem müssen zwei Fälle unterschieden werden:
+
+
+Zerfallskanalmyonen besitzen also folgende charakteristische Eigenschaften:
+
+Das Myon zerfällt anschließend ebenfalls über die schwache Wechselwirkung, nach einer relativ langen mittleren Lebensdauer von formula_19 in ein Positron, ein Elektron-Neutrino und ein Myon-Antineutrino (Dreikörperzerfall):
+
+Da es sich um einen Dreikörperzerfall handelt, sind Energie und Impuls der Zerfallsprodukte nicht eindeutig festgelegt, sondern von der gegenseitigen Emissionsrichtung abhängig.
+
+Für die kinetische Energie des Zerfallspositrons gilt:
+
+Durch die eindeutige Händigkeit der beteiligten (Anti-)Neutrinos besteht eine Korrelation zwischen Spin und linearem Impuls des Zerfallspositrons, die sich in der Anisotropie der Positronenemission widerspiegelt.
+
+Die Wechselwirkung der magnetischen Momente eines Myonenensembles mit dem Mittelwert und der Verteilung des lokalen Magnetfeldes im Zwischengitterbereich hat eine zeitliche Änderung von Polarisationsrichtung und -grad zur Folge, welche über die Anisotropie der Zerfallspositronen beobachtet werden kann:
+
+
+Grundlage jeder zeitdifferentieller µSR-Messung ist somit die Aufzeichnung der zeitlichen Änderungen der Positronenzählrate in einer oder mehreren festen Raumrichtungen:
+
+
+Ein polarisierter Myonenstrahl wird durch eine Strahlblende kollimiert und in der zu untersuchenden Materialprobe gestoppt. Der Durchgang eines Myons durch den Myonen-Detektor legt den Zeitnullpunkt der Implantation fest. Das Zerfallspositron wird mit Hilfe der um die Probe angeordneten Positronenzähler erfasst und liefert das Stopp-Signal.
+
+
+
+
+
+
+Im Vergleich zur transversalen ist die longitudinale Relaxationsfunktion durch eine stärkere, anfängliche Depolarisation und einen Wiederanstieg gekennzeichnet:

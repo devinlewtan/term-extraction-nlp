@@ -1,0 +1,16 @@
+Zweizustandssystem
+
+Ein Zwei-Zustands-System oder auch Zwei-Niveau-System in der Quantenmechanik ist ein einfaches, aber wichtiges Modellsystem, das zur Beschreibung vieler Situationen herangezogen werden kann. Das System kann sich nur in einem von zwei möglichen Zuständen, formula_1 und formula_2 benannt, oder in einer Superposition dieser zwei Zustände befinden (Bra-Ket-Notation). Diese zwei Zustände haben dabei üblicherweise unterschiedliche Energien formula_3 und formula_4. Ein Beispiel ist etwa ein an ein Atom gebundenes Elektron, das eines von zwei Niveaus des Atomspektrums besetzen kann (Grundzustand, angeregter Zustand, siehe Abbildung rechts). Oft wird auch das Modellsystem eines quantenmechanischen Spins-1/2 (Drehimpulses) benutzt, der sich nur in zwei Einstellungen befinden kann. Zwischen den Niveaus existiert ein Übergang (z. B. ein optischer Übergang, der durch sichtbares Licht angeregt werden kann). Befindet sich das System einmal in einem der beiden Zustände, so bleibt es für immer dort, zumindest solange man das System nicht stört. Wird eine Störung in dem System eingeschaltet, so kann man beobachten, dass die Zustände ineinander übergehen können:
+
+Befindet sich z. B. ein Elektron im Zustand formula_1 (der energetisch niedriger liege als formula_2), so kann es durch einen resonant eingestrahlten Laser-Puls in den Zustand formula_2 übergehen. Ein Elektron im Zustand formula_2 kann durch Emission eines Photons, das die Differenzenergie formula_9 zwischen den Zuständen trägt, in den Zustand formula_1 zurückfallen. Die nebenstehende Abbildung zeigt das schematisch.
+
+Liegt die Störung längere Zeit an, so oszilliert die Wahrscheinlichkeit, das Atom in einem der Zustände zu finden. Nach einer halben Oszillationsdauer ist die Wahrscheinlichkeit hoch, das Atom im angeregten Zustand vorzufinden, nach einer ganzen Dauer ist es höchstwahrscheinlich wieder im Grundzustand usw. Dieses Phänomen entspricht den Rabi-Oszillationen.
+
+Zum gegebenen System gehört ein Hamiltonoperator formula_11. Die Zustände formula_12 sind Eigenzustände dieses Hamiltonians zu den Eigenwerten formula_13:
+
+Wird zusätzlich zu formula_11 eine hermitesche Störung formula_16 eingeschaltet, so sind formula_12 nicht mehr die Eigenzustände des neuen Hamiltonians formula_18. Die neuen Eigenzustände seien mit formula_19 und die neuen Eigenenergien mit formula_20 bezeichnet. Man erhält in der formula_21-Basis folgende Darstellung für formula_22:
+
+
+Wird das System zum Zeitpunkt formula_34 im Eigenzustand formula_1 präpariert, so bleibt es für alle Zeiten in diesem Zustand. Wird nun aber die Störung formula_16 (mit nichtverschwindenden Nebendiagonal-Elementen) zugeschaltet, so ist die Wahrscheinlichkeit formula_37, das System zum Zeitpunkt "t" im Zustand formula_2 zu finden, nicht mehr 0. Dies ist im Wesentlichen darauf zurückzuführen, dass die Zustände formula_1 und formula_2 keine Eigenzustände des Systems mehr sind. Aus der etwas umfangreichen Rechnung erhält man:
+
+Diese Oszillationen zwischen den Zuständen, wie sie auch die nebenstehende Abbildung zeigt, werden auch als Rabioszillationen bzw. als Rabiflops bezeichnet.

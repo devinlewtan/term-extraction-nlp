@@ -1,0 +1,7 @@
+Stoner-Modell
+
+Das Stoner-Modell (von Stoner auch Kollektivelektronenmodell genannt) ist ein Modell, benannt nach dem Physiker Edmund Clifton Stoner (1899–1968), zur Beschreibung des Ferromagnetismus der Metalle Eisen, Nickel und Kobalt als Effekt der Wechselwirkung über (frei bewegliche) Bandelektronen. Es ist ein stark vereinfachendes, phänomenologisches Modell und wurde zuerst 1939 von Stoner entwickelt.
+
+Im Stoner-Modell wird die Bandstruktur aufgeteilt in eine Spin-Up- und eine Spin-Down-Orientierung. Im Fall eines Ferromagneten werden die beiden Spin-Anteile gegeneinander energetisch verschoben. Diese Verschiebung erhöht zwar die kinetische Energie, durch die Austauschwechselwirkung wird aber auch potentielle Energie gewonnen, sodass insgesamt ein Energiegewinn erzielt werden kann. Dazu muss die Austauschwechselwirkung (Kopplungskonstante formula_1) groß und die Zustandsdichte in der Nähe der Fermi-Energie formula_2 hoch sein (Stoner-Kriterium): 
+
+Es ist nicht mit dem Stoner-Wohlfarth Modell zu verwechseln von Stoner und Erich Peter Wohlfarth (1948), das die Magnetisierung eines Ensembles zufällig orientierter kleiner ferromagnetischer Ein-Domänen-Kristalle beschreibt. Da Wohlfarth als Student von Stoner auch das Stoner-Modell vielfach anwandte, wird das Modell im deutschsprachigen Raum manchmal zusätzlich mit seinem Namen verknüpft.

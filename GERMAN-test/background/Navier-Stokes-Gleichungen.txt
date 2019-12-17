@@ -1,0 +1,165 @@
+Navier-Stokes-Gleichungen
+
+Die Navier-Stokes-Gleichungen [] (nach Claude Louis Marie Henri Navier und George Gabriel Stokes) sind ein mathematisches Modell der Strömung von linear-viskosen newtonschen Flüssigkeiten und Gasen (Fluiden). Die Gleichungen sind eine Erweiterung der Euler-Gleichungen der Strömungsmechanik um Viskosität beschreibende Terme.
+
+Im engeren Sinne, insbesondere in der Physik, ist mit Navier-Stokes-Gleichungen die Impulsgleichung für Strömungen gemeint. Im weiteren Sinne, insbesondere in der Numerischen Strömungsmechanik, wird diese Impulsgleichung um die Kontinuitätsgleichung und die Energiegleichung erweitert und bildet dann ein System von nichtlinearen partiellen Differentialgleichungen zweiter Ordnung. Dieses ist das grundlegende mathematische Modell der Strömungsmechanik. Insbesondere bilden die Gleichungen Turbulenz und Grenzschichten ab. Eine Entdimensionalisierung der Navier-Stokes-Gleichungen liefert diverse dimensionslose Kennzahlen wie die Reynolds-Zahl oder die Prandtl-Zahl.
+
+Die Navier-Stokes-Gleichungen bilden das Verhalten von Wasser, Luft und Ölen ab und werden daher in diskretisierter Form bei der Entwicklung von Fahrzeugen wie Autos und Flugzeugen angewendet. Dies geschieht in Näherungsform, da keine exakten analytischen Lösungen für diese komplizierten Anwendungsfälle bekannt sind. Die Existenz und Eindeutigkeit einer Lösung der Gleichungen ist außerdem im allgemeinen Fall noch nicht erwiesen, was zu den wichtigsten ungelösten mathematischen Problemen, den Millennium-Problemen, gehört.
+
+Isaac Newton veröffentlichte 1686 seine dreibändige Principia mit den Bewegungsgesetzen und definierte zudem im zweiten Buch die Viskosität einer linear viskosen (heute: "newtonschen") Flüssigkeit. 1755 leitete Leonhard Euler aus den Bewegungsgesetzen die Euler-Gleichungen her, mit denen sich das Verhalten viskositätsfreier Fluide (Flüssigkeiten und Gase) berechnen lässt. Voraussetzung dafür war seine bis heute gültige Definition des Drucks in einem Fluid. Jean-Baptiste le Rond d’Alembert (1717–1783) führte die eulersche Betrachtungsweise ein, leitete die lokale Massenbilanz her und formulierte das d’Alembert’sche Paradoxon, demgemäß von der Strömung viskositätsfreier Flüssigkeiten auf einen Körper keine Kraft in Richtung der Strömung ausgeübt wird (was Euler schon vorher bewies). Wegen dieser und anderer Paradoxien viskositätsfreier Strömungen war klar, dass die Euler’schen Bewegungsgleichungen zu ergänzen sind.
+
+Claude Louis Marie Henri Navier, Siméon Denis Poisson, Barré de Saint-Venant und George Gabriel Stokes formulierten unabhängig voneinander in der ersten Hälfte des 19. Jahrhunderts den Impulssatz für newtonsche Fluide in differentieller Form. Navier (1827) und Poisson (1831) stellten die Impulsgleichungen nach Betrachtungen über die Wirkung von intermolekularen Kräften auf. 1843 veröffentlichte Barré de Saint-Venant eine Herleitung der Impulsgleichungen aus Newtons linearem Viskositätsansatz, zwei Jahre bevor Stokes dies (1845) tat. Es setzte sich allerdings der Name Navier-Stokes-Gleichungen für die Impulsgleichungen durch.
+
+Einen wesentlichen Fortschritt im theoretischen und praktischen Verständnis viskoser Fluide lieferte Ludwig Prandtl 1904 mit seiner Grenzschichttheorie. Ab Mitte des 20. Jahrhunderts entwickelte sich die numerische Strömungsmechanik so weit, dass mit ihrer Hilfe für praktische Probleme Lösungen der Navier-Stokes-Gleichungen gefunden werden können, die – wie sich zeigt – gut mit den realen Strömungsvorgängen übereinstimmen.
+
+Die Navier-Stokes-Gleichung im engeren Sinne ist der Impulssatz als Anwendung der newtonschen Axiome auf ein Kontinuum. Eine verwendete Form für kompressible Fluide ist:
+
+Hier ist formula_2 die Dichte, formula_3 der (statische) Druck, formula_4 die Geschwindigkeit eines Teilchens in der Strömung, der Überpunkt genauso wie formula_5 unten die substantielle Zeitableitung, formula_6 die partielle Ableitung nach der Zeit bei festgehaltenem Ort des Fluidelements, „formula_7“ das (formale) Skalarprodukt mit dem Nabla-Operator formula_8 und formula_9 der Laplace-Operator. Links der Gleichheitszeichen steht die substantielle Beschleunigung der Fluidelemente und der mit dem Nabla-Operator gebildete Term stellt ihren konvektiven Anteil dar. Der Vektor formula_10 steht für eine Volumenkraftdichte wie beispielsweise die Gravitation oder die Corioliskraft jeweils bezogen auf das Einheitsvolumen und besitzt die Einheit Newton/Kubikmeter. Bei den Parametern formula_11 und formula_12 handelt es sich um die dynamische Viskosität und die erste Lamé-Konstante. In der Literatur werden sie auch als Lamé-Viskositäts-Konstanten bezeichnet.
+
+Eine andere Schreibweise für die in der Literatur verwendete Form ist:
+
+Darin ist "ζ" die Volumenviskosität. Mit der Kontinuitätsgleichung und Anwendung der Stokes’schen Hypothese "ζ" = 0 wird hieraus die Gleichung für die "Impulsdichte" formula_14:
+
+Das Rechenzeichen formula_16 bildet das dyadische Produkt. Zur Vervollständigung der Gleichungen müssen noch die Massenbilanz oder Kontinuitätsgleichung (Massenerhaltungssatz) und bei Gasen die Energiebilanz (Energieerhaltungssatz) hinzugefügt werden. Je nach weiteren Annahmen, die an das Fluid gestellt werden, ergibt sich das vollständige System in unterschiedlicher Form. Die am häufigsten verwendete Form sind die Navier-Stokes-Gleichungen für inkompressible Fluide, denn sie sind für Unterschallströmungen gut geeignet und ihre Berechnung ist einfacher als die kompressibler Fluide.
+
+Die Vektorform der Gleichungen gelten in jedem Koordinatensystem. Hier sollen die Komponentengleichungen der Impulsgleichung speziell für kartesische Koordinaten angegeben werden.
+
+Darin sind formula_18 und formula_19 die Vektorkomponenten in den räumlichen formula_20-, formula_21- bzw. formula_22-Richtungen. In dieser Form kann eine mögliche Ortsabhängigkeit der Scherviskosität infolge ihrer Temperaturabhängigkeit und Temperaturschwankungen im Fluid berücksichtigt werden.
+
+Die Navier-Stokes-Gleichungen können mit charakteristischen Maßen des gesamten Strömungsgebiets für die Länge formula_23, die Geschwindigkeit formula_24 und die Dichte formula_25 entdimensionalisiert werden. Damit entstehen die dimensionslosen Größen
+
+die zu der dimensionslosen Impuls-Gleichung führen:
+
+Darin charakterisiert die dimensionslose Reynolds-Zahl
+
+die Strömung hinsichtlich des Verhältnisses von Trägheits- zu Scherkräften.
+
+Bei Strömungen mit freier Oberfläche enthält die dimensionslose Kraftdichte formula_29 die Froude-Zahl, die das Verhältnis von Trägheits- zu Schwerekräften charakterisiert.
+
+Die "Chapman-Enskog-Entwicklung" der Boltzmann-Gleichungen der kinetischen Gastheorie führt auf die Navier-Stokes-Gleichungen mit verschwindender Volumenviskosität, also formula_30. Diese Entwicklung basiert auf einer Verteilungsfunktion, die nur von der Geschwindigkeit der Teilchen abhängt, also deren Rotationsdrehimpuls vernachlässigt. Dies ist in einatomigen Gasen bei niedrigem bis mittlerem Druck eine probate Annahme, gilt jedoch nicht bei mehratomigen Gasen. Die Chapman-Enskog-Entwicklung ist mathematisch so anspruchsvoll, dass sie hier nicht vorgestellt werden kann.
+
+Im phänomenologischen kontinuumsmechanischen Ansatz ergeben sich die Navier-Stokes-Gleichungen mit Volumenviskosität wie folgt aus der Newton’schen Annahme der linearen Viskosität. Die Viskosität begründet sich aus dem Experiment, nach dem zur Aufrechterhaltung einer Scherströmung eine Kraft erforderlich ist, die, bezogen auf ihre Wirkfläche, einer Schubspannung entspricht. Im Fluid wirkt daneben auch noch der Druck, der eine gleichförmige Normalspannung in allen Raumrichtungen darstellt. Der Cauchy’sche Spannungstensor formula_31 fasst den Spannungszustand in einem Fluidelement zu einem mathematischen Objekt zusammen und seine Divergenz verkörpert gemäß
+
+den Kraftfluss im Fluid. Die Kraft formula_33, die mit flächenverteilten Kräften formula_34 auf der Oberfläche formula_35 des Volumens formula_36 wirkt, ist das Volumenintegral über die Divergenz des Spannungstensors. Diese trägt demnach zur substantiellen Beschleunigung
+
+der Fluidelemente bei. Neben der Divergenz des Spannungstensors kann noch eine volumenverteilte Kraft formula_10 wie die Schwerkraft auf ein Fluidelement wirken und so ergibt sich mit der Dichte formula_2 das erste Cauchy-Euler’sche Bewegungsgesetz:
+
+Ein newtonsches Fluid vermag Kräfte über den Druck im Fluid und über Spannungen zu übertragen, die von der räumlichen Änderung der Strömungsgeschwindigkeit abhängen und die sich makroskopisch als Viskosität bemerkbar machen. Die räumliche Änderung der Strömungsgeschwindigkeit ist im Geschwindigkeitsgradient formula_41 zusammengefasst. Allerdings treten keine Spannungen bei einer starren Rotation auf, die vom schiefsymmetrischen Anteil des Geschwindigkeitsgradienten bemessen wird, siehe Kinematik in der Strömungsmechanik. Demnach trägt nur der symmetrische Anteil formula_42 des Geschwindigkeitsgradienten, der "Verzerrungsgeschwindigkeitstensor"
+
+zur Viskosität bei. In einem bezugssysteminvarianten Materialmodell der linearen Viskosität kann der Spannungstensor nur von formula_42 und seiner linearen Hauptinvariante formula_45 abhängen. Das Materialmodell der klassischen Materialtheorie für das linear viskose, isotrope Fluid lautet demgemäß
+
+Darin bezeichnet formula_3 den (statischen) Druck, formula_48 den Einheitstensor, formula_49 die Spur, das hochgestellte formula_50 den Deviator, formula_11 die Scherviskosität, formula_12 die erste Lamé-Konstante und formula_53 die Volumenviskosität.
+
+Einsetzen der Divergenz des Spannungstensors in das erste Cauchy-Euler’sche Bewegungsgesetz liefert die Navier-Stokes-Gleichungen.
+
+Der Druck, die Dichte und der Verzerrungsgeschwindigkeitstensor formula_42 sind objektiv, siehe Euklidische Transformation, werden also von verschiedenen Beobachtern in gleicher Weise wahrgenommen. Deshalb sind die Navier-Stokes-Gleichungen invariant gegenüber einer Galilei-Transformation.
+
+Falls sich die Dichte entlang von Teilchenbahnen nicht ändert, heißt die Strömung inkompressibel. Dies ist beispielsweise eine sinnvolle Annahme für Wasser oder Gase weit unterhalb der Schallgeschwindigkeit (Mach-Zahl < 0,3). Die Kontinuitätsgleichung vereinfacht sich zur Divergenzfreiheit des Geschwindigkeitsfeldes
+
+Die Impulsgleichung vereinfacht sich zu:
+
+Hierbei steht formula_3 für den physikalischen Druck, formula_10 ist eine Volumenkraft bezogen auf das Einheitsvolumen und formula_11 ist die dynamische Viskosität. Damit wird eine inkompressible Strömung vollständig durch ein partielles Differentialgleichungssystem mit zwei Gleichungen für die zwei Größen Geschwindigkeit formula_4 und Druck formula_3 in Abhängigkeit von Ort und Zeit beschrieben. Die Energieerhaltung wird nicht zum Schließen des Systems benötigt. Dieser Satz von Gleichungen wird auch als "inkompressible Navier-Stokes-Gleichungen mit variabler Dichte" bezeichnet. Anwendungsbeispiele für diese Gleichung sind Probleme der Ozeanographie, wenn Wasser unterschiedlichen Salzgehalts zwar inkompressibel ist, aber keine konstante Dichte hat.
+
+In vielen praktischen Problemen ist die Strömung nicht nur inkompressibel, sondern hat sogar konstante Dichte. Hier kann man durch die Dichte dividieren und sie in die Differentialoperatoren einbeziehen:
+
+In dieser Gleichung steht formula_63 für den Quotienten aus physikalischem Druck und Dichte und formula_64 ist eine Schwerebeschleunigung. Diese Größen stellen somit den Druck bzw. die Volumenkraft bezogen auf die Einheitsmasse dar. Die Größe formula_65 ist die kinematische Viskosität und bemisst den diffusiven Impulstransport.
+
+Die zuletzt genannten Gleichungen werden in der Literatur auch als "inkompressible Navier-Stokes-Gleichungen" oder einfach nur als "die" Navier-Stokes-Gleichungen bezeichnet, weil sie die am besten untersuchten und in der Praxis am häufigsten benutzten sind. Zudem sind sie einfacher zu lösen als die Gleichungen für kompressible Fluide. Anwendbar sind die Gleichungen bei vielen wichtigen Strömungsproblemen, beispielsweise bei Luftströmungen weit unterhalb der Schallgeschwindigkeit (Mach-Zahl < 0,3), für Wasserströmungen sowie für flüssige Metalle. Sobald sich die Dichten der betrachteten Fluide jedoch stark ändern, wie zum Beispiel bei Überschallströmungen oder in der Meteorologie, stellen die Navier-Stokes-Gleichungen für inkompressible Fluide kein geeignetes Modell der Wirklichkeit mehr dar und müssen durch die vollständigen Navier-Stokes-Gleichungen für kompressible Fluide ersetzt werden.
+
+Die Vektorform der Gleichungen gelten in jedem Koordinatensystem. Hier sollen die Komponentengleichungen der Impulsgleichung bei Inkompressibilität in kartesischen, zylindrischen und sphärischen Koordinaten angegeben werden.
+
+In einem kartesischen formula_66-System schreibt sich die Impulsbilanz:
+
+Der Operator formula_68 steht für die Substantielle Ableitung.
+
+In Zylinderkoordinaten (formula_69) lauten die Gleichungen
+
+In Kugelkoordinaten (formula_71) lauten die Gleichungen
+
+Für kompressible Gase werden die obigen Impulsgleichungen um die Energiebilanz und die Zustandsgleichung eines idealen Gases erweitert. Der komplette Satz an Gleichungen besteht also aus der Kontinuitätsgleichung (Massenerhaltung), Impulsbilanz (Impulserhaltung), Energiebilanz (Energieerhaltung) und einer Zustandsgleichung. Die in Klammern angegebenen Gesetze gelten in abgeschlossenen Systemen, aber an einem Fluidteilchen sind die ein und aus gehenden Flüsse zu bilanzieren, was auf Bilanzgleichungen führt, die unter Strömungsmechanik nachzuschlagen sind. Unter der Annahme, dass die Dichte entlang der Teilchenbahnen konstant ist, entstehen wieder die Gleichungen für inkompressible Fluide.
+
+Im Folgenden bedeutet formula_73 die Ableitung einer Größe nach der Zeit und formula_8 ist der Nabla-Operator, der die Ableitung nach dem Ort bildet, also je nach Verknüpfung die Divergenz oder den Gradient, und formula_75 sind die drei Ortskoordinaten in einem kartesischen Koordinatensystem. Die angegebenen Bilanzgleichungen führen in abgeschlossenen Systemen zu Erhaltungsgleichungen.
+
+Die Kontinuitätsgleichung entspricht der Massenerhaltung und wird hier mit der Impulsdichte formula_14 formuliert:
+
+Die Impulsbilanz entspricht der Impulserhaltung und lautet in Indexschreibweise
+
+wobei formula_79 das Kronecker-Delta und
+
+der Reibtensor oder viskose Spannungstensor sind. Der Materialparameter formula_11 ist die dynamische Viskosität, formula_12 die erste Lamé-Konstante und formula_83 ist die formula_84-te Komponente des Volumenkraftvektors. In der alternativen koordinatenfreien Schreibweise lautet die Impulsbilanz
+
+wobei
+
+der viskose Spannungstensor, d der Verzerrungsgeschwindigkeitstensor, der der symmetrische Anteil des Geschwindigkeitsgradienten formula_87 ist und die Spur formula_88 besitzt, formula_89 der Spannungstensor, 1 der Einheitstensor und formula_16 das dyadische Produkt ist, siehe #Herleitung der Impulsgleichung oben.
+
+Die Energiebilanz am Fluidteilchen im Schwerefeld der Erde lautet
+
+wobei formula_92 die Schwerebeschleunigung und
+
+die Enthalpie pro Einheitsmasse ist. Das negative Vorzeichen vor der Schwerebeschleunigung resultiert aus dem "abwärts" gerichteten Vektor formula_92, so dass in einer "aufwärts" führenden Strömung potentielle Energie "hinzu gewonnen" wird. Der Wärmefluss formula_95 kann mittels des Wärmeleitkoeffizienten formula_96 als
+
+geschrieben werden. Mit dem Quellterm formula_98 kann beispielsweise die Absorption und Emission von Wärme aus Treibhausgasen infolge von Einstrahlung beschrieben werden. Die totale Energie pro Einheitsmasse formula_99 ist die Summe von innerer (formula_100), kinetischer und potentieller Energie, sie lässt sich (mit der Höhe formula_101) also schreiben als
+
+Nun liegen also vier Gleichungen für fünf Variablen vor und das System wird durch die folgende Zustandsgleichung abgeschlossen:
+
+Die thermodynamischen Größen Dichte, Druck und Temperatur sind durch das "ideale Gasgesetz" verbunden:
+
+Oft geht man zusätzlich von einem perfekten Gas mit konstanter spezifischer Wärmekapazität formula_105 aus. Dann vereinfacht sich das Integral und es gilt:
+
+In beiden Fällen hängen der adiabatische Exponent formula_107 und die Gaskonstante formula_108 durch den spezifischen Wärmekoeffizienten für konstanten Druck formula_109 respektive konstantes Volumen formula_105 durch formula_111 und formula_112 zusammen.
+
+Ein wesentlicher Punkt bei den Navier-Stokes-Gleichungen ist die experimentell sehr gut nachgewiesene Haftbedingung ("No-Slip-Bedingung"), bei der an einer Wand sowohl in Normalenrichtung, als auch insbesondere in tangentialer Richtung als Relativgeschwindigkeit Null vorgeschrieben werden. Die Fluidteilchen kleben also an der Wand. Dies führt zur Bildung einer Grenzschicht, die für wesentliche, nur durch die Navier-Stokes-Gleichungen modellierte Phänomene verantwortlich ist. Nur wenn die freie Weglänge bewegter Moleküle groß ist zur charakteristischen Länge der Geometrie (z. B. für Gase mit extrem niedrigen Dichten oder Strömungen in extrem engen Spalten) ist diese Bedingung nicht mehr sinnvoll.
+
+Durch dynamische (also Kraft-) Randbedingungen auf einer Fläche wird die Fläche im Allgemeinen deformiert und die Strömung folgt ihr. Zum Problem gehört dann die Bestimmung der Fläche dazu. Sie ergibt sich aus der Vorgabe des Flächenkraft- oder Spannungsvektors formula_113 für alle Punkte auf der Fläche und der Tatsache, dass die Fläche eine materielle Fläche ist, denn Flächenkräfte können nur auf Fluidteilchen aufgebracht werden. Auf der Fläche gilt also formula_114, wobei formula_115 der Normaleneinheitsvektor der Fläche ist und sich der Spannungstensor aus der Materialgleichung formula_116 berechnet. Zumeist, vor allem im technischen Bereich wie z. B. am Auslass eines durchströmten Rohres, ist die Fläche bekannt, was die Aufgabenstellung erheblich vereinfacht.
+
+Bei entsprechend kleinskaligen Strömungen ist die Oberflächenspannung zu berücksichtigen, die nach der Young-Laplace-Gleichung von der Krümmung der Oberfläche abhängt. Bei schwacher Krümmung entsteht für den Druck an der Oberfläche die Gleichung
+
+Hier ist formula_118 der vorgegebene Druck auf der Fläche formula_101, die hier die Flächenparameter formula_20 und formula_21 besitzt, und formula_107 ist ein Parameter, der die Stärke der Oberflächenspannung skaliert.
+
+Zusätzlich muss gegebenenfalls am Rand noch entweder eine Temperatur oder ein Wärmefluss vorgeschrieben werden.
+
+Es ist bis heute nicht gelungen, die Existenz globaler Lösungen nachzuweisen. Mathematiker wie P.-L. Lions (siehe Literaturliste) betrachten im Wesentlichen den wichtigen Spezialfall der "inkompressiblen" Navier-Stokes-Gleichungen. Während hier für den zweidimensionalen Fall unter anderem von Olga Alexandrowna Ladyschenskaja, Roger Temam und Ciprian Foias bereits weitreichende Existenz-, Eindeutigkeits- und Regularitätsaussagen bewiesen werden konnten, gibt es bislang keine Resultate für den allgemeinen dreidimensionalen Fall, da hier einige fundamentale Einbettungssätze für sogenannte Sobolevräume nicht mehr eingesetzt werden können. Allerdings gibt es für endliche Zeiten oder spezielle, insbesondere kleine, Anfangsdaten auch im dreidimensionalen Fall – vor allem für schwache Lösungen – Existenz- und Eindeutigkeitsaussagen. Den Fall schwacher Lösungen der Navier-Stokes-Gleichungen auch in drei Dimensionen behandelte Jean Leray 1934. Er zeigte, dass die von ihm eingeführten schwachen Lösungen kein pathologisches Verhalten in zwei Dimensionen zeigen (keine Divergenz (blow up) in endlicher Zeit) und somit global in der Zeit existieren. Allerdings zeigten Untersuchungen von Tristan Buckmaster und Vlad Vicol, dass bei einer anderen Art schwacher Lösungen (schwächer als die Definition von Leray) die Navier-Stokes-Gleichungen in drei Dimensionen pathologisches Verhalten (Mehrdeutigkeit) zeigen.
+
+Das Problem des allgemeinen, inkompressiblen Existenzbeweises in drei Dimensionen gehört laut dem Clay Mathematics Institute zu den wichtigsten ungelösten mathematischen Problemen zur Zeit der Jahrtausendwende.
+
+In der Praxis gewinnt man analytische Lösungen, indem man die physikalischen Modelle/Randbedingungen vereinfacht (Spezialfälle). Besondere Schwierigkeit bereitet hier die Nichtlinearität der konvektiven Beschleunigung formula_123. Nützlich ist hierbei die Darstellung mit Hilfe der Vortizität formula_124:
+
+Geschlossene analytische Lösungen existieren fast nur für Fälle, in denen der zweite Term verschwindet. Dies ist bei der Annahme, dass bei 3-dimensionalen Strömungen die Wirbel sich immer entlang der Stromlinie ausbilden (also dem Helmholtz-Wirbelsatz), also formula_126 der Fall. Diese Annahme trifft aber nicht bei allen realen Strömungen zu. Eine analytische Lösung mit formula_127 liegt im Hamel-Oseenschen-Wirbel vor.
+
+Die Navier-Stokes-Gleichungen sind ein wichtiges Anwendungsfeld der numerischen Mathematik (die Theorie beschäftigt sich mit Existenz und Eindeutigkeit von Lösungen; in aller Regel gibt es jedoch keine geschlossenen Lösungsformeln). Der Teilbereich, der sich mit der Konstruktion numerischer Näherungsverfahren für die Navier-Stokes-Gleichungen beschäftigt, ist die numerische Strömungsmechanik oder Computational Fluid Dynamics (CFD).
+
+Bei der numerischen Lösung der Navier-Stokes-Gleichungen kommen Verfahren der numerischen Strömungsmechanik zum Einsatz. Als Diskretisierungen werden sowohl Finite-Differenzen-, Finite-Elemente- und Finite-Volumen-Verfahren sowie für spezielle Aufgabenstellungen auch Spektralmethoden und weitere Techniken verwendet. Die Gitter müssen, um die Grenzschicht korrekt auflösen zu können, in Normalenrichtung nahe der Wand extrem fein aufgelöst sein. In Tangentialrichtung wird darauf verzichtet, so dass die Zellen an der Wand extrem große Seitenverhältnisse haben.
+
+Die feine Auflösung erzwingt wegen der Einhaltung der CFL-Bedingung bei expliziter Zeitintegration extrem kleine Zeitschritte. Deswegen werden in der Regel implizite Verfahren eingesetzt. Wegen der Nicht-linearität des Gleichungssystems muss das System iterativ (z. B. mit Mehrgitter- oder Newton-Verfahren) gelöst werden. Die Kombination aus Impuls- und Kontinuitätsgleichung bei den inkompressiblen Gleichungen weist eine Sattelpunktstruktur auf, die hierbei ausgenutzt werden kann.
+
+Ein einfaches Modell zur Simulation von Flüssigkeiten, das im hydrodynamischen Limit die Navier-Stokes-Gleichung erfüllt, ist das FHP-Modell. Dessen Weiterentwicklung führt auf die Lattice-Boltzmann-Methoden, welche besonders im Kontext der Parallelisierung zur Ausführung auf Supercomputern attraktiv sind.
+
+Im Bereich der Computergrafik wurden mehrere numerische Lösungsverfahren verwendet, bei denen durch bestimmte Annahmen eine Echtzeit-Darstellung erreicht werden kann, wobei jedoch teilweise die physikalische Korrektheit nicht immer gewährt ist. Ein Beispiel hierfür ist das von Jos Stam entwickelte "Stable Fluids"-Verfahren. Hierbei wurde die Chorin’sche Projektionsmethode für den Bereich der Computergrafik verwendet.
+
+Um turbulente Strömungen zu berechnen, können die Navier-Stokes-Gleichungen direkt numerisch berechnet werden. Jedoch erzwingt die Auflösung der einzelnen Turbulenzen ein sehr feines Gitter, so dass dies nur in der Forschung unter Zuhilfenahme von Supercomputern und bei kleinen Reynolds-Zahlen wirtschaftlich ist.
+
+In der Praxis hat sich die Lösung der Reynolds-Gleichungen durchgesetzt. Hier ist jedoch ein Turbulenzmodell nötig, um das Gleichungssystem zu schließen.
+
+Als Mittelweg gilt die Large Eddy Simulation, die zumindest die großen Wirbel direkt numerisch berechnet und erst die kleinen Skalen über ein Turbulenzmodell simuliert.
+
+Eine viel untersuchte Konvektion, welche sich mit der Navier-Stokes-Gleichung beschreiben lässt, ist die Rayleigh-Bénard-Konvektion. Sie ist ein wichtiges Beispiel für selbstorganisierende Strukturen und die Chaostheorie.
+
+Auf Grund der schwierigen Lösbarkeitseigenschaften der Navier-Stokes-Gleichungen wird man in den Anwendungen (soweit dies physikalisch sinnvoll ist) versuchen, vereinfachte Versionen der Navier-Stokes-Gleichungen zu betrachten.
+
+Wird die Viskosität vernachlässigt (formula_128), so erhält man die Euler-Gleichungen (hier für den kompressiblen Fall)
+
+Die Euler-Gleichungen für kompressible Fluide spielen insbesondere in der Aerodynamik eine Rolle als Approximation der vollen Navier-Stokes-Gleichungen.
+
+Eine andere Art von Vereinfachungen ist zum Beispiel in der Geodynamik üblich, wo der Mantel der Erde (oder anderer terrestrischer Planeten) als eine extrem zähe Flüssigkeit behandelt wird (Schleichende Strömung). In dieser Näherung ist die Diffusivität des Impulses, d. h. die kinematische Viskosität, viele Größenordnungen höher als die thermische Diffusivität, und der Trägheitsterm kann vernachlässigt werden. Führt man diese Vereinfachung in die stationäre Navier-Stokes-Impulsgleichung ein, erhält man die "Stokes-Gleichung":
+Wendet man die Helmholtz-Projektion formula_131 auf die Gleichung an, verschwindet der Druck in der Gleichung:
+mit formula_133.
+Dies hat den Vorteil, dass die Gleichung nur noch von formula_4 abhängt. Die ursprüngliche Gleichung erhält man mit
+formula_136 wird auch "Stokes-Operator" genannt.
+
+Andererseits haben Geomaterialien eine komplizierte Rheologie, die dazu führt, dass die Viskosität nicht als konstant angesehen wird. Für den inkompressiblen Fall ergibt dies:
+
+Für gravitationsabhängige Strömungen mit kleinen Dichtevariationen und nicht zu großen Temperaturschwankungen wird häufig die Boussinesq-Approximation verwendet.
+
+Da es bis heute keinen Existenzbeweis für Lösungen der allgemeinen Navier-Stokes-Gleichungen gibt, ist auch nicht gesichert, dass sie Turbulenz von Fluiden wiedergeben und wenn ja, wie realistisch. Des Weiteren können zufällige äußere Störungen die Strömung beeinflussen (Schmetterlingseffekt) und es ist bekannt, dass Fluidelemente eine zufällige brownsche Bewegung ausführen. Solche zufälligen Fluktuationen können mit einem stochastischen Ansatz erfasst werden. Es wird eine stochastische Differentialgleichung in differentieller Schreibweise
+
+betrachtet. Der Term in der eckigen Klammer repräsentiert die Navier-Stokes-Gleichungen bei Inkompressibilität und der folgende Term einen stochastischen Einfluss wie die brownsche Bewegung. Dieser Ansatz ist zur Jahrtausendwende Gegenstand reger Forschungsaktivität.

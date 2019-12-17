@@ -1,0 +1,17 @@
+Magnetischer Eigenschutz
+
+Magnetischer Eigenschutz (MES), auch „Mineneigenschutz“ ist eine aktive Maßnahme zur Verringerung der magnetischen Signatur eines Schiffes, damit magnetische Zündmechanismen von Seeminen oder Torpedos nicht auslösen. 
+
+Davon ist die bloße Entmagnetisierung zu unterscheiden, mit dem die dauermagnetische Ausrichtung eines metallenen Schiffsrumpfes für einige Zeit in einem starken Magnetfeld aufgehoben werden kann.
+
+Erste magnetische Eigenschutzanlagen wurden zu Beginn des Zweiten Weltkrieges mit Aufkommen magnetisch gezündeter Minen entwickelt. Dabei handelte es sich zunächst um Kabel, die auf ganzer Länge um den Rumpf der Schiffe geführt wurden und beim Anlegen von Gleichstrom ein magnetisches Feld erzeugten, das der Magnetfeldstörung der Stahlmasse des Schiffes entgegenwirkte. 
+
+Im Zweiten Weltkrieg wurde diese Methode des Minenschutzes für alle größeren Kriegsschiffe Standard. Eine einfache Magnetfeldspule war aber bei zunehmend verfeinerten Magnetzündern nicht mehr in der Lage, das ungleichmäßige Magnetfeld eines Schiffes und auch die unterschiedliche Wirkung des Erdmagnetfeldes in verschiedenen Regionen der Welt ausreichend zu kompensieren.
+
+Moderne MES-Anlagen bestehen aus mehreren elektromagnetischen Spulen, welche die magnetische Signatur in mehreren Richtungen unterdrücken. Dazu wird zunächst die Signatur des Schiffes unter verschiedenen Bedingungen genau vermessen, so dass die der Signatur entgegenwirkenden Magnetfelder angepasst erzeugt werden können. Dies geschieht für die Mehrzahl der Schiffe der Deutschen Marine in den beiden „magnetischen Mess- und Behandlungsstellen“ in Wilhelmshaven und Kiel.
+
+Dabei müssen nicht nur die ungleichmäßige Verteilung magnetischer Störeinflüsse im Rumpf und das unterschiedliche Magnetfeld in verschiedenen Gebieten der Erde berücksichtigt werden, sondern auch die von Schiffsbewegungen (Geschwindigkeit, Rollbewegungen) oder nicht ständig im Einsatz befindlichen Aggregaten verursachten magnetischen Effekte. 
+
+Dementsprechend erzeugt eine MES-Anlage heute kein statisches Magnetfeld mehr, sondern ein je nach Ort und Bewegung sowie verschiedenen inneren Prozessen des Schiffes angepasstes Magnetfeld.
+
+Bei sogenannten hoch geschützten Fahrzeugen, wie etwa Minenabwehrfahrzeugen oder U-Booten, die konstruktiv schon eine geringe magnetische Signatur besitzen, kann diese mit Hilfe von MES-Anlagen fast vollständig aufgehoben werden. Die Deutsche Marine unterhält zu diesem Zweck in der Borgstedter Enge bei Schirnau-Lehmbek einen Erdmagnetfeldsimulator, in dem das gesamte Schiff in verschiedenen Funktionszuständen und für verschiedene Breitengrade vermessen und die MES-Anlage entsprechend eingestellt wird.

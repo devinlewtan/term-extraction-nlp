@@ -1,0 +1,62 @@
+Dirac-Notation
+
+Die Dirac-Notation, auch Bra-Ket-Notation, ist in der Quantenmechanik eine Notation für quantenmechanische Zustände. Die Notation geht auf Paul Dirac zurück. Die ebenfalls von ihm eingeführte Bezeichnung Bra-Ket-Notation ist ein Wortspiel mit der englischen Bezeichnung für eine Klammer ("bracket"). In der Bra-Ket-Notation wird ein Zustand ausschließlich durch seine Quantenzahlen charakterisiert.
+
+In der Bra-Ket-Notation schreibt man die Vektoren eines Vektorraums formula_1 auch außerhalb eines Skalarprodukts mit einer spitzen Klammer als Ket formula_2. Jedem Ket formula_2 entspricht ein Bra formula_4 der dem Dualraum formula_5 angehört, also eine lineare Abbildung von formula_1 in den zu Grunde liegenden Körper formula_7 repräsentiert, und umgekehrt. Das Ergebnis der Operation eines Bras formula_8 auf einen Ket formula_9 wird formula_10 geschrieben, womit der Zusammenhang mit der konventionellen Notation des Skalarprodukts hergestellt ist.
+
+In der Physik wird die Notation verwendet, gleich ob es sich dabei um Vektoren eines Vektorraumes oder um Funktionen in einem Hilbert-Raum handelt. Die mathematische Rechtfertigung für die Bra-Ket-Notation ergibt sich aus dem Satz von Fréchet-Riesz, den F. Riesz und M. Fréchet 1907 unabhängig voneinander bewiesen. Er besagt unter anderem, dass ein Hilbertraum und sein topologischer Dualraum isometrisch isomorph zueinander sind.
+
+Sei formula_11 ein Vektor eines komplexen formula_12-dimensionalen Vektorraums formula_13. Der Ket-Ausdruck formula_14 kann als vertikaler Vektor mit komplexen Elementen formula_15 (formula_16) dargestellt werden:
+
+Wichtig ist dabei, dass formula_14 und der dazugehörige transponierte Vektorformula_19 "nicht" dasselbe mathematische Objekt sind und somit kein Gleichheitszeichen verwendet werden darf. Dies wird insbesondere daran deutlich, dass die Bra-Ket-Schreibweise von der Wahl einer Basis unabhängig ist, während die Darstellung durch Koordinatenvektoren die Wahl einer Basis voraussetzt. Stattdessen sollte deutlich gemacht werden, dass es sich bei formula_19 um die Darstellung von formula_14 handelt. Dies kann durch die Verwendung von Zeichen wie formula_22, formula_23, formula_24 etc. erfolgen.
+
+Der Bra-Ausdruck formula_25 kann demnach als horizontaler Vektor mit den konjugierten Werten dargestellt werden:
+
+Durch die Notation formula_27 kann ein Elektron im Zustand 1s mit Spin up des Wasserstoffatoms bezeichnet werden.
+
+Der Polarisationszustand eines Photons kann als Überlagerung zweier Basiszustände formula_28 (vertikal polarisiert) und formula_29 (horizontal polarisiert), angegeben werden:
+wobei
+und
+
+Gegeben sei eine Anzahl von formula_33 Bosonen formula_34 mit jeweils einem bestimmten Impuls formula_35. Der Zustand lässt sich mittels der Dirac-Notation kompakt abbilden:
+
+Das Skalarprodukt eines Bra formula_36 mit einem Ket formula_37 wird in Bra-Ket-Notation geschrieben als:
+Dies kann als Anwendung des Bras formula_36 auf den Ket formula_37 aufgefasst werden.
+
+Für komplexe Zahlen formula_41 und formula_42 gilt:
+
+Aufgrund der Dualitätsbeziehung gilt außerdem:
+
+Das Tensorprodukt eines Ket formula_45 mit einem Bra formula_46 wird geschrieben als
+
+Im Fall gewöhnlicher Vektoren entspricht das Tensorprodukt einer Matrix.
+
+Für eine vollständige Orthonormalbasis formula_48 führt die Operation
+
+eine Projektion auf den Basiszustand formula_50 aus.
+Dies definiert den Projektionsoperator auf den Unterraum des Zustands formula_50:
+
+Eine besonders wichtige Anwendung der Multiplikation von Ket mit Bra ist der Einheitsoperator formula_53, der sich als Summe über die Projektionsoperatoren ergibt zu
+
+Diese „Darstellung des Einheitsoperators“ ist insbesondere deshalb von so herausragender Bedeutung, da man damit jeden Zustand formula_56 in einer beliebigen Basis entwickeln kann.
+
+Ein Beispiel einer "Basisentwicklung durch Einschieben der Eins":
+
+Dies ist die Darstellung des Zustands-Kets formula_58 in der formula_33-Basis durch das sogenannte "Einschieben der Eins".
+
+Dass dies "immer" funktioniert, ist eine unmittelbare Konsequenz der Vollständigkeit des Hilbertraums, in dem die Zustände, also die "Kets", 'leben'.
+
+Für eine kontinuierliche Basis ist statt der Summe ein Integral zu bilden.
+So erhält man beispielsweise für den Ortsraum die Summe über das Ortskontinuum und damit den Einheitsoperator als Integral über den ganzen formula_60:
+Natürlich ist auch mit einer solchen kontinuierlichen Basis eine Basisentwicklung möglich, was in der Regel auf ein Fourierintegral führt. Technisch handelt es sich dabei "nicht"  um eine Entwicklung nach Basisvektoren des Hilbertraums, da es in den betrachteten separablen Räumen kein Kontinuum von paarweise orthogonalen Vektoren geben kann: Vektoren der Art formula_62 bilden vielmehr eine mathematisch nicht-triviale Erweiterung des betrachteten Hilbertraums, und man nennt sie daher auch manchmal „uneigentliche Vektoren“, weil sie wie die Deltafunktion oder wie monochromatische ebene Wellen nicht quadratintegrierbar sind. (Auch der Begriff der Orthogonalität muss hierbei verallgemeinert werden, indem man statt der sonst üblichen Kroneckersymbole formula_63 Deltafunktionen benutzt.)
+
+Beachtet man bei Rechnungen diese Details, die im Grunde nur auf die „Rezepte“   formula_64  und formula_65 hinauslaufen, so bleibt die Basisentwicklung eine brauchbare Analogie.
+
+In der Quantenmechanik arbeitet man häufig mit Projektionen von Zustandsvektoren auf eine bestimmte Basis anstatt mit den Zustandsvektoren selbst.
+
+Die Projektion auf eine bestimmte Basis wird Darstellung genannt.
+Ein Vorteil davon ist, dass die so erhaltenen Wellenfunktionen komplexe Zahlen sind, für die der Formalismus der Quantenmechanik als partielle Differentialgleichung geschrieben werden kann.
+
+
+
+Allgemein gilt, dass Skalarprodukte bei einem beliebigen Basiswechsel invariant sind. Beispiele sind die Übergänge („Darstellungswechsel“) von einem vollständigen Satz von Eigenvektoren und/oder uneigentlichen Eigenvektoren selbstadjungierter Operatoren des Systems zum anderen, z. B. der Übergang von einem Matrixsystem zum anderen oder der Übergang von einer Matrixdarstellung zur Orts- oder Impulsdarstellung.

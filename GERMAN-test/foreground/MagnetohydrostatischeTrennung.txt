@@ -1,0 +1,7 @@
+Magnetohydrostatische Trennung
+
+Magnetohydrostatische Trennung (auch Magnetohydrostatisches Separieren, Magnetleviation) ist ein mechanisches Verfahren zur Sortierung von nichtmagnetischen Partikeln, insbesondere Metallen oder Mineralien (Erzen) das auf ihrer unterschiedlichen Dichte beruht.
+
+Ein Ferrofluid (Magnetofluid) wird in ein inhomogenes Magnetfeld eingebracht, das sich zwischen zwei Magnetpolschuhen ausbildet; die Feldstärke des Magnetfelds nimmt nach unten zu. Dadurch erfährt das Ferrofluid eine nach unten gerichtete Kraft, die zusätzlich zur Schwerkraft wirkt. Damit erhöht sich der Auftrieb auf darin schwimmende, nichtmagnetische Körper. Verändert man die Stärke des Magnetfeldes, ändert sich die Auftriebskraft; diese kann also an die Dichte der zu trennenden Materialien angepasst werden. Die Partikel werden dann durch das Schwimm-Sink-Verfahren getrennt, d. h. Partikel geringerer Dichte können von der Oberfläche entnommen werden, Partikel hoher Dichte sinken nach unten. Magnetohydrostatische Trennverfahren können auf eine bestimmte (konstante) Dichte eingestellt sein, oder es kann mit einem Elektromagneten das Magnetfeld langsam erhöht werden, sodass Körper immer größerer Dichte an die Oberfläche kommen und nacheinander abgeschöpft werden.
+
+Das magnetohydrostatische Trennverfahren wird für Materialien hoher Dichte verwendet, wenn es keine geeigneten Flüssigkeiten ausreichender Dichte gibt, in denen solche Materialien schwimmen.

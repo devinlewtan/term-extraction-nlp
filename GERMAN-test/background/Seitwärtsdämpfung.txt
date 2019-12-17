@@ -1,0 +1,7 @@
+Seitwärtsdämpfung
+
+Seitwärtsdämpfung ist ein Begriff, der bei Richtmikrofonen in den Mikrofondaten zu finden ist. Die Angabe ist die Dämpfung, die von der Seite des Mikrofons, also aus der 90°-Schalleinfallsrichtung gemessen und in Dezibel (dB) als Schallpegeldämpfung angegeben wird. Eine hohe Seitwärtsdämpfung sorgt auch für gute Rückkopplungsunterdrückung bei Lautsprecherbeschallung aus dieser Einfallsrichtung. Üblich ist bei Großmembranmikrofonen und Kleinmembranmikrofonen der Richtcharakteristik Superniere bei 1 kHz eine Seitwärtsdämpfung von größer 8,7 dB. Die Seitwärtsdämpfung ist immer frequenzabhängig. Bei einer breiten Niere ist die Seitwärtsdämpfung etwa 3,5 dB. 
+
+Hierzu einordnen lässt sich auch der Begriff Rückwärtsdämpfung beim Mikrofon. Das ist die Schallpegeldämpfung 180° zur Schalleinfallsrichtung.
+
+Auch bei Richtantennen gibt es die Seitwärtsdämpfung, die neben dem Antennengewinn einen wichtigen Parameter in der Antennentechnik darstellt.

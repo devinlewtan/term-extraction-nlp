@@ -1,0 +1,9 @@
+Probemagnet
+
+Ein Probemagnet ist ein idealisiertes Konzept, welches in der Physik vor allem dazu benutzt wird, um elektromagnetische Felder zu beschreiben. Es ist sehr ähnlich dem Konzept der Probeladung.
+
+Unter einem Probemagneten versteht man einen sehr kleinen Magneten, der das zu betrachtende Magnetfeld nicht merklich stört. Also kann deren eigenes magnetisches Feld vernachlässigt werden. Das Magnetfeld bzw. die magnetische Flussdichte beispielsweise eines felderzeugenden Permanentmagneten wird dann definiert über die Kraftwirkung auf den Probemagneten (genauer: seinen Nordpol) an diesem Ort.
+
+Realisiert wird der Probemagnet oft durch eine kleine Kompassnadel oder einen ferromagnetischen Stoff, etwa Eisenfeilspäne. 
+
+Eng verwandt mit dem Konzept der Probeladung ist das Konzept der Probemasse im Bereich der Gravitation.

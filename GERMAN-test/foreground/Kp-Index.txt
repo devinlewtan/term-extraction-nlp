@@ -1,0 +1,7 @@
+Kp-Index
+
+Der Name Kp-Index („K“ für „Kennziffer“) bezeichnet eine planetarische Kennziffer. Dieser Index wurde entwickelt, um solare Teilchenstrahlung durch ihre magnetische Wirkung darzustellen. Die symbolische Darstellung erfolgt in den ganzzahligen Werten 0 bis 9 in einem Diagramm (englische Bezeichnung: "Bartels music" oder "musical diagram"), dieses zeigt die quantitativen Werte des KP-Index. Es ermöglicht eine Orientierung auf die Aktivität durch die Länge und die Breite der Symbole.
+
+Julius Bartels entwickelte 1949 am Geophysikalischen Institut Potsdam als Maß für die geomagnetische Aktivität den Kp-Index. Der Kp-Index wird mit einem standardisierten Verfahren aus den Daten von 13 weltweiten Observatorien bestimmt. Der Kp-Index wurde 1967 von der International Association of Geomagnetism and Aeronomy (IAGA) als wichtige Maßgröße anerkannt.
+
+Der Kp-Index wird vielfach verwendet bei Untersuchungen und bei Beobachtungen des Erdmagnetismus und ist auch ein Gradmesser für eventuelle Polarlichterscheinungen.

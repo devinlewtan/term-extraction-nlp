@@ -1,0 +1,9 @@
+Viking (Satellit)
+
+Viking ist ein schwedischer geophysikalischer Satellit. Er ist zugleich Schwedens erster Satellit. Er wurde am 22. Februar 1986 um 01:44:35 Uhr UTC von Kourou als Huckepack-Nutzlast beim Start einer Ariane-1-Rakete zusammen mit dem französischen Satelliten SPOT-1 ins All gebracht. 
+
+Er sollte die Wechselwirkungen zwischen Sonnenwind und dem elektromagnetischen Feld der Erde erforschen. Dazu wurde er auf eine sehr exzentrische Bahn mit etwa 814 km Perigäum und etwa 13.530 km Apogäum gebracht, so dass er sich bei einer Umlaufzeit von 261 min mehr als 215 min in einer Höhe von mehr als 4000 km befindet. Die Inklination der Bahn beträgt 98,70°. Der Satellit mit der Form einer achteckigen flachen Scheibe (190 cm Durchmesser, 50 cm hoch) wurde spinstabilisiert und seine Solarzellen von insgesamt 2,2 m² Fläche lieferten eine Leistung von 85 Watt (sie wurden unterstützt von NiCd Akkumulatoren mit 12 Ah Kapazität). 
+
+Viking hatte eine Startmasse von etwa 530 kg und eine Trockenmasse von 286 kg, wobei nur 40 kg auf die wissenschaftliche Ausrüstung entfallen. Diese bestand aus einem UV-Lichtmesser für Polarlichtuntersuchungen, Plasmawellendetektor im Hoch- und Niederfrequenzbereich, einem Vektor-Elektrometer, Plasmaspektrometer und Magnetometer. Die einzelnen Experimente wurden von verschiedenen Wissenschaftlergruppen aus verschiedenen Ländern (Schweden, Kanada, Dänemark, Frankreich, Norwegen, USA und Deutschland) beigesteuert. Um die elektrischen Felder in allen drei Raumrichtungen zu messen, entfaltete er im Orbit zwei 4 m lange Stangen in axialer Richtung und entrollte vier Seile von je 40 m Länge mit jeweils einem Sensorsystem am Ende.
+
+Er lieferte bis zum 12. Mai 1987 (mehr als 200 Tage länger als geplant) sehr wertvolle Daten (über S-Band) an die Bodenstation in Esrange (Schweden).

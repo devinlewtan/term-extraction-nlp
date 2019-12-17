@@ -1,0 +1,14 @@
+Long Duration Exposure Facility
+
+Die Long Duration Exposure Facility (LDEF) war ein Satellit, der als Träger für technische und naturwissenschaftliche Experimente im Weltraum diente. Er kam nur ein einziges Mal zum Einsatz.
+
+LDEF bestand aus einer zylindrischen Aluminiumstruktur, an deren Außenseiten 86 Experimententräger angebracht waren: Zwölf Reihen zu je sechs Einheiten befanden sich im Mantel und je sieben an den beiden Enden. Der Satellit hatte eine Länge von 9,20 Meter und einen Durchmesser von 4,29 Meter. Die Struktur hatte eine Masse von 3,6 Tonnen; voll bestückt lag sie bei 9,7 Tonnen.
+Am 6. April 1984 startete die Raumfähre Challenger mit der Mission STS-41-C und brachte die Forschungsplattform LDEF in eine fast kreisförmige Erdumlaufbahn mit 477 km Bahnhöhe.
+
+Die Lage im Orbit war in der Weise stabilisiert, dass die Längsachse von LDEF zum Erdmittelpunkt ausgerichtet war.
+
+Ursprünglich sollte LDEF nach zehn Monaten mit der Mission STS-51-D im Februar 1985 geborgen werden. Durch Terminverschiebungen des Space-Shuttle-Programms rückte der Bergungstermin in das Jahr 1986. Durch die Katastrophe der Challenger (STS-51-L) am 28. Januar 1986 wurde das unmöglich. Das Shuttle-Programm war für über zwei Jahre unterbrochen.
+
+Die Plattform konnte erst im Januar 1990 nach fast sechs Jahren Flug mit der Mission STS-32 geborgen werden. Die Bahnhöhe war inzwischen auf 335 km gesunken und LDEF wäre wohl im folgenden Monat in die Erdatmosphäre eingetreten. Die Columbia näherte sich LDEF dabei auf einer Flugbahn, die die Experimente möglichst wenig kontaminieren konnte. LDEF blieb nach dem Einfangen noch für viereinhalb Stunden am Robotarm, um Bilder von allen Experimententrägern zu machen. Am 20. Januar landete die Columbia auf der Edwards Air Force Base und wurde sechs Tage später huckepack auf dem Shuttle Carrier Aircraft (mit LDEF in der Ladebucht) zum Kennedy Space Center transportiert.
+
+Die Untersuchung des Satelliten brachte unter anderem sehr viel Informationen über Weltraummüll und Mikrometeoriten.

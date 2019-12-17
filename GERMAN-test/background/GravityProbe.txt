@@ -1,0 +1,46 @@
+Gravity Probe
+
+Gravity Probe hießen zwei Raumfahrtmissionen der NASA zum Test der allgemeinen Relativitätstheorie von Albert Einstein. Eine vorgeschlagene dritte Mission wurde bisher nicht realisiert. 
+
+Gravity Probe A (GP-A) flog am 16. Juni 1976 mit einer extrem genauen Atomuhr in einer steilen, ballistischen Bahn mit 10.000 km Gipfelhöhe.
+Während des knapp zweistündigen Fluges wurde der Gang der Uhr mittels Mikrowellenverbindung mit zwei gleichen Uhren am Boden verglichen.
+Dazu wurde das Uhrensignal der Sonde durch einen Transponder einem vom Boden empfangenen Signal aufgeprägt und wieder zurückgesendet. Dieses Verfahren vermied die störende Wirkung des Doppler-Effekts und erlaubte die Messung der auf dem Äquivalenzprinzip beruhenden Gravitationsrotverschiebung mit einer Genauigkeit von 0,02 %. 1965 lag die Genauigkeit noch bei 1 %, gemessen mittels Mößbauer-Effekt über eine Fallhöhe von lediglich 15 Metern. Wenig später erlaubte das GPS-Satellitensystem weitaus genauere Messungen.
+
+Im Satelliten Gravity Probe B (GP-B) befanden sich frei schwebend vier schnell rotierende Quarzkugeln.
+Die extrem genaue Beobachtung ihrer Drehachsen gab Aufschluss auf Drehmomente, die durch zwei relativistische Effekte verursacht wurden.
+Die Idee dazu stammt von dem Theoretiker Leonard Schiff, der Anfang der 1960er Jahre mit William Fairbank Sr. darüber diskutierte. Die wissenschaftliche Leitung der NASA-Mission lag bei einem früheren Mitarbeiter von Fairbank an der Stanford University, Francis Everitt. Die Auswertung der 2004/2005 aufgenommenen, schwer gestörten Daten zog sich bis 2011 hin. Das Ergebnis war wie erwartet in Übereinstimmung mit der Theorie, aber nicht genauer als frühere Messungen mittels der geodätischen Satelliten LAGEOS und GRACE.
+
+Die Satelliten-Mission Gravity Probe B sollte – zur Zeit ihrer Planung durch Fairbank "erstmals" – eine experimentelle Überprüfung zweier Aussagen der Allgemeinen Relativitätstheorie ermöglichen:
+
+
+Nach den Vorhersagen der Physiker sollten sich die Rotationsachsen der vier Gyroskope wegen der Raumzeit-Krümmung pro Jahr um 6606,1 Millibogensekunden neigen und zusätzlich, durch den Lense-Thirring-Effekt, um 39,2 Millibogensekunden in eine andere Richtung.
+Die Messung derartig kleiner Änderungen der Rotationsachse ist eine extreme Herausforderung an die Experimentiertechnik.
+Die eigens für diese Mission entwickelten Gyroskope bestanden aus Quarzkugeln von der Größe eines Tischtennisballs (3,8 cm), die im Vakuum mit 10.000 Umdrehungen pro Minute rotierten.
+Sie wurden auf 1,8 K abgekühlt, um ihre mit Niob beschichtete Oberfläche supraleitend zu machen und durch das London-Moment ein Magnetfeld in Richtung der Drehachse zu erzeugen.
+Veränderungen der Rotationsachse wurden mittels hochempfindlicher supraleitender Quanteninterferenz-Detektoren, sogenannter SQUIDs, erfasst. Äußere Magnetfelder wurden durch eine zweifache Abschirmung aus supraleitendem Material um 240 dB reduziert. Auf diese Weise waren Veränderungen von einer Millibogensekunde messbar (bei 10 Stunden Integrationszeit). Unter diesem Winkel erscheint ein Stecknadelkopf im Abstand von 1.000 km.
+
+Die vier Kugeln befanden sich in der Rotationsachse des Satelliten und rotierten paarweise gleich- bzw. gegensinnig. Die Drehachsen wurden gegenüber dem Satelliten gemessen und mit einem kleinen Teleskop in dessen Rotationsachse auf den spektroskopischen Doppelstern IM Pegasi
+bezogen.
+Zur Lagekontrolle des Satelliten um seine Achse und während der Bedeckungen von IM Pegasi durch die Erde dienten mehrere Startracker und Gyroskope. IM Pegasi wurde gewählt, weil er dicht an der Ebene des Erdäquators liegt, hell genug für die genaue Peilung ist und seine starke Radioemissionen per VLBI detektiert werden können, sodass seine Bewegung auf das Referenzsystem ferner Quasare bezogen werden konnte.
+
+Der Satellit wurde am 20. April 2004 vom US-Luftwaffenstützpunkt Vandenberg an Bord einer Delta II 7920-Rakete erfolgreich gestartet.
+Die Bahn des Satelliten führte in einer Höhe von ca. 740 km über die Pole.
+
+Am 28. August 2004 waren die Vorbereitungen für die eigentlichen Messungen abgeschlossen.
+Die zuvor durchgeführten Kalibriermessungen hatten jedoch schon gezeigt, dass unvorhergesehene Effekte (später beschrieben als "misalignment torque" und "roll-polhode resonance torque") die Rotationsrichtung der Gyroskope beeinflussten. Nachdem die Ursache verstanden war, konnten die Effekte modelliert und zunächst grob herausgerechnet werden. Es handelte sich um eine unerwünschte Kopplung zwischen Kugeloberfläche und Wandung durch inhomogene elektrische Felder aufgrund von lokalen Variationen der Austrittsarbeit.
+Zudem führte eine Wechselwirkung dieses Feldes mit der Aktivität der elektrostatischen Zentrierung der Kugel zu einer Dämpfung ihrer Präzessionsbewegung, was die Analyse der Messwerte erschwerte und verzögerte.
+
+Die aus den eigentlichen Messungen nicht präzise genug ermittelbaren Kopplungskonstanten mit der Wandung, also mit dem rotierenden Satelliten, wurden in einer gegen Ende der Mission vorgesehenen Kalibrierphase gesondert vermessen, indem die Rotationsachse des Satelliten grob falsch eingestellt wurde, was die Störeffekte vervielfachte. Es schloss sich eine weitere Messphase an, bis das Helium für die Kühlung Ende 2005 verbraucht war.
+
+Das öffentliche Eingeständnis der Probleme übernahm Everitt selbst.
+
+Kurz bevor die NASA-Mission mit dem Jahr 2007 endete, beantragte er eine Verlängerung um ein Jahr, da eine weitere Auswertung genauere Ergebnisse versprach. Dies wurde von anderen Forschern, die um die Finanzierung ihrer Missionen bangten, mit dem Argument kritisiert, dass LAGEOS bereits ähnlich genaue Tests der Relativitätstheorie ermöglicht hatte. Ein 15-köpfiges Gremium der NASA bewilligte nur noch spärliche Mittel, die durch eine private Spende von Fairbanks Sohn sowie Mittel der Universität ergänzt wurden. Der Schlussbericht der Mission erschien im Dezember 2008,
+die Auswertung wurde aber weitergeführt, u. a. mit Mitteln aus Saudi-Arabien.
+Der Schlussbericht der Universität
+erschien unter erneuter öffentlicher Aufmerksamkeit
+im Mai 2011.
+
+Der Effekt der Raumzeit-Krümmung (Theorie: 6606,1, alles in Millibogensekunden/Jahr) hatte mit einer Präzision von 0,01 % bestimmt werden sollen, der schwächere Lense-Thirring-Effekt (Theorie: 39,2) auf 1 %. Herausgekommen sind 6601,8 ± 18,3 (0,28 %), bzw. 37,2 ± 7,2 (19 %), Fehlerangaben jeweils 1 σ.
+Bereits 2004 hatte eine Auswertung von über elf Jahre gesammelten LAGEOS-Bahndaten die Vorhersage des Lense-Thirring-Effekts auf 1 % getroffen mit einer Unsicherheit von 5 %.
+
+Gravity Probe C(lock) ist ein Vorschlag aus dem Jahr 1997 für eine dritte Mission. Das Experiment würde aus zwei Satelliten bestehen, die auf äquatorialen Umlaufbahnen in entgegengesetzter Richtung die Erde umkreisen. Laut Allgemeiner Relativitätstheorie sollten sich die Umlaufzeiten der Satelliten durch gravitomagnetische Effekte (verursacht durch die Erdrotation) um ca. 100 Nanosekunden unterscheiden. Um andere Effekte herausrechnen zu können, müsste vor der Mission das Gravitationsfeld der Erde noch genauer untersucht werden.

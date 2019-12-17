@@ -1,0 +1,87 @@
+Young-Tableau
+
+Ein Young-Tableau oder Young-Diagramm (nach Alfred Young) ist ein grafisches Werkzeug der Darstellungstheorie der symmetrischen Gruppe formula_1. Jedes Young-Tableau wird dabei durch eine bestimmte Zahl von Zellen (meist symbolisiert durch Quadrate) bestimmt, die von oben nach unten und linksbündig so angeordnet sind, dass deren Anzahl in jeder neuen Zeile nicht zunimmt.
+
+Beispiele für gültige Young-Tableaux:
+Beispiele für "nicht" gültige Young-Tableaux:
+
+Die "Partition" eines Young-Tableau ist die Aufzählung der Zahl der Zellen jeder Zeile und dient der kompakten Beschreibung seiner Struktur. In den gezeigten Beispielen ergeben sich folgenden Partitionen: a) formula_2 b) formula_3 c) formula_4 und d) formula_5. Die Ordnung formula_6 des Tableaux bezeichnet die Zahl aller Zellen. Die Anzahl gültiger Tableaux mit der Ordnung formula_6 kann durch die Partitionsfunktion formula_8 angegeben werden.
+
+Die wichtigsten Zusammenhänge zwischen den irreduziblen Darstellungen der formula_1 und den Young-Tableaux der Ordnung formula_6 seien hier skizziert.
+
+Ein "Young-Schema" ist ein Young-Tableau, dessen formula_6 Zellen mit den Zahlen von formula_12 bis formula_6 zunächst willkürlich besetzt sind. Beispiele für Young-Schemata:
+
+Nun werden Operatoren aus diesen Schemata gebildet. Dabei bilden die "Zeilen" im Schema die Grundlage zur Bildung eines Operators formula_14. Pro Zeile werden aus allen Kombinationen der Zellenindizes Permutationen gebildet und summiert. Die so entstehenden Summen von Permutationen werden multipliziert. Ganz analog bilden die "Spalten" im Schema die Grundlage zur Bildung eines Operators formula_15. Pro Spalte werden aus allen Kombinationen der Spaltenindizes Permutationen gebildet und summiert. Bei der Summation wird aber ein negatives Vorzeichen verwendet, wenn die Permutation ungerade ist. Die so entstehenden Summen von Permutationen werden multipliziert.
+
+Beispiel:
+
+Hier gilt (in der Zyklennotation)
+und
+
+Ein Standardschema ist ein Young-Schema, bei dem die Nummerierung der Zellen derart durchgeführt wird, dass in jeder Spalte von oben nach unten und in jeder Zeile von links nach rechts die Zahlen größer werden.
+
+Beispiele für Standardschemata:
+
+Für die Schemata lässt sich Folgendes zeigen
+
+
+Damit sind die formula_24 die Projektoren der irreduziblen Darstellungen der formula_1.
+
+Zwei Darstellungen von zwei (im Allgemeinen verschiedenen) symmetrischen Gruppen formula_1 und formula_35 kann man zu einer Darstellung der symmetrischen Gruppe formula_36 "verknüpfen", dem sogenannten "äußeren Tensorprodukt" dieser beiden Darstellungen. Die genaue Definition dieser Darstellung verläuft folgendermaßen:
+
+Für je zwei Permutationen formula_37 und formula_38 definieren wir das "äußere Produkt" formula_39 als die Permutation der Menge formula_40, welche jedes formula_41 auf formula_42 abbildet und jedes formula_43 auf formula_44 abbildet. Anschaulich gesprochen ist also formula_45 die Permutation, die auf den ersten formula_6 Zahlen wie formula_47 wirkt und auf den letzten formula_48 Zahlen wie (eine um formula_6 verschobene Permutation) formula_50 wirkt.
+
+Wir können die Gruppe formula_51 als Untergruppe von formula_36 ansehen (vermöge der Einbettung formula_53).
+
+Für jede Darstellung formula_54 von formula_1 und jede Darstellung formula_56 von formula_35 definieren wir nun das "äußere Tensorprodukt" von formula_54 und formula_56 als die Darstellung formula_60 (hierbei ist formula_61 auf kanonische Weise eine Darstellung der Gruppe formula_51: die Gruppe formula_1 wirkt auf dem ersten Tensoranden, während die Gruppe formula_35 auf dem zweiten Tensoranden wirkt).
+
+Das "äußere Produkt" der formula_1 verknüpft Permutationen der formula_66, die auf die Indizes formula_12 bis formula_25 wirken, mit Permutationen der formula_69, die auf Indizes formula_70 bis formula_71 wirken und zusammen Permutationen der formula_72 beschreiben. Dabei stellt sich die Frage, in welche irreduziblen Darstellungen der formula_72 das äußere Produkt einer irreduziblen Darstellung von formula_66 und formula_69 zerfällt. Im Folgenden wird das äußere Produkt mit dem Symbol formula_76 dargestellt.
+
+Als Beispiel wählen wir formula_77. Sei formula_54 die triviale Darstellung von formula_79 (also der eindimensionale Vektorraum, auf dem jedes Element von formula_79 als Identität wirkt) und sei formula_56 die alternierende Darstellung (auch Signum-Darstellung oder Signatur-Darstellung genannt) von formula_79 (also der eindimensionale Vektorraum, auf dem jede gerade Permutation als Identität und jede ungerade Permutation als Punktspiegelung am Ursprung wirkt). Dann ist formula_61 eine eindimensionale Darstellung der Gruppe formula_84, und das äußere Produkt von formula_54 und formula_56 ist eine sechsdimensionale Darstellung formula_87 von formula_88.
+
+Nun stellt sich die Frage, wie das äußere Tensorprodukt zweier irreduzibler Darstellungen in irreduzible Darstellungen zerlegt werden kann (dieses Tensorprodukt ist selber nur selten irreduzibel, aber nach dem Satz von Maschke zerfällt es in eine direkte Summe irreduzibler Darstellungen). Da die irreduziblen Darstellungen von formula_89 (bis auf Isomorphie) eindeutig den Young-Tableaux der Ordnung formula_18 entsprechen, können wir also folgende Frage stellen:
+
+Seien formula_91 und formula_92 zwei Young-Tableaux der Ordnungen formula_6 bzw. formula_94. Seien formula_54 und formula_56 die irreduziblen Darstellungen von formula_1 bzw. formula_35, die zu diesen Young-Tableaux gehören. Das äußere Produkt formula_60 von formula_54 und formula_56 ist dann eine Darstellung von formula_36, und somit eine direkte Summe irreduzibler Darstellungen von formula_36. Diese irreduziblen Darstellungen entsprechen wiederum Young-Tableaux der Ordnung formula_104. Welche Young-Tableaux sind diese? Wir schreiben kurz
+
+formula_105
+
+um zu sagen, dass formula_106 die Young-Tableaux zu den irreduziblen Darstellungen von formula_36 sind, in welche das äußere Produkt von formula_54 und formula_56 zerfällt. Dabei kann unter den Young-Tableaux formula_106 auch ein und das gleiche Tableau mehrfach vorkommen - nämlich dann, wenn in der Zerlegung des äußeren Produktes von formula_54 und formula_56 eine irreduzible Darstellung mehrfach vorkommt. Manchmal fasst man in diesem Fall diese gleichen Tableaux zusammen (statt formula_113 schreibt man also formula_114, falls formula_115 ist). Dadurch wird aus der Summe formula_116 eine Summe paarweise verschiedener Young-Tableaux mit Koeffizienten - diese Koeffizienten nennt man "Littlewood-Richardson-Koeffizienten".
+
+Die Frage ist nun, wie man anhand von formula_91 und formula_92 die Young-Tableaux formula_106 bestimmt. Es gibt unterschiedliche Antworten auf diese Frage; sie werden allgemein als "Littlewood-Richardson-Regeln" (nach Dudley Littlewood und A. R. Richardson) bezeichnet. Wir geben im Folgenden eine solche Regel, die rekursiv ist (es gibt auch explizite Regeln, die allerdings eine langwierige kombinatorische Formulierung haben).
+
+Zuerst ein Beispiel: Seien formula_91 und formula_92 die Young-Tableaux
+
+Die zu formula_91 bzw. formula_92 gehörenden irreduziblen Darstellungen formula_54 und formula_56 sind dann die triviale Darstellung von formula_79 (als formula_54) und die alternierende Darstellung von formula_79 (als formula_56). Wir sind also in dem Beispiel weiter oben, wo wir festgestellt haben, dass das äußere Produkt von formula_54 und formula_56 eine formula_132-dimensionale Darstellung von formula_88 ist. Man kann feststellen (z. B. mit Charaktertheorie), dass diese Darstellung sich als direkte Summe formula_134 schreiben lässt, wobei formula_135 die irreduzible Darstellung von formula_88 zum Young-Tableau
+
+ist, und formula_137 die irreduzible Darstellung von formula_88 zum Young-Tableau
+
+ist. Wir können also schreiben:
+
+wobei wir P (X) Q für formula_139 schreiben.
+
+Seien nun die Young-Tableaux formula_91 und formula_92 gegeben. Wir wollen die Summanden formula_106 in der Zerlegung formula_105 bestimmen (im obigen Beispiel konnte man dies noch recht leicht per Hand erledigen, vor allem mit Charaktertheorie, aber für größere Tableaux wird dies schnell sehr mühsam).
+
+Die sogenannte "Pieri-Regel" erledigt dies im Sonderfall, wenn das Tableau formula_92 nur aus einer Zeile besteht: In diesem Fall ist formula_145 die Summe aller Youngtableaus, die aus dem Youngtableau formula_91 durch Anfügen von insgesamt formula_94 neuer Zellen entstehen (wobei formula_94 die Ordnung von formula_92 ist), und zwar höchstens einer neuen Zelle pro Spalte.
+
+Beispiel (der Stern dient nur als Orientierung bei der Zuordnung der Zellen):
+
+Eine Kombination wie
+
+kommt in der Entwicklung "nicht" vor, weil in ihr die erste Spalte "zwei" hinzugefügte Zellen [*] enthält.
+
+Zur Bildung des äußeren Produkts formula_150 zwischen beliebigen Tableaux zerlegt man zunächst eines der beiden Tableaux in eine alternierende Summe von äußeren Produkten von einzeiligen Tableaux nach folgender Vorschrift: Haben wir ein Tableau der Form formula_151 vor uns, dann berechnen wir das äußere Produkt formula_152. Wir bekommen eine Summe von Tableaux, darunter unser Ausgangstableau formula_151, aber auch einige weitere Tableaux. Diese weiteren Tableaux werden nun abgezogen:
+
+formula_154.
+
+Auf die so entstandene Summe wird die Prozedur rekursiv angewandt. Diese Rekursion kommt immer zu einem Ende, weil mit jedem Schritt Tableaux entstehen, die in der letzten Zeile mindestens eine Zelle weniger haben.
+
+Beispiel (der Stern dient nur als Orientierung bei der Zuordnung der Zellen):
+
+Nach dieser Zerlegung kann man unter Ausnutzung der Assoziativität des äußeren Produktes und mithilfe der Pieri-Regel die eigentliche Multiplikation durchführen. Eine Anwendung des äußeren Produkts findet man bei der Zerlegung der Tensordarstellung eines Vielteilchensystems.
+
+Das äußere Tensorprodukt zweier Darstellungen formula_54 und formula_56 zweier symmetrischer Gruppen formula_1 und formula_35 ist nicht zu verwechseln mit dem "inneren Tensorprodukt" zweier Darstellungen formula_54 und formula_56 einer und der gleichen symmetrischen Gruppe formula_89. Letzteres ist (wie gesagt) nur für zwei Darstellungen "der gleichen" symmetrischen Gruppe definiert, und auch dann unterscheidet es sich vom äußeren Tensorprodukt (es ist eine Darstellung von formula_89, während das äußere Tensorprodukt eine Darstellung von formula_163 ist). Die Zerlegung dieses inneren Tensorproduktes in irreduzible Darstellungen ist noch um einiges schwieriger als die des äußeren Tensorproduktes. Statt der Littlewood-Richardson-Koeffizienten kommen hier sogenannte "Kronecker-Koeffizienten" ins Spiel.
+
+Der Einsatz von Young-Tableaux ist vielfältig. Sie dienen unter anderem
+
+
+Darüber hinaus wird zum Beispiel in der Elementarteilchenphysik mit der Technik der Young-Tableaux eine Dekomposition der Tensordarstellung von Mehrteilchensystemen ermöglicht. Unter anderem wurden sie benutzt, um die Quark-Struktur von Hadronen aufzuklären. Quarks wurden anfangs nicht durch Hochenergiestreuexperimente direkt beobachtet, sondern mussten zunächst aus der Systematik der als Darstellungen der zugrundeliegenden Gruppe realisierten zusammengesetzten Teilchen erschlossen werden.

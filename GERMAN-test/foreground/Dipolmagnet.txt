@@ -1,0 +1,33 @@
+Dipolmagnet
+
+Ein Dipolmagnet ist ein Magnet mit einem positiven oder Nord- und einem negativen oder Südpol (siehe Magnetismus). Die meisten Magnete (Dauermagnete und Elektromagnete) sind Dipolmagnete. 
+
+Die Bezeichnung wird hauptsächlich auf dem Gebiet der Teilchenbeschleuniger benutzt, wo auch andere Magnetkonfigurationen, z. B. Quadrupolmagnete eingesetzt werden. Dipolmagnete in Beschleunigern sind aus einem U-förmigen Eisenjoch gefertigte Elektromagnete. Um die Enden des Joches sind Spulen gewickelt. Im Spalt zwischen den Enden entsteht ein durch den Stromfluss regelbares Magnetfeld. 
+
+In Teilchenbeschleunigern werden Dipolmagnete genutzt, um ein Magnetfeld zur Strahlablenkung zu erzeugen, man spricht daher auch von Ablenkmagneten. Das Feld kann homogen (d. h. räumlich konstant) oder zu Fokussierungszwecken inhomogen sein; ausschlaggebend dafür ist die Oberfläche der Polschuhe mit parallelen oder nicht parallelen Ebenen. Die Teilchenbewegung unter der Lorentzkraft erfolgt auf einer Bahn, deren Krümmung senkrecht zum Feld verläuft. Ist das Feld homogen wie beispielsweise im klassischen Zyklotron, ist die Bahn ein Kreisbogen. 
+In Beschleunigern für hohe Teilchenenergien wie Synchrotrons und Speicherringen wird aufgrund der technischen Realisierbarkeit nicht ein einziger großer Magnet verwendet, sondern viele kleinere Magnete, sogenannte "Sektormagnete". In solchen Anlagen ergibt sich keine Kreisbahn, sondern es gibt zwischen den Magneten feldfreie gerade Strecken. Diese bieten Platz für Beschleunigungselemente, Wechselwirkungszonen in Colliding-Beam-Experimenten oder für Wiggler oder Undulatoren zur Erzeugung von Synchrotronstrahlung.
+
+Die Eisenkerne der Magnete gehen bei einer magnetischen Flussdichte von ca. 2 Tesla in Sättigung. Werden höhere magnetische Flussdichten benötigt, etwa, weil aus Platzgründen kein größerer Krümmungsradius möglich ist, müssen supraleitende Magnete ohne Kerne eingesetzt werden. Die Stromdichten in supraleitenden Magneten können Werte von mehreren kA/mm erreichen. Obwohl ein Teil des Leiterquerschnitts für Kupfer (zur "Stabilisation" des Supraleiters) und Wärmeisolation benötigt wird, ist die Nettostromdichte gemittelt über den gesamten Querschnitt der Wicklung wesentlich höher als bei konventionellen Kupferwicklungen. Die ohmschen Verluste (Stromwärme, Kupferverluste) sinken auf null.
+
+Bei supraleitenden Magneten formen keine durch Polschuhe oder Jochenden nahezu festgelegten Äquipotentialflächen das Feld. Stattdessen müssen die Supraleiter in der Spule so angeordnet sein, dass die mittlere Stromverteilung in ihr proportional zum Cosinus des Winkels um die Strahlachse ist.
+
+Die für den Ablenkwinkel und damit den Bahnradius geladener Teilchenstrahlen entscheidende magnetische Flussdichte formula_1 im Luftspalt ergibt sich bei konstantem Querschnitt des magnetischen Weges (Joch + Luftspalt) annähernd zu:
+
+formula_2
+
+mit
+formula_3 - Magnetische Feldkonstante
+formula_4 - Permeabilitätszahl des Jochmaterials
+formula_5 - elektrischer Strom durch die Spule
+formula_6 - Windungszahl der Spule
+formula_7 - Luftspalt des Joches
+formula_8 - Eisenweg des Joches
+
+Daraus ist erkennbar, dass
+
+Erkennbar ist auch der große Einfluss des Luftspaltes. Der Luftspalt kann nicht beliebig klein gemacht werden, da er i. A. das Vakuumrohr für den Teilchenstrahl aufnehmen muss.
+Die (mit dem Quadrat des elektrischen Stromes zunehmende) Verlustwärme erfordert oft Wasserkühlung.
+
+Um den Wickelquerschnitt des Joches möglichst effektiv zu füllen, damit der Eisenweg möglichst kurz bleiben kann, werden statt runder Drähte oft Kupferbänder oder rechteckige Leiter eingesetzt.
+
+Der Ablenkwinkel eines Strahles geladener Teilchen ist proportional der Flussdichte und auch der Länge des durchflogenen Feldes - ein Grund, dass solche Magnete oft viele Tonnen wiegen und die Luftspalte riesige Kräfte entwickeln, die abgefangen werden müssen.

@@ -1,0 +1,64 @@
+Hauptinvariante
+
+Die Hauptinvarianten eines Tensors sind die Koeffizienten seines charakteristischen Polynoms.
+
+Die Komponenten eines Tensors referenzieren auf Dyaden von Vektoren, die sich ihrerseits komponentenweise bezüglich einer Vektorraumbasis darstellen lassen. Bei einem Wechsel der Basis ändern sich die Komponenten der Vektoren in charakteristischer Weise nicht aber die Beträge der Vektoren. Der Betrag eines Vektors ist also "invariant" gegenüber einem Wechsel der Basis. In gleicher Weise sind die Hauptinvarianten des Tensors invariant gegenüber einem Wechsel der Basis, daher der Name.
+
+Die Hauptinvarianten symmetrischer Tensoren spielen eine zentrale Rolle in der Materialtheorie. Eine wichtige Anforderung an Materialmodelle leitet sich daraus ab, dass ein bewegter Beobachter immer dasselbe Materialverhalten misst wie ein ruhender. Diese Eigenschaft wird "materielle Objektivität" genannt. Die Bewegung eines Beobachters wird mathematisch als Wechsel des Bezugssystems und somit als Wechsel der Vektorraumbasis beschrieben. Die Hauptinvarianten sind also Größen, die alle Beobachter in gleicher Weise wahrnehmen und die daher für die Materialmodellierung geeignet sind. Beispiele für Materialmodelle, die die Hauptinvarianten benutzen, sind das Hooke'sche Gesetz, die Hyperelastizität und Plastizitätstheorie.
+
+Die Darstellung erfolgt in drei Dimensionen für Tensoren zweiter Stufe, lässt sich aber in einfacher Weise auf mehr Dimensionen verallgemeinern.
+
+Gegeben sei ein Tensor zweiter Stufe formula_1. Dann lautet sein charakteristisches Polynom:
+
+Darin ist formula_3 die Determinante, formula_4 der Einheitstensor, formula_5 eine reelle oder komplexe Zahl und die Koeffizienten formula_6 sind die drei Hauptinvarianten
+
+Der Operator formula_8 liefert die Spur seines Arguments, formula_9 ist die Adjunkte und formula_10 der Kofaktor
+wobei letztere Identität nur gilt, wenn der Tensor invertierbar ist und mithin formula_12 ist.
+
+Für Tensoren zweiter Stufe ist die Addition und Multiplikation mit einem Skalar definiert weshalb die Menge aller Tensoren zweiter Stufe einen Vektorraum bildet, der Vektorraumbasen besitzt, die aus Dyaden bestehen, die sich wiederum mit dem dyadischen Produkt formula_13 zweier Vektoren berechnen. Sei formula_14 der Vektorraum der geometrischen Vektoren. Dann ist formula_15 der Vektorraum der Tensoren zweiter Stufe, die Vektoren aus formula_14 in den formula_14 abbilden. Bezüglich einer Vektorraumbasis des formula_15 kann jeder Tensor komponentenweise dargestellt werden und aus diesen Komponenten können die Hauptinvarianten berechnet werden, die ja unabhängig von der Wahl der Basis sind.
+
+Sei formula_19 die Standardbasis des formula_14 und
+
+ein Tensor mit den Komponenten formula_22 bezüglich dieser Standardbasis. Dann berechnet sich
+
+Seien formula_26 und formula_27 zwei beliebige Basissysteme des formula_14 und
+
+ein Tensor mit den Komponenten formula_30 bezüglich dieser Basen. Dann berechnet sich
+
+Das äußere Tensorprodukt # ist mittels Dyaden definiert über
+
+Mit diesem und dem Frobenius-Skalarprodukt „formula_35“ von Tensoren bekommen die drei Hauptinvarianten die Darstellungen
+
+Die Eigenwerte formula_37 eines Tensors zweiter Stufe sind die Lösungen formula_38 seines charakteristischen Polynoms und ebenfalls Invarianten. Nach dem Satz von Vieta gilt:
+
+Der Betrag eines Tensors
+
+definiert mit der Frobeniusnorm formula_41 und dem Frobenius-Skalarprodukt „formula_35“, lässt sich im Allgemeinen nicht mit den drei Hauptinvarianten darstellen. Es gelingt aber bei symmetrischen oder schiefsymmetrischen Tensoren. Bei symmetrischen Tensoren ist formula_43, d. h. der Tensor ist mit seiner transponierten identisch, und daher
+
+Bei schiefsymmetrischen Tensoren ist formula_45 und daher formula_46 und
+
+Die drei Hauptinvarianten lassen sich auch mit den Spuren der Potenzen eines Tensors darstellen, die ebenfalls Invarianten sind. Sei
+dann gilt
+
+In der Hyperelastizität wird die Formänderungsenergie, die aufgebracht werden muss um einen Körper zu verformen, manchmal als Funktion der Hauptinvarianten des Verzerrungstensors modelliert. Die Spannungen ergeben sich dann aus der Ableitung der Formänderungsenergie nach dem Verzerrungstensor, wofür die Ableitungen der Hauptinvarianten nach dem Verzerrungstensor benötigt werden. Daher lohnt es sich, diese Ableitungen bereitzustellen.
+
+Die Ableitung einer skalarwertigen Funktion formula_50 nach dem Tensor formula_1 ist der Tensor formula_52 für den gilt
+
+Man schreibt dann auch
+
+So berechnet sich:
+
+Wegen
+
+berechnet sich
+
+Die folgenden Beispiele zeigen die Benutzung der Hauptinvarianten in Materialtheorien und oft benutzten Materialmodellen:
+
+
+Es wird der Nachweis der Invarianz der Spur eines Tensors erbracht. Seien formula_26 und formula_73 zwei beliebige Basissysteme des formula_14 und
+
+Beim Wechsel zu anderen Basen formula_76 und formula_77 mit dualen Basen formula_78 und formula_79 berechnen sich die neuen Komponenten formula_80 gemäß
+
+Die Spur mit den neuen Komponenten formula_82 ergibt sich also zu
+
+was zu zeigen war.

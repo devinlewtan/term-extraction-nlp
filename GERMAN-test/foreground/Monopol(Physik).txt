@@ -1,0 +1,11 @@
+Monopol (Physik)
+
+Ein Monopol ("der Monopol, Betonung auf erster Silbe"; altgriechisch von μόνος (monos) = „allein“ und griech. πόλος pólos „Achse“, „Achsenpunkt“) als physikalischer Begriff ist ein einzelner Pol, beispielsweise eine elektrische Punktladung.
+
+Als erste Ordnung in der Multipolentwicklung eines Feldes beschreibt ein Monopol-Feld z. B. das elektrische Feld der auf einen Punkt reduzierten Gesamtladung einer elektrischen Ladungsverteilung. Das Monopolfeld zeichnet sich gegenüber den höheren Ordnungen durch seine Isotropie aus.
+
+Ein magnetischer Monopol ist ein hypothetisches Elementarteilchen oder ein Quasiteilchen in bestimmten Festkörpern, das sich wie ein einzelner Magnetpol verhält.
+
+In Yang-Mills-Theorien (Eichtheorien mit Eichgruppen, die nichtkommutative Elemente haben) werden einige stabile, durch topologische Invarianten gekennzeichnete Lösungen der Feldgleichungen ebenfalls als (magnetische) Monopole bezeichnet. Der Elektromagnetismus ist dabei nur ein Spezialfall einer formula_1-Theorie (Unitäre Gruppe); bei anderen formula_1-Theorien können durchaus Monopole für beide Äquivalente von elektrischen und magnetischen Feldern existieren.
+
+Manchmal wird eine Antennenbauform, bei der nur eine Hälfte einer Dipolantenne (meist senkrecht stehend) aus der Erde heraussteht, als „Monopol“ bezeichnet. Jedoch trifft hier die ebenfalls verwendete Bezeichnung „halber Dipol“ besser zu, da er die gleiche Richtcharakteristik hat. Eine Antenne ohne Richtwirkung ist der hypothetische Kugelstrahler.

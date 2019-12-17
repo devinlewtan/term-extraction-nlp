@@ -1,0 +1,9 @@
+Magnetische Polarisation
+
+Die magnetische Polarisation ist eine physikalische Größe aus dem Bereich der Elektrodynamik makroskopischer Medien. Sie kennzeichnet die magnetische Flussdichte innerhalb eines Magnetwerkstoffs abzüglich des Anteils des magnetischen Feldes im Vakuum. Sie wird daher auch als "intrinsische magnetische Flussdichte" bezeichnet. Ihr Formelzeichen ist formula_1. Sie wird im Internationalen Einheitensystem (SI) in der Einheit Tesla angegeben.
+
+Die magnetische Polarisation ist definiert als die Differenz der magnetischen Flussdichte B mit Materie und der magnetischen Flussdichte B im Vakuum bei der gleichen magnetischen Feldstärke formula_2:
+
+mit der magnetischen Feldkonstanten formula_4.
+
+formula_1 hängt zusammen:

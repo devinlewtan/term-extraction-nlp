@@ -1,0 +1,13 @@
+Blase (Physik)
+
+Eine Blase ist ein gasförmiger Körper innerhalb einer Flüssigkeit. Er ist von dieser durch eine in sich geschlossene Phasengrenzfläche getrennt. Das Komplement zur Blase ist der Tropfen (Flüssigkeit in Gas); siehe aber auch Antibläschen.
+
+Befinden sich Blase und Flüssigkeit in Ruhe zueinander, so ist die Blase kugelförmig. Bewegt sich die Blase gegenüber der Flüssigkeit, z. B. unter dem Einfluss der Schwerkraft, so plattet die Blase an der in Bewegungsrichtung liegenden Seite ab, und zwar mit der Geschwindigkeit zunehmend.
+
+Im kugelförmigen Fall lässt sich der Blaseninnendruck formula_1 berechnen aus
+
+Kleine Blasen haben deshalb einen hohen Innendruck.
+
+In strömenden, turbulenten oder siedenden Flüssigkeiten können sich Dampfblasen der jeweiligen Flüssigkeit dort bilden, wo der Dampfdruck den Umgebungsdruck übersteigt und außerdem die Oberflächenspannung überwinden kann. Gerät die Blase in einen Bereich mit anderem thermodynamischen Zustand, wo die o. g. Bedingungen nicht mehr vorliegen, so fällt die Blase durch Umgebungsdruck und Ober(Grenz-)flächenspannung unter Kondensation wieder zusammen. Durch die Trägheit der zusammenstürzenden Flüssigkeit kann an der Stelle, wo das Zentrum der Blase war, ein Bereich sehr hohen Drucks entstehen, welcher sich als Stoßwelle ausbreitet. Ist die Blase nur ein winziges bisschen abgeplattet und leicht asymmetrisch, so entsteht durch das Zusammenstürzen ein kumulativer Strahl mit dynamischen Drücken, die jedes Material zerstören können. 
+
+Dieser Vorgang wird als Kavitation bezeichnet und spielt u. a. bei der Auslegung von hydraulischen Anlagen, Rohreinbauten wie Pumpen oder Ventilen und bei Schiffspropellern eine wichtige Rolle.

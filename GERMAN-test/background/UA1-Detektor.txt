@@ -1,0 +1,51 @@
+UA1-Detektor
+
+Der UA1-Detektor war ein Teilchendetektor am Super Proton Synchrotron am CERN.
+
+Auf der Suche nach einem schnellen und kostengünstigen Weg zur Erzeugung der bis dahin unentdeckten W- und Z-Bosonen wurde im Jahr 1977 am CERN ein Vorschlag eingereicht, das gerade ein Jahr vorher in Betrieb gegangene Super Proton Synchrotron (SPS) in einen Protonen-Antiprotonen-Collider umzubauen, um so genügend Energie zur Erzeugung der neuen Teilchen zur Verfügung zu haben. Zum Nachweis der Teilchen wurden zwei Detektoren geplant, UA1 und UA2. Im Jahr 1978 wurden die Pläne zum Umbau des SPS und zum Bau des UA1-Detektors beschlossen. Die Entwicklung wurde von Carlo Rubbia geleitet.
+
+Das umgebaute SPS und die neuen Detektoren gingen im Juli 1981 in Betrieb.
+
+Im Jahr 1983 wurde die Beobachtung der W- und Z-Bosonen veröffentlicht, für die im darauf folgenden Jahr der Physik-Nobelpreis an Carlo Rubbia und Simon van der Meer vergeben wurden.
+
+Im Jahr 1987 wurde zur Steigerung der Luminosität des SPS um etwa Faktor 10 der „Antiproton Collector“ in Betrieb genommen.
+
+Mit dem UA1-Detektor beteiligte man sich an der Suche nach dem bis dahin nicht entdeckten Top-Quark. Der abgedeckte Energiebereich entsprach einer Quark-Masse von 60 GeV/c².
+
+Der Betrieb lief bis zum Jahr 1989.
+Nach dem Betriebsende des UA1-Detektors am SPS wurde der Magnet in den Jahren 1991 bis 1999 im NOMAD Neutrinooszillations-Experiment am CERN weiter genutzt. Im Jahr 2005 wurde beschlossen, den inzwischen im freien gelagerten Magneten für das T2K-Experiment zur Untersuchung der Neutrinooszillation dem J-PARC bei Tokai zu spenden.
+Der Magnet wurde inzwischen in Japan wieder aufgebaut.
+
+Der UA1-Detektor hatte die Abmessungen von etwa 6x6x10 m, wog ca. 2000 t und bestand aus mehreren konzentrisch um das Kollisionszentrum angeordneten Systemen.
+
+Ab dem Jahr 1985 verfügte der UA1-Detektor über eine Driftkammer innerhalb des zentralen Detektors, den Micro Vertex Detektor (MVD). Mit dem MVD konnten Teilchenspuren mit einer Genauigkeit von bis zu 65 µm rekonstruiert werden.
+
+Der MVD hatte einen Außendurchmesser von 18 cm, zentral hindurch führte das Strahlrohr aus Beryllium mit 5 cm Durchmesser und 1 mm Wandstärke.
+Die Kammer hatte eine Länge von 8 m und war mit einer Mischung aus 53 % Argon und 47 % Ethan bei 3 Bar befüllt. Die Drähte verliefen jeweils parallel zum Strahlrohr, wobei zur longitudinalen Ortsauflösung jeweils ein schneller Komperator zur Auswertung des Differenzsignals zwischen die beiden Enden der 256 Signaldrähte geschaltet war.
+
+Später wurden die Metallrohre des Detektors zur Verringerung der Streustrahlung durch Exemplare aus Kohlenstofffaser ersetzt.
+
+Die Zentrale Driftkammer diente der Rekonstruktion von Teilchenspuren und ermöglichte eine Ortsauflösung der Trajektorien von 100–300 µm. Die Funktionsweise der Driftkammer orientierte sich stark an den bis dahin üblichen Blasenkammern.
+
+Die zentrale Kammer war 6 m lang, hatte 2,2 m Außendurchmesser und war bei Umgebungsdruck mit 60 % Ethan und 40 % Argon gefüllt. Die Äußere Hülle hatte eine Dicke von 5 cm und war in Kunststoff-Sandwichbauweise gebaut. Durch den Zug der Drähte kam es zu einer Verformung der Hülle um 8 cm. Die korrekte Spannung jedes einzelnen Drahtes wurde wie beim Stimmen eines Klaviers eingestellt, indem der Draht mechanisch in Schwingung versetzt und auf die richtige Frequenz gestimmt wurde.
+
+6000 Signalaufnahmedrähte verliefen parallel zum magnetischen Feld, angeordnet in Ebenen und gleichmäßig verteilt in 25 m Kammervolumen.
+Der Abstand der Drahtebenen richtete sich nach der Driftgeschwindigkeit der Ionen und der Frequenz, mit der beim SPS Teilchenpakete zur Kollision gebracht werden. Die Wiederholungszeit des SPS betrug 3,8 µs, die maximale Driftzeit 3,6 µs und der Abstand der Drahtebenen 18 cm.
+
+Die Kammer kann seit dem Jahr 1999 im CERN-Museum Microcosm besichtigt werden.
+
+Kalorimeter dienen der Bestimmung von Teilchenenergien, dazu müssen die zu messenden Teilchen im Detektor absorbiert werden.
+
+Zu Betriebsbeginn im Jahr 1981 war der UA1-Detektor mit einem inneren elektronischen und einem äußeren hadronischen Kalorimeter ausgestattet. Die Kalorimeter waren aus Szintillatoren und Blei-Absorbern aufgebaut und über Faseroptiken mit oberhalb des Magnetkerns angeordneten Photomultipliern verbunden.
+
+Da 1984 in den Szintillatoren schon erhebliche Strahlenschäden erkennbar waren, wurde ein Ersatz durch strahlungsresistente Kalorimeter geplant, insbesondere da weitere Luminositätssteigerungen geplant waren. In den Jahren 1987 bis 1989 wurde der Detektor ohne die elektromagnetischen Kalorimeter betrieben, der Umbau auf die neuen Kalorimeter dauerte bis zum Jahr 1989.
+Die neuen Kalorimeter arbeiteten nach dem Prinzip einer Ionisationskammer und bestanden aus Schichten von 3,3 mm dicken, mit Tetramethyl-Pentan gefüllter Zellen, abwechselnd mit Schichten aus 2 mm abgereichertem Uran, eine äußere Kalorimeterschicht verwendete 5 mm dicke Uran-Absorberplatten.
+
+Mit den Kalorimetern wurde nahezu der gesamte Raum um das Kollisionszentrum herum verschlossen, lediglich ein Öffnungswinkel von 0.2° am Strahlrohr blieb unbeobachtet.
+
+Im UA1-Detektor wurde in einem Volumen von 80 m ein magnetisches Feld von 0,7 T senkrecht zur Strahlrichtung erzeugt. Die Wicklung des Magneten bestand aus Aluminium. In den Eisenkern wurden später großflächige Myonen-Detektoren eingebaut.
+
+Myonen können die Kalorimeter durchdringen und werden durch eine weitere Schicht Detektoren erfasst. Der gesamte Magnet war von mehrlagigen, zur zweidimensionalen Ortsbestimmung gekreuzten Myonen-Driftkammern umgeben.
+
+Ab Ende 1984 bis zum August 1985 wurde das Myonen-Detektierungssystem um zusätzliche Driftkammern mit einer Gesamtfläche von 800 m und 50000 Kanälen erweitert. Die neuen Kammern wurden dabei in den Eisenkern des Magneten eingebaut. Die Wände des Eisenkerns bestehen aus drei aufeinander genieteten Eisenblöcken von jeweils 20 cm Dicke, die Driftkammern wurden zwischen diesen Blöcken, und zusätzlich auf der Innenseite des Magneten angebracht. Mit den neuen Kammern war unter anderem eine Verfolgung der gekrümmten Flugbahn der Myonen im Eisenkern möglich. Die Auflösung des Systems lag zwischen 300 µm und 1,2 mm. Die Kammern wurden mit einem Füllgas aus 75 % Isobutan und 25 % Argon
+bei 5 mbar Überdruck betrieben.

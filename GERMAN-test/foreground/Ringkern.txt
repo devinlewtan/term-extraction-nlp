@@ -1,0 +1,66 @@
+Ringkern
+
+Als Ringkern bezeichnet man unter anderem einen magnetischen Kreis in Ringform. Aus geometrischer Sicht sind dies Toroide, Ronden, Rohrabschnitte bzw. kreisrunde Körper mit einem Loch in der Mitte. Zusammen mit Wicklungen bildet er ein induktives Bauteil wie z. B. eine Ringkernspule oder Ringkerntransformator.
+
+Alle anderen Kernformen haben durch ihre Teilbarkeit einen mehr oder weniger großen Luftspalt, so dass der Ringkern bezüglich der Ausnutzung der Materialeigenschaften als „ideal“ gilt. Je nach Magnetwerkstoff werden zur Feststellung der Materialeigenschaften häufig Ringkerne als Referenz herangezogen.
+
+Als Ringkern wird zudem ein Bestandteil am Aufzugsrad von mechanischen Uhrwerken bezeichnet. Auch im Bauwesen finden sogenannte Ringkerne Verwendung (etwa im Vierungsturm der Kathedrale von Salisbury).
+
+Ringkerne im Allgemeinen sind die Kernformen mit dem höchsten Wirkungsgrad. Sie schirmen sich in hohem Maß selbst ab, da sich die meisten der magnetischen Feldlinien im Inneren des geschlossenen Ringes befinden. Die Feldlinien sind im Wesentlichen über die gesamte Länge des magnetischen Pfades einheitlich parallel, so dass Störfelder nur sehr geringen Einfluss auf eine Ringkern-Spule haben werden. Es ist nur selten notwendig, Ringkern-Spulen abzuschirmen oder zu isolieren, um Rückkopplung oder Übersprechen zu verhindern. Ringkern-Spulen haben ganz einfach "kein Bedürfnis, miteinander zu sprechen".
+
+Für weiterführende Berechnungen bei Ringbandkernen sind die räumlichen Dimensionen notwendig. Als kennzeichnende Größen besitzt der Ringkern einen Außendurchmesser "da", einen Innendurchmesser "di" sowie eine Höhe "h" und folgende physikalische Parameter:
+
+
+mit den Zusammenhängen:
+
+Erläuterung: Der Eisenfüllfaktor η stellt das Verhältnis zwischen magnetischem Kernquerschnitt zu geometrischem Kernquerschnitt dar. (typischer Wert für Ringbandkerne: 75–90 %)
+
+Diese Kernform wird durch das Pressen von Pulver in ein ringförmiges Werkzeug erzeugt. Die gepressten sogenannten „Grünlinge“ werden in nachfolgenden Temperaturbehandlungen verfestigt und im Fall von Ferritwerkstoffen bei hoher Temperatur zu einer Keramik gesintert. Anschließend folgen Verfahren zur Entgratung und ggf. zur Beschichtung mit Lack oder Kunststoff zur Isolation.
+
+Alle Pulverwerkstoffe haben den Nachteil der Brüchigkeit, sodass derartige Ringkerne bei kräftigen Stößen häufig Risse bekommen, ihre Eigenschaften verlieren und im Extremfall zerreißen.
+Vorteil dieser Kerne sind deren geringe Fertigungskosten und die verrundeten Kanten, was die nachfolgende Bewicklung vereinfacht.
+
+Während Ferritkerne ein ausgesprochen steiles Sättigungsverhalten zeigen, sind Pulverkerne aus Eisen- oder anderen magnetischen Pulvern (Kobalt, Nickel usw.) dadurch gekennzeichnet, dass in ihnen die einzelnen Pulverkörner weiterhin voneinander durch eine nichtmagnetische Schicht getrennt vorliegen. Dadurch besteht ein sogenannter verteilter Luftspalt, der hohe Sättigungsinduktionen sowie einen weichen Einsatz der Sättigung bewirkt.
+
+Grundsätzlich sind Eisenpulver-Ringkerne für schmalbandige Anwendungen geeignet während Ferrit-Ringkerne für breitbandige Anwendungen benutzt werden.
+
+Die Herstellung von gewickelten Kernen aus Bandmaterial führte zu der Bezeichnung Ringbandkerne (RBK). Diese werden aus kristallinen Bändern z. B. aus kornorientiertem Elektroband oder NiFe-Werkstoffen sowie aus amorphen und nanokristallinen Legierungen hergestellt. Hierbei wird das Bandmaterial auf einem metallischen Zylinder befestigt und dann bis zur Sollstärke aufgewickelt. Nachdem das Ende ebenfalls befestigt wurde, erhält man nach dem Herausziehen des zylindrischen Wickeldornes den Ringbandkern.
+Je nach Legierung erfolgt dann eine Wärme- bzw. Feldwärmebehandlung in einem Ofen, um die optimalen Magneteigenschaften einzustellen. Banddicken zwischen 0,006 mm und 0,3 mm sind typisch.
+Zur Verminderung der Wirbelstromverluste werden die Bänder meistens mit einer möglichst dünnen Isolationsschicht ausgestattet. 
+
+Zum Schutz des RBK vor mechanischen Belastungen sowie zum Schutz des Wickeldrahtes vor den scharfen Kanten ist eine nachfolgende Isolation bzw. Umhüllung notwendig. Übliche Verfahren sind: Lackieren, Beschichten z. B. mit Epoxidpulver, Einlegen in Kunststoffgehäuse (Tröge) mit Deckel.
+
+Gegenüber anderen Ringkernen kann ein Ringbandkern im Prinzip beliebig groß hergestellt werden. Ringbandkerne mit einem Außendurchmesser von über zwei Metern werden zum Beispiel in Teilchenbeschleunigern verwendet.
+
+Für Sonderanwendungen sind sogenannte Mischkerne aus verschiedenen Legierungen hergestellt worden.
+
+Alternativ zum gewickelten Bandkern sind auch Stanzscheibenkerne am Markt. Die Stanzringscheiben werden meist als Kernpakete gestapelt in Schutztrögen geliefert.
+
+Die bei Pulverkernen eingebaute innere Scherung kann bei Bandkernen durch das Einbringen eines Luftspaltes erzeugt werden. Diese Technik erhöht deutlich die Gleichstromvorbelastbarkeit und wird häufig bei Speicherdrosseln und Speicherübertragern eingesetzt.
+
+Eine andere Anwendung für geschlitzte Ringkerne ist die Strommessung. Im Spalt eines Ringkerns kann über die Auswertung der Feldstärke z. B. mit Hilfe einer Hallsonde der Strom berührungslos und potentialfrei gemessen werden, der durch einen Leiter im Innenloch des Kerns fließt. (Stromsensor)
+
+Zur Herstellung von induktiven Bauteilen wie Transformatoren, Übertrager, Drosseln usw. ist die Bewicklung der Ringkerne mit einem Leiter notwendig. Für die Wicklung kommt überwiegend Kupferlackdraht zum Einsatz.
+Für Ringkerne hat sich durch die geometrischen Besonderheiten eine eigenständige Bewickeltechnik etabliert. 
+
+Bei geringen Windungszahlen und auch bei sehr kleinen Ringkernen erfolgt die Bewicklung per Hand. Hierbei werden je nach Drahtlänge und Drahtstärke Hilfsmittel wie Nähnadeln oder Magazine bzw. Schiffchen benutzt.
+
+1. Ringkernwickelmaschinen sind seit über 50 Jahren etablierte Fertigungsanlagen. Am weitesten verbreitet sind die halbautomatischen Maschinen, bei denen jeweils ein Bediener notwendig ist.
+Der Kern wird dabei in ein teilbares Magazin eingelegt und der Wickeldraht auf das Magazin aufgespult. Danach erfolgt die Abwicklung des Drahtes vom Magazin auf den Ringkern, wobei der Kern in einer Aufnahme langsam um die eigene Achse gedreht wird. Je nach Kerngröße und entsprechend dünnem Draht sind Bewicklung von 5000 Windungen und mehr möglich.
+Relativ teuer und entsprechend selten sind vollautomatische Ringkernwickelmaschinen.
+
+2. Für geringere Windungszahlen und größere Drahtstärken sind auch Häkelnadelmaschinen bekannt. Hierbei wird der Kern horizontal von außen gehalten, und eine in z-Achse bewegliche Häkelnadel taucht von unten durch das Innenloch des Kerns und zieht die komplette Drahtlänge mit sich.
+
+Stromkompensierte Drosseln werden für Standard-Anwendungen mit Ferrit-Ringkernen und für hohe Entstörwirkungen bzw. hohe Impedanzen mit nanokristallinen Ringkernen aufgebaut. Sie tragen hierzu zwei gleichartige Wicklungen. Eine Sonderform dieser Drosseln sind auf Kabel aufgeschobene Rohrkerne, Ringe oder Perlen, die der Entstörung bei sehr hohen Frequenzen dienen.
+
+Auch kleine Übertrager und Stromwandler für hohe Frequenzen werden aus Ringkernen hergestellt. Hierfür sind z. B. auch sogenannte Doppellochkerne aus Ferrit in Gebrauch.
+
+Eine historische Anwendung sind die Kernspeicher, die mit hartmagnetischen Ferritringen arbeiten.
+
+Speicherdrosseln in Schaltnetzteilen sowie nicht stromkompensierte Entstördrosseln werden oft aus Pulverringkernen oder amorphen und nanokristallinen Ringbandkernen hergestellt.
+
+Fehlerstrom-Schutzschalter (FI-Schutzschalter) sowie die elektronische DI-Schalter, Stromwandler u. a. für Stromzähler sowie Stromsensoren für Gleichstrom verwenden Ringbandkerne aus nanokristallinem Material. Für spezielle Sensoranwendungen sind aufwändig geschlitzte Kerne im Einsatz.
+
+Ringkern-Netztransformatoren (Ringkerntransformator) u. a. für Niedervolt-Halogenglühlampen werden aus texturiertem (kornorientiertem) Elektroblech hergestellt. Sie arbeiten mit Flussdichten von etwa 1,5 Tesla und haben ein steiles Sättigungsverhalten, was deren hohe Einschaltstromstöße verursacht. Da Ringkern-Netztransformatoren keinen fertigungsbedingten Luftspalt haben, werden sie bevorzugt eingesetzt wenn ein geringes magnetisches Streufeld gefordert ist, zum Beispiel in Audioverstärkern.
+
+Entstördrosseln, Stromkompensierte Drosseln (CMC), Schnittstellenübertrager zum Beispiel im Bereich der Nachrichtentechnik wie bei ISDN, ADSL, LAN usw. verwenden oft ebenfalls Ringbandkerne.

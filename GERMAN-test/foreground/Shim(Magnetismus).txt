@@ -1,0 +1,9 @@
+Shim (Magnetismus)
+
+Ein Shim (engl. "shim": Keil, Ausgleichsstück) ist eine Vorrichtung zur Homogenisierung von Magnetfeldern. Der Begriff stammt aus dem Englischen und bedeutet ursprünglich Unterlagsscheibe oder Keil. Von den rein mechanischen Mitteln, mit denen man einst die Position und Parallelität der Polschuhe eines Elektromagneten eingestellt hat, wurde der Begriff „electrical current shims“ für stromdurchflossene Spulen abgeleitet, welche dieselbe Funktion übernommen haben. Das erreichen sie, indem sie Magnetfelder erzeugen, die deutlich schwächer sind als das zu homogenisierende Feld, mit dem sie überlagert werden.
+
+Die Hilfsspulen werden dazu so konstruiert, dass ihre Felder in der Probe mit einfachen Kugelflächenfunktionen beschrieben werden können, da Störfelder, deren Ursache räumlich entfernt von der Probe liegen, in ihr ebenfalls (näherungsweise) die Form solcher Kugelflächenfunktionen niedriger Ordnung haben.
+
+Beim Shimmen werden die Inhomogenitäten des Magnetfeldes beseitigt, indem zusätzliche Spulen (aktives Shimmen) oder magnetisierte Eisenteile (passiv) geeignet angebracht werden. Die so erzeugten Korrekturfelder überlagern das Feld der Hauptspule und homogenisieren es.
+
+Zum korrekten Betrieb eines Magnetresonanztomographen, vorrangig aber bei deutlich stärkeren Geräten zur wissenschaftlichen Forschung werden Shims verwendet.

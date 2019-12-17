@@ -1,0 +1,25 @@
+Landauer-Prinzip
+
+Das Landauer-Prinzip ist eine 1961 von Rolf Landauer formulierte Hypothese, die die Informationstheorie mit der Thermodynamik und der statistischen Physik verknüpft. Sie besagt, dass das Löschen eines Bits an Information zwangsläufig die Abgabe einer Energie von
+in Form von Wärme an die Umgebung bedeutet.
+
+Dabei ist
+
+Landauers Thesen sind von erheblicher theoretischer Tragweite und bilden einen Schlüsselbaustein für eine Reihe weitergehender Theorien, z. B. bei Grundlagenarbeiten zu Quantencomputern.
+
+Durch das Landauer-Prinzip besteht für irreversibel arbeitende Computer, wie es heute fast alle sind, eine theoretische Untergrenze der Verlustleistung; in der Praxis liegt diese bis auf Weiteres um Größenordnungen höher.
+
+Unterschreiten lässt sich diese Grenze nur mit grundlegenden technischen Neuerungen wie Quantencomputern oder reversibel arbeitenden Computern nach Charles H. Bennett. Letztere sind unmittelbar vom Landauer-Prinzip abgeleitet. Um ein Löschen von Information zu vermeiden, laufen sie nach dem Ende einer Berechnung rückwärts wieder in den Anfangszustand zurück. Dazu müssen vom logischen Gatter bis zur Programmiersprache alle Elemente reversibel neu entwickelt werden.
+
+Ebenfalls von Charles Bennett vorgeschlagen wurde die Interpretation des Maxwellschen Dämons mit dem Landauer-Prinzip. Aus der oben angegebenen Formel für den Energieverlust folgt unmittelbar für die beim Löschen eines Bits abgegebene Entropie:
+Diese Entropie wird durch das Überschreiben, also das implizite Löschen des Gedächtnisses des Dämons für die Geschwindigkeit der anfliegenden Teilchen, freigesetzt. Die dadurch verursachte Entropieerhöhung hebt die durch seine Sortiertätigkeit verursachte Verringerung genau auf.
+
+Positive Unterstützung finden Landauers Thesen in den theoretischen Arbeiten des amerikanischen Physikers Edwin Thompson Jaynes.
+
+Kritik wurde von der Wissenschaftsphilosophin Orly Shenker geäußert, der zufolge Landauer unzulässig den thermodynamischen und den informationstheoretischen Entropiebegriff vermengte.
+
+Auf theoretischer Ebene konnte gezeigt werden, dass durch Verschränkung und Quanteninformation eine Verletzung des Landauer-Prinzips möglich ist in Abhängigkeit von dem Wissen, das ein Beobachter schon über das System hat.
+
+Eine erste experimentelle Bestätigung von Landauers Thesen wurde im März 2012 durch Physiker aus Augsburg, Lyon und Kaiserslautern präsentiert. In ihrem Experiment wurde eine Mikro-Glaskugel in einem durch fokussiertes Laserlicht erzeugten Doppelmuldenpotential betrachtet, wobei 1 Bit Information der Position in der einen Mulde, 0 Bit der Position der Kugel in der energetisch tieferen Mulde entsprach.
+
+Auf Quantenebene konnte der Effekt von einer chinesischen Arbeitsgruppe an einem auf wenige Mikrokelvin abgekühlten Kalziumatom in einer Magnetfalle nachgewiesen werden.

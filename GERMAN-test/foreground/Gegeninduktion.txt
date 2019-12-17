@@ -1,0 +1,39 @@
+Gegeninduktion
+
+Die Gegeninduktion oder induktive Kopplung ist die gegenseitige magnetische Beeinflussung zweier oder mehrerer räumlich benachbarter elektrischer Stromkreise durch die elektromagnetische Induktion infolge einer Änderung des magnetischen Flusses Φ. Die Gegeninduktion ist Grundlage vieler technischer Geräte, das wichtigste ist dabei der Transformator. In anderen Fällen kann sie ein unerwünschter Effekt sein, wie im Bereich der elektromagnetischen Verträglichkeit.
+
+Verwandte Kopplungsarten stellen in diesem Zusammenhang die kapazitive Kopplung, galvanische Kopplung und die Strahlungskopplung dar.
+
+Eine stromdurchsetzte (erste) Leiterschleife bewirkt, abhängig von ihrer Geometrie, die Erzeugung einer magnetischen Flussdichte "B" in ihrer räumlichen Umgebung. Diese ist aufgrund des Biot-Savart-Gesetzes direkt proportional zum Momentanwert der Stromstärke:
+
+Der magnetische Fluss Φ, der die Schleife 2 mit der Fläche formula_2 durchflutet, berechnet sich als
+
+was der Summe aller Skalarprodukte aller infinitesimal kleinen Flächenvektoren formula_4 mit den magnetischen Flussdichtevektoren formula_5, die diese Flächenstücke formula_4 durchsetzen, entspricht.
+
+Doch die eigentliche Erkenntnis von Faraday im Induktionsgesetz war, dass nicht der Fluss formula_7 selbst, sondern die zeitliche Veränderung des Flusses, formula_8, für die Induktion verantwortlich ist. Somit lässt sich für die Gegeninduktivität formula_9 (auch als „"Koppelinduktivität"“ bezeichnet) analog zur Selbstinduktion formula_10 folgende Gleichung herleiten:
+
+Aufgrund dieser Definition kann die Gegeninduktivität als Verallgemeinerung der Selbstinduktivität angesehen werden. Sie wird, wie diese, in der SI-Einheit Henry [H] angegeben.
+
+Eine wesentliche Eigenschaft ist die Symmetrie der Flussverkettungen: Die Gegeninduktivität vom System 1 auf System 2 ist gleich groß wie für den umgekehrten Fall:
+
+Diese Beziehung erleichtert in vielen Fällen die praktische Berechnung von Flussverkettungen. So kann beispielsweise leicht ein Ausdruck für die Flussverkettung einer langen Spule mit einer kleineren, konzentrisch angebrachten Empfängerspule berechnet werden. Der umgekehrte Fall, nämlich die Verkettung des Flusses der kleinen mit der großen Spule würde ohne Kenntnis der obigen Relation vermutlich auf erhebliche analytische Schwierigkeiten stoßen. Die beschriebene Symmetrie, welche auch als magnetisches Reziprozitätstheorem bezeichnet wird, kann mit den mathematischen Mitteln der Vektoranalysis unter Zuhilfenahme der Maxwell-Gleichungen bewiesen werden.
+
+Das Magnetfeld B kann als Rotation eines Vektorpotentials ausgedrückt werden:
+
+Der magnetische Fluss durch die zweite Leiterschleife wird dann (formula_14 bezeichnet ein infinitesimales Flächenelement)
+
+Nun kann aber das Vektorpotential formula_2 auf das Linienintegral des Stroms formula_17 in der ersten Leiterschleife zurückgeführt werden (dies ist eine andere Schreibweise für das Biot-Savart-Gesetz):
+
+Dies eingesetzt in die vorletzte Gleichung, ergibt:
+
+formula_9 wird daher
+
+Im Anwendungsbereich der Elektromagnetischen Verträglichkeit (EMV) wird die Gegeninduktivität auch als "magnetische Kopplung" oder als "induktive Kopplung" bezeichnet und beschreibt die, im Regelfall unerwünschte, magnetische Kopplung benachbarter elektrischer Stromkreise. Der vom Strom in einem Stromkreis verursachte magnetische Fluss, wie in nebenstehender Schaltskizze beispielsweise der Stromkreis bestehend aus der Wechselspannungsquelle "U", verursacht durch magnetische Kopplung in den zweiten Stromkreis, dargestellt mit der Wechselspannungsquelle "U", eine zusätzliche induzierte Quellenspannung, welche in diesem Stromkreis als unerwünschte Störung auftreten kann.
+
+Die Modellierung kann dabei je nach Zweckmäßigkeit als Feldmodell (A) mit dem veränderlichen magnetischen Feld, oder dazu gleichwertig im Bereich der Netzwerktheorie mit Hilfe der Gegeninduktivität "M" erfolgen, wie es in der rechten Abbildung im Fall (B) dargestellt ist. Die gegeninduzierte Spannung formula_22 in die zweite Leiterschleife, welche durch den Strom formula_23 aus der ersten Leiterschleife bedingt ist, beträgt:
+
+Aufgrund der Symmetrie ist eine Gegeninduktivität "M" ein reziproker Vierpol.
+
+Durch die höhere Energiedichte des magnetischen Feldes im Vergleich zu dem elektrischen Feld kann mittels induktiver Kopplung auch eine relativ hohe Leistungsübertragung bei mittleren Frequenzen erreicht werden. Dieser Umstand wird bei Transformatoren oder auch elektrischen Antrieben wie dem Spaltmotor ausgenutzt.
+
+Im Bereich der Nachrichtenübertragung wird die induktive Kopplung im Rahmen der induktiven Übertragung ausgenutzt, beispielsweise bei der kontaktlosen Signalübertragung eines Sensorsignals zwischen Sensor und Anzeigegerät oder Kontaktlosen Chipkarten, den sogenannten RFID.

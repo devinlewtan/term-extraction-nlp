@@ -1,0 +1,11 @@
+Vibrating Sample Magnetometer
+
+Ein (VSM, engl., dt. "Magnetometer mit vibrierender Probe") ist ein Magnetometer zur Bestimmung magnetischer Eigenschaften (bspw. des magnetischen Moments) einer Probe. Dem Funktionsprinzip, bei dem die zu untersuchende Probe in periodische Schwingungen versetzt und die so induzierte Spannung gemessen wird, liegt eine Veröffentlichung von Simon Foner aus dem Jahr 1959 zugrunde.
+
+Der schematische Aufbau eines Vibrating Sample Magnetometers ist in nebenstehender Abbildung zu sehen. Die Probe, deren magnetische Eigenschaften vermessen werden sollen, ist an einem Probenhalter befestigt und wird in einem möglichst homogenen Magnetfeld positioniert. Der Probenhalter selbst sollte eine geringe Magnetisierung aufweisen, um das Messergebnis nicht zu verfälschen. Das Magnetfeld wird von einem Elektromagneten erzeugt. Ein Aktor oder Piezo-Element versetzt den Probenhalter und die daran befestigte Probe in periodische Schwingungen. Ursprünglich wurden hierzu Lautsprecher eingesetzt.
+
+Die periodische Schwingung der magnetischen Probe führt nach dem Faradaygesetz zu einer Änderung des magnetischen Flusses, die mit Pickup-Spulen und einem Lock-in-Verstärker gemessen wird. Eine Referenz-Messung einer Probe mit bekannten Eigenschaften kann zur Kalibrierung des Geräts genutzt werden. Zur Bestimmung von richtungs- oder winkelabhängigen Eigenschaften oder zur Verbesserung der Messgenauigkeit können auch mehrere Pickup-Spulen-Paare eingesetzt werden.
+
+Die Verwendbarkeit des VSM ist auf verhältnismäßig kleine Proben begrenzt, weil diese nicht aus dem homogenen Bereich des Magnetfelds herausragen sollten. Das führt oft dazu, dass eine Entmagnetisierungskorrektur durchgeführt werden muss, die den Einfluss der magnetischen Oberflächenladungen kompensiert, um die intrinsischen Eigenschaften des Materials korrekt zu bestimmen.
+
+Die Probe kann statt in Vibration auch in Rotation versetzt werden. Falls Proben empfindlich auf Rotation, Schütteln oder Beschleunigung allgemein reagieren, können stattdessen auch die Pickup-Spulen in Bewegung versetzt werden. Man spricht in diesem Fall von "Vibrating Coil" oder "Rotating Coil" Magnetometern.

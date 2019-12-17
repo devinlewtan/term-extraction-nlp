@@ -43,7 +43,7 @@ echo "use previous saved pickle file for terms ${13}"
 
 ## Step 1: Finding inline terms for foreground files
 echo "Running Step 1: finding inline terms for foreground files"
-TERMOLATOR=${9:-$TERMOLATORPATH}
+## TERMOLATOR=${9:-$TERMOLATORPATH}
 
 $TERMOLATOR/make_io_file.py $1 $4.internal_foreground_abbr_list .abbr
 $TERMOLATOR/make_io_file.py $2 $4.internal_background_abbr_list .abbr

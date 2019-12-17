@@ -1,0 +1,24 @@
+Population (Astronomie)
+
+In der Astronomie wird mit Population oder Sternpopulation () eine Untermenge von Sternen in einer Galaxie bezeichnet, die eine ähnlich große Metallizität (ein ähnliches Alter) aufweisen.
+
+Die Klassifikation geht auf Walter Baade (1944) zurück. Sie ist nützlich für die Beschreibung von Spiralgalaxien wie der Milchstraße, auch wenn das heutige Bild dieser Objekte wesentlich komplexer ist. Obschon der Zeitpunkt der Entstehung ein Charakteristikum einer Population ist, korrespondiert die sie bezeichnende römische Zahl (I, II oder III) "nicht" mit der Reihenfolge ihrer Entstehung bzw. ist genau umgekehrt.
+
+
+Heute unterscheidet man aufgrund genauerer Messergebnisse im Wesentlichen fünf Populationen.
+
+Das Alter dieser Sterne liegt unter 100 Mio. Jahren. Solche jungen Sterne befinden sich häufig in Spiralarmen und irregulären Galaxien und dort in diffusen Nebeln, Reflexionsnebeln, offenen Sternhaufen und Sternassoziationen.
+
+Sterne dieser Population, zu der auch die Sonne gehört, haben bis auf ihr fortgeschritteneres Alter ähnliche Charakteristika wie die der extremen Population I.
+
+Sterne dieser größten Population haben ein mittleres Alter. Die meisten Sterne unserer Milchstraße gehören ihr an, denn sie stellen den Großteil der galaktischen Scheibe und des galaktischen Zentrums dar.
+
+Dies ist eine kleinere Gruppe, die vor allem im galaktischen Zentrum vorherrscht. Zu dieser Gruppe zählen vor allem die Schnellläufer, die sich mit Geschwindigkeiten von über dreißig Kilometern pro Sekunde senkrecht zur galaktischen Ebene bewegen.
+
+Dies sind Sterne mit einem Alter von über sechs Milliarden Jahren. Sie befinden sich überwiegend in Kugelsternhaufen und elliptischen Galaxien. Sehr wichtige Mitglieder sind die Unterzwerge und die RR-Lyrae-Sterne.
+
+HD 140283 ist ein Stern im Sternbild Libra. Er ist einer der nächstgelegenen Sterne der Population II. Mithilfe des Hubble-Weltraumteleskops wurde die Entfernung zu ihm auf 190 Lichtjahre bestimmt und das Alter – mit einer Genauigkeit von ± 800 Millionen Jahren – auf etwa 14,5 Milliarden Jahre abgeschätzt.
+
+Davor war der älteste Stern der 2014 entdeckte (Sky Mapper Telescope, Siding-Spring-Observatorium, Australian National University, und danach Magellan), SMSS J031300.36-670839.3 (SM0313) mit einem Alter von 13,6 Milliarden Jahren, entstanden also nur rund 100 bis 200 Millionen Jahren nach dem Urknall. Er befindet sich nur 6000 Lichtjahre entfernt in unserer Galaxie. Er gehört zur Population II, sein Alter ist daran erkennbar, dass er kaum Eisen enthält (weniger als ein Zehnmillionstel der Konzentration in der Sonne) und nur sehr wenig andere schwere Elemente, nur Wasserstoff, Helium, etwas Kohlenstoff, Lithium, Magnesium und Calcium.
+
+Da er aus Supernovaüberresten der ersten Sterngeneration entstand (die bisher nicht beobachtete Population III), hatten Astronomen eigentlich einen höheren Eisenanteil erwartet und werten das als Hinweis darauf, dass die ersten Supernovaexplosionen relativ wenig Energie freisetzten und der überwiegende Teil der schweren Elemente in den dabei entstandenen schwarzen Löchern verschwand. Aus dem relativ hohen Zinkanteil in HE 1327-2326 folgerten Anna Frebel und Kollegen 2019 jedoch, dass die ersten Sterne in sehr asymmetrischen Supernovaexplosionen ihr Ende fanden und auf diese Weise doch relativ große Mengen an schwereren Elementen verteilt worden sein konnten.

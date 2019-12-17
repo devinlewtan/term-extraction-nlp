@@ -1,0 +1,15 @@
+Masse-Leuchtkraft-Beziehung
+
+Eine Masse-Leuchtkraft-Beziehung stellt einen Zusammenhang dar zwischen der Masse eines Objektes, beispielsweise eines Sterns, und seiner Leuchtkraft. Dieser Zusammenhang kann verwendet werden zur Abschätzung der Masse eines Sterns allein aus der Beobachtung seiner Leuchtkraft.
+
+Alternativ zur Leuchtkraft kann auch die Effektivtemperatur oder der Spektraltyp eines Sterns verwendet werden, die meist einfacher zu bestimmen sind.
+
+Für Hauptreihensterne ist die empirisch bestimmte Masse-Leuchtkraft-Beziehung gut bekannt. Zum ersten Mal beschrieben wurde sie 1926 in dem Buch „"The Internal Constitution of Stars"“ (der innere Aufbau der Sterne) von Sir Arthur Stanley Eddington:
+
+Die Beziehung gilt nur für Hauptreihensterne und lässt sich "nicht" einfach auf Riesensterne oder Braune Zwerge übertragen.
+
+Die Masse-Leuchtkraft-Beziehung bedeutet konkret, dass ein Stern mit doppelter Sonnenmasse die 11,3-fache Leuchtkraft der Sonne hat; ein Stern mit 4 Sonnenmassen ist schon 128 mal so hell wie die Sonne. Diese starke Abhängigkeit bewirkt, dass massereiche Sterne eine sehr viel kürzere Verweildauer („Lebenszeit“) auf der Hauptreihe haben als massearme, da ihr Kernbrennstoff viel schneller verbraucht wird.
+
+Der Exponent der Masse-Leuchtkraft-Beziehung (hier also der Wert 3,5) ergibt sich aus der Anpassung der Beziehung an Messdaten. Mit Hilfe der Grundgleichungen des Sternaufbaus lässt sich ebenfalls eine Masse-Leuchtkraft-Beziehung ableiten; dabei erhält man einen Wert von 3 für den Exponenten. 
+
+Die so erhaltene Relation stellt allerdings keine exakte Lösung der Gleichungen dar, sondern lediglich eine Abschätzung und stimmt in Anbetracht dessen recht gut mit der beobachteten Masse-Leuchtkraft-Beziehung überein. Die Ableitung der Beziehung aus den Grundgleichungen des Sternaufbaus (im Grunde werden dabei nur Mittelwerte betrachtet) setzt übrigens eine gewisse Ähnlichkeit (Homologie) des Aufbaus von Sternen mit verschiedenen Massen voraus. Die Bestätigung der Beziehung durch Beobachtungen lässt also schon gewisse Rückschlüsse auf das Innere der Sterne zu.

@@ -1,0 +1,11 @@
+Ettingshausen-Nernst-Effekt
+
+Unter dem Namen Ettingshausen-Nernst-Effekt oder auch Nernst-Ettingshausen-Effekt sind zwei physikalische Effekte bekannt, die in der Elektrodynamik, Festkörperphysik und Thermodynamik betrachtet werden. Sie gehören zu den thermomagnetischen Erscheinungen. Der Erste Ettingshausen-Nernst-Effekt ist auch als Nernst-Effekt bekannt.
+
+Als "1. Ettingshausen-Nernst-Effekt" oder "Nernst-Effekt". bezeichnet man das Phänomen, dass bei der Einwirkung eines Magnetfeldes auf einen Wärmestrom in einem elektrischen Leiter senkrecht zum Wärmestrom und senkrecht zum Magnetfeld eine elektrische Spannung entsteht. Dies stellt das thermische Analogon zum Hall-Effekt dar. 
+
+Der "2. Ettingshausen-Nernst-Effekt" betrifft die Erscheinung, dass bei der Einwirkung eines Magnetfeldes auf einen Wärmestrom in einem elektrischen Leiter eine longitudinale Potentialdifferenz (Spannung) entsteht. Die longitudinalen Effekte sind aus Symmetriegründen nicht von der Richtung des Magnetfelds abhängig und damit quadratisch in der Magnetfeldstärke.
+
+Die Effekte sind benannt nach den Physikern Albert von Ettingshausen und Walther Nernst, der 1886 als Student bei v. Ettingshausen in Graz auf diesem Gebiet forschte und die Thematik 1887 in seiner Doktorarbeit bei Friedrich Kohlrausch in Würzburg vertiefte. 
+
+Die beiden Ettingshausen-Nernst-Effekte sind vom „Ettingshausen-Effekt“ sowie von einem weiteren „Nernst-Effekt“ zu unterscheiden, die galvanomagnetische Effekte sind.

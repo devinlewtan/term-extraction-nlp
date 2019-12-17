@@ -1,0 +1,9 @@
+Kristallit
+
+Kristallite sind Kristalle, die die eigentliche Kristallform nicht oder nur teilweise abzeichnen. In der Metallkunde und Petrographie werden Kristallite auch als Korn bezeichnet. 
+
+Kristallite entstehen, wenn Kristalle in einer Schmelze erstarren, in der sie von umliegenden Kristallen am freien Wachstum gehindert werden. Sie erstarren zu einem polykristallinen Gefüge mit einer meist mikroskopisch kleinen Korngröße. Die benachbarten Kristallite eines Polykristalls unterscheiden sich in der Orientierung ihrer Kristallstruktur.
+
+Auf Gefügeschliffbildern von polierten und mit Säure behandelten Metall- oder Gesteinsproben sind die als Korngrenzen bezeichneten Übergänge von einem Kristallit zum nächsten als dunkle Linien oder Farbwechsel zu erkennen.
+
+Die technische Bedeutung von Kristalliten ist hoch, so haben sie einen entscheidenden Einfluss auf das Kriechen von Werkstoffen insbesondere bei Hochtemperaturanwendungen und behindern die Ausbreitung von Versetzungen, was in der Feinkornhärtung ausgenutzt wird.

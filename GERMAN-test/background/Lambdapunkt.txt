@@ -1,0 +1,7 @@
+Lambdapunkt
+
+Der Lambdapunkt bezeichnet eine druckabhängige Temperatur, deren Unterschreiten eine Flüssigkeit in den suprafluiden Zustand versetzt.
+
+Der Lambdapunkt hat seinen Namen von dem Graphen, der entsteht, wenn man die spezifische Wärmekapazität als Funktion der Temperatur aufträgt. Die Form des Graphen ähnelt dem griechischen Buchstaben Lambda „λ“, wobei die spezifische Wärmekapazität am Lambdapunkt den Wert "unendlich" annimmt.
+
+Das häufigste Helium-Isotop, He ("im suprafluiden Zustand auch Helium II genannt"), wird bei einem Druck von 5036 Pa unterhalb einer Temperatur von 2,1768 K suprafluid. Darüber hinausgehend konnte bisher lediglich bei He und Li Suprafluidität bei Unterschreitung des Lambdapunktes beobachtet werden.

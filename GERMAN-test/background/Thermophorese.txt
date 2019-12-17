@@ -1,0 +1,36 @@
+Thermophorese
+
+Als Thermophorese, Thermodiffusion oder Ludwig-Soret-Effekt wird in den Naturwissenschaften die Bewegung von Teilchen aufgrund eines Temperaturgradienten innerhalb eines Fluids bezeichnet. Benannt ist der Effekt nach dem deutschen Physiologen Carl Ludwig (1856) und dem Schweizer Physiker und Chemiker Charles Soret (1879), die das Phänomen beschrieben. In den meisten Fällen erfolgt die Bewegung von heiß nach kalt, jedoch ist, abhängig von der Art der Teilchen und des Fluids, auch eine Bewegung zur heißeren Region möglich.
+
+Thermodiffusion tritt in allen Stoffen auf, deutlich beobachten lässt sich dieser Effekt bei Aerosolen und Staubteilchen in Luft (siehe dazu Schwarzstaub). Sie lässt sich auch bei einfachen Gas- oder Flüssigkeitsmischungen, bei Polymeren in Lösung oder kolloidalen Suspensionen und auch bei magnetischen Fluiden gut beobachten. Thermodiffusion ist noch immer Gegenstand aktueller Forschung.
+
+Erklärt wird der Effekt in Gasen folgendermaßen: Auf ein Staubteilchen prasseln von allen Seiten im Mittel gleichmäßig Luftmoleküle ein – statistische Fluktuationen führen zur Brown'schen Bewegung, jedoch ist die Bewegung statistisch und ungerichtet. Falls sich das Teilchen jedoch in einem Temperaturgradienten befindet, treffen auf der heißen Seite schnellere Moleküle auf als auf der kalten – das Teilchen erfährt also einen Nettoimpuls in Richtung der kalten Seite. Die Bewegung ist immer noch statistisch, jedoch bewegt sich das Teilchen über lange Zeiten in Richtung kalt.
+
+In Flüssigkeiten ist das Ganze schwieriger, denn die Theorie für Gase kann die Wanderung mancher großen Moleküle auf die Wärmequelle zu nicht erklären. Es existieren bereits Erklärungsversuche durch Strömungen an der Oberfläche der Moleküle oder durch Änderung der Oberflächenenergie in verschiedenen Temperaturzuständen, jedoch ist die Sache Gegenstand aktueller Forschung (2005).
+Theoretische Ansätze basieren auf den Arbeiten von Lars Onsager und Eli Ruckenstein und natürlich auch auf aktuellen experimentellen Forschungsergebnissen.
+
+Thermodiffusion in Festkörpern ist wiederum weniger verstanden als die in Flüssigkeiten.
+
+In einer binären Mischung (Fluid bestehend aus zwei Komponenten) kann die zeitliche Entwicklung des Molenbruchs (=Stoffmengenanteil) formula_1 einer Komponente mit einer erweiterten Diffusionsgleichung beschrieben werden (für den Molenbruch gilt formula_2 und der Molenbruch der zweiten Komponente ist formula_3). Der erste Term auf der rechten Seite beschreibt die Fick'sche Diffusion, der zweite die Thermodiffusion, die vom räumlichen Verlauf der Temperatur formula_4 abhängt:
+
+Dabei ist formula_6 der Diffusionskoeffizient und formula_7 der Thermodiffusionskoeffizient. Der Quotient beider Koeffizienten
+
+heißt Soret-Koeffizient. Dieser ist ein Maß für die Stofftrennung in Gegenwart eines Temperaturgradienten im stationären Zustand. Im Allgemeinen ist der Soret-Koeffizient von der Temperatur und vom Stoffmengenanteil abhängig.
+
+Für eine Mischung aus zwei Gasen kann die kinetische Gastheorie die Koeffizienten formula_6 und formula_7 gut abschätzen. Dagegen existiert für Flüssigkeiten noch keine adäquate Theorie, selbst das Vorzeichen des Soret-Koeffizienten lässt sich hier nicht vorhersagen. Dies ist ein Problem der statistischen Thermodynamik die intermolekulare Wechselwirkung in einem mehrkomponentigen Nichtgleichgewichtssystem zu beschreiben.
+
+Da der Thermodiffusionskoeffizient in den meisten Systemen um einen Faktor 10 bis 10 kleiner ist als der Diffusionskoeffizient für Gase, Elektrolyte und gelöste Nichtelektrolyte, hat Thermophorese für Lebewesen wahrscheinlich keine besondere Bedeutung. 
+
+Anwendung findet die Thermophorese bei der Trennung von Isotopen in Gasen. So können Kr und Kr oder HCl und HCl in einer vertikalen Röhre, die mittels eines elektrischen Drahts längs ihrer Achse beheizt wird, getrennt werden. Unterstützt wird der Vorgang dabei durch Konvektion, da die zum Heizdraht strömenden Komponente aufsteigt, während die andere, die sich zur kälteren Wand bewegt gleichzeitig nach unten sinkt. Durch das Zusammenspiel dieser beiden Vorgänge ergibt sich eine viel effektivere Trennung der Komponenten, als allein aufgrund des thermischen Diffusionskoeffizienten zu erwarten wäre.
+
+Verschiedene Staubprobensammler verwenden die Thermophorese. Ein Aerosolstrom streicht über einen Objektträger für ein Mikroskop, über dem ein geheizter Draht angebracht ist. Die Thermophorese scheidet die Staubteilchen aus dem Luftstrom quantitativ auf dem Objektträger ab. Ein derartiges Gerät heißt Thermalpräzipitator.
+
+Ansammlung (Bioakkumulation) von DNA-Molekülen in Lösungen: Durch geschicktes Design einer geheizten Flüssigkeitskammer ist es möglich, durch Zusammenspiel von Konvektion und Thermophorese DNA auf einem Fleck bis zu 1000fach anzureichern.
+
+Bei einem neueren Verfahren, der optisch erzeugten Thermophorese (), wird mit Hilfe eines Infrarot-Lasers in einer flüssigkeitsgefüllten Glaskapillare ein definierter mikroskopischer Temperaturgradient erzeugt. Die darin befindlichen Moleküle sind zunächst gleichmäßig verteilt, bewegen sich aber innerhalb von Sekunden typischerweise von höheren zu niedrigen Temperaturen.
+
+Bei der Analyse liegen die Analyten frei in Lösung vor. Die Messungen können zudem in beliebigen Puffern und komplexen biologischen Flüssigkeiten durchgeführt werden und erlauben die Messung unter in vivo ähnlichen Bedingungen.
+
+Diese Methode findet Anwendung bei der Affinitätsbestimmung zwischen allen Arten von Biomolekülen einschließlich Proteinen, DNA, und RNA und chemische Verbindungen sowie bei der Bestimmung von Enzymaktivitäten. Auch die Bestimmung der Stabilität, sowie des Adsorptions- und Aggregations-Verhaltens von Biomolekülen in Blutserum und die biochemische Untersuchung gereinigter Proteine ist möglich.
+
+Zur Frage nach dem Ursprung des Lebens: Möglicherweise entstanden die ersten Biomoleküle in der Nähe hydrothermaler Quellen in der Tiefsee. Durch konvektive Durchmischung in Hohlräumen porösen Gesteins und Anreicherung durch Thermophorese lässt sich die erdgeschichtlich kurze Zeitspanne, die das Leben zum Entstehen brauchte, möglicherweise erklären.

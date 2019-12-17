@@ -1,0 +1,28 @@
+Aufbauprinzip
+
+Das Aufbauprinzip ist ein von Niels Bohr 1921 entwickeltes Konzept, um das periodische Auftreten der chemischen Eigenschaften im Periodensystem der Elemente mithilfe der Eigenschaften der Atomhülle erklären zu können. Es wird verwendet, um die Anordnung der Elektronen in Atomen, Molekülen oder Ionen im energetisch niedrigsten Zustand zu ermitteln. Dem Prinzip liegt ein Prozess zu Grunde, der das sukzessive Auffüllen der Atomhülle mit Elektronen beschreibt. Elektrostatisch angezogen durch die Protonen im Atomkern sucht jedes neu hinzugefügte Elektron für sich den Zustand geringster Energie. Dieser befindet sich in dem Atomorbital, das die niedrigste Energie hat und noch nicht voll besetzt ist, wobei die maximale Elektronenanzahl in jedem Orbital durch das Pauli-Prinzip gegeben ist. In diesem Orbital verbleibt das Elektron auch, wenn weitere Elektronen hinzu kommen, denn die energetische Reihenfolge der Orbitale bleibt bei steigender Elektronenzahl fast immer erhalten. Daher sind die Atomhüllen aller Atome in ihrem Innern gleich aufgebaut, nur dass mit steigender Kernladung die Orbitale fester gebunden werden und sich enger um den Kern konzentrieren.
+
+Nach dem Prinzip füllen die Elektronen die Orbitale immer so auf, dass die Hülle den Zustand einnimmt, der im Rahmen des Modells unabhängiger Teilchen die geringstmögliche Energie hat. Wenn für ein Elektron mehrere Orbitale mit gleicher Energie zur Auswahl stehen, wird laut den Hundschen Regeln aufgrund von Mehrteilcheneffekten ein unbesetztes Orbital bevorzugt.
+
+Das Aufbauprinzip kann analog auch herangezogen werden, um die Anordnung von Protonen und Neutronen im Atomkern zu beschreiben.
+
+Die Reihenfolge, nach der die Elektronen die Orbitale besetzen, wird durch die formula_1-Regel beschrieben (auch bekannt als die Madelung-Regel nach Erwin Madelung oder die Klechkowski-Regel in manchen, meist französischsprachigen Ländern oder die Moeller-Regel in manchen meist spanischsprachigen Ländern):
+
+
+Dieses Verhalten der Elektronen wurde experimentell durch die spektroskopischen Eigenschaften der Elemente herausgefunden. Die quantenmechanische Erklärung der Regel basiert auf der Gesamtanzahl der Knoten in einem Orbital, was den Energiezustand widerspiegelt, sowie auf der bei größerem formula_4 stärkeren Abschirmung des anziehenden Kernpotentials durch die anderen Elektronen.
+
+Konkret werden die Elektronen der Reihe nach in folgende Orbitale eingegliedert (vgl. Abb. rechts):
+1s ⇒ 2s ⇒ 2p ⇒ 3s ⇒ 3p ⇒ 4s ⇒ 3d ⇒ 4p ⇒ 5s ⇒ 4d ⇒ 5p ⇒ 6s ⇒ 4f ⇒ 5d ⇒ 6p ⇒ 7s ⇒ 5f ⇒ 6d ⇒ 7p
+
+"Hinweis: Das Madelung-Energieschema kann nur auf neutrale Atome in ihrem Grundzustand angewendet werden. (Siehe Ausnahmen)"
+
+Erläuterung zum rechten Bild:
+
+Die Orbitale der Atomhülle werden in der Reihenfolge des Pfeils mit Elektronen besetzt. Von links nach rechts sind die Orbitale der Atomhülle aufgezählt (steigende Nebenquantenzahl formula_4) und von oben nach unten die Schalen (steigende Hauptquantenzahl formula_3), jeweils mit Buchstaben als entsprechendes Kürzel. Die hochgestellten Zahlen geben jeweils an, wie viele Elektronen sich maximal im Orbital oder in der Schale aufhalten können. Der für die Besetzung entscheidende Wert formula_1 nimmt in dieser Darstellung diagonal "nach rechts unten" zu. Daher haben alle Orbitale auf Linien senkrecht zu dieser Richtung jeweils den gleichen Wert formula_1. Gemäß der Regel werden in diesem Fall zunächst die Orbitale mit den kleineren formula_3-Werten besetzt, d. h. die einzelnen Diagonalen werden von rechts oben nach links unten durchlaufen. Der blass dargestellte Bereich ist theoretischer Natur, da noch keine Atome mit so vielen Elektronen und den damit erforderlichen großen Kernen entdeckt oder erzeugt werden konnten.
+
+Nicht bei allen Atomen folgt die Besetzung der Schalen der obigen einfachen Aufbauregel. Grund sind relativistische Effekte und Effekte aufgrund der Korrelationen mehrerer Elektronen untereinander, die bei größerer Ordnungszahl eine immer größere Rolle spielen, aber innerhalb dieser Aufbauregeln noch nicht berücksichtigt sind. Beispiele von Elementen, die sich anders verhalten:
+
+
+
+Die Elektronenkonfigurationen jenseits des Elementes Rutherfordium (Ordnungszahl: 104) sind noch nicht eindeutig bestätigt bzw. bewiesen.
+Das folgende Periodensystem und die folgende Liste geben einen Überblick über die Ausnahmen, dabei wurde die auffälligsten Gemeinsamkeiten zusammengefasst.

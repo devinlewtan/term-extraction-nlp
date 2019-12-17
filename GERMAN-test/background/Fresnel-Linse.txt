@@ -1,0 +1,36 @@
+Fresnel-Linse
+
+Eine Fresnel-Linse [] oder genauer eine Fresnelsche Stufenlinse ist eine volumen- und massereduzierte Bauform einer optischen Linse.
+Sie wurde um 1822 vom französischen Physiker Augustin Jean Fresnel ursprünglich für Leuchttürme entwickelt. Das Funktionsprinzip erdachte Georges-Louis Leclerc de Buffon im Jahre 1748.
+
+Da Licht nur beim Passieren der Linsen-Oberflächen gebrochen wird, ist der Brechungswinkel nicht von der Dicke, sondern nur von dem Winkel zwischen den beiden Oberflächen abhängig. Das Volumen bei der Fresnel-Linse ist durch eine Aufteilung in ringförmige Bereiche verringert, deren maximale Glasdicke ungefähr gleich ist. Durch die erforderliche Krümmung der Oberflächen erhält die Linse eine Reihe ringförmiger Stufen. Die Linse behält ihre Brennweite bei, aber die Abbildungsqualität wird durch die Stufenstruktur verschlechtert.
+
+Heute unterscheidet man im Wesentlichen zwei Bauformen von Fresnel-Linsen: "Scheinwerferlinsen" und "Gürtellinsen".
+
+Im 19. Jahrhundert wurden Fresnel-Linsen vor allem in Leuchttürmen eingesetzt. Sie bestanden aus handpolierten Prismen aus Glas, die in einen Rahmen aus Metall, meist Messing, zusammengefügt wurden. Durch ihre im Vergleich zu früheren Leuchtfeueroptiken weitaus höhere Lichtstärke revolutionierten sie die Leuchtturmtechnik. Die Herstellung der frühen Fresnel-Linsen war aufwändig und teuer. Die wichtigsten Produktionszentren lagen in Großbritannien und Frankreich, der wichtigste Hersteller in Deutschland war die Firma Weule.
+
+Mit dem Begriff "Ordnung" wird bei Leuchtturmlinsen deren geometrische Größe – mit der die optische Größe Brennweite einhergeht – gekennzeichnet. Große Linsen (große Brennweite) ergeben bei gleicher Lichtquelle ein helleres, weiter reichendes Leuchtturmlicht als kleine Linsen. In den USA sind sechs Ordnungen standardisiert:
+
+Fresnel-Linsen werden in einigen Fahrzeugen (insb. LKWs) eingesetzt, um den toten Winkel zu reduzieren. Aufgrund der 400 Verkehrstoten jährlich in Deutschland bei Abbiegeunfällen im toten Winkel fordert der Deutsche Verkehrssicherheitsrat, dass der Gesetzgeber die Verwendung von Fresnel-Linsen zumindest vorübergehend vorschreibt. Im Internet werden selbstklebende Folien mit einer Fresnel-Linse unter der Bezeichnung „Lescars Fresnellinse“ angeboten. Diese können zum Beispiel auf die Heckscheibe eines Pkws geklebt werden. Dadurch vergrößert sich der Blickwinkel und es können bislang tote Winkel eingesehen werden. Der Hersteller empfiehlt auch das Aufkleben auf Rückspiegel, um den Blickwinkel zu vergrößern und dadurch tote Winkel einsehen zu können. Rückspiegel benötigen eigentlich keine Fresnel-Linse, da die spiegelnde Fläche vom Hersteller ohne zusätzliches Material beliebig geformt werden kann. Durch Aufkleben einer Fresnel-Linse kann der Blickwinkel vergrößert werden und so tote Winkel eingesehen werden. Dabei nimmt man aber eine Verkleinerung der Bildobjekte und eine Verschlechterung der Bildqualität in Kauf. Bei der Anwendung ist also Vorsicht geboten, da der Autofahrer durch die Verkleinerung der Objekte eine verschlechterte Wahrnehmung und eine falsche Entfernungsschätzung haben kann. Bei LKWs gibt es inzwischen zahlreiche bessere Systeme, um beim Abbiegen Radfahrer im toten Winkel zu erkennen, z. B. TURN DETECT.
+
+Weiters finden die Fresnel-Linsen bei optischen Sondersignalanlagen aller Farben Verwendung. Bei Xenonblitz-, aber auch LED-Kennleuchten wird damit ein möglichst homogenes Lichtbild auf der Kennleuchtenoberfläche und damit eine große und vor allem helle Lichtfläche erzeugt. Die Linse kann dabei beispielsweise in der Haube befestigt sein.
+
+Fresnel-Linsen werden heute dort eingesetzt, wo das Gewicht der Linsen ausschlaggebend und die Abbildungsqualität zweitrangig ist.
+
+Gürtellinsen kommen bei Schiffslaternen und Leuchtfeuern vor. Bei Leuchtfeuern umspannen sie oftmals nicht einen vollen Kreis, sondern lassen den Bereich über dem Festland frei und bestehen wegen ihrer Größe vielfach nicht aus einem Stück.
+
+Scheinwerferlinsen kommen bei Leuchtfeuern ebenfalls häufig vor. Bei Richtfeuern wird nur eine Linse verwendet. Bei Drehfeuern sind mehrere Scheinwerferlinsen gleichmäßig kreisförmig angeordnet, von denen jede momentan bevorzugt in einen Sektor strahlt.
+
+Scheinwerferlinsen werden auch in Frontscheinwerfern von Automobilen verwendet.
+
+Hinter einem Rückprojektionsbildschirm befindet sich eine Fresnel-Scheinwerferlinse. Außerdem wird diese Linse in speziellen Scheinwerfern für Veranstaltungs- und Theatertechnik verwendet.
+
+Hochwertige Scheinwerfer für Film- und TV-Beleuchtung sind zum Großteil als Stufenlinsenscheinwerfer ausgeführt. Diese Konstruktion ermöglicht, neben einer gleichmäßig flächigen Ausleuchtung mit weicher Kante, eine stufenlose Regulierung des Lichtaustrittswinkels. Die Fresnel-Linse dieser Scheinwerfer wird mattiert („gefrostet“) um eine Projektion der Stufenringe zu vermeiden.
+
+Billige Scheinwerferlinsen sind aus Kunststoff gepresst und finden in Tageslichtprojektoren, bei Passiv-Infrarotsensoren, bei einfachen Handlupen, bei Automobil-Rücklichtern und als Weitwinkellinsen(-folien) in Automobil-Heckscheiben und Ladenkassen (Kontrolle der Einkaufswagen) Verwendung.
+
+Weitere Anwendungen findet das Prinzip bei Einstellscheiben im Sucher von Spiegelreflexkameras mit mehr oder weniger großem Fresnel-Stufenlinsenbereich oder bei Streufolien mit kleinen Fresnellinsen-Quadraten zum Aufkleben auf Fensterscheiben sowie bei Tageslichtprojektoren.
+Sie sind auch Bestandteil von hochwertigen Teleobjektiven mit langer Brennweite, um deren Gewicht zu reduzieren.
+
+Neue Anwendungen ergeben sich in der Solartechnik, da mit Linsen höhere Wirkungsgrade bei Solarstrommodulen erreicht werden können.
+Bei Sonnenwärmekraftwerken kommen "Fresnel-Spiegel-Kollektoren" zur Anwendung.

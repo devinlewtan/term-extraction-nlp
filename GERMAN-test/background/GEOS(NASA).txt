@@ -1,0 +1,11 @@
+GEOS (NASA)
+
+GEOS (Geodetic Earth Orbiting Satellite) war eine Serie von drei US-amerikanischen geodätischen Forschungssatelliten der NASA.
+
+Die ersten beiden GEOS-Satelliten (gestartet 1965 und 1968) wurden unter dem Explorer-Programm entwickelt. Sie verfügten über eine Lagestabilisierung mittels Schweregradienten und eine Energieversorgung über Solarzellen. Die GEOS-Satelliten waren die ersten Missionen im National Geodetic Satellite Program.
+
+Die Ausrüstung bestand aus einer Anzahl von optischen und Funk-Systemen (darunter auch jeweils einen Transponder für das SECOR-System) zur exakten Bahnverfolgung sowie Laser-Reflektoren. Als "aktive Satelliten" waren sie eine Weiterentwicklung der ANNA 1B-Sonde und konnten kurze Serien von sechs bis acht hellen Lichtblitzen aussenden. Diese wurden von Bodenstationen synchron vor dem Sternhintergrund fotografiert (Stellartriangulation), um durch genaue Richtungsmessung großräumige Vermessungsnetze aufzubauen.
+
+Ziel der Missionen war die Vermessung von ausgewählten Beobachtungspunkten mit einer Genauigkeit von zehn Metern in einem dreidimensionalen Koordinatensystem mit dem Masseschwerpunkt der Erde als Mittelpunkt. Weiterhin wurde die Struktur des irregulären Erdgravitationsfelds sowie die Lage der großen Gravitationsanomalien bestimmt.
+
+Der GEOS-3-Satellit (auf Grund der erweiterten Aufgaben auch Geodynamics Experimental Ocean Satellite) war eine erweiterte Version der beiden vorangegangenen Satelliten. Dieser Satellit war nicht mehr Bestandteil des Explorer-Programms. Zusätzlich zur Aufgabenstellung der Vorgänger war durch ein Radar-Altimeter eine präzise Messung der Ozeanhöhen möglich, was eine weitere Verfeinerung des Gravitationsmodells der Erde ermöglichte. Zusätzlich wurde ein Bahnverfolgungsexperiment mit dem experimentellen Kommunikationssatelliten ATS 6 durchgeführt. Eine verbesserte Version des GEOS-3-Satelliten wurde von der US Navy unter der Bezeichnung Geosat gestartet.

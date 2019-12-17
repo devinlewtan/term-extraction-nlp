@@ -1,0 +1,29 @@
+Skalengesetz
+
+Unter Skalengesetzen oder Skalierungsgesetzen versteht man die Manifestationen von mathematischen Beziehungen der Art
+
+d. h. exponentielle Beziehungen, oder
+
+d. h. Potenz- oder polynomiale Beziehungen, wobei formula_3 und formula_4 reelle Konstanten darstellen. Potenzgesetze sind häufiger anzutreffen als exponentielle Beziehungen.
+
+Derartige Beziehungen sind in der Natur und Gesellschaft so verbreitet, dass man von einem strukturbildenden Prinzip sprechen kann. Teilweise handelt es sich um rein empirisch gefundene Verteilungen, teilweise konnten diese aber auf eine solide theoretische Basis gestellt werden, so dass im naturwissenschaftlichen Sinne von »Gesetzen« gesprochen werden kann. Das begründet sich unter anderem darin, dass
+die Lösung der simpelsten linearen Differentialgleichung
+ist, die einen sich selbst beschleunigenden Prozess beschreibt, z. B. das Wachstum einer Population ohne Ressourcenbeschränkung.
+
+Skalenbeziehung, die auf Potenzgesetzen beruhen, sind skaleninvariant aufgrund der Beziehung
+d. h., dass formula_8 proportional formula_9 ist und sich die Charakteristika von formula_10 nicht verändern. Exponentielle Beziehungen zeigen diese Skaleninvarianz nicht.
+
+
+Geoffrey West führt die Universalität von Skalengesetzen in der Biologie auf folgende Punkte zurück:
+
+Aus diesen Prinzipien scheinen sich wenigstens die Allometrien mit sehr einfachen Skalengesetzen (die Exponenten tendieren dazu, ganzzahlige Vielfache von 1/4 zu sein) ableiten zu lassen.
+
+Beispiele sind die Beziehungen zwischen
+
+
+Das Internet ist ein riesiges Netzwerk mit emergenten Phänomenen wie selbstähnlicher Skalierung in den Burst-Mustern seines Datenverkehrs und skalenfreier Struktur in der Verbindungstopologie.
+
+Auch andere selbstlinkende Internet-Plattformen wie Weblogs zeigen einen bestimmten Zusammenhang: neue Weblogs linken bevorzugt – d. h. mit höherer Wahrscheinlichkeit – auf schon beliebte Weblogs und machen diese noch beliebter.
+Dieser Verlinkungs-Algorithmus ist übrigens auch die Regel für die Erstellung eines skalenfreien Netzes.
+
+"Hauptartikel:" Pareto-Verteilung : ...

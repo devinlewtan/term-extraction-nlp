@@ -1,0 +1,67 @@
+Mittlere freie Weglänge
+
+Die mittlere freie Weglänge formula_1 ist die Weglänge, die ein Teilchen (z. B. Atom, Molekül, Ion oder Elektron) in einem gegebenen Material im Durchschnitt zurücklegt, bevor es zum Stoß (irgendeiner Art) mit einem anderen Teilchen kommt. Hat ein Teilchenstrom in einem Material die mittlere freie Weglänge durchlaufen, so haben knapp 2/3 der Teilchen bereits einen Stoß ausgeführt, das übrige Drittel (genau ein Bruchteil 1/"e") noch keinen.
+
+Die mittlere freie Weglänge hängt mit der Teilchendichte formula_2  (Anzahl der Teilchen pro Volumen) und dem totalen Wirkungsquerschnitt formula_3 zusammen:
+
+Anschaulich ist formula_3 die Größe der Zielscheibe, die ein Teilchen den anderen Teilchen für einen Stoß bietet. Nachdem es eine freie Weglänge formula_1 geflogen ist, hat es mit dieser Fläche das Volumen formula_7 überstrichen, das ist das Volumen, in dem sich durchschnittlich ein Teilchen befindet. Das Teilchen ist also im Durchschnitt einmal mit einem anderen Teilchen zusammengestoßen.
+
+Der geometrische Wirkungsquerschnitt beim Stoß zweier kugelförmiger Teilchen mit gleichem Durchmesser formula_8 ergibt sich zu
+
+Daraus folgt die geometrische mittlere freie Weglänge zu
+
+Die oben gegebene Deutung gilt, wenn die Stoßpartner des fliegenden Teilchens in Ruhe sind.
+
+Wenn sich aber "alle" Teilchen ungeordnet bewegen (d. h. auch die Stoßpartner des fliegenden Teilchens), führen Gleichgewichtsbetrachtungen unter Annahme einer Maxwellschen Geschwindigkeitsverteilung zu einer freien Weglänge, die um den Faktor formula_11 kürzer ist:
+
+In einem Raumbereich, der zwei Arten von Teilchen enthält, sind drei Arten von Stößen möglich:
+Die Teilchendichten der Teilchenarten seien formula_13 bzw. formula_14 und die Wirkungsquerschnitte formula_15, formula_16 und formula_17. 
+
+Die mittleren freien Weglängen für Stöße von Teilchen jeweils an ihresgleichen sind schon mit obiger Formel definiert:
+
+bzw. 
+
+Entsprechend definiert man die mittlere freie Weglänge
+eines Teilchens vom Typ 2 im Medium vom Typ 1:
+
+bzw. analog formula_21 beim Stoß eines Teilchens vom Typ 1 im Medium vom Typ 2:
+
+wobei in beiden Fällen der Wirkungsquerschnitt formula_17 gleich ist. 
+
+Der Wirkungsquerschnitt und die mittlere freie Weglänge zweier unterschiedlicher Teilchen werden meist ohne Index oder andere Auszeichnungszeichen geschrieben, also formula_24 und formula_25:
+
+Der Index der Anzahldichte formula_13 wird in der Regel ebenfalls weggelassen, wenn es nur um die mittlere freie Weglänge von Teilchen in irgendeinem Medium mit Teilchen vom Typ 1 geht. Dann scheinen die eingangs dieses Artikels gegebene Definition der mittleren freien Weglänge und die zuletzt gegebene Gleichung formelmäßig gleich zu sein (und werden deshalb auch manchmal verwechselt). Die Anzahldichten der Teilchen formula_2 und formula_13 sind in Wirklichkeit aber unterschiedliche Größen: bei formula_2 handelt es sich um die Anzahldichte der Teilchen von nur einem Typ, bei formula_13 aber um die Anzahldichte der Teilchen des Mediums.
+
+Ähnlich wie beim Billardspiel bewirkt der elastische Stoß zweier Teilchen Richtungsänderungen beider Teilchen, allerdings, im Unterschied zum Billardspiel, im dreidimensionalen physikalischen Raum und mit Teilchen unterschiedlicher Größe. Häufig bedeutet ein Stoß zweier unterschiedlicher Teilchenarten auch, dass sie eine Reaktion miteinander eingehen. Sind die Stoßpartner zum Beispiel zwei Atome, kann ein Molekül gebildet werden, sind die Stoßpartner ein Neutron und ein Atomkern, kann ein anderes Nuklid entstehen oder ein Atomkern gespalten werden.
+
+Implizit gehen wir davon aus, dass beide Stoßpartner Teilchen eines Gases sind, denn nur dort können sich "beide" Stoßpartner frei bewegen, was überhaupt erst nahelegt, von einer freien Weglänge zu sprechen. Es gibt aber auch Stöße und mittlere freie Weglängen, wenn ein Stoßpartner ein Teilchen eines Festkörpers oder einer Flüssigkeit ist (Teilchen vom Typ 1), und sich nur der zweite Stoßpartner wie ein Teilchen eines Gases verhält (Teilchen vom Typ 2). Dabei sind in der Regel Stöße von Teilchen vom Typ 1 mit Teilchen vom Typ 2 von Interesse (und nicht Stöße der beiden jeweiligen Teilchen-Typen mit ihresgleichen).
+
+Der geometrische Wirkungsquerschnitt beim elastischen Stoß zweier starrer Kugeln mit den Radien formula_32 bzw. formula_33 ist
+
+Damit wird die geometrische mittlere freie Weglänge:
+
+Der geometrische Wirkungsquerschnitt und damit die geometrische mittlere freie Weglänge der elastischen Streuung hängen also "nicht" von den kinetischen Energien der Kugeln ab. "Reale" Wirkungsquerschnitte und damit die mittleren freien Weglängen können dagegen stark von der kinetischen Energie der Stoßpartner abhängen und sind folglich nicht unbedingt durch das o. g. einfache geometrische Modell zu berechnen. Auch im Fall "realer" Wirkungsquerschnitte kann es jedoch hilfreich sein, den geometrischen Wirkungsquerschnitt als Bezugsgröße zu verwenden, in der Art: der reale Wirkungsquerschnitt ist 10-mal größer als der geometrische, dann ist die reale mittlere freie Weglänge nur ein Zehntel der geometrischen.
+
+Stöße von Neutronen und Atomkernen sind (gegenwärtig) der wichtigste Fall in der Physik für Stöße von zwei Arten von Teilchen, sie prägen die Reaktorphysik.
+
+Wenn in der Reaktorphysik von "mittlerer freier Weglänge" die Rede ist, ist stets die zweite Definition dieser Größe gemeint, also die mittlere freie Weglänge von Neutronen in Materie. Dabei bewegen sich freie Neutronen (Teilchen vom Typ 2 mit einer Teilchendichte formula_14) in einem Festkörper oder einer Flüssigkeit („Wirtsmedium“) i. allg. so chaotisch wie Moleküle in einem Gas. Wir nehmen an, das Wirtsmedium bestehe aus nur einer Teilchen- bzw. einer Atomart (Teilchen von Typ 1), man denke etwa an Graphitatome. Da jedes Atom nur einen Atomkern besitzt, ist die Teilchendichte formula_13 der Atome gleich der ihrer Atomkerne.
+
+Der Kehrwert der mittleren freien Weglänge diese Typs ist unter dem Namen "Makroskopischer Wirkungsquerschnitt" eine der wichtigsten Größen der Reaktorphysik:
+
+Wirkungsquerschnitte von Kernreaktionen hängen extrem stark von der Energie ab und sind somit auch nicht mehr geometrisch zu erklären. Nur im Fall der elastischen Streuung von Neutronen an den Atomkernen gebräuchlicher Moderatoren führt das oben angegebene geometrische Modell auf mittlere freie Weglängen, die in der Größenordnung der gemessenen Werte liegen; dies zumindest für Neutronen mit kinetischen Energien in einem gewissen mittleren Intervall. 
+
+Neutronen untereinander stoßen sich auch. Dies ist ein Fall für die erste Definition der mittleren freien Weglänge. Die Anzahldichte der Neutronen ist selbst im Hochflussreaktor vergleichsweise gering. Klein ist auch der Wirkungsquerschnitt für den Stoß zweier Neutronen. Deshalb wird vermutlich in keinem Lehrbuch der Reaktor- oder Neutronenphysik die mittlere freie Weglänge für diesen Typ von Stoß auch nur erwähnt.
+
+Atomkerne untereinander können sich nicht stoßen. Selbst im Fall, dass die Neutronen sich in Helium-Gas bewegen, wie im Hochtemperaturreaktor, stoßen allenfalls Helium-Atome aufeinander. Allerdings lässt sich, falls erforderlich, die mittlere freie Weglänge für solche Atomstöße mit der o. g. ersten Definitionsformel und dem geometrischen Wirkungsquerschnitt berechnen, der denjenigen der Atomkerne um Größenordnungen übertrifft.
+
+Die mittlere freie Weglänge eines Gasmoleküls beträgt in Luft unter Standardbedingungen etwa 68 Nanometer.
+
+Nachfolgende Tabelle listet ungefähre Zahlen für freie Weglängen für Gasmoleküle bei verschiedenen Drücken auf:
+
+Die mittlere freie Weglänge freier Elektronen ist wichtig bei Anwendungen von Elektronenstrahlen im Vakuum (z. B. bei bestimmten oberflächensensitiven analytischen Methoden oder in Braunschen Röhren). Sie hängt ab von der kinetischen Energie des Elektrons.
+
+Die inelastische freie Weglänge im Festkörper kann für die meisten Metalle mit einer „Universellen Kurve“ abgeschätzt werden (s. Abb.): bei Energien um 100 eV ist sie für die meisten Metalle am geringsten, da hier Prozesse im Festkörper angeregt werden können, z. B. Plasmonen; bei höheren und niedrigeren Energien sind die mittleren freien Weglängen im Festkörper größer. Der Wirkungsquerschnitt für elastische Stöße ist meist kleiner als der für inelastische Stöße, damit ist bei gleicher Teilchendichte die elastische freie Weglänge "größer" als die inelastische.
+
+In gasförmigen Isolierstoffen (z. B. Schwefelhexafluorid) beeinflusst die mittlere freie Weglänge die elektrische Durchschlagfestigkeit.
+
+Für Elektronen im Impulsraum (siehe Fermi-Kugel) betrachtet man statt der Weglänge die mittlere freie Flugzeit.

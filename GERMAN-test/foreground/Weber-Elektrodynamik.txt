@@ -1,0 +1,59 @@
+Weber-Elektrodynamik
+
+Die Webersche Elektrodynamik (auch Weber-Elektrodynamik genannt) ist in der Physik ein historisch relevanter Ansatz zur Erklärung und Beschreibung der Grundphänomene der Elektrodynamik. Sie geht auf Wilhelm Eduard Weber und Carl Friedrich Gauß zurück. Die Theorie nimmt an, dass die elektrische Kraft nicht nur vom Abstand, sondern auch von der Geschwindigkeit abhängt. Sie erweitert dazu das Coulombgesetz mit dem Ziel die magnetische Kraft mit einzubeziehen um zusätzliche Terme. In der modernen Physik gilt die Maxwell-Elektrodynamik als unumstrittene Grundlage des klassischen Elektromagnetismus. Die Weber-Elektrodynamik ist hingegen weitgehend unbekannt und vergessen.
+
+Die Webersche Elektrodynamik besitzt jedoch einige bemerkenswerte Eigenschaften, die sie auch noch aus heutiger Perspektive interessant erscheinen lassen. Insbesondere ihre Fähigkeit die magnetische Kraft bei beliebig geformten, stromdurchflossenen Leiterbahnen erklären zu können, sowie ihre Eigenschaft die Impuls-, Drehimpuls und Energieerhaltung zu erfüllen sind hier hervorzuheben.
+
+Die Weber-Elektrodynamik geht davon aus, dass die Kraft formula_1 zwischen zwei Punktladungen formula_2 und formula_3 durch die Gleichung
+
+gegeben ist. Dabei ist formula_5 der Abstandsvektor von Punktladung formula_2 auf die Punktladung formula_3 und formula_8 der Betrag des Abstandsvektors. Entsprechend stellt formula_9 die erste und formula_10 die zweite zeitliche Ableitung des Betrags des Abstandsvektors dar. formula_11 ist die Lichtgeschwindigkeit im Vakuum. Die Kraft-Formel wird auch als Webersches Gesetz bezeichnet.
+
+Zwei Jahre nach der Entwicklung seiner Kraftformel stellte Weber 1848 eine Formel für eine geschwindigkeitsabhängige potentielle Energie vor:
+
+Dass es sich hierbei tatsächlich um die potentielle Energie der von Weber postulierten Kraft handelt, wird weiter unten gezeigt.
+
+Die Weber-Kraft unterscheidet sich auch für kleine Geschwindigkeiten (formula_13) und Beschleunigungen von der Kraft, die man durch Lösen der Maxwell-Gleichungen für eine Punktladung erhält. Nur für formula_14 und formula_15 führen beide Ansätze zu den gleichen experimentellen Vorhersagen.
+
+Das bestimmende Merkmal der Weber-Elektrodynamik ist die Annahme, dass die elektrische Kraft nicht nur vom Abstand zwischen den Ladungen, sondern auch von deren Differenzgeschwindigkeit zueinander abhängt. Die Idee dazu findet sich zum ersten Mal in den Arbeiten von Carl Friedrich Gauß im Jahre 1835. Wilhelm Eduard Weber, welcher eng mit Gauss befreundet war, nahm diese Idee vermutlich auf und führte eine Reihe komplexer Experimente durch, welche an die Arbeiten von André-Marie Ampère und Hans Christian Ørsted aus den Jahren 1820 bis 1822 anknüpfen. Im Jahre 1846 veröffentlichte Weber dann das nach ihm benannte und das Coulombgesetz verallgemeinernde Webersche Gesetz.
+
+Im Jahre 1861 führte James Clerk Maxwell den Verschiebungsstrom in das Ampèresche Gesetz ein. Die Maxwell-Gleichungen erhielten dadurch ihre heutige Form. Vier Jahre später leitete er dann aus den Maxwellgleichungen eine Wellengleichung ab, bei der sich die elektromagnetische Welle in allen Inertialsystemen mit Lichtgeschwindigkeit ausbreitet. Damit wurde dann die Verbindung zwischen elektromagnetischen Wellen und Licht hergestellt. Aufgrund dieses Erfolges wurden die Maxwell-Gleichungen schnell zur Standard-Theorie. Die Weber-Elektrodynamik geriet hingegen in Vergessenheit, da sie nicht zur ersten Maxwell-Gleichung, welche die bezugssystemunabhängige Invarianz der elektrischen Ladung fordert, kompatibel ist.
+
+In der Maxwellschen Elektrodynamik gilt das dritte newtonsche Axiom nicht für Punktladungen. Stattdessen beeinflussen Teilchen umgebene elektromagnetische Felder und die Felder üben Kräfte auf Teilchen aus. Direkte Kräfte zwischen Teilchen gibt es in der Maxwellschen Elektrodynamik hingegen nicht. Aus diesem Grund sind die Kräfte welche benachbarte Teilchen gegenseitig aufeinander ausüben in der Maxwellschen Elektrodynamik nicht immer umgekehrt gleich groß, insbesondere auch dann nicht, wenn sich die Teilchen sehr langsam im Vergleich zur Lichtgeschwindigkeit bewegen und Beschleunigungen vernachlässigbar sind.
+
+In der maxwellschen Elektrodynamik gilt die Impulserhaltung, die Drehimpulserhaltung und die Energieerhaltung nur dann, wenn sowohl die Quellen der Kräfte, als auch deren Felder berücksichtigt werden. Eine ausschließliche Betrachtung der Quellen allein ist nicht hinreichend, beispielsweise ist der Gesamtimpuls aller Punktladungen eines Systems nicht notwendigerweise konstant, da die Punktladungen Impuls auf das elektromagnetische Feld und dieses umgekehrt Impuls auf die Punktladungen übertragen kann. Das bekannte Phänomen des Strahlungsdrucks zeigt, dass elektromagnetische Wellen tatsächlich in der Lage sind, Impuls auf Materie zu übertragen.
+
+Die Weber-Kraft ist im Gegensatz dazu ziemlich verschieden. Da es sich bei der Weber-Kraft um eine symmetrische Zentralkraft handelt, gehorchen alle Partikel, ungeachtet ihrer Masse und Größe exakt dem Prinzip "Actio gleich Reactio". Daher gilt in der Weberschen Elektrodynamik die Impulserhaltung. Die Erhaltung des Drehimpulses folgt aus der Eigenschaft der Weber-Kraft eine Zentralkraft zu sein.
+
+Auch die Gesamtenergie eines Teilchensystems bleibt in der Weber-Elektrodynamik grundsätzlich erhalten. Um das zu zeigen, wird die Weber-Kraft mit formula_16 multipliziert. Schreibt man formula_17 in Kugelkoordinaten, so lässt sich zeigen, dass die Beziehung formula_18 gilt. Damit gelangt man zu
+
+Ableiten des Weber-Potentials nach der Zeit ergibt
+
+Ein Vergleich der beiden Gleichungen zeigt, dass formula_21 gilt. Damit wird deutlich, dass auch die Energieerhaltung gelten muss, denn daraus folgt durch Einsetzen der Grundgleichung der Mechanik formula_22. Die rechte Seite entspricht bis auf das Vorzeichen der zeitlichen Ableitung der kinetischen Energie. Das bedeutet, dass jede zeitliche Änderung der potentiellen Energie genau durch eine zeitliche Änderung der kinetischen Energie kompensiert wird. Die Gesamtenergie, also die Summe aus potentieller Energie und kinetischer Energie, ist somit eine Erhaltungsgröße.
+
+Die absolute Stärke der Weber-Kraft hängt nicht nur vom Abstand formula_8 der Punktladungen, sondern auch von der Radialgeschwindigkeit formula_9 und der Radialbeschleunigung formula_10 ab. Das wird deutlich, wenn man den Betrag der Weber-Kraft berechnet:
+
+Daraus folgt, dass ein neutrales Plasma bei einer Temperaturerhöhung seine elektrische Neutralität verlieren müsste, da die Elektronen deutlich leichter sind als die Ionen und somit bei einer Temperaturerhöhung des Plasmas überproportional an Geschwindigkeit gewinnen. Bisher wurde Derartiges noch nicht beobachtet.
+
+Webers Ziel bei der Entwicklung seiner Kraftformel bestand darin, die magnetischen Kraftwirkungen eines stromdurchflossen Drahtes auf die elektrischen Kräfte der im Draht enthaltenen Ladungsträger zurückzuführen. Es ist bemerkenswert, dass ihm dieses gelang und das unscheinbar wirkende Webersche Gesetz die magnetische Kraft tatsächlich zu enthalten scheint. In der maxwellschen Elektrodynamik ist die magnetische Kraft hingegen eigenständig und das magnetische Feld bildet zusammen mit dem elektrischen Feld den vierdimensionalen elektromagnetischen Feldstärketensor. Die eigentliche Kraftwirkung berechnet sich anschließend durch Anwendung des Lorentzkraftgesetzes.
+
+Um einen Zugang zu Webers Idee zu finden ist es hilfreich, die Weber-Kraft unter Verwendung von formula_27 und formula_28 in die Vektorschreibweise zu überführen. Mit
+
+und
+
+lautet die Weber-Kraft
+
+Definiert man formula_32 als den Winkel zwischen der Verbindungsachse der beiden Punktladungen und der Differenzgeschwindigkeit formula_33 und nimmt vorhandene Differenzbeschleunigungen formula_34 als vernachlässigbar an, so vereinfacht sich die Weber-Kraft zu
+
+Damit wird deutlich, dass die Weber-Kraft von der Richtung abhängt, in welcher sich die Punktladungen zueinander bewegen. Bewegen sich die Punktladungen direkt aufeinander zu oder voneinander weg (formula_36 bzw. formula_37), so ist die Weber-Kraft schwächer als von der Coulombkraft vorhergesagt wird. Bewegen sich die Ladungen jedoch seitlich aneinander vorbei (formula_38), so ist die Weber-Kraft stärker als es die Coulomkraft erwarten lassen würde.
+
+Diese vermutlich relativistische Korrektur der Coulombkraft genügt, um die Lorentzkraft für beliebig geformte, gleichstromdurchflossene, geschlossene Leiterbahnen zu erklären. Wie gezeigt werden kann, ergibt sich die Kraftwirkung des magnetischen Feldes aus der Summe aller Weber-Kräfte zwischen den Ladungsträgern in der Leiterbahn und der Probeladung. Bei der Summation bzw. Integration ist zu beachten, dass jeweils der individuelle Abstandsvektor formula_39, sowie die korrekte Differenzgeschwindigkeit formula_40 verwendet wird.
+
+Es ist wichtig zu betonen, dass sich die experimentellen Vorhersagen der Weber-Elektrodynamik und der Maxwellschen Elektrodynamik für nicht-geschlossene Leiterbahnen oder inhomogene Stromdichten unterscheiden. Des Weiteren sollte erwähnt werden, dass Webers Erklärung Galilei-invariant ist.
+
+Ungeachtet verschiedener Bemühungen wurde eine Geschwindigkeits- bzw. Beschleunigungsabhängigkeit der absoluten Stärke der elektrischen Kraft bisher noch nicht beobachtet. Darüber hinaus sagt die Webersche Elektrodynamik voraus, dass sich Ladungen unter bestimmten Umständen so verhalten, als ob sie eine negative Trägheit besitzen würden, was ebenfalls noch nie beobachtet wurde. Diese von Helmholtz stammenden Argumente werden jedoch von manchen Wissenschaftlern in Frage gestellt.
+
+Eine sehr offensichtliche Einschränkung der Weberschen Elektrodynamik besteht im Übrigen darin, dass sie nicht in der Lage ist, elektromagnetische Wellen zu beschreiben. Diese Einschränkung ist jedoch nicht grundsätzlicher Natur. Sie besteht schlichtweg dadurch, dass die Webersche Elektrodynamik nie zu einer Feldtheorie ausgebaut wurde, welche auch Retardierungseffekte berücksichtigt. Es gibt jedoch aktuell Versuche diese Begrenzungen zu überwinden.
+
+Die Weber-Elektrodynamik gilt weiterhin nicht für relativistische Teilchengeschwindigkeiten. Es gibt Ansätze, diese Begrenzungen durch Einführung einer relativistischen potentiellen Energie
+
+zu überwinden. Die ursprüngliche Potential-Formel von Weber stellt hierzu eine nichtrelativistische Näherung dar. Man erhält sie durch eine Taylorreihenentwicklung bezüglich formula_9 an der Stelle 0 und Abbruch nach dem Glied zweiter Ordnung.

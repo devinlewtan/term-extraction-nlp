@@ -1,0 +1,15 @@
+Querstabilität
+
+Der Begriff Querstabilität beschreibt die Fähigkeit eines Flugzeuges, auf um die Längsachse auftretende Störungen (beispielsweise Böen) so zu reagieren, dass sich ohne Zutun des Piloten wieder die ursprüngliche Fluglage einstellt. Querstabilität wirkt der Rollneigung eines Flugzeugs entgegen.
+
+Die Querstabilität eines Flugzeuges wird insbesondere bestimmt durch V-Stellung und Pfeilung der Tragflächen.
+
+Außerdem beeinflusst die vertikale Anordnung der Tragflächen am Rumpf (Hochdecker, Tiefdecker, …) die Querstabilität.
+
+Querstabilität ist ein wichtiger Aspekt im Flugzeugbau. 
+Mit zunehmender Querstabilität wird das Flugverhalten 'gutmütiger' aber gleichzeitig weniger agil bzw. sensibel für Steuerbefehle um die Längsachse.
+Üblicherweise werden die o. g. Merkmale kombiniert um – je nach Anforderung – einen bestimmten Grad der Stabilität zu erzielen.
+
+Als einfache Faustregeln gelten:
+
+Die Querstabilität eines Flugzeuges nimmt zu mit

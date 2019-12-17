@@ -1,0 +1,13 @@
+Photoelektromagnetischer Effekt
+
+Der photoelektromagnetische Effekt (PEM-Effekt), auch photomagnetoelektrischer Effekt (PME-Effekt) oder "Kikoin-Noskov-Effekt" genannt, ist ein physikalisches Phänomen in Halbleitern. Er beschreibt die Erzeugung einer elektrischen Spannung durch einfallendes Licht (→Photoleitung), senkrecht zu einem Magnetfeld.
+
+Von ihm zu unterscheiden ist der photoelektrische Effekt.
+
+Der Effekt wurde erstmals 1934 von Isaak Konstantinowitsch Kikoin und M. M. Noskov an Kupfer(I)-oxid beobachtet.
+Die erste richtige Erklärung für diesen Effekt wurde noch im selben Jahr von Jakow Iljitsch Frenkel gegeben.
+1956 folgte eine genaue Theorie von Willy W. van Roosbroeck.
+
+Der PEM-Effekt kann als eine Art Hall-Effekt mit einem optisch induzierten Strom beschrieben werden. Dabei fällt Licht auf ein Halbleitermaterial, über den inneren photoelektrischen Effekt werden freie Elektronen und Defektelektronen im Leitungs- bzw. Valenzband des Halbleiters erzeugt. Durch die starke Absorption erfolgt diese hauptsächlich in einem oberflächennahen Bereich, und es bildet sich in Richtung der Tiefe ein Konzentrationsgradient freier Ladungsträger. Dieser Gradient verursacht eine Ladungsträgerdiffusion in die Tiefe des Halbleiters (siehe auch Dember-Effekt). Ein senkrecht zur Einfallsebene des Lichts angelegtes Magnetfeld bewirkt auf die bewegten Ladungsträger eine Kraft (Lorentz-Kraft) senkrecht zur Magnetfeld- und Bewegungsrichtung. Die Ablenkung erfolgt aufgrund der entgegengesetzten Ladung für Elektronen und Defektelektronen in entgegengesetzte Richtungen. Die Folge ist eine Ladungstrennung und eine elektrische Spannung an den Seiten des Halbleiters.
+
+Der PEM-Effekt findet unter anderem bei der Bestimmung charakteristischer Eigenschaften von Halbleitermaterialien Anwendung oder wird zum Nachweis elektromagnetischer Strahlung genutzt.

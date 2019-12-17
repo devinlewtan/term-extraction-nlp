@@ -1,0 +1,5 @@
+Clo (Einheit)
+
+Das Clo ist die veraltete Maßeinheit für den Kehrwert des Wärmeübergangskoeffizienten und wurde vor allem in der Textilindustrie verwendet.
+
+1 Clo = 0,155 K·Meter²/Watt

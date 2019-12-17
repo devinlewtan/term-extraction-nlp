@@ -1,0 +1,23 @@
+Induktive Erwärmung
+
+Induktives Erwärmen ist ein Verfahren, elektrisch leitfähige Körper durch in ihnen erzeugte Wirbelstromverluste zu heizen.
+
+Die dazu benutzten Vorrichtungen sind die Induktionsheizung und der Induktionsofen. Sie erzeugen mittels einer von niederfrequentem (hier etwa 50–300 Hz), mittelfrequentem (200 Hz-10 kHz nach ; 1 kHz-100 kHz nach ) oder hochfrequentem Wechselstrom durchflossene Spule (dem Induktor) ein magnetisches Wechselfeld, das im Material Wirbelströme induziert.
+
+In ferromagnetischen Stoffen treten unterhalb der Curietemperatur zusätzlich auch Ummagnetisierungsverluste in Erscheinung.
+
+Häufige Anwendungen der induktiven Erwärmung sind das Anlassen, Glühen, Löten, Schweißen, Schmelzen, Aufschrumpfen und die Materialprüfung.
+
+Die Wärme entsteht unmittelbar im Körper selbst, muss also nicht durch Wärmeleitung übertragen werden. Die Wärmeleistung ist gut steuerbar. Die elektrische Leistung stammt aus speziellen Frequenzumrichtern (siehe Inverter oder auch Resonanzwandler) oder direkt aus dem Netz.
+
+Induktive Erwärmung kann durch nichtleitende Materialien hindurch erfolgen, die Umgebung wird nur indirekt erwärmt. Das Verfahren kann unter beliebigen Gasen oder im Vakuum angewendet werden, es entstehen keine Verunreinigungen durch eine externe Wärmequelle.
+
+Nachteilig ist die Störabstrahlung, insbesondere bei hochfrequenten Anlagen: in unmittelbarer Umgebung können andere elektrische oder elektronische Anlagen oder Geräte gestört werden.
+
+Die Form des meist wassergekühlten Induktors wird entsprechend der Form und Größe des Werkstückes oder der Erwärmungszone hergestellt. Die Frequenz muss oft an die Größe und Leitfähigkeit des Werkstücks angepasst werden: hohe Frequenzen führen aufgrund der Skintiefe zu oberflächennahem Erwärmen.
+
+Die Konzentration der Feldlinien durch Polschuhe ist möglich und wird für punktförmiges Erwärmen oder die Gestaltung/Formung der Erwärmungszone genutzt.
+
+Der Wirkungsgrad ist abhängig von dem Abstand sowie der Leitfähigkeit der Arbeitsspule und des Werkstücks. Er nimmt zu, je schlechter die Leitfähigkeit des Werkstücks ist. Bei schlecht leitenden Werkstoffen wie Eisen kann daher oft auf das Kühlen des Induktors verzichtet werden (z. B. bei der Induktionskochplatte).
+
+Die Anschaffungskosten einer Induktions-Anlage können deutlich höher sein als bei Einsatz konventioneller Verfahren wie Widerstandsheizung oder beim Erhitzen durch eine Flamme. Durch den hohen Wirkungsgrad heutiger Halbleiter-Generatoren und die wesentlich höhere Energiedichte und die Wärmeerzeugung direkt im Werkstück ist induktive Erwärmung allerdings hocheffizient und oft wirtschaftlicher als indirekte Heizverfahren.

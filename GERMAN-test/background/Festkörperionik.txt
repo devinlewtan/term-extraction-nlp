@@ -1,0 +1,14 @@
+Festkörperionik
+
+Die Festkörperionik () ist ein wissenschaftliches und technisches Fachgebiet, das aus Teilgebieten der Festkörperphysik und der Elektrochemie besteht.
+
+Die Festkörperionik behandelt Feststoffe, die elektrisch leitend sind und bei denen diese Leitfähigkeit vor allem auf der Beweglichkeit von Ionen im Feststoff beruht. Diese festen Ionenleiter nennt man auch Festelektrolyte; daher kann die Festkörperionik auch als die Wissenschaft von den Festelektrolyten bezeichnet werden. Die Festkörperionik hat wichtige Anwendungen, beispielsweise in der Sensorik und bei Hochtemperatur-Brennstoffzellen (Festoxidbrennstoffzelle); diese Anwendungen werden unter Anwendungsbeispiele weiter ausgeführt.
+
+Die elektrische Leitfähigkeit kommt dadurch zustande, dass zumeist eine Ionensorte im Festkörper beweglich ist. Die Ionen hüpfen von einem freien Gitterplatz zum nächsten, wobei für den Sprung eine Aktivierungsenergie "E" überwunden werden muss. Dann gibt das einfache Modell für die Leitfähigkeit σ eine der Arrheniusgleichung entsprechende Abhängigkeit, d. h.
+
+mit
+Für experimentell ermittelter Leitfähigkeiten σ werden oft die Logarithmen ln σ gegen den Kehrwert der Temperatur (1/"T") aufgetragen. Zumeist wird die angegebene Gleichung in guter Näherung erfüllt und es ergeben sich Geraden, die mit einer Steigung −"E"/"R" abfallen.
+
+Bereits 1854 hatte Heinrich Buff festgestellt, dass der Widerstand von Glas mit steigender Temperatur abnimmt. Im Gegensatz zum üblichen Verhalten bei Metallen, deren Leitfähigkeit mit steigender Temperatur sinkt, nimmt sie demgemäß bei Festelektrolyten mit steigender Temperatur zu. 1884 zeigte Emil Warburg, dass bei der Stromleitung eine Elektrolyse des Glases stattfindet, die zu einer schlecht leitenden natriumarmen Kieselsäureschicht an der Anode führt. Die Bildung dieser Schicht kann verhindert werden, wenn an der Anodenseite Natriumamalgam verwendet wird. Er schloss daraus, dass die Anionen des Glases stehenbleiben und dass allein das Kation, d. h. das Natriumion, durch das Glas hindurchwandert. Walther Nernst patentierte 1897 eine erste technische Anwendung fester Elektrolyte, die Nernstlampe. Die AEG kaufte das Patent und erleuchtete 1900 bei der Weltausstellung in Paris einen Pavillon mit 800 Nernstlampen. 1960 prägte der Japaner Takehiko Takahashi den Begriff „solid state ionics“, und der anschließende Aufschwung in der Festkörperionik trug dazu bei, sie als Fachgebiet zu etablieren. Seit 1980 hat es mit der Zeitschrift „Solid State Ionics“ ein eigenes regelmäßig erscheinendes Mitteilungsorgan.
+
+An vielen Universitäten wird zur Festkörperionik geforscht, in Deutschland z. B. in Gießen, Kiel und Marburg, in Österreich z. B. in Wien. Außereuropäische Forschung zur Festkörperionik findet z. B. in Pasadena oder Sendai statt.

@@ -1,0 +1,5 @@
+Freies Teilchen
+
+Als freie Teilchen werden in der Physik Objekte (z. B. Ladungsträger) bezeichnet, die sich nicht in einem Potential befinden. Somit wirkt keine Kraft auf das Teilchen und man muss nur gegen seine Trägheit Arbeit leisten, um seine Geschwindigkeit zu ändern; die Geschwindigkeit bleibt konstant, wenn keine Arbeit aufgewendet wird. Da die Potentiale in der Regel unendlich weit reichen, handelt es sich in den meisten Fällen um Näherungen. In Fällen, wo diese Näherung nur notdürftig ausreicht, spricht man auch von "quasifreien" Teilchen.
+
+Das Gegenteil eines freien Teilchens ist der gebundene Zustand.

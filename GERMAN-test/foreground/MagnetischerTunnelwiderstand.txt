@@ -1,0 +1,23 @@
+Magnetischer Tunnelwiderstand
+
+Der magnetische Tunnelwiderstand (, "TMR") oder TMR-Effekt ist ein magnetoresistiver Effekt, der in magnetischen Tunnelkontakten verwendet wird. Der TMR-Effekt ist mit Hilfe der klassischen Physik nicht erklärbar und ist somit ein rein quantenmechanisches Phänomen.
+
+Entdeckt wurde der Effekt 1975 von M. Jullière (Universität Rennes, Frankreich) in Fe/Ge-O/Co-Kontakten bei 4,2 K. Da die relative Widerstandsänderung bei Raumtemperatur unter 1 % war, fand die Entdeckung zunächst wenig Beachtung. 1991 fand Terunobu Miyazaki (Universität Tohoku, Japan) einen Effekt von 2,7 % bei Raumtemperatur und 1994 einen „Riesen-TMR-Effekt“ von 18 % bei Raumtemperatur (Eisenschichten getrennt durch einen amorphen Aluminiumoxid-Isolator). Die höchsten bisher beobachteten Effekte bei Kontakten auf Aluminiumoxid-Basis lagen bei 70 % bei Raumtemperatur. Bei Tunnelbarrieren aus Magnesiumoxid (MgO) bis zu 600 % bei Raumtemperatur und bei 4,2 K sogar über 1100 %.
+
+Die relative Widerstandsänderung, oder auch die Effektamplitude, ist definiert als
+
+worin formula_2 den elektrischen Widerstand im antiparallelen Zustand und formula_3 den elektrischen Widerstand im parallelen Zustand beschreiben.
+
+Der TMR-Effekt wurde von Jullière auf die Spinpolarisation der einzelnen ferromagnetischen Elektroden eines magnetischen Tunnelkontaktes zurückgeführt. Die Spinpolarisation formula_4 ergibt sich aus der spinabhängigen Zustandsdichte (engl. "density of states", Abk: "DOS") formula_5 der Elektronen an der Fermi-Kante:
+
+Die spin-up Elektronen sind dabei diejenigen, deren Spin-Ausrichtung parallel zur Magnetisierung liegt, die Spin-down-Elektronen sind jene mit antiparalleler Spin-Ausrichtung. Die relative Widerstandsänderung ergibt sich nun aus den Spinpolarisationen der beiden Ferromagnete, formula_7 und formula_8:
+
+Wird keine Spannung an die Elektroden angelegt, tunneln Elektronen in beide Richtungen mit gleichen Raten. Legt man eine Spannung formula_10 an, tunneln Elektronen präferenziert in Richtung der positiven Elektrode. Unter der Annahme, dass der Spin beim Tunneln erhalten bleibt, kann der Strom mit einem Zweistrommodell beschrieben werden; man zerlegt hier den Gesamtstrom in einen Spin-Up- und einen Spin-Down-Anteil. Diese sind unterschiedlich groß, in Abhängigkeit vom magnetischen Zustand des Kontakts.
+
+Um einen definierten antiparallelen Zustand zu erhalten gibt es zwei Möglichkeiten. Einerseits kann man ferromagnetische Elektroden mit unterschiedlichen Koerzitivfeldstärken (durch unterschiedliche Materialien oder unterschiedliche Schichtdicken) einsetzen. Andererseits kann eine der beiden Schichten mit einem Antiferromagneten gekoppelt werden (engl.: "exchange bias"). In diesem Fall bleibt die Magnetisierung der ungekoppelten Elektrode „frei“.
+
+Der TMR nimmt sowohl mit zunehmender Temperatur wie auch mit zunehmender Spannung ab. Beides kann prinzipiell durch Magnonanregung bzw. Wechselwirkung mit Magnonen verstanden werden.
+
+Offensichtlich gilt, dass der TMR unendlich wird, falls formula_7 und formula_8 gleich 1 sind, bzw. beide Elektroden 100 % spinpolarisiert sind. In diesem Fall wird der magnetische Tunnelkontakt zu einem Schalter, der zwischen endlichem (kleinen) Widerstand und unendlichem Widerstand auf magnetischer Basis schalten kann. Materialien die hierfür in Frage kommen werden als "ferromagnetische Halbmetalle" bezeichnet. Ihre Leitungselektronen sind vollständig spinpolarisiert. Theoretisch vorhergesagt ist diese Eigenschaft für eine Reihe von Materialien (z. B. CrO, verschiedene Heuslersche Legierungen), konnte jedoch bisher nicht experimentell bestätigt werden.
+
+Tunnelbarrieren aus MgO nehmen eine Sonderrolle ein. Falls die Grenzflächen zwischen den Ferromagneten und dem MgO epitaktisch sind, die Kristallgitter also versetzungsfrei aufeinander passen, können zusätzliche Filterungseffekte auftreten. Dabei werden Elektronen mit bestimmter Orbitalsymmetrie unterdrückt, während andere nahezu ungehindert tunneln können. Die Elektronen, die dann fast ungehindert passieren können, entstammen Bändern, die eine besonders hohe Polarisation aufweisen.

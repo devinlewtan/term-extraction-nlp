@@ -1,0 +1,9 @@
+Trägerstaueffekt
+
+Der (Ladungs-)Trägerstaueffekt (TSE) tritt unter anderem in elektronischen Bauelementen wie beispielsweise Thyristor und Triac auf und stellt eine Gefährdung für diese dar.
+
+Beim Nulldurchgang der anliegenden Ventilspannung befinden sich noch Ladungsträger in den Sperrschichten und aus diesem Grund fließt auch dann ein Strom, wenn die Spannung schon in Sperrrichtung gepolt ist. Sind alle Ladungsträger abtransportiert, reißt dieser Strom ab. An Induktivitäten, die evtl. im Stromkreis liegen, wird aufgrund dieser steilen Stromänderung (formula_1) eine Spannungsspitze induziert. Diese Spannungsspitzen treten periodisch auf (siehe Wechselstrom) und überlagern sich mit der Betriebsspannung, wodurch die Halbleiterschichten gefährdet werden. Die Spannung liegt als Sperrspannung an und kann durch Lawinendurchbruch das Bauelement zerstören.
+
+Vor Überspannung, ausgelöst z. B. durch den Trägerstaueffekt, werden Halbleiterventile durch entsprechend dimensionierte RC-Schaltungen (Reihenschaltung von ohmschem Widerstand und Kondensator) geschützt. Diese RC-Schaltung liegt parallel zum Thyristor oder Triac und wird auch als Snubber (engl.) bezeichnet.
+
+Der Trägerstaueffekt wird bei Bauteilen wie Ladungsspeicherdiode, Speicherschaltdiode oder PIN-Diode gezielt ausgenutzt.

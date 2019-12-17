@@ -1,0 +1,8 @@
+Magnetische Steifigkeit
+
+Die Magnetische Steifigkeit formula_1 beschreibt die Eigenschaft eines schnellen geladenen Teilchens, seine Bahn mehr oder weniger gut durch Magnetfelder 'biegen' zu lassen. Man erhält sie durch Gleichsetzen von Lorentzkraft und Zentripetalkraft:
+
+wobei
+Die magnetische Steifigkeit wird zumeist angegeben in Tm (Tesla mal Meter).
+
+Wichtig ist dieser Wert bei Teilchenbeschleunigern, insbesondere Synchrotrons und Zyklotrons: Je höher die Energie werden soll, desto größer werden die Geschwindigkeit und der Lorentzfaktor und damit die magnetische Steifigkeit. Da sich die Stärke des Magnetfelds jedoch "nicht" beliebig steigern lässt, muss stattdessen der Radius der Anlage entsprechend groß gewählt werden. Die stärksten Dipolmagnete heutiger Synchrotrone besitzen eine maximale Feldstärke von 8,6 T (siehe LHC).

@@ -1,0 +1,9 @@
+Alternativverbot
+
+Das Alternativverbot ist ein Begriff aus der Schwingungsspektroskopie. 
+Es besagt, dass eine Normalschwingung eines Moleküls mit Inversionszentrum entweder nur Infrarot-aktiv oder nur Raman-aktiv ist.
+
+Bei einer zum Inversionszentrum symmetrischen Schwingung ist die Schwingung im IR-Spektrum verboten (d. h., sie wird nicht beobachtet), bei einer anti-symmetrischen ist die Schwingung im Raman-Spektrum verboten. Das folgt daraus, dass sich bei einer IR-aktiven Schwingung das Dipolmoment des Moleküls ändern muss, was es bei einer inversions-symmetrischen Schwingung nicht tut. Damit eine Schwingung Raman-aktiv ist, muss sich dagegen die Polarisierbarkeit der detektierten Spezies ändern.
+In der Charaktertafel des Moleküls zeigt sich eine symmetrische Schwingung als „+1“ und eine unsymmetrische als „–1“.
+
+Veranschaulichen kann man sich das beim Molekül formula_1, bei dem asymmetrische Streckschwingung und Biegeschwingung nur IR-aktiv sind, während die symmetrische Streckschwingung nur Raman-aktiv ist.

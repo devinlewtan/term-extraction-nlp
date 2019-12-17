@@ -1,0 +1,58 @@
+Signal-Rausch-Verhältnis
+
+Das Signal-Rausch-Verhältnis, auch "Störabstand" formula_1 oder "(Signal-)Rauschabstand" formula_2, abgekürzt SRV oder S/R beziehungsweise SNR oder S/N von , ist ein Maß für die technische Qualität eines Nutzsignals (z. B. Sprache oder Video), das von einem Rauschsignal überlagert ist. Es ist definiert als das Verhältnis der mittleren Leistung des Nutzsignals zur mittleren Rauschleistung des Störsignals.
+
+Das SNR ist ein Begriff aus der Hochfrequenz-, Mess- und Nachrichtentechnik sowie der Akustik, der auch in vielen weiteren Bereichen wie etwa der Automatisierungstechnik oder der Signal- und Bildverarbeitung verwendet wird. Verwandte Größen sind das "Spitzen-Signal-Rausch-Verhältnis" (PSNR), das "Träger-Rausch-Verhältnis" (C/N) und das "Träger-Interferenz-Verhältnis" (C/(I+N) oder C/I).
+
+
+Das Signal-Rausch-Verhältnis ist definiert als das Verhältnis der vorhandenen mittleren Signalleistung "P" zur vorhandenen mittleren Rauschleistung "P" (dem Integral der spektralen Rauschleistungsdichte über die Bandbreite), wobei der Ursprung der Rauschleistung nicht berücksichtigt wird.
+
+Als Verhältnis von Größen gleicher Maßeinheit ist das Signal-Rausch-Verhältnis dimensionslos. Es ist also:
+
+Da die Signalleistung bei vielen technischen Anwendungen um mehrere Größenordnungen größer ist als die Rauschleistung, wird das Signal-Rausch-Verhältnis oft im logarithmischen Maßstab dargestellt. Man benutzt dazu die Pseudoeinheit Dezibel (dB):
+
+Bei niedrigen Frequenzen und schmalbandiger elektromagnetischer Nutzsignal- und Rauschleistung können Signal-Rausch-Verhältnisse über effektive Spannungs- oder Stromamplituden ausgedrückt werden (→ Rauschspannung). Das ist z. B. in der Audiotechnik üblich. Da die verfügbaren Leistungen in diesem Fall dem Quadrat des Effektivwerts der Spannungen ("u", "u") proportional ist, gilt:
+woraus folgt:
+
+Eine alternative Definition des Signal-Rausch-Verhältnisses wird überwiegend beispielsweise in der Spektroskopie oder der Bildverarbeitung (insbesondere in der medizinischen Bildgebung) verwendet. Hier ist das SNR definiert als Verhältnis der mittleren Signal"amplitude" "A" (anstelle der Leistung) und der Standardabweichung "σ" des Rauschens:
+Dies ist von der vorhergehenden Definition auf Basis der Spannungsamplituden zu unterscheiden, da dort zunächst die Leistung mittels der quadrierten Amplituden berechnet wird, während hier das nicht-quadrierte Amplitudenverhältnis zugrunde liegt. Bei Verwendung dieser Definition ist auch die Umrechnung in Dezibel weniger häufig zu finden; das SNR wird meist als einheitenlose Größe der Dimension 1 angegeben.
+
+Bei Modulationsverfahren wie der Phasenmodulation oder Frequenzmodulation lassen sich Signal- und Trägerleistung nicht voneinander trennen. Deshalb bezieht man dort das Rauschen nicht auf das Signal "S", sondern den Träger "C" (engl. ). Das Verhältnis heißt Träger-Rausch-Verhältnis (engl. , kurz C/N).
+
+Neben dem Rauschen können auch Interferenzen "I" das Signal überlagern. Dabei kann das Signal sowohl mit sich selbst durch Mehrwegeempfang, verursacht durch Reflexionen, interferieren, als auch mit ähnlichen Signalen, beispielsweise von Nachbarfunkzellen beim Mobilfunk. Je nachdem, ob die Rauschleistung mit berücksichtigt wird, kürzt man das Träger-Interferenz-Verhältnis ab als C/I oder C/(I+N).
+
+Das Träger-Rausch-Verhältnis C/N einer Funkstrecke verbessert sich mit der Sendeleistung "P" und den Antennengewinnen "G" und "G" von Sender und Empfänger. Sie verringert sich mit der Rauschleistung, dem Produkt aus Boltzmann-Konstante "k", Rauschtemperatur "T" und Bandbreite "B". Zusätzlich nimmt sie mit der Freiraumdämpfung "F" = (4π·"R"/λ) ab ("R" ist der Abstand, λ die Wellenlänge):
+Ein Umstellen der Größen liefert den Zusammenhang zwischen Träger-Rausch-Verhältnis und Empfangsgüte (G/T).
+
+Wird ein Bild oder Video komprimiert übertragen, muss es an der Empfängerseite dekomprimiert und dargestellt werden. Als Kenngröße für die Qualität dieser Übertragung wird das Spitzen-Signal-Rausch-Verhältnis (PSNR von engl. ) verwendet. Typische Werte sind, bei einer Bittiefe von 8 Bit, 30 dB bis 40 dB. Bei einer Bittiefe von 16 Bit sind Werte zwischen 60 dB und 80 dB üblich.
+
+Als Störwert wird üblicherweise die mittlere quadratische Abweichung (englisch , MSE) verwendet, die für zwei "m"×"n"-Schwarz-Weiß-Bilder "I" und "K", eines davon das Original, das andere die gestörte Annäherung (z. B. durch (verlustbehaftetes) Komprimieren und Dekomprimieren), folgendermaßen angegeben wird:
+
+Das PSNR ist damit definiert als:
+
+"I" ist die maximal mögliche Signalintensität (bei einem Bild der maximal mögliche Pixelwert). Werden 8 Bit zur Darstellung eines abgetasteten Wertes verwendet, ist das 255. Falls mit linearer Puls-Code-Modulation (PCM) gearbeitet wird, sind das im Allgemeinen "B" Bits für einen abgetasteten Wert; der maximale Wert von "I" ist dann 2−1.
+
+Für Farbbilder mit drei RGB-Werten pro Pixel ist die Definition des PSNR dieselbe; die MSE ist dann die Summe über alle Differenzwerte dividiert durch die Bildgröße und dividiert durch 3.
+
+Diese Metrik ignoriert jedoch viele Effekte im visuellen System des Menschen, andere Metriken sind (SSIM, englisch für „strukturelle Ähnlichkeit“) und DVQ.
+
+Die um Kontrastwahrnehmungs- und Maskierungskriterien erweiterte Metrik PSNR-HVS-M bietet nach einer Untersuchung der Entwickler von 2007 die bis dahin beste Annäherung an die subjektiven Bewertungen menschlicher Beobachter, mit großem Vorsprung vor PSNR, UQI und MSSIM aber auch deutlichem Abstand zu DCTune und PSNR-HVS.
+
+Je mehr über das Nutzsignal bekannt ist, desto stärker lässt sich das SNR anheben. Einige Verfahren zur SNR-Verbesserung sind in den folgenden Abschnitten aufgezählt.
+
+Bei konstantem Rauschanteil steigt die SNR, wenn man das Nutzsignal vergrößert. In einer lärmenden Menschenmenge ist Flüstern kaum zu verstehen, während lautes Rufen deutlich wahrzunehmen ist.
+
+Bei konstantem Rauschen (z. B. eines Magnetbands) ist das SNR für kleine Signale sehr klein. Kompressor/Expander-Systeme, die sogenannten Kompander, reduzieren deshalb den Dynamikbereich. Beispielsweise werden beim System "Dolby" leise Abschnitte mit überhöhter Lautstärke aufgenommen. Das Verfahren stellt sicher, dass sich das System bei der Wiedergabe an die richtige Lautstärke erinnert.
+
+Rauschen tritt im gesamten Frequenzspektrum auf. Um es zu begrenzen, filtert man es außerhalb der Bandbreite des Systems aus. Beispielsweise sorgt beim Telefon ein Tiefpassfilter dafür, dass die Frequenzen oberhalb von ca. 3 kHz unterdrückt werden.
+
+Bei digitalen Übertragungsverfahren (z. B. Telefonmodem, jegliche Art von digitaler drahtloser Datenübertragung) wird im Empfänger zur Optimierung des SNRs ein signalangepasstes Filter (engl. ) verwendet. Vereinfacht gesprochen wird im Empfänger die gleiche Filtercharakteristik angewendet wie im Sender. Häufig findet hier ein Root-Raised-Cosine-Filter Verwendung.
+
+Ist man nicht am gesamten Signal interessiert, sondern beispielsweise nur an dessen Frequenz, kann man das Signal durch Autokorrelation verstärken.
+
+Obwohl das Rauschen deutlich gemindert wird, wird auch das Nutzsignal abgeschwächt. Mit dieser Methode kann man die Cramer-Rao-Grenze nicht unterschreiten. Die Cramer-Rao-Grenze gibt die Mindestgröße für die Frequenzunsicherheit in Abhängigkeit von der Abtastfrequenz, der Anzahl der vorhandenen Signalperioden und dem SNR an.
+
+Durch mehrfaches Senden einer Information lässt sich das Rauschen reduzieren. Da Rauschen stochastisch auftritt, wächst die Standardabweichung des Rauschsignals bei Summation von formula_11 Übertragungen nur um den Faktor formula_12, während das Signal um den Faktor formula_11 zunimmt. Das SNR bezogen auf die Signalamplituden (eine übliche Konvention in der Bildverarbeitung) steigert sich um formula_14. Dies ergibt sich aus dem zentralen Grenzwertsatz.
+Das Teilbild links ist eines von 8 Bildern, die mit einer gaußschen Unschärfe von ca. 80 Grauwertunterschieden verrauscht wurden. Das Ergebnis der Mittelung zweier Bilder zeigt das mittlere Teilbild. Die SNR hat von ca. 6 dB um formula_15 auf 7 dB zugenommen. Nach der Summation von 8 Bildern, rechtes Teilbild, steigt es um formula_16 auf ca. 10 dB. Das SNR der Bilder wurde aus dem Verhältnis von Kontrastumfang des Bildes und Streuung eines kontrastarmen Teilbereichs bestimmt.
+
+Die Mittelung von Bilddaten wird zum Beispiel gerne in der Astronomie eingesetzt, etwa bei der Lucky-Imaging-Technik. Durch die Erdatmosphäre hindurch sind prinzipiell sehr scharfe Aufnahmen möglich, aber Langzeitbelichtungen leiden unter der Unruhe der Luft – die Sterne wirken verschwommen. Fertigt man nun mehrere tausend Kurzzeit-Aufnahmen an, sind aus reinem Zufall (deshalb der Name der Methode) einige hundert davon ziemlich scharf. Diese Bilder werden dann gemittelt, um das Signal-Rausch-Verhältnis zu verbessern und eine Langzeitaufnahme zu rekonstruieren.

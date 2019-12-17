@@ -1,0 +1,35 @@
+Eichtransformation
+
+Eine Eichtransformation verändert die Eichfelder einer physikalischen Theorie (z. B. die elektromagnetischen Potentiale oder die potentielle Energie) dergestalt, dass die physikalisch wirksamen Felder (z. B. das elektromagnetische Feld oder ein Kraftfeld) und damit alle beobachtbaren Abläufe dabei die gleichen bleiben. Dies wird als Eichfreiheit bezeichnet.
+
+Man unterscheidet:
+
+Eine physikalische Wirkung, die invariant unter lokalen Eichtransformationen ist, wird als "eichinvariante" Wirkung bezeichnet. Eine Theorie, die nach dem Prinzip der kleinsten Wirkung aus einer eichinvarianten Wirkung die physikalischen Bewegungsgleichungen gewinnt, wird als Eichtheorie bezeichnet. Alle fundamentalen Wechselwirkungen – Gravitation, Elektromagnetismus, schwache Wechselwirkung (Beta-Zerfall des Neutrons) und die
+starke Wechselwirkung (Kernkräfte) – werden durch solche Eichtheorien beschrieben.
+
+Nach dem Noether-Theorem weist die einer Eichtransformation zugrundeliegende Symmetrie auf die Existenz einer Erhaltungsgröße hin.
+
+Die Elektrodynamik ist invariant unter der Eichtransformation
+welche das elektrische Potential formula_3 und das magnetische Potential formula_4 
+um die partiellen Ableitungen einer beliebig wählbaren Funktion formula_5 ändert.
+
+Diese Transformation ändert weder das Magnetfeld
+
+noch das elektrische Feld
+
+Zur Definition von formula_8 und formula_9 siehe Gradient und Rotation.
+
+Eichtransformationen können genutzt werden, um Berechnungen zu vereinfachen.
+
+Die Beispiele verwenden das Maßsystem mit formula_10.
+
+Durch die nach Ludvig Lorenz benannte Eichtransformation mit einer Eichfunktion formula_11, die
+
+erfüllt, werden die inhomogenen Maxwellgleichungen zu zwei unabhängigen Wellengleichungen von formula_13 und formula_4.
+
+Erfüllt die Eichfunktion formula_15 hingegen
+
+so hilft die Transformation, das Skalarfeld formula_3 gerade zum Coulomb-Potential der Ladungen zu transformieren; formula_3 erfüllt dann die elektrostatische Poissongleichung.
+
+Ebenso ist die Allgemeine Relativitätstheorie eine Eichtheorie, deren Eichtransformation neue Koordinaten als frei wählbare Funktionen der bisherigen Koordinaten festlegt:
+Die Wirkung der Allgemeinen Relativitätstheorie ändert sich unter dieser Eichtransformation nicht.

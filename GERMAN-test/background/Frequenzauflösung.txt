@@ -1,0 +1,11 @@
+Frequenzauflösung
+
+Die Frequenzauflösung bezeichnet den geringsten Frequenzabstand zweier Töne (oder sinusförmiger Vorgänge), die noch unterschieden werden können. Sie bezeichnet die Anwendung des physikalischen Begriffs Auflösung auf die Dimension der Frequenz. Der Begriff wird vor allem in der Akustik (insbesondere Psychoakustik) und der Signalverarbeitung verwendet.
+
+Die Auflösung wird zum einen durch die Quantisierung der Frequenz vorgegeben. So kann das Frequenzspektrum mit Hilfe einer Filterbank bestimmt worden sein (z. B. Terzspektrum). Dann ist die resultierende Frequenzauflösung im ganzen Spektralbereich jeweils eine Terz.
+
+Zum anderen bestimmt die Analysezeit die Auflösung. Die Frequenzauflösung kann nicht wesentlich besser sein als der Kehrwert der Analysezeit. Dies ist eine Eigenschaft der diskreten Fourier-Transformation, mit der meist Frequenzspektren bestimmt werden. Die Auflösung kann demgegenüber verbessert werden, wenn zusätzliche Kenntnisse vorliegen oder Annahmen getroffen werden können. Dann können hochauflösende Methoden (z. B. Maximum-Likelihood-Methode oder Maximum-Entropie-Methode) die Auflösung erhöhen. Fensterfunktionen zur Verringerung der Nebenzipfel im Spektrum verringern die Auflösung. 
+
+Die Fähigkeit des Menschen oder von Tieren zur Unterscheidung zweier Töne mit geringfügig unterschiedlichen Frequenzen ist sowohl individuell als auch über den Hörbereich unterschiedlich ausgeprägt: der Zusammenhang zwischen der physikalischen Frequenz eines Tones und seiner physiologisch empfundenen Tonheit ist nicht linear. Diese Gesetzmäßigkeit ist in der Bark-Skala dargestellt.
+
+Die Ausprägung dieser Fähigkeit zur Frequenzunterscheidung ist entscheidend für den Grad der akustischen Orientierungsfähigkeit, beispielsweise hinsichtlich des Richtungshörens oder beim Cocktail-Party-Effekt, der die Spracherkennung bei lauten Hintergrund- und Störgeräuschen beschreibt.

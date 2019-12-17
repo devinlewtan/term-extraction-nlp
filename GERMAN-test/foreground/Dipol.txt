@@ -1,0 +1,67 @@
+Dipol
+
+Ein Dipol (griechisch: Präfix "di-": zwei-, πόλος (pólos) = „Achse“) ist die physikalische Anordnung zweier zueinander entgegengesetzter allgemeiner Ladungen, bspw. elektrischer Ladungen oder beim magnetischen Dipol Austrittsflächen des magnetischen Felds aus einem Körper. Da sich die entgegengesetzten Ladungen gegenseitig kompensieren, trägt der Dipol insgesamt keine Ladung.
+Der Dipol wird charakterisiert durch den Abstand formula_1 und den Betrag der entgegengesetzten Ladungen formula_2.
+Das Produkt aus diesen beiden Größen ist das Dipolmoment formula_3 in der Multipolentwicklung seines Fernfelds.
+In dieser Betrachtung lässt sich der tatsächliche Dipol gleichwertig durch einen ausdehnungslosen Dipol mit gleichem Dipolmoment ersetzen, der in seinem Zentrum angesiedelt ist (sog. „Dipol-Limes“).
+
+Ein Dipol kann beispielsweise aus elektrischen Ladungen erzeugt werden, kann aber auch ohne räumlich trennbare Ladungen existieren wie beim magnetischen Dipol (es gibt nur "fiktive", keine "realen" magnetischen Ladungen!).
+
+Außer im Elektromagnetismus treten Dipole noch in verschiedenen anderen Bereichen auf wie Akustik oder Fluiddynamik. Charakteristisch ist immer die Richtungsabhängigkeit und die Abnahme des erzeugten Feldes mit formula_4 bei Abständen formula_5.
+
+Der Begriff des Dipols ist in seiner Bedeutung "nicht" identisch mit dem des Zweipols, welcher eine bestimmte Gruppe elektrischer Schaltungen beschreibt.
+
+Elektrische Dipole erfordern die Trennung von Ladungen und treten daher auf "makroskopischer Skala" nur selten auf. Auf "mikroskopischer Skala" sind dagegen elektrische Dipole sehr häufig. Beispielsweise werden sie von asymmetrischen Molekülen wie z. B. dem Wassermolekül erzeugt.
+
+Auch in biologischen Muskel- und Nervenfasern entstehen elektrische Dipolmomente durch aufgebaute Spannungen, die beispielsweise beim Elektrokardiogramm gemessen werden können.
+
+Wegen des Fehlens wirklicher magnetischer Monopole gehen magnetische Felder immer von magnetischen Dipolen und deren Überlagerungen aus. Daher sind im Magnetismus auch makroskopisch gesehen offensichtliche Dipolfelder sehr häufig. Ein langer Stabmagnet lässt sich in guter Näherung als magnetischer Dipol beschreiben. Auch das Magnetfeld der Erde ähnelt im Außenbereich einem Dipolfeld mit Dipolachse von Nord nach Süd.
+
+Ein magnetischer Dipol entsteht generell aus einer stromumflossenen Fläche oder ist mit dem Spin von Teilchen verbunden.
+
+Als Dipolmagnet werden auch größere Konfigurationen bezeichnet, deren Feld kein reines Dipolfeld, aber diesem ähnlich ist, im Gegensatz zu Quadrupolmagneten und noch höheren Ordnungen der Multipolentwicklung.
+
+Ein statisches Dipolfeld verringert sich formula_6 (formula_7: Entfernung). Für große Entfernungen nimmt die umschlossene Oberfläche mit formula_8 zu, das Produkt geht aber mit formula_9 gegen Null. In großem Abstand verschwindet daher der elektrische Fluss des Dipolfelds. Das folgt auch unmittelbar aus der Anschauung: aus großer Entfernung sind die Pole räumlich nicht mehr zu unterscheiden, ihre Feldbeiträge heben sich auf.
+
+Zeitlich veränderliche Dipole verhalten sich grundsätzlich anders. Erst sie ermöglichen es, dass weit entfernte Sterne am Himmel zu sehen sind und die Sonne die Erde mit Strahlungsenergie versorgt. Ein mathematisches Modell eines einfachen variablen Dipols ist der Hertzsche Dipol. Systeme mit Ausdehnungen in der Größenordnung der Wellenlänge heißen Dipolantennen.
+
+Jeder Dipol ist durch sein Dipolmoment charakterisiert, eine vektorielle Größe, welche Richtung und Betrag besitzt. Dabei steht formula_10 für ein elektrisches und im Folgenden für ein beliebiges Dipolmoment, wohingegen ein magnetisches Dipolmoment in der Regel mit formula_11 bezeichnet wird.
+
+Ein "physikalischer Dipol" besteht aus zwei gegensätzlichen Ladungen formula_12 in hinreichend kurzem Abstand "d". Das Dipolmoment ist definiert als
+
+Das Feld in großer Entfernung, d. h. für formula_14, hängt dann nur noch von formula_10 ab und nicht mehr von "q" und "d" einzeln. Je größer der Abstand, desto mehr nähert sich das Feld dem eines Punktdipols an. Bei kleinen Abständen weicht das Feld davon ab, was sich auch durch nichtverschwindende höhere Multipolmomente zeigt.
+
+Der Punktdipol entsteht, wenn ein ausgedehnter Dipol ohne Monopolmoment auf einen Punkt verkleinert wird, ohne dabei das Dipolmoment zu ändern. Das entspricht dem Grenzfall bei großen Abständen und führt zur Ladungsverteilung
+
+unter Verwendung
+
+Ein im Ursprung des Koordinatensystems liegender Punktdipol erzeugt das Feldpotential
+
+unter Verwendung
+und das Vektorfeld
+
+unter Verwendung
+
+Felder, die aus einer räumlich begrenzten Ladungsverteilung entstehen, lassen sich durch die Multipolentwicklung nach verschiedenen Anteilen aufspalten, die bei großen Abständen verschieden schnell abfallen. Bei großen Abständen dominiert dann immer der erste nichtverschwindende Term. Der Dipolterm als zweiter Term in der Entwicklung kommt daher besonders zum Tragen, wenn der Monopolterm (Gesamtladung) verschwindet. Eine beliebige Ladungsverteilung besitzt dann das Dipolmoment
+
+Falls der Monopolterm allerdings nicht verschwindet, so lässt sich der Wert des Dipolmoments durch Verschiebung des Koordinatenursprungs verändern und ist somit nicht eindeutig definiert.
+
+Der nächsthöhere Term ist das Quadrupolmoment, dessen Feld mit formula_25 abnimmt.
+
+Ein Dipol in einem äußeren Feld, das nicht von ihm selbst erzeugt wird, – (elektrisches Feld formula_26 bzw. magnetisches Feld formula_27) – besitzt die potentielle Energie:
+
+In einem inhomogenen äußeren Feld wirkt auf einen Dipol die Kraft:
+
+Diese beiden Ausdrücke sind über die Graßmann-Identität mathematisch identisch, wenn das Magnetfeld rotationsfrei ist.
+
+Manchmal benutzt man deshalb auch eine leicht unterschiedliche, äquivalente Konvention für die Definition des magnetischen Moments, nämlich
+
+mit der magnetischen Feldkonstante formula_33
+
+Somit ist im magnetischen Fall alternativ
+
+mit der magnetischen Feldstärke formula_35 Dies hat u. a. deshalb Vorteile, weil die im Festköpermagnetismus wichtige Größe der Magnetisierung eines Permanentmagneten dieselbe physikalische Dimension wie formula_36 hat (und nicht wie formula_27).
+
+Zeigt ein Dipol nicht in Richtung eines äußeren Feldes, so wirkt auf ihn ein Drehmoment:
+
+Befinden sich zwei Dipole im Feld des jeweils anderen, so entstehen Dipol-Dipol-Kräfte, die entsprechend dem Feldgradienten mit formula_25 abnehmen.

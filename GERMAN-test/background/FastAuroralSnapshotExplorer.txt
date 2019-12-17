@@ -1,0 +1,5 @@
+Fast Auroral Snapshot Explorer
+
+Der Fast Auroral Snapshot Explorer (FAST) ist ein Forschungssatellit der NASA, der die Plasmaphysik der an den beiden Polen der Erde auftretenden Polarlichter erforscht hat. Der Satellit wurde im Goddard Space Flight Center der NASA gebaut und am 21. August 1996 mit einer flugzeuggestützten Pegasus-XL-Rakete gestartet. Da der Satellit zum Small-Class-Explorer-Programm gehört, wird er auch als SMEX 2 bzw. Explorer 70 bezeichnet.
+
+Nach dem Start trat FAST in einen elliptischen Erdorbit mit einem Perigäum von 350 km und einem Apogäum von 4175 km und einer Bahnneigung von 83° ein. Für eine Erdumrundung braucht FAST 133 min. Der Satellit durchfliegt die Polarlichtzone, die etwa bei 65° nördlicher und südlicher Breite liegt, vier mal pro Orbit und sammelte nur währenddessen Daten. FAST ist 0,93 m hoch, hat einen Durchmesser von 1,02 m und eine Masse von 191 kg, wovon 65 kg auf die wissenschaftlichen Instrumente entfallen. Er ist spinstabilisiert mit 12 Umdrehungen in der Minute. Der inaktive Satellit befindet sich weiterhin in der Umlaufbahn. (Stand: Mai 2018)

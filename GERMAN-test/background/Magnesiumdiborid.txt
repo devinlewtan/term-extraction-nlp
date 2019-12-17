@@ -1,0 +1,11 @@
+Magnesiumdiborid
+
+Magnesiumdiborid ist eine intermetallische Verbindung, welche die aktuell höchste Sprungtemperatur (39 K) unter den metallischen Supraleitern aufweist. Dies ist fast eine Verdoppelung zu dem bis dahin bekannten Spitzenreiter (Niobgermanium, NbGe, bei 23 K). Diese Eigenschaft wurde erst 2001 von dem japanischen Wissenschaftler Jun Akimitsu entdeckt, obwohl Magnesiumdiborid schon seit über 50 Jahren bekannt und einfach herzustellen ist (jedoch nicht in reiner Form).
+
+Bereits 1914 wurde über die Darstellung eines Magnesiumborid berichtet, das durch das Erhitzen von amorphem, fein verteiltem Bor mit Magnesium-Pulver bis zur Rotglut in einem Wasserstoff-Strom entstand. Die gleiche Verbindung wurde bei der Reaktion von Magnesium mit Bortrioxid neben Magnesiumoxid beobachtet.
+
+Die Herstellung von reinem Magnesiumdiborid, wie es für Supraleiter benötigt wird, ist aufwendig. Da Magnesium bei 650 °C, Bor jedoch erst bei über 2000 °C schmilzt (dort ist Magnesium schon gasförmig), ist eine Herstellung von Magnesiumdiborid durch Einschmelzen nicht möglich. Stattdessen werden die beiden Ausgangsstoffe bei 900 °C zusammengebracht, also bei einer Temperatur, bei der Magnesium noch nicht siedet. Der dennoch auftretende Magnesiumdampf diffundiert in das Bor, wo sich leicht auslösbare Magnesiumdiborid-Kügelchen bilden. In einem ähnlichen Verfahren können dünne Drähte hergestellt werden.
+
+Ebenfalls möglich ist die Abscheidung von Dünnschichten von Magnesiumdiborid durch Reaktion von Magnesiumdampf in einer Wasserstoffatmosphäre mit Diboran.
+
+Magnesiumdiborid ist ein geruchloses dunkelgraues bis schwarzes Pulver. Untersuchungen zu Magnesiumdiborid wurden erstmals 1954 von Jones und March veröffentlicht. Dieses bislang metallreichste Magnesium-Borid (daneben sind bis zum jetzigen Zeitpunkt in der Literatur mit MgB, MgB, MgB und MgB vier weitere binäre Magnesiumboride bekannt) kristallisiert im Aluminiumdiborid-Typ in der und den Gitterkonstanten a = 3,0834(3) Å und c = 3,522(2) Å. Dabei bilden die Boratome in der ab-Ebene ein graphitartiges Netz aus planaren kantenverknüpften Sechsringen, wobei die Magnesium-Atome sich jeweils ober- und unterhalb der Ringzentren befinden und die Bor-Atome trigonal prismatisch von diesen umgeben werden.

@@ -1,0 +1,30 @@
+Molekularstrahlepitaxie
+
+Molekularstrahlepitaxie (, MBE) ist ein Verfahren der physikalischen Gasphasenabscheidung (PVD), um kristalline dünne Schichten (bzw. Schichtsysteme) herzustellen.
+
+Das Verfahren wird vor allem in der Halbleitertechnik verwendet, unter anderem um einkristalline Strukturen aus Halbleiterverbindungen wie Galliumarsenid (GaAs), Indiumphosphid (InP), GaInNAs, Galliumantimonid (GaSb) auf einem Substrat zu erzeugen.
+
+Sie wurde Ende der 1960er Jahre an den Bell Laboratories durch Alfred Y. Cho und John R. Arthur entwickelt.
+
+"Epitaxie" bedeutet, dass die Kristallstruktur der aufwachsenden Schicht sich der des Substrates anpasst, solange die physikalischen Eigenschaften (insbesondere die Gitterparameter) der beiden Substanzen nicht zu stark voneinander abweichen. Man spricht von "Homoepitaxie", wenn Substrat und Schicht aus der gleichen Verbindung bestehen, ansonsten von "Heteroepitaxie". Bei der Heteroepitaxie kommt es wegen der im Allgemeinen unterschiedlichen Gitterparameter zu Verspannungen in der aufgewachsenen Schicht. Ab einer kritischen Schichtdicke bilden sich Versetzungen (Defekte) und die Verspannung klingt exponentiell ab.
+
+MBE setzt ein Ultrahochvakuum voraus, um Verunreinigungen durch Restgasatome zu vermeiden. Während des Wachstumsprozesses steigt der Druck aber bedingt durch die Effusion in den Hochvakuumbereich. Die Stoffe, aus denen die Schicht bestehen soll, werden in Evaporationstiegeln "(Effusionszellen)" erhitzt und gelangen als gerichteter Molekularstrahl (ohne Stöße mit dem Hintergrundgas) zum Substrat. Dieses wird ebenfalls geheizt und erlaubt so ein geordnetes Anwachsen der Schicht.
+
+Durch Steuerung der Tiegeltemperaturen und kontrolliertem Öffnen und Blockieren des Molekularstrahls einzelner Quellen können komplizierte Mehrschichtstrukturen mit wechselnden Zusammensetzungen und Dotierungen hergestellt werden. Die Schichtdicken können wenige Atomlagen (also weniger als ein Nanometer) bis Mikrometer betragen.
+
+Der MBE-Prozess kann durch geeignete In-situ-Verfahren (RHEED, Ellipsometrie), welche den Wachstumsprozess nicht beeinflussen, kontrolliert und gesteuert werden.
+
+ 
+
+Die Molekularstrahlepitaxie findet vor allem bei der Herstellung optoelektronischer Bauelemente Verwendung, unter anderem bei Laserdioden, dielektrischen Spiegeln oder Quantenkaskadenlasern.
+
+Durch die genaue Schichtdickenkontrolle lassen sich außerdem Strukturen mit sehr kleinen räumlichen Abmessungen verwirklichen, wie sie für die Nanotechnologie typisch sind. Diese haben neuartige Eigenschaften, die auf Quantenphänomenen basieren. Dabei werden häufig natürliche Rauhigkeiten oder Selbstorganisation innerhalb der Grenzschichten bei Heteroepitaxie ausgenutzt. Besonders die Verspannung epitaktisch gewachsener Heterostrukturen führt zu null-, ein- und höherdimensionalen Strukturen wie den schon erwähnten
+
+In der Grundlagenforschung wird MBE deshalb auch zum Wachstum von verspanntem Si/SiGe eingesetzt. Mit dieser Technologie sollte es in Zukunft möglich sein, sogenannte HEMTs in Si/SiGe-Technik (MODFETs genannt) zu realisieren und Kosten durch die Verwendung von Materialien wie zum Beispiel GaAs einzusparen.
+
+Durch Verdampfen können auch wohlgeordnete Schichten organischer Moleküle auf atomar ebenen anorganischen Oberflächen hergestellt werden. Dieses Verfahren wird auch als "organische Molekularstrahlepitaxie" (engl. "", OMBE) bezeichnet.
+
+In der anorganischen Chemie wird die Tieftemperatur-Molekularstrahlexpitaxie zur Synthese thermodynamisch instabiler, aber kinetisch gehemmter Stoffe eingesetzt.
+
+Ein spezielles MBE-Verfahren ist die Allotaxie, mit deren Hilfe sich zum Beispiel vergrabene
+Cobaltdisilicid-Schichten in monokristallinem Silicium herstellen lassen.

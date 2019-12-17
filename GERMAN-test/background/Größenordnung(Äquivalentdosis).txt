@@ -1,0 +1,7 @@
+Größenordnung (Äquivalentdosis)
+
+Dies ist eine Zusammenstellung von Äquivalentdosen ionisierender Strahlung zu Vergleichszwecken. Die Angaben sind oft als „typische Werte“ zu verstehen; die umgerechneten Werte sind gerundet.
+
+Wenn kein Zeitraum angegeben ist, handelt es sich um "kurzzeitige" Bestrahlungen, also Zufuhr der genannten Dosis innerhalb höchstens einiger Stunden. Bei Verteilung der gleichen Dosis über längere Zeit setzen biologische Heilungsvorgänge schon während der Bestrahlung ein, so dass die Auswirkungen geringer sind.
+
+Grundeinheit der Äquivalentdosis "H" im internationalen Einheitensystem ist das Sievert (Einheitenzeichen Sv). Die Äquivalentdosis ist nicht mit der Energiedosis "D" (Einheit: Gray, Gy), der Organdosis, der Äquivalentdosisleistung (Äquivalentdosis pro Zeit) oder der Aktivität "A" (Einheit: Becquerel, Bq) zu verwechseln.

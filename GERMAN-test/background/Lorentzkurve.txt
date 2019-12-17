@@ -1,0 +1,8 @@
+Lorentzkurve
+
+Die Lorentzkurve, nach Hendrik Antoon Lorentz, oder Breit-Wigner-Funktion, nach Gregory Breit und Eugene Wigner, ist eine Kurve, die in der Physik bei der Beschreibung von Resonanzen auftritt.
+
+In die Breit-Wigner-Funktion gehen zwei Parameter ein. Der Parameter formula_1 bestimmt die Position des Maximums, der Parameter formula_2 wird Breite der Kurve genannt. Aus physikalischer Sicht ist eine Interpretierbarkeit der Kurve nur für formula_3 gegeben, da mit formula_4 in der Regel eine Kreisfrequenz assoziiert ist und negative Frequenzen physikalisch unsinnig sind. Die Funktionsvorschrift lautet:
+Eine andere Form der Kurve erhält man durch Reparametrisierung, indem man statt der Parameter formula_1 und formula_2 folgenden Satz Parameter verwendet:
+Dann ist
+insbesondere gilt für formula_10, dass die gestrichenen und ungestrichenen Parameter nahezu identisch werden. Die erste Form wird für gewöhnlich in der Teilchenphysik bevorzugt, die zweite Form in der klassischen Physik, da sie sich in ihren jeweiligen Gebieten aus der Physik in den entsprechenden Formen ergeben. Zur Rückkonversion dienen die Beziehungen

@@ -1,0 +1,19 @@
+Rekonnexion
+
+Die magnetische Rekonnexion ("Neuverbindung") ist ein physikalisches Phänomen, bei dem sich die Struktur eines Magnetfeldes abrupt ändert und große Energiemengen freigesetzt werden. Vermutlich ist es unter anderem für Sonneneruptionen verantwortlich.
+
+Zur Rekonnexion kann es kommen, wenn ein starkes veränderliches Magnetfeld in einem Plasma vorliegt, etwa in der Sonnenatmosphäre. Die Teilchen des Plasmas bewegen sich dann entlang von Spiralbahnen um die Feldlinien und sind somit an diese gebunden.
+
+In einem komplexen Magnetfeld kann es getrennte Feldlinienbündel geben, die ihre Fußpunkte in verschiedenen Polen haben. Liegen zwei solche entgegengesetzt gerichtete Felder nahe beieinander, so bildet sich eine Grenzschicht heraus, in der ein elektrischer Strom fließt. Dadurch löschen sich die Felder teilweise gegenseitig aus. Bei dieser Feldauflösung, aber auch durch das Fließen des Stromes durch das Plasma, das einen elektrischen Widerstand aufweist, wird Energie frei.
+
+Darüber hinaus entstehen neue Feldlinien senkrecht zu den ursprünglichen, weiteres Plasma dringt nach. So wird das Plasma um die neu entstandenen Linienbündel aufgeheizt und vom Ort der Rekonnexion weg beschleunigt.
+
+Die bisher ausgeführte, grundlegende "Sweet-Rekonnexion"-Theorie geht auf Arbeiten von Peter Alan Sweet aus dem Jahr 1956 und Eugene N. Parker zurück. Sie sagt viel zu große Ablaufzeiten für das Phänomen voraus, sodass sie 1963 von Harry E. Petschek modifiziert wurde. Nach dieser "schnellen" oder "Petschek-Rekonnexion" gibt es wesentlich kleine Grenzbereiche, wodurch die Rekonnexion schneller abläuft.
+
+Obwohl die Satelliten Yohkoh und seit 2002 RHESSI das derzeit beste Beobachtungsmaterial lieferten, kann noch nicht abschließend zwischen Sweet- oder Petschek-Rekonnexion entschieden werden, die genauen Auslöser und Mechanismen sind weiterhin nicht geklärt.
+
+Das wichtigste Auftreten der Rekonnexion ist in der Sonnenkorona. Man vermutet, dass hier große Magnetfeldbögen durch die Plasmadynamik in der Mitte zusammengedrückt werden, wodurch die erforderlichen antiparallelen Feldlinien entstehen. Somit kommt es zur Rekonnexion, der obere Teil der Bögen wird abgeschnürt und kann sich mit dem enthaltenen Plasma als Eruption oder Koronaler Massenauswurf ablösen.
+
+Des Weiteren trägt Rekonnexion im Erdmagnetfeld zum Polarlicht und auf astronomischen Skalen zur Heizung galaktischer Hochgeschwindigkeitswolken bei. Sie ist ein potentielles Problem bei magnetischer Eindämmung von Fusionsprozessen.
+
+Die Raumsonden Cluster konnten Rekonnexionen im Schweif des Erdmagnetfelds nachweisen. Entgegen den Erwartungen treten sie nicht in einem Raumgebiet von wenigen 10 km, sondern von einigen 1000 km auf.
