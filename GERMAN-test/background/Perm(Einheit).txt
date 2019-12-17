@@ -1,0 +1,7 @@
+Perm (Einheit)
+
+Das Perm (Einheitenzeichen: perm oder Pm), abgeleitet von „"Perm"eabilität“ ist eine gebräuchliche Einheit der Permeabilität von Festkörpern. Dabei unterscheidet man allerdings zwischen dem so genannten Metrischen Perm, das im CGS-System verwendet wird und dem US Perm, das auf dem Angloamerikanischen Maßsystem beruht. Die Dimension der Einheit entspricht der Fläche.
+
+1 Metrisches Perm = 1,07·10 US Perm = 1,01·10 Darcy = 1 formula_1 = 1 cm² = 10 formula_2 = 10 m²
+
+1 US Perm = 9,29·10 Metrische Perm = 9,43·10 Darcy = 9,29·10 cm² = 9,29·10 m²

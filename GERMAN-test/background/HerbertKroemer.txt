@@ -1,0 +1,13 @@
+Herbert Kroemer
+
+Herbert Kroemer (Herbert Krömer) (* 25. August 1928 in Weimar) ist ein deutscher Physiker und Nobelpreisträger.
+
+Herbert Kroemer begann nach dem Abitur am Friedrich-Schiller-Gymnasium Weimar 1947 mit dem Physikstudium an der Universität Jena und besuchte unter anderem Vorlesungen bei Friedrich Hund. Als er während der Berliner Luftbrücke zu einem Praktikum in Berlin war, nutzte er die Gelegenheit für die Flucht in den Westen und setzte sein Studium an der Georg-August-Universität Göttingen fort. Er promovierte 1952 bei Richard Becker auf dem Gebiet der Theoretischen Physik über Effekte von heißen Elektronen in Transistoren und arbeitete anschließend als „angewandter Theoretiker“, wie er es selbst nannte, im FTZ der Deutschen Bundespost, 1954 ging er in die USA und arbeitete bei verschiedenen Forschungseinrichtungen in Princeton und Palo Alto. Er lehrte von 1968 bis 1976 als Professor für Physik an der University of Colorado at Boulder und wechselte anschließend an die University of California, Santa Barbara.
+
+Herbert Kroemer arbeitete nie in Bereichen, die gerade „aktuell“ waren, sondern bevorzugte Bereiche, deren Bedeutung erst Jahre später deutlich wurden. So veröffentlichte er in den 1950ern Arbeiten über das Konzept eines Heterojunction bipolar transistors, der Frequenzen im Gigahertzbereich ermöglicht. 1963 entwickelt er das Konzept von Doppelheterostrukturlasern, das Grundkonzept von Halbleiterlasern. Beide Konzepte waren ihrer Zeit weit voraus und konnten erst, nach der Entwicklung der Epitaxie, in den 1980ern verwirklicht werden.
+
+In seiner Zeit in Santa Barbara verschoben sich seine Hauptaktivitäten von der Theorie in den experimentellen Bereich. So war er Ende der 1970er Jahre maßgeblich an der Entwicklung der Molekularstrahlepitaxie beteiligt, wobei er neue Materialkombinationen wie Galliumphosphid und Galliumarsenid auf Siliciumsubstraten herstellte und untersuchte. Nach 1985 verschob sich sein Interesse auf die Materialkombinationen Indiumarsenid, Galliumantimonid und Aluminiumantimonid.
+
+Er wurde 2000 zusammen mit Schores Iwanowitsch Alfjorow mit der Hälfte des Nobelpreises für Physik für die Entwicklung von Halbleiterheterostrukturen für Hochgeschwindigkeits- und Optoelektronik ausgezeichnet, die andere Hälfte ging an Jack Kilby für die Entwicklung Integrierter Schaltkreise.
+
+Von ihm und Charles Kittel stammt ein Lehrbuch über Thermodynamik.

@@ -1,0 +1,103 @@
+Konvektive Koordinaten
+
+Konvektive Koordinaten sind krummlinige Koordinatensysteme auf dem euklidischen Raum formula_1, die an einen Träger gebunden sind und von allen Transformationen, die der Träger erfährt, mitgeführt werden, daher die Bezeichnung konvektiv. In der Kontinuumsmechanik ergeben sich konvektive Koordinaten auf natürliche Weise, wenn die Koordinatenlinien materielle Linien sind, die dann von allen Bewegungen und Deformationen des materiellen Körpers mittransponiert werden. Bildlich kann man sich ein Koordinatennetz auf eine Gummihaut aufgemalt denken, die dann gedehnt wird und das Koordinatennetz mitnimmt, siehe Abbildung rechts.
+
+Praktische Bedeutung haben konvektive Koordinatensysteme in der Kinematik schlanker Strukturen (Stäbe, Balken) und dünnwandiger Strukturen (Schalen und Membranen), wo die Spannungen und Dehnungen parallel zu den Vorzugsrichtungen der Struktur interessieren. Außerdem können materielle Vorzugsrichtungen nicht isotroper Materialien, wie z. B. von Holz, in konvektiven Koordinaten beschrieben werden. In der Kinematik deformierbarer Körper bekommen die in der Kontinuumsmechanik benutzten Tensoren in konvektiven Koordinaten ausgedrückt besonders einfache Darstellungen.
+
+Die Methode der konvektiven Koordinaten ist ein Spezialfall adaptiver Finite-Elemente-Methoden und wird wie diese in der numerischen Lösung von Advektions-Diffusions-Problemen verwendet (z. B. Schadstoffausbreitung in der Atmosphäre oder im Grundwasser).
+
+Betrachtet wird ein deformierbarer Körper wie im Bild, der mittels Konfigurationen in einen euklidischen Vektorraum formula_2 abgebildet wird. Die konvektiven Koordinaten eines materiellen Punktes formula_3 werden durch die Referenzkonfiguration formula_4 zugewiesen. Für jedes Partikel formula_3 eines Körpers formula_6 sind seine konvektiven Koordinaten gegeben durch:
+
+Diese Zuordnung ist vom gewählten Bezugssystem des Beobachters, von der Zeit und vom physikalischen Raum unserer Anschauung unabhängig. Für den viereckigen Körper im Bild eignet sich z. B. das Einheitsquadrat formula_8 als Bildbereich. formula_9 ist ein-eindeutig (bijektiv), so dass formula_10 auch der Benennung des Partikels formula_3 dienen kann. Weil die Koordinaten formula_10 an das Partikel gebunden sind, werden sie von jeder Bewegung des Partikels mitgenommen.
+
+Die Bewegungsfunktion formula_13 beschreibt die Bewegung des Partikels formula_10 durch den Raum unserer Anschauung und liefert uns ein Objekt unserer Anschauung, weil diese Positionen vom Körper einmal eingenommen wurden. Die Bewegung startet zu einem bestimmten Zeitpunkt formula_15, in dem sich der Körper in der Ausgangskonfiguration befindet. Die Funktion
+
+ordnet den Koordinaten formula_10 ein-eindeutig (bijektiv) einen Punkt formula_18 im Raum zu, den das Partikel zum Zeitpunkt formula_15 eingenommen hat. Der Vektor formula_18 hat materielle Koordinaten formula_21 bezüglich der Standardbasis formula_22. Wegen der Bijektivität kann
+
+geschrieben werden. Variiert im Vektor formula_10 nur eine Koordinate formula_25, dann fährt formula_26 eine materielle Koordinatenlinie ab, die im allgemeinen Fall eine Kurve im Raum ist, siehe obere Abbildung rechts. Die Tangentenvektoren
+
+an diese Kurven werden "kovariante" Basisvektoren des krummlinigen Koordinatensystems genannt. Die Richtung, in der sich die Koordinate formula_25 am stärksten ändert, sind die Gradienten
+
+die die Basisvektoren formula_30 in einem materiellen Punkt darstellen. Wegen
+
+sind die ko- und kontravarianten Basisvektoren dual zueinander und die kontravarianten Basisvektoren können aus
+
+berechnet werden. Darin wurde das dyadische Produkt "formula_33" benutzt. In der Jacobi-Matrix formula_34 sind die kovarianten Basisvektoren formula_35 spaltenweise eingetragen und die kontravarianten Basisvektoren formula_30 finden sich in den Zeilen der Inversen formula_37.
+
+Die ko- und kontravarianten Basisvektoren werden nur lokal (in den Tangentialräumen) im Punkt formula_18 als Basissystem für Vektor- und Tensorfelder, nicht aber für Ortsvektoren, benutzt: Die kovarianten Basisvektoren formula_35 bilden eine Basis des Tangentialraumes formula_40 und die kontravarianten Basisvektoren formula_30 bilden eine Basis des Kotangentialraumes formula_42 im Punkt formula_18, siehe untere Abbildung rechts.
+
+Im Zuge der Bewegung entsteht in jedem Punkt und zu jedem Zeitpunkt formula_44 einen Satz kovarianter Basisvektoren formula_45 und kontravarianter Basisvektoren formula_46, die die Tangenten bzw. Gradienten der materiellen Koordinatenlinien im deformierten Körper zur Zeit formula_47 sind. Sie sind mithin Basen der Tangentialräume formula_48 bzw. formula_49.
+
+Die Differentialoperatoren Gradient (grad), Divergenz (div) und Rotation (rot) aus der Vektoranalysis können mit dem Nabla-Operator formula_50 definiert werden. In konvektiven Koordinaten hat der Nabla-Operator in der Lagrange’schen Fassung die Form:
+
+Die Gradienten von Skalar- und Vektorfeldern werden mit ihm wie folgt dargestellt:
+
+Die Divergenzen werden aus dem Skalarprodukt mit formula_52 erhalten:
+
+Die Rotation eines Vektorfeldes entsteht mit dem Kreuzprodukt:
+
+Entsprechende Operatoren formula_54, formula_55 und formula_56 für Felder in der Euler’schen Fassung liefert der Nabla-Operator
+
+Der Einheitstensor formula_58 bildet jeden Vektor auf sich selbst ab. Bezüglich der ko- und kontravarianten Basisvektoren lauten seine Darstellungen:
+
+Die Skalarprodukte der kovarianten Basisvektoren
+
+heißen "kovariante Metrikkoeffizienten" (des Tangentialraumes formula_40). Entsprechend sind die Skalarprodukte der kontravarianten Basisvektoren
+
+"kontravariante Metrikkoeffizienten" (des Kotangentialraumes formula_42).
+
+In der Euler’schen Betrachtungsweise ist entsprechend
+
+mit den ko- und kontravarianten Metrikkoeffizienten formula_65 bzw. formula_66 (des Tangentialraumes formula_48 bzw. Kotangentialraumes formula_49).
+
+In konvektiven Koordinaten ausgedrückt bekommt der Deformationsgradient formula_69 eine besonders einfache Form. Der Deformationsgradient bildet gemäß seiner Definition die Tangentenvektoren an materielle Linien in der Ausgangskonfiguration auf die in der Momentankonfiguration ab und diese Tangentenvektoren sind gerade die kovarianten Basisvektoren formula_35 bzw. formula_45. Also ist
+
+Das ergibt sich auch aus der Ableitung der Bewegungsfunktion formula_73 :
+
+In dieser Darstellung lässt sich auch sofort mit
+
+die Inverse des Deformationsgradienten angeben. Der transponiert inverse Deformationensgradient bildet die kontravarianten Basisvektoren aufeinander ab:
+
+Die materielle Zeitableitung des Deformationsgradienten ist der "materielle Geschwindigkeitsgradient"
+
+denn die Ausgangskonfiguration hängt nicht von der Zeit ab und das gilt dann auch für die Basisvektoren formula_35 und formula_30. Der "räumliche Geschwindigkeitsgradient" formula_80 bekommt in konvektiven Koordinaten die einfache Form
+
+worin formula_82 die Geschwindigkeit eines Partikels am Ort formula_83 zur Zeit formula_47 ist. Der räumliche Geschwindigkeitsgradient transformiert die Basisvektoren in ihre Raten:
+
+Die folgenden Tensoren treten in der Kontinuumsmechanik auf. Ihre Darstellung in konvektiven Koordinaten ist in der Tabelle zusammengestellt.
+
+Weil der rechte Cauchy-Green Tensor formula_86, der Green-Lagrange-Verzerrungstensor formula_87 und der Euler-Almansi-Tensor formula_88 in ihrer (hier angegebenen) natürlichen Form mit den kovarianten Komponenten formula_89 bzw. formula_90 gebildet werden, werden diese Tensoren üblicher Weise als "kovariante Tensoren" bezeichnet. Die Spannungstensoren formula_91 und formula_92 sind entsprechend "kontravariante Tensoren".
+
+Objektive Größen sind solche, die von bewegten Beobachtern in gleicher Weise wahrgenommen werden. Die Zeitableitung von Tensoren ist im allgemeinen nicht objektiv. Die konvektiven ko- bzw. kontravarianten Oldroyd-Ableitungen objektiver Tensoren sind jedoch objektiv. Sie sind definiert über
+
+Kovariante Oldroyd-Ableitung, z. B. von formula_93:
+
+Kontravariante Oldroyd-Ableitung, z. B. von formula_95:
+
+Daraus leiten sich auch die Bezeichnungen "konvektiv kovariant" bzw. "konvektiv kontravariant" der Oldroyd-Ableitungen ab. Bemerkenswert sind die übereinstimmenden Transformationseigenschaften der kovarianten Tensoren
+
+sowie der kontravarianten Tensoren
+
+Siehe auch den Abschnitt Objektive Zeitableitungen im Artikel zum Geschwindigkeitsgradient.
+
+Ein Parallelogramm mit Grundseite und Höhe formula_101 und Neigungswinkel formula_102 wird zu einem flächengleichen Quadrat verformt, siehe Bild. Als Referenzkonfiguration eignet sich das Einheitsquadrat
+
+In der Ausgangskonfiguration haben die Punkte des Parallelogramms die Koordinaten:
+
+Die kovarianten Basisvektoren sind
+
+Sie stehen spaltenweise in der Jacobimatrix formula_34 und die kontravarianten Basisvektoren entspringen den Zeilen der Inversen der Jacobimatrix:
+
+In der Momentankonfiguration ist formula_109:
+
+und die konvektiven ko- und kontravarianten Basisvektoren bilden die Standardbasis
+
+Der Deformationsgradient
+
+ist ortsunabhängig und hat die Determinante eins, was die Erhaltung des Flächeninhalts differentialgeometrisch nachweist. Die kovarianten Metrikkoeffizienten lauten
+
+Damit lautet der Green-Lagrange-Verzerrungstensor:
+
+Kontinuumsmechanik:
+
+Mathematik:

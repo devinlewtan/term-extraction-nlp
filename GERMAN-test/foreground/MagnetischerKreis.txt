@@ -1,0 +1,119 @@
+Magnetischer Kreis
+
+Ein magnetischer Kreis ist ein geschlossener Pfad eines magnetischen Flusses "Φ". Die Betrachtung magnetischer Kreise spielt vor allem in der Konstruktion von Elektromotoren, Transformatoren und Elektromagneten eine wesentliche Rolle. Hierbei sind vor allem Kopplungsprozesse zwischen den einzelnen Komponenten der magnetischen Kreise von Relevanz.
+
+Bei einem magnetischen Kreis kann man zwischen zwei Signalarten:
+und drei grundlegenden Arten von Bauelementen:
+unterscheiden. Die Darstellung im Artikel folgt in den physikalischen Inhalten den Zusammenhängen, wie sie in dargestellt wurden. In ihrer Systematik folgt die Darstellung der Autoren Lenk, Pfeifer und Wertschützky.
+
+Der magnetische Fluss wird gewöhnlich mit einer Spule als Koppelelement in den magnetischen Kreis eingebracht. Seinem Namen entsprechend handelt es sich beim magnetischen Fluss um eine sogenannte "Flusskoordinate". Bei Verzweigungen des magnetischen Kreises verhält sich der magnetische Fluss entsprechend der kirchhoffschen Knotenpunktgleichung und teilt sich in die einzelnen Teilzweige auf.
+
+Den Zusammenhang zwischen der elektrischen Spannung formula_1 und dem magnetischen Fluss formula_2 liefert das Induktionsgesetz in der transformierten Darstellung mit komplexen Zahlen:
+
+Dabei sind j die imaginäre Einheit, ω = 2πf die Kreisfrequenz und N die Windungszahl der Spule.
+
+Die magnetische Spannung ist als Linienintegral über die magnetische Feldstärke H zwischen zwei Punkten P1 und P2 entlang des Weges s definiert.
+
+Die magnetische Spannung wird im Allgemeinen von elektrischen Strömen hervorgerufen und über das Koppelelement Spule in den Magnetkreis eingebracht. Dabei ist jedoch zu berücksichtigen, dass die elektrischen Ströme nicht eine magnetische Spannung zwischen zwei Punkten, sondern eine sogenannte "magnetische Umlaufspannung" oder "magnetische Durchflutung" verursachen. Hierbei handelt es sich um eine magnetische Spannung entlang eines "geschlossenen" Weges. Die magnetische Umlaufspannung bezeichnet man zur Unterscheidung von der magnetischen Spannung mit dem Buchstaben formula_5 und schreibt
+
+Die Besonderheit beim Vorhandensein einer Umlaufspannung besteht darin, dass die magnetische Spannung zwischen zwei Punkten von dem durchlaufenen Weg abhängt (nichtkonservatives Feld), so dass die kirchhoffsche Maschenregel für magnetische Spannungen im Allgemeinen nicht angewendet werden kann. Im Modell des magnetischen Kreises "rettet" man die Kirchhoffsche Maschenregel jedoch durch die Vereinbarung, dass bei der Anwendung der Maschenregel keine Integrationswege durch Spulenwicklungen betrachtet werden und vermeidet dadurch innere Widersprüche der Theorie.
+
+Da die Koppelspule meist über einen magnetisch gut leitfähigen Magnetkern gewickelt wird, kann man zur Berechnung der magnetischen Spannung vereinfachte Annahmen treffen. Denn wenn in dem magnetischen Kern nur eine verschwindende magnetische Feldstärke H herrscht, fällt der relevante Anteil der von den Spulenströmen erzeugten magnetischen Spannung formula_7 ausschließlich außerhalb des magnetischen Kernes ab.
+
+Ein Spulenstrom formula_8, der einen magnetisch gut leitfähigen magnetischen Kern "N"-mal umwickelt, verursacht unter diesen Umständen außerhalb der Spule eine magnetische Spannung formula_9 der Größe
+
+mit der in der Zeichnung angegebenen Bezugsrichtung.
+
+Magnetisch gut leitende Verbindungselemente sind das Analogon zur metallischen Verbindungsleitung im elektrischen Stromkreis.
+
+Magnetische Leiter sind dadurch gekennzeichnet, dass das Verhältnis aus der magnetischen Spannung formula_9 und dem magnetischen Fluss formula_2 im magnetischen Leitermaterial nahezu gleich Null ist
+
+Ein Beispiel für einen magnetischen Leiter ist der Magnetkern bei einem Transformator oder einer Spule. Die entscheidende Bedingung für magnetisch leitfähige Materialien ist ein hoher Wert der relativen Permeabilitätszahl formula_14. Die relative Permeabilitätszahl gibt die magnetische Leitfähigkeit des jeweiligen Stoffes im Vergleich zum Vakuum an. Typische Werte für ferromagnetische Kernmaterialien in Spulen und Transformatoren liegen im Bereich formula_15.
+
+Verbindungselemente aus magnetisch schlecht leitenden Materialien wie paramagnetischen oder diamagnetischen Materialien heißen magnetische Widerstände.
+
+Magnetische Widerstände sind dadurch gekennzeichnet, dass das Verhältnis aus der magnetischen Spannung formula_9 und dem magnetischen Fluss formula_2 eine endliche reelle Zahl
+
+ist.
+
+Sie sind das Analogon zum elektrischen Widerstand. Ein Beispiel für einen magnetischen Widerstand ist eine kurze Unterbrechung des magnetischen Kernmaterials eines Transformators durch einen Luftspalt. Supraleiter haben eine Permeabilitätszahl formula_19 und sind demzufolge ideale magnetische Isolatoren.
+
+Mithilfe von Koppelelementen kann man die Wirkung von Netzwerken aus anderen physikalischen Gebieten in den Magnetkreis einbringen. Ein besonders häufig verwendetes Koppelelement im Magnetkreis ist die elektrische Spule. Sie verknüpft elektrische Stromkreise mit dem magnetischen Kreis und überträgt Energie zwischen beiden Netzwerken.
+
+Die Kopplungsmatrix zwischen den elektrischen Größen und den magnetischen Größen ergibt sich zu:
+
+Hierbei ist formula_21 die imaginäre Einheit, formula_22 die Kreisfrequenz und formula_23 die Windungszahl der Spule. Der Ausdruck formula_24 bezeichnet in zeitabhängiger Darstellung das Zeitintegral der elektrischen Spannung – die sogenannte Spannungszeitfläche.
+
+Da die elektrische Spule
+überführt, sagt man auch, die Spule sei ein gyratorisches Koppelelement. Eine spezielle Beschreibung des Gyrators als rein elektrisches (aktives) Koppelelement befindet sich im zugehörigen Wikipedia-Artikel. Eine allgemeine Beschreibung liefert Küpfmüller im Rahmen der Vierpoltheorie in Kapitel 5.5, sowie Lenk im Rahmen der elektromechanischen und elektroakustischen Netzwerktheorie.
+
+Um die Wirkung von elektrischen Bauelementen auf den Magnetkreis zu verstehen, kann man die elektrischen Größen mithilfe der Transformationsgleichungen für die Spule in magnetische Größen umrechnen.
+
+Im Falle eines elektrischen Widerstandes R liegt ein konstantes Verhältnis aus elektrischer Spannung formula_1 und elektrischem Strom formula_8 vor.
+
+Mit Hilfe der Transformationsgleichungen ergibt sich an einer Spule mit N Windungen daraus eine magnetische Impedanz von:
+
+Ein elektrischer Kurzschluss R=0 verursacht demzufolge einen magnetischen Leerlauf, während ein elektrischer Leerlauf einen magnetischen Kurzschluss verursacht. Die physikalische Ursache des magnetischen Kurzschlusses beruht dabei auf der Modellannahme, dass die Spule einen Spulenkörper mit hoher magnetischer Leitfähigkeit umschließt.
+
+Es ist zu beachten, dass ein elektrischer Widerstand an der Spule zu einer magnetischen Impedanz der Form formula_32 führt. Der ohmsche Widerstand an der Spule verursacht daher im magnetischen Kreis keinen magnetischen Widerstand, sondern vielmehr eine "magnetische Induktivität formula_33". Die Autoren Süße, Burger und andere bezeichnen den elektrischen Widerstand am Koppelelement Spule in etwas allgemeingültigerer Darstellung als "Wirbelstromelement" und führen aus:
+"Während der elektrische Widerstand formula_34 ein Energieverbraucher ist, stellt der magnetische Widerstand formula_35 einen Energiespeicher dar. Entgegengesetzt dazu ist die Induktivität L ein Energiespeicher, und das Wirbelstromelement (magnetische Induktivität formula_33) ein Energieverbraucher."
+
+Eine elektrische Induktivität "L" führt im Magnetkreis zu einem rein reellen magnetischen Widerstand mit positivem Vorzeichen:
+
+Eine elektrische Kapazität "C" führt im Magnetkreis zu einem rein reellen magnetischen Widerstand mit negativem Vorzeichen:
+
+Prinzipiell können auch Koppelelemente zu anderen physikalischen Gebieten wie der Mechanik definiert werden. So bewirkt beispielsweise die Änderung formula_39 des magnetischen Flusses in einem magnetischen Kreis mit Luftspalt eine Kraftänderung formula_40 auf die sich gegenüberstehenden Polflächen. In seinen systemtheoretischen Betrachtungen unterscheidet Lenk drei mechanische Kopplungsprinzipien: das elektromagnetische Prinzip, das elektrodynamische Prinzip und das piezomagnetische Prinzip, für die jeweils eigene Koppelelemente beschrieben werden können.
+
+Die Gesetze des magnetischen Flusses sind analog zu den Gesetzen im elektrischen Stromkreis definiert (siehe auch Analogie elektrischer und magnetischer Größen). Der magnetische Fluss "Φ" wird hierbei analog zum elektrischen Strom "I", die Reluktanz "R" analog zur Resistanz "R", und die magnetische Spannung formula_9 analog zur elektrischen Spannung "U" betrachtet. 
+
+In Analogie zum elektrischen Widerstand kann man im magnetischen Kreis den sogenannten magnetischen Widerstand
+
+definieren.
+
+In vielen magnetischen Materialien ist der magnetische Widerstand näherungsweise konstant. Man spricht in diesem Zusammenhang von dem ohmschen Gesetz des magnetischen Kreises
+
+Die Reluktanz ist über die magnetische Leitfähigkeit und die geometrischen Abmessungen analog zur Resistivität definiert:
+
+In magnetischen Kreisen, die durch konzentrierte Bauelemente beschrieben werden, gelten auch die kirchhoffschen Gesetze:
+Über die kirchhoffschen Gesetze können magnetische Kreise berechnet werden.
+
+Die nebenstehende Abbildung zeigt den Aufbau eines einfachen magnetischen Kreises.
+Eine Wicklung mit "N" Windungen wird von einem elektrischen Strom "I" durchflossen und erzeugt damit die magnetische Flussdichte "B". Durch
+
+erhält man den magnetischen Fluss im Kern der Wicklung. Der Kern dient der gezielten räumlichen Führung des magnetischen Flusses im magnetischen Kreis und wird aus Materialien mit hoher magnetischer Leitfähigkeit, wie beispielsweise als Ferritkern, ausgeführt.
+
+In einem idealen ferromagnetischen Material ohne Streufluss gilt:
+
+Da es in der Praxis jedoch keine ideal ferromagnetischen Materialien gibt, treten Verluste als Folge des Streuflusses auf. Die genaue Berechnung dieser Streuflüsse ist nur selten analytisch geschlossen zugänglich und sie erfolgt in der Regel über computerunterstützte numerische Näherungsverfahren. In der Praxis werden die Streuverluste an genormten magnetischen Kernen mit Hilfe vorher bestimmter Koeffizienten σ berechnet:
+
+wobei "V" die magnetische Spannungen der einzelnen Abschnitte darstellen.
+
+Im Modell des Magnetkreises ergibt sich der mit der Spannung formula_50 gespeiste Transformator mit der sekundärseitigen elektrischen Last formula_51 als ein einfacher Stromkreis, der mit dem magnetischen Fluss
+
+gespeist wird.
+
+Die magnetische Spannung ergibt sich entsprechend dem Bauelementegesetz für die magnetische Impedanz formula_53 entsprechend zu:
+
+Mit Hilfe der Gleichung formula_55 kann daraus der elektrische Strom in der Sekundärwicklung berechnet werden
+
+was den bekannten Transformationsgleichungen für den Transformator entspricht.
+
+Die Vorteile bei der Modellierung, die in der Analogie zum elektrischen Stromkreis liegen, ergeben sich erst bei verzweigten Magnetkreisen.
+
+Die Spannungsquelle formula_50 erzeugt einen magnetischen Fluss
+
+der sich entsprechend der Knotenpunktgleichung für den magnetischen Kreis auf die beiden Teilflüsse formula_59 und formula_60 aufteilt.
+
+Die Aufteilung kann mithilfe der Stromteilerregel aus der Wechselstromrechnung berechnet werden. Für die beiden Teilflüsse ergibt sich:
+
+Setzt man die Bauelementebeziehungen
+
+ein, so ergeben sich daraus die Spannungen und die Ströme in den beiden passiven Wicklungen.
+
+Für die Spannungen gilt:
+
+und entsprechend
+
+Aufgrund der Parallelschaltung ergeben sich identische magnetische Spannungen an beiden Teilzweigen:
+
+Somit ergibt sich mithilfe von formula_69 für die Ströme:

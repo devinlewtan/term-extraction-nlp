@@ -1,0 +1,9 @@
+Barnett-Effekt
+
+Der Barnett-Effekt wurde 1914 von Samuel Jackson Barnett (1873–1956) entdeckt: ein Ferromagnet verhält sich bei Rotation so, als ob er sich in einem Magnetfeld befinden würde, und wird dadurch magnetisiert. Eine Drehzahl von 100 Hz entspricht dabei einem Magnetfeld von weniger als 10 Tesla.
+
+Die Umkehrung dieses Effektes ist der Einstein-de-Haas-Effekt.
+
+Mit diesen beiden Effekten kann das gyromagnetische Verhältnis mit einer Genauigkeit von 2 Prozent bestimmt werden.
+
+2019 gelang auch der Nachweis eines Barnett-Effekts bei Wasser. Im Gegensatz zum klassischen elektronischen Barnett-Effekt wurden hier die Protonen des Wasserstoffs ausgerichtet ("nuklearer Barnett-Effekt"). Mit NMR zeigte sich bei 4000 Umdrehungen pro Sekunde eine einprozentige Erhöhung der Magnetisierung gegenüber der kleinen durch die NMR induzierten Magnetisierung. Bei 13.500 Umdrehungen pro Sekunde betrug die Erhöhung drei Prozent.

@@ -1,0 +1,12 @@
+Westcott-Faktor
+
+Der Westcott-Faktor ist eine physikalische Kennzahl, durch die ein Zusammenhang zwischen den Wirkungsquerschnitten σ für einen Neutroneneinfang eines bestimmten Nuklids bei unterschiedlichen Temperaturen hergestellt werden kann.
+Üblicherweise wird der Wirkungsquerschnitt für eine Temperatur von 20 °C angegeben, was einer Neutronengeschwindigkeit von 2200 m/s entspricht. Der Grund für diesen Wert erklärt sich aus der Tatsache, dass die Bestrahlungsrohre üblicherweise thermisch vom Reaktor entkoppelt sind und ihre Temperatur daher bei Umgebungstemperatur liegt.
+Da in Reaktoren unterschiedlichste, meist höhere Temperaturen herrschen, genügt der Wirkungsquerschnitt für thermische Neutronen oft nicht für reaktorphysikalische Berechnungen.
+
+Daher entwickelte C.H. Westcott eine Methode, um den Wirkungsquerschnitt bei Raumtemperatur σ₀ in den Wirkungsquerschnitt bei der gewünschten Temperatur umzurechnen.
+Für die Berechnung wird das Neutronenspektrum als eine Überlagerung zwei verschiedener Neutronenspektren beschrieben. Die erste Komponente wird durch die temperaturabhängige maxwellsche Geschwindigkeitsverteilung der Neutronen gebildet, während die zweite Komponente aus epithermischen Neutronen besteht, deren Häufigkeitsverteilung mit steigender Neutronengeschwindigkeit eine Abnahme zeigt.
+
+Bei Vernachlässigung des epithermischen Anteils im Neutronenspektrum ist der Westcott-Faktor (g) der Quotient aus der durchschnittlichen Wirkungsquerschnitt bei maxwellscher Geschwindigkeitsverteilung und dem Wirkungsquerschnitt bei einer Neutronengeschwindigkeit von 2200 m/s.
+
+Wenn der Wirkungsquerschnitt reziprok mit der Geschwindigkeit abnimmt, so ist der Westcott-Faktor genau 1,0.

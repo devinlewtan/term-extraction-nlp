@@ -1,0 +1,23 @@
+Karl Glazebrook
+
+Karl Glazebrook (* 11. Mai 1965 in Chatham, Kent) ist ein anglo-australischer Astronom und Kosmologe, der sich mit der Entwicklung von Galaxien und der Natur der Dunklen Energie beschäftigt. In der Öffentlichkeit bekannt wurde Glazebrook mit einer Arbeit zur „Farbe“ des Universums.
+
+Karl Glazebrook wurde 1965 in Chatham geboren. Er studierte Physik und Theoretische Physik an der University of Cambridge und promovierte 1992 an der Universität Edinburgh mit einer Studie zur Infrarotastronomie. Nach einem Postdoc-Aufenthalt an der University of Durham kehrte er 1993 nach Cambridge zurück, wo er in einer Forschungsgruppe an der Beobachtung von bis zu 8 Milliarden Jahre alten Galaxien arbeitete. Bei diesem Projekt gelang es Glazebrook, unter Zuhilfenahme des Hubble-Weltraumteleskops das Problem der "faint blue galaxies" zu lösen und so entscheidende Beiträge zur Erforschung des frühen Universums zu liefern.
+
+1995 ging er als Astronom zum Anglo-Australian Observatory (AAO) nach Sydney. Dort war er unter anderem für die optischen Instrumente zur Erstellung der "2dF-Galaxien-Rotverschiebungskarte" verantwortlich. Glazebrook entwickelte zusammen mit Joss Hawthorn die "nod-and-shuffle"-Methode, mit der das Auflösungsvermögen der erdgebundenen Teleskope deutlich erhöht werden konnte. Während seiner Zeit am AAO war Glazebrook maßgeblich an der Entwicklung der Perl Data Language (PDL), einer Open-Source-Alternative zur Programmiersprache IDL beteiligt.
+
+Im Jahr 2000 wechselte er zur Johns Hopkins University nach Baltimore, wo er 2004 zum Professor für Astronomie ernannt wurde. Glazebrook wurde einer der verantwortlichen Wissenschaftler für das Gemini-Observatorium, eine Aufgabe, die er fortführte, als er 2006 nach Australien zum " Centre for Astrophysics & Supercomputing" der Swinburne University of Technology in Melbourne wechselte.
+
+Karl Glazebrook ist einer der Leiter der "Gemini Deep Deep Survey" und des "GLARE"-Projekts, mit dem Galaxien aus der Frühzeit des Universums untersucht werden. Durch diese Projekte wurde nachgewiesen, dass massenreiche Galaxien schon viel früher als bisher angenommen gebildet wurden. Außerdem gelang es Glazebrook zusammen mit Chris Blake, eine verbesserte Methode zur Messung der Oszillation von Baryonen ("Baryon Acoustic Oscillation", BAO) zu entwickeln, mit der indirekt Dunkle Energie untersucht werden kann.
+
+Mit (März 2008) über 230 Veröffentlichungen und über 14.000 Zitierungen zählt Glazebrook zu den meistzitierten Astronomen der Gegenwart.
+
+Nach Karl Glazebrook wurde im Jahr 2000 der Asteroid (10099) Glazebrook benannt.
+
+Die bekannteste Veröffentlichung Glazebrooks entstand als „Nebenprodukt“ der 2dF-Rotverschiebungskarte, in der rund 200.000 Galaxien aufgenommen wurden. Im Rahmen der Messungen wurde das Alter der Galaxien über ihre Farbe bestimmt. Während junge Sterne eine bläuliche Ausprägung in ihrem Emissionsspektrum haben, nehmen die Rotanteile während der Entwicklung der Sterne zu Roten Riesen immer mehr zu.
+
+Karl Glazebrook und Ivan Baldry stellten sich daraufhin die Frage, welche „durchschnittliche“ Farbe die beobachteten Sterne haben und berechneten dafür aus allen gemessenen Emissionsspektren einen Mittelwert. Glazebrook betrachtete die so ermittelte Farbe als eine „skurrile intellektuelle Übung“, da man sie nur von einem hypothetischen Punkt aus beobachten könnte, an dem alle Sterne gleich weit entfernt wären und sich die Sterne nicht bewegen würden (zur Unterdrückung der Rotverschiebung).
+
+In einer ersten Veröffentlichung im Januar 2002 bezeichneten Glazebrook und Baldry die Farbe des Weltall als blass türkis. Zwei Monate später mussten sie allerdings ihre Aussage korrigieren, da durch einen falschen Weißabgleich der Rotanteil der Farbe zu gering berechnet wurde. Die tatsächliche Farbe des Universums wurde nun als ein heller Beigeton angegeben, der im RGB-Farbraum mit den Werten RGB = {255, 248, 231} dezimal, RGB = FFF8E7 hexadezimal angegeben wurde.
+
+Da die ermittelten Werte keinem benannten Farbton entsprachen, rief Karl Glazebrook zu Namensvorschlägen auf. Nach einer Umfrage unter den Astronomen der Johns Hopkins University setzte sich die Bezeichnung "cosmic latte" (Kosmisch-Latte) durch, da der Beigeton dem Milchschaum eines Latte macchiato ähnelt. Der beige Farbton wurde später durch Messungen der Europäischen Südsternwarte bestätigt.

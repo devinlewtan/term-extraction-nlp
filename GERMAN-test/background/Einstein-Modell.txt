@@ -1,0 +1,25 @@
+Einstein-Modell
+
+In der Festkörperphysik beschreibt das Einstein-Modell (nach Albert Einstein) eine Methode, um den Beitrag der Gitterschwingungen (Phononen) zur Wärmekapazität eines kristallinen Festkörpers zu berechnen. Da sich das Einstein-Modell ausschließlich auf optische Phononen anwenden lässt, ist es nicht so erfolgreich wie das Debye-Modell, das akustische Phononen beschreibt.
+
+Die Gitterschwingungen des Kristalls werden gequantelt, d. h. der Festkörper kann Schwingungsenergie nur in diskreten Quanten formula_1 aufnehmen. Diese Quanten nennt man auch Phononen. Man beschreibt den Festkörper dann als aus "N" quantenharmonischen Oszillatoren bestehend, die jeweils in drei Richtungen unabhängig schwingen können. Die Besetzungswahrscheinlichkeit formula_2 einer solchen Schwingungsmode (eines Phonons) hängt von der Temperatur "T" ab und folgt (da Phononen Bosonen sind) der Bose-Einstein-Verteilung:
+
+mit
+
+Damit ergibt sich die innere Energie "U" im Festkörper zu (Es wurde die Quantisierungsbedingung des harmonischen Oszillators verwendet):
+
+mit
+
+Der Beitrag formula_9 gibt die Nullpunktenergie an.
+
+Der Beitrag der Phononen zur Wärmekapazität ist dann:
+
+mit
+
+Mit der Einstein-Temperatur formula_12 ergibt sich eine einfachere Schreibweise:
+
+Wie das Debye-Modell liefert das Einstein-Modell das korrekte Hochtemperaturlimit nach dem Dulong-Petit-Gesetz:
+
+Im Limes kleiner Temperaturen ergibt sich:
+
+Dieser Verlauf von "C(T)" für kleine Temperaturen weicht allerdings erheblich von Messungen ab. Dies hängt mit der Annahme zusammen, alle harmonischen Oszillatoren im Festkörper würden mit einer einheitlichen Frequenz schwingen. Die Verhältnisse im realen Festkörper sind jedoch deutlich komplizierter.

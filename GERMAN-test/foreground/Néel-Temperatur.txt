@@ -1,0 +1,19 @@
+Néel-Temperatur
+
+Die Néel-Temperatur formula_1 (nach Louis Néel, der für die Beschreibung 1970 den Nobelpreis in Physik erhielt) ist die Temperatur, oberhalb derer ein antiferromagnetischer Stoff paramagnetisch wird; die thermische Energie wird hier groß genug, um die magnetische Ordnung innerhalb des Stoffes zu zerstören. Die Néel-Temperatur ist damit das Analogon zur Curie-Temperatur formula_2 ferromagnetischer Stoffe.
+
+Oberhalb von formula_1 gilt für die magnetische Suszeptibilität formula_4 als Funktion der Temperatur formula_5:
+
+mit der materialspezifischen Curie-Konstanten formula_7
+
+Unterhalb von formula_1 nimmt die Suszeptibilität mit "sinkender" Temperatur ebenfalls ab, d. h. bei formula_1 hat sie ihr Maximum erreicht.
+
+Die Néel-Temperatur von Hämatit liegt z. B. bei 675 °C.
+
+Die Herleitung erfolgt aus der Molekularfeldtheorie: d. h. ein magnetisches Moment wird im mittleren Magnetfeld formula_10 seiner Nachbarn betrachtet. Als Folge gilt das Curiesche Gesetz:
+
+Dabei ist
+
+Somit folgt:
+
+und formula_17 lässt sich als formula_18 identifizieren.

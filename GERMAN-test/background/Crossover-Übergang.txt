@@ -1,0 +1,21 @@
+Crossover-Übergang
+
+Als „crossover“-Übergang bezeichnet man ein in der Physik und anderen Naturwissenschaften auftretendes Phänomen, bei dem ein scharfer Phasenübergang – der nur geringfügig abgerundet oder „verschmiert“ erscheint – nur als scharf vorgetäuscht wird.
+
+Das Übergangsphänomen äußert sich typischerweise dadurch, dass eine Größe "Y" bei doppelt-logarithmischer Auftragung über einer Variablen "X" zwei aneinander angrenzende lange Geradenabschnitte mit unterschiedlichen Steigungen aufweist, z. B. Übergang von einem verlängert gedachten Geradensegment mit Steigung 0 zu einem anderen mit Steigung 1, etwa so:    ____formula_1, was abgerundet etwa durch folgende Funktion beschrieben werden kann (für formula_2 zwischen 0 und einem sehr großen Wert):
+
+Für sehr kleine "X" ist nur der erste Term der rechten Seite wichtig, für sehr große dagegen nur der zweite. Man erhält so für formula_4 das Ergebnis formula_5, also eine Gerade mit Steigung Null durch "Y"=1. Für formula_6 dagegen ergibt sich bei logarithmischer Auftragung eine Gerade mit der Steigung 2, oder bei Änderung der Potenz "X" ein anderer endlicher Wert. Der Übergang zwischen Geradensegmenten erfolgt jedoch nicht „scharf“, sondern „abgerundet“, entsprechend der vollen Beschreibung.
+
+Der „crossover“-Übergang ist also nur „ungefähr“ lokalisiert, und zwar ungefähr am rechten Ende des linken Geradensegments bzw. am linken Ende des rechten Segments.
+
+Der Übergangsbereich zwischen den unterschiedlichen Geradenabschnitten ähnelt dann einem abgerundeten (bzw. durch Störstellen „verschmierten“) echten Phasenübergang, wobei die unterschiedlichen Geradensteigungen fälschlich als „kritische Exponenten“ rechts bzw. links dieses vorgetäuschten echten Phasenübergangs interpretiert werden und der fiktive Schnittpunkt der Geraden fälschlich als Ort des vorgetäuschten Phasenüberganges.
+
+In Wirklichkeit handelt es sich um zwei unterschiedlich charakteristische Gebiete ein-und-derselben Phase.
+
+Als konkretes Beispiel betrachten wir einen magnetischen Kristall, etwa Eisen. Unterhalb der kritischen Temperatur "T" gilt, dass die Magnetisierung (genauer: der thermische Erwartungswert der Größe) bei Annäherung von unten an diese sog. Curie-Temperatur, mit einem charakteristischen Wurzelgesetz zunimmt (Molekularfeldtheorie), formula_7. Zugleich wachsen die Fluktuationen der Magnetisierung an, und zwar nach dem Gesetz formula_8 mit formula_9, bis diese zuletzt eine mit "M" vergleichbare Größenordnung erreichen. Wenn das der Fall ist, d. h. bei weiterer Annäherung von "T" an den kritischen Wert "T", erfolgt – wie man experimentell feststellen kann – ein Übergang zu einem Verhalten formula_10 und formula_11, mit formula_12 und formula_13 Dieser Übergang von den Molekularfeld-Steigungen, z. B. von formula_14  zu den von den Fluktuationen dominierten eigentlichen kritischen Werten, etwa zu formula_15, erfolgt genau durch einen „crossover“-Übergang vom Molekularfeld-Verhalten zum eigentlichen kritischen Verhalten.
+
+Dieses „crossover“-Phänomen findet bei einer nur „ungefähr“ definierten „crossover“-Temperatur nahe bei "T" statt, etwa wenige Prozent darunter. Es kann beträchtliche Unterschiede umfassen, wie den Unterschied zwischen dem Molekularfeld-Exponenten β=1/2 und dem eigentlichen, nicht exakt bekannten kritischen Wert β ≈ 1/3. Der eigentliche „scharfe“ Phasenübergang ereignet sich jedenfalls bei "T" selbst.
+
+Die logarithmische Auftragung der Variablen "X" ist wesentlich, weil nur so die geforderten langen Segmente entstehen, die i.a. viele Zehnerpotenzen umfassen sollen. Die logarithmische Auftragung der Variablen "Y" für die mathematische Umwandlung von Potenzgesetzen in Geradensteigungen ist ebenfalls wichtig. Außerdem muss das Phänomen insgesamt additiv sein, was wegen formula_16 und formula_17 erfüllt ist.
+
+Es ist eine wichtige Aufgabe der Theoretischen Physik gegenüber z B. der Experimentalphysik solche nur „vorgetäuschten“ Übergänge von „verschmierten echten Phasenübergängen“ zu unterscheiden. Der Unterschied wird im Verhalten beim sog. Thermodynamischen Grenzfall formula_18 sichtbar, wo bei „echten“ Phasenübergängen die Verschmierung bzw. Abrundung verschwinden muss.

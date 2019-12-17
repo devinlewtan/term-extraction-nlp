@@ -1,0 +1,15 @@
+Isenthalpe Zustandsänderung
+
+In der Thermodynamik wird eine Zustandsänderung als isenthalp bezeichnet, bei der sich die Enthalpie formula_1 nicht ändert:
+
+mit
+
+Ein Beispiel für einen isenthalpen Prozess ist die Expansion eines Gases durch ein Drosselventil, siehe Joule-Thomson-Effekt.
+
+Nach der Zustandsgleichung eines idealen Gases gilt
+
+Für ideale Gase sind die isenthalphen Prozesse also gerade die Isothermen.
+
+Ein isothermer reversibler Prozess ist immer auch isenthalp, die Umkehrung gilt aber nicht.
+
+Auch die Linien gleicher Enthalpie im Zustandsdiagramm werden Isenthalpen (oder Drosselkurven) genannt.

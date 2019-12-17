@@ -1,0 +1,143 @@
+Elektromagnetische Induktion
+
+Unter elektromagnetischer Induktion (auch Faradaysche Induktion, nach Michael Faraday, kurz Induktion) versteht man das Entstehen eines elektrischen Feldes bei einer Änderung des magnetischen Flusses.
+
+In vielen Fällen lässt sich das elektrische Feld durch Messung einer elektrischen Spannung direkt nachweisen. Ein typisches Beispiel hierfür zeigt das nebenstehende Bild: Durch die Bewegung des Magneten wird eine elektrische Spannung induziert, die an den Klemmen der Spule messbar ist und für weitere Anwendungen bereitsteht.
+
+Die elektromagnetische Induktion wurde 1831 von Michael Faraday bei dem Bemühen entdeckt, die Funktionsweise eines Elektromagneten (Strom erzeugt Magnetfeld) umzukehren (Magnetfeld erzeugt Strom). Der Zusammenhang ist eine der vier Maxwellschen Gleichungen. Die Induktionswirkung wird technisch vor allem bei elektrischen Maschinen wie Generatoren, Elektromotoren und Transformatoren genutzt. Bei diesen Anwendungen treten stets Wechselspannungen auf.
+
+Die elektromagnetische Induktion als Teil der Maxwellschen Gleichungen und der klassischen Elektrodynamik spiegelt den Kenntnisstand zum Ende des 19. Jahrhunderts wider. Zum damaligen Zeitpunkt wurden teilweise andere Begriffe und Formelzeichen benutzt, die grundlegenden Vorstellungen über den Induktionsvorgang wurden jedoch zu dieser Zeit geschaffen.
+
+Als Entdecker des Induktionsgesetzes gelten Michael Faraday, Joseph Henry und Hans Christian Ørsted, die das Induktionsgesetz im Jahr 1831 unabhängig voneinander formulierten, wobei Faraday seine Ergebnisse als Erster veröffentlichte.
+
+In Faradays erstem Demonstrationsaufbau zur Induktion vom 29. August 1831 wickelte er zwei Leiterdrähte auf die gegenüberliegenden Seiten eines Eisenkerns; eine Anordnung, die modernen Ringkerntransformatoren ähnelt. Er erwartete aufgrund seiner Kenntnisse über Permanentmagnete, dass sich – sobald in einer der beiden Leitungen ein Strom zu fließen beginnt – eine Welle entlang des Rings ausbreitet und zu einem Stromfluss in der Leitung auf der anderen Seite des Rings führt. Im Experiment schloss er an einer der beiden Leitungen ein Galvanometer an und beobachtete jedes Mal einen kurzen Zeigerausschlag, wenn er den anderen Draht an eine Batterie anschloss. Die Ursache dieser Induktionserscheinung war die Änderung des magnetischen Flusses in der von der Leiterschleife aufgespannten Fläche. In der folgenden Zeit identifizierte Faraday weitere Beispiele elektromagnetischer Induktion. So beobachtete er Ströme wechselnder Richtung, wenn er einen Permanentmagneten rasch in eine Spule hinein und wieder heraus bewegte. Aus den historischen Untersuchungen ging auch die sogenannte Faradayscheibe, ein Gleichstromgenerator, hervor, die aus heutiger Sicht als sogenannte "Bewegungsinduktion" beschrieben wird und ihre Ursache in der Bewegung des Leiters und der mitgeführten Ladungen im magnetischen Feld hat. Faraday veröffentlichte das Gesetz, beginnend mit 
+
+Bedeutende Beiträge stammten auch von Emil Lenz (Lenzsche Regel), Franz Ernst Neumann und Riccardo Felici.
+
+Anfang des 20. Jahrhunderts erfolgte die relativistische Eingliederung des Induktionsgesetzes im Rahmen der speziellen Relativitätstheorie. Anders als in der Mechanik, bei der sich die spezielle Relativitätstheorie erst bei Geschwindigkeiten nahe der Lichtgeschwindigkeit merklich auswirkt, sind relativistische Effekte in der Elektrodynamik schon bei sehr kleinen Geschwindigkeiten zu beobachten. So konnte im Rahmen der Relativitätstheorie beschrieben werden, wie sich beispielsweise die Beträge der elektrischen und magnetischen Feldkomponenten in Abhängigkeit von der Bewegung zwischen einem Beobachter und einer beobachteten elektrischen Ladung verändern. Diese Abhängigkeiten in der relativen Bewegung zueinander zwischen verschiedenen Bezugssystemen werden durch die Lorentz-Transformation beschrieben. Dabei zeigt sich, dass das Induktionsgesetz in Kombination mit den restlichen Maxwellschen Gleichungen „lorentzinvariant“ ist. Das heißt, die Struktur der Gleichungen wird durch die Lorentztransformation zwischen verschiedenen Bezugssystemen nicht verändert. Dabei wird deutlich, dass die elektrischen und magnetischen Felder nur zwei Erscheinungsformen desselben Phänomens sind.
+
+Bei der durch Induktion infolge einer magnetischen Flussdichteänderung entstehenden elektrischen Spannung handelt es sich um eine sogenannte Umlaufspannung. Eine solche Umlaufspannung tritt nur in Feldern mit einem sogenannten Wirbelanteil auf, d. h. in Feldern, bei denen Feldlinien nicht an einem bestimmten Punkt im Raum enden, sondern sich beispielsweise im Kreis drehen oder „im Unendlichen“ verschwinden.
+Hierdurch unterscheidet sich die Induktionsspannung von Spannungen, wie sie beispielsweise bei einer Batterie vorkommen (Potentialfeld). Die Feldlinien der sog. Urspannungsquellen EMK einer Batterie (siehe elektromotorische Kräfte) verlaufen stets von positiven zu negativen Ladungen und sind daher niemals geschlossen.
+
+In mathematischer Form lässt sich das Induktionsgesetz durch jede der folgenden drei Gleichungen beschreiben:
+! style="background:#CDCDCD;"|Differentielle Form
+! style="background:#CDCDCD;"|Integralform I
+! style="background:#CDCDCD;"|Integralform II
+Das Vorhandensein von elektrischen Wirbeln bzw. einer zeitveränderlichen magnetischen Flussdichte ist das wesentliche Kennzeichen von Induktion. In elektrischen Feldern ohne Induktion (z. B. in dem Feld unbewegter Ladungen) existieren keine geschlossenen Feldlinien der elektrischen Feldstärke formula_7, und das Umlaufintegral der elektrischen Feldstärke ergibt immer null.
+
+Seine Hauptanwendung findet das Induktionsgesetz in differentieller Form einerseits bei theoretischen Herleitungen und in der numerischen Feldberechnung, andererseits (jedoch seltener) in der analytischen Berechnung konkreter technischer Fragestellungen.
+
+Wie in Einsteins erstem Werk über die spezielle Relativitätstheorie gezeigt wurde, stehen die Maxwellgleichungen in differentieller Form in Übereinstimmung mit der speziellen Relativitätstheorie. Eine an den heutigen Sprachgebrauch angepasste Herleitung hierzu findet sich in dem inzwischen vergriffenen Lehrbuch von Simonyi.
+
+Der Zusammenhang zwischen der Integralform und der differentiellen Form kann mithilfe des Satzes von Stokes mathematisch beschrieben werden. Dabei werden die globalen Wirbel- und Quellenstärken in lokale, diskrete Wirbel- bzw. Quellendichten, die einzelnen Raumpunkten (Punkten eines Vektorfeldes) zugeordnet sind, übergeführt.
+
+Ausgangspunkt ist das Induktionsgesetz in differentieller Form:
+Zur Überführung in die integrale Form wird der Satz von Stokes verwendet, der aus naheliegenden Gründen mit der Variablen formula_9 formuliert wird:
+
+Ersetzt man im rechten Term des Stokesschen Gesetzes das Vektorfeld formula_9 entsprechend dem Induktionsgesetz in differentieller Form durch den Term formula_12, so ergibt sich:
+
+Das ist eine mögliche allgemeine Form des Induktionsgesetzes in Integralform, die entgegen vielen anderslautenden Behauptungen sowohl für Konturlinien in ruhenden Körpern als auch in bewegten Körpern angewendet werden kann.
+
+Um eine Formulierung zu erhalten, die den magnetischen Fluss formula_14 enthält, addiert man auf beiden Seiten der Gleichung den Term formula_15. Dabei ergibt sich:
+
+Der rechte Teil der Gleichung entspricht wegen formula_17 der negativen zeitlichen Änderung des magnetischen Flusses, sodass das Induktionsgesetz in Integralform in voller Allgemeingültigkeit auch folgendermaßen notiert werden kann:
+
+In vielen Lehrbüchern werden diese Zusammenhänge leider nicht richtig notiert, was daran erkennbar ist, dass der auf der linken Gleichungsseite notierte Term formula_19 fehlt. Richtig notiert wird das Induktionsgesetz hingegen beispielsweise bei Fließbach.
+
+Der Irrtum besteht wahrscheinlich darin, dass der fehlende Term irrtümlich der elektrischen Feldstärke zugeschlagen wird. (Manche Autoren sprechen in diesem Zusammenhang auch von einer "effektiven" elektrischen Feldstärke.) In seiner Konsequenz führt das Weglassen des Terms formula_19 dazu, dass die Größe formula_7 inkonsistent verwendet wird und je nach Zusammenhang eine unterschiedliche Bedeutung hat.
+
+Im folgenden Abschnitt wird die erste Integralform des Induktionsgesetzes betrachtet:
+
+Entsprechend der mathematischen Formulierung des Integrals wird die Fläche formula_23 zu einem konstanten Zeitpunkt betrachtet und deren zeitliche Änderung nicht berücksichtigt.
+
+Im Hinblick auf den Begriff der induzierten Spannung – das Integral über die elektrische Feldstärke – wird zunächst die im nebenstehenden Bild eingezeichnete Verbindungslinie zwischen den Punkten A und B in einem elektrischen Feld betrachtet.
+
+Die Spannung zwischen den Punkten A und B („äußerer Pole“ einer „Steckdose“) kann man näherungsweise berechnen, indem man den Weg in viele kleine Wegelemente formula_24 unterteilt. Da man aufgrund der nur geringen Länge näherungsweise von einer konstanten elektrischen Feldstärke entlang eines solchen Wegstückes ausgehen kann, ergibt sich für die Teilspannung entlang eines Wegelementes im Innern der Wert
+
+Als Gesamtspannung zwischen beiden Punkten ergibt sich somit
+
+Die exakte Darstellung wird mithilfe eines Integrals definiert. Dieses kann man sich als Grenzwert für unendlich viele Wegstücke mit unendlich kleiner Länge formula_27 vorstellen. Zur Berechnung definiert man i. A. eine von einem Parameter formula_28 abhängige Funktion formula_29, die im Bereich formula_30 die Punkte entlang der Wegstrecke beschreibt (im Innern also "in" Pfeilrichtung). Die Spannung zwischen beiden Punkten kann dann über ein Kurvenintegral formal erfasst werden:
+
+Lässt man nun den Punkt entlang der Kontur formula_32 eines Gesamtumlaufes weiterwandern, bis er die eingeschlossene Fläche genau einmal umrundet hat und wieder mit Ausgangspunkt identisch wird formula_33 ergibt sich als Gesamtwert die in der geschlossenen Leiterschleife induzierte Umlaufspannung formula_34:
+
+Hinsichtlich des Vorzeichens ist zu berücksichtigen, dass die Kontur die Fläche dabei im Sinne der Rechte-Hand-Regel umrundet.
+
+Der dritte Ausdruck obiger Gleichungen ist dabei die dem zweiten Ausdruck gleichwertige vektorielle Darstellung des tangentialen Feldstärkeanteils mithilfe des Skalarproduktes, und die beiden Integrale sind sogenannte Ringintegrale, die immer dann verwendet werden, wenn (wie hier) längs eines geschlossenen Weges integriert wird, in diesem Fall entlang der Kontur der Leiterschleife formula_36
+
+Die induzierte Spannung lässt sich bei einer nichtbewegten Leiterschleife näherungsweise als Spannungsabfall mit einem Spannungsmessgerät messen, wenn man entlang der geschlossenen Linie eine Leiterschleife anbringt und diese an einer Stelle auftrennt. Da über dem Leiterdraht nahezu keine elektrische Spannung abfällt, liegt die ganze induzierte Spannung zwischen den Klemmen.
+
+In Messsystemen mit bewegten Komponenten treten auch schon bei kleinen Geschwindigkeiten formula_37 relativistische Effekte auf. Diese grundsätzliche Tatsache wird durch ein einfaches Gedankenexperiment deutlich:
+
+Damit bei Messungen mit bewegten Komponenten keine Missverständnisse auftreten, ist die Angabe des Bezugssystems, relativ zu dem die Beobachtungen beschrieben werden, unbedingt erforderlich.
+Ebenso ist es erforderlich, Größen, die in einem anderen als dem zugrunde gelegten Bezugssystem gemessen werden, mithilfe der Lorentztransformation umzurechnen.
+
+Besonders wichtig ist die Anwendung der Lorentztransformation bei der Betrachtung elektrischer Feldstärken. Dies ist entgegen einer weit verbreiteten Ansicht schon bei Geschwindigkeiten weit unterhalb der Lichtgeschwindigkeit (beispielsweise einige mm/s) erforderlich und in praktisch allen Experimenten mit bewegten Leitern von Bedeutung.
+Zur Erläuterung betrachten wir erneut den bewegten Leiterstab im zeitlich konstanten formula_39-Feld.
+
+Da die Leiterschleife geöffnet ist, beträgt die stromtreibende Kraft formula_40 auf eine Ladung formula_41
+In dem mit der Geschwindigkeit formula_43 bewegten Leiterstab ergibt sich somit aus Sicht eines Beobachters im Laborsystem die Feldstärke
+während im Bereich des ruhenden Leiters mit formula_45 eine Feldstärke von
+herrscht.
+
+Die Unterschiede in der Feldstärke zwischen den bewegten und den ruhenden Leiterabschnitten ergeben sich direkt aus der Lorentztransformation für die elektrische Feldstärke:
+Ein Beobachter, der sich mit dem bewegten Leiterstab mitbewegt, wird innerhalb des Leiterstabes eine (Eigen-)Feldstärke von
+messen.
+Setzt man die (gestrichene) Eigenfeldstärke in die passende Transformationsgleichung ein, so ergibt sich für die entsprechende Größe im Laborsystem:
+Wegen formula_49 entfällt der gesamte rechte Term und damit auch die Relevanz des Faktors formula_50, der gewissermaßen „in die Null hineindividiert“ werden kann. Wie erwartet ergibt sich dabei für die elektrische Feldstärke aus Sicht des Laborsystems der Wert
+
+Mithilfe dieses Experimentes kann man demzufolge Relativitätstheorie mit einfachen Vorlesungsexperimenten demonstrieren. Da das genannte Experiment in vielen Darstellungen als ein Beispiel für elektromagnetische Induktion dargestellt wird, soll ausdrücklich bekräftigt werden, dass die Klemmenspannung nicht auf Wirbel des elektrischen Feldes zurückgeführt werden kann, da wegen formula_52 keine solchen vorhanden sind. Wie das Feldlinienbild zeigt, liegt ein reines Potentialfeld vor. Diese zeigen von positiven Ladungen auf der Oberfläche der oberen Schiene zu negativen Ladungen auf der Oberfläche der unteren Schienen. In diesem Sinne kann der physikalische Vorgang, der bei diesem Experiment stattfindet, mit dem Aufladen eines Kondensators verglichen werden.
+
+In Abänderung des weiter oben diskutierten Beispiels eines „bewegten Leiterstabes im homogenen Magnetfeld“ wird hier ein Stromkreis mit endlichem Widerstand betrachtet, sodass es bei der Bewegung des Leiterstabes im Magnetfeld zu einem Stromfluss kommt. Für die Stromstärke gilt:
+
+Hierbei wird die gesamte Flussänderung in der Leiterschleife betrachtet. Da aber die Induktivität formula_54 für eine Leiteranordnung wie hier genähert werden kann, ist auch der stromabhängige magnetische Fluss formula_55 und die dazugehörige Flussänderung formula_56 vernachlässigbar. Die induzierte Stromstärke ist damit:
+
+Wird der Leiterstab mit der konstanten Geschwindigkeit formula_58 bewegt, wird mechanische Arbeit verrichtet. Die Kraft ist die Lorentzkraft auf einen stromdurchflossenen Leiter der Länge formula_59 im Magnetfeld der Flussdichte formula_60:
+Für die elektrische Leistung, die im Widerstand umgesetzt wird, gilt formula_63 und für die mechanische Leistung einer solchen gleichförmigen Bewegung gilt formula_64, nachdem man die entsprechenden Größen von oben eingesetzt hat. Es wird also mechanische Arbeit in elektrische umgewandelt.
+
+Dreht sich eine Leiterschleife mit der Winkelgeschwindigkeit formula_65 in einem aus dem Laborsystem betrachtet zeitlich konstanten Magnetfeld, so verändert sich aus Sicht der Leiterschleife die magnetische Flussdichte ständig, und es ergibt sich ein veränderter magnetischer Fluss durch die Leiterschleife.
+
+Die an den Klemmen im sich drehenden System gemessene Spannung kann folgendermaßen berechnet werden:
+
+Das Induktionsgesetz ist auch für elektrische Spulen mit mehreren Windungen anwendbar. Die zur Berechnung des magnetischen Flusses erforderliche Fläche wird im nebenstehenden Bild veranschaulicht. Das Induktionsgesetz in seiner allgemeinen Form erfordert daher keinen Faktor formula_73 für die Windungszahl der Spule, auch wenn der Spulendraht im konkreten Fall einen Zylinder mehrfach umläuft.
+
+In den meisten Veröffentlichungen zur elektromagnetischen Induktion bei elektrischen Spulen wird der Einfachheit halber der Faktor formula_73 für die Windungszahl eingeführt, und das Induktionsgesetz wird in der Form
+angegeben. Hierbei bezeichnet formula_76 den Fluss durch eine von dem Spulendraht und den Anschlüssen berandete Fläche, formula_77 den von einer einzelnen Windung umschlossenen magnetischen Fluss, und formula_71 ist die gemessene Spannung.
+
+Die Zusammenhänge bei Bewegungsinduktion lassen sich relativ leicht auch über das ohmsche Gesetz für bewegte Leiter erfassen. Im Unterschied zu einem ruhenden Leiter, bei dem ausschließlich die elektrische Feldstärke stromtreibend wirkt, wirkt auf die Ladungen in einem bewegten Leiter die komplette Lorentzkraft
+
+Für nichtrelativistische Geschwindigkeiten formula_80 ist die im ruhenden Bezugssystem gemessene Lorentzkraft gleich groß wie die Kraft, die die Ladung im mitbewegten System erfährt.
+
+Für bewegte Materialien, für die das ohmsche Gesetz gilt, kann die spezifische Leitfähigkeit formula_81 durch die Gleichung
+mit der elektrischen Feldstärke formula_9, der Geschwindigkeit formula_43 des jeweiligen Leiterelements und der magnetischen Flussdichte formula_85 definiert werden. Das ohmsche Gesetz lautet dann wie im Falle unbewegter Materialien
+
+Durch Integration über die Zeit lässt sich das Induktionsgesetz für Leiterschleifen folgendermaßen umformen:
+Diese Beziehung beschreibt den Flussverlauf als Integralfunktion des Spannungsverlaufs.
+
+Betrachtet man den Vorgang in einem Zeitintervall von formula_88 bis formula_89 bei konstanter Fläche, durch die der magnetische Fluss tritt – das Zeitintervall kann sich beispielsweise über eine Halbperiode einer Wechselspannung erstrecken –, so folgt daraus für den sich dann ergebenden Fluss
+Für den Fall formula_91 bedeutet das, dass der magnetische Fluss durch eine Leiterschleife bzw. eine Flussänderung in dieser, wie sie sich durch Anlegen einer Spannung nach der gegebenen Zeit formula_89 dort einstellt, immer von dem Spannungszeitintegral in den angegebenen Grenzen formula_88 bis formula_89 verursacht sein und diesem auch entsprechen muss. Die dafür relevante Spannung ist jeweils die induzierte Spannung formula_95. Diese entspricht der angelegten Spannung abzüglich ohmscher Spannungsabfälle formula_96 soweit diese nicht zu vernachlässigen sind.
+
+Zu veranschaulichen ist das Spannungszeitintegral auch als Fläche zwischen dem Spannungsgraphen und der Zeitachse über dem Intervall formula_97 weshalb man es bisweilen auch als Spannungszeit"fläche oder Spannungszeit"summe bezeichnet, in meist älterer Literatur in Anlehnung an den Begriff des "Kraftstoßes" auch als "Spannungsstoß." Ursächlich hierfür ist der Umstand, dass messtechnisch früher die Integration von induzierten Spannungsimpulsen mittels ballistischer Galvanometer durchgeführt wurde, vgl. auch Veranschaulichung des magnetischen Kraftflusses.
+
+Beispiel für 50 Hz bei formula_98: Auf grafische Weise durch Auszählen der kleinen Quadrate ermittelt, erhält man das Ergebnis von ca. 1,05 Voltsekunden zum Bild rechts oben, für eine Sinushalbschwingung folglich 2,1 Voltsekunden. Das ist die Spannungszeitfläche, welche die Induktion im Eisenkern eines Transformators von einem Ende der Hysteresekurve zum anderen Ende transportiert. Wenn ein Transformator passend zu den 230 V bei 50 Hz ausgelegt ist, läuft die Induktion im Dauerbetrieb hauptsächlich im senkrechten Bereich der Hysteresekurve. Höhere Spannung oder niedrigere Frequenz führt zum Übersteuern der Hysteresekurve in die waagerecht verlaufenden Bereiche, zur Kernsättigung, was dann auch in der Praxis durch den Anstieg des Magnetisierungsstromes anschaulich beobachtbar ist.
+
+Als weiteres Beispiel kann ein vielfach praktiziertes Messprinzip für den magnetischen Fluss dienen: Hier wird der zu messende Fluss von einer Messspule erfasst und die Spannung an der Spule auf einen Integrator gegeben, der an seinem Ausgang als Ergebnis unmittelbar den Fluss anzeigt.
+
+Die Flussregel formula_99 formuliert das Induktionsgesetz in Integralform für den Spezialfall einer Leiterschleife: Sie gilt für geschlossene Umlaufwege, die ganz in elektrisch leitendem (auch bewegtem) Material im (auch zeit- und ortsveränderlichen) Magnetfeld verlaufen, vorzugsweise in Leiterschleifen mit geringem Querschnitt. Im Fall bewegter Leiterschleifen muss sich die festgelegte Umlaufkurve zeitlich stetig und "konvektiv" (s. u.) ohne Unterbrechungen entwickeln. Die Geschwindigkeiten in der Anordnung müssen deutlich kleiner als die Lichtgeschwindigkeit sein.
+
+Herleitung: Über den Umlaufweg im Induktionsgesetz Form II kann weitgehend frei verfügt werden. Im zur Flussregel führenden Ansatz wird allen Elementen formula_100 des Umlaufwegs die lokale Stoffgeschwindigkeit formula_43 vorgegeben (konvektive Linienelemente, formula_102). Damit gilt:
+
+Die elektrischen Feldgrößen, die aus der Flussregel eliminiert sind, werden im Folgenden nur zur Information angegeben.
+Für die Stromdichte und die elektrische Feldstärke im Ruhesystem der Ringelemente gilt
+formula_107 bzw. formula_108.
+Für die elektrische Feldstärke im Ruhesystem des Schleifenzentrums erhält man mit formula_109 das Resultat
+formula_110. Die letzte Gleichung folgt mit formula_111.
+Für den Fall, dass der Leiterquerschnitt und die Leitfähigkeit am Umfang konstant sind, spiegelt sich die Rotationssymmetrie der Anordnung auch in den Feldgrößen. Man erhält dann die Feldkoordinaten
+formula_112 und formula_113.
+
+Die Anordnung rechts illustriert auf Basis der Flussregel, dass die an einer (mit einem zeitveränderlichen Magnetfeld verketteten) Leiterschleife abgegriffene Spannung von der Platzierung der Messleitungen abhängt. Die "Spannung zwischen zwei Punkten" ist dann kein eindeutiger Begriff mehr.
+
+In dem Messaufbau kontaktieren zwei gleich gepolte Spannungsmesser die Punkte A und B eines leitenden Rahmens in der Form eines regelmäßigen Fünfecks. Sein ohmscher Widerstand beträgt formula_114. In der Leiterschleife treibt die induzierte Spannung formula_115 den Strom formula_116 an. Mit dem Umlaufweg durch das Messgerät 1 und die Rahmenseite AB ist kein Fluss verkettet. Der Spannungsmesser 1 zeigt entsprechend der Spannungsgleichung formula_117 den Wert formula_118 an. Mit dem alternativen Umlauf A–C–B–Voltmeter1 zur Berechnung von formula_119 ist der zeitveränderliche magnetische Fluss formula_120 verkettet, sodass die Spannungsgleichung formula_121 gilt. Daraus folgt mit formula_122 wieder formula_118.
+
+Für den Spannungsmesser 2 gelten entsprechende Gleichungen: Jene ohne verketteten Fluss entlang A–Voltmeter2–B–C–A lautet formula_124. Der alternative Umlauf A–Voltmeter2–B–A mit der Spannungsgleichung formula_125 ist mit dem Fluss formula_120 verkettet. Aus beiden Umläufen errechnet man formula_127.
+
+Der kein Rahmenteil durchlaufende (Vergleichs-)Umlauf nur über die beiden Spannungsmesser liefert die Gleichung formula_128, die mit den oben angegebenen Termen für formula_119 und formula_130 erfüllt ist.

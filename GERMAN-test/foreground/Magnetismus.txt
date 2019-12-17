@@ -1,0 +1,152 @@
+Magnetismus
+
+Magnetismus ist ein physikalisches Phänomen, das sich unter anderem als Kraftwirkung zwischen Magneten, magnetisierten bzw. magnetisierbaren Gegenständen und bewegten elektrischen Ladungen wie z. B. in stromdurchflossenen Leitern äußert. Die Vermittlung dieser Kraft erfolgt über ein Magnetfeld, das einerseits von diesen Objekten erzeugt wird und andererseits auf sie wirkt.
+
+Magnetfelder entstehen zum einen bei jeder Bewegung von elektrischen Ladungen. Das ist Grundlage von Elektromagneten und wegen des Induktionsgesetzes auch der induktiven elektronischen Bauelemente. Zum anderen existiert das magnetische Moment von Elementarteilchen als Folge ihres Spins, was zu Dauermagneten und anderen magnetischen Eigenschaften von Festkörpern, aber auch Flüssigkeiten und Gasen führt.
+
+Der Magnetismus ist ein Teilgebiet des Elektromagnetismus. Die zugrundeliegende Grundkraft heißt elektromagnetische Wechselwirkung.
+
+Um die Erscheinungen des Magnetismus zu beschreiben, führte man den Begriff des "Magnetfelds" ein. Magnetfelder können verursacht werden durch
+Magnetische Feldlinien veranschaulichen in jedem Punkt des Feldes Richtung und Richtungssinn des Magnetfeldes bzw. des magnetischen Flusses. Diese Richtung wird dahin festgelegt, wie sich der Nordpol eines Probemagneten ausrichten würde. Die Stärke des Magnetfeldes ist proportional zum Drehmoment, das dieser Probemagnet erfahren würde, wenn man ihn um einen bestimmten Winkel aus dieser Richtung auslenkt. Der Abstand der Feldlinien zeigt die Stärke des Magnetfeldes an: Je dichter die Feldlinien, desto stärker das Feld.
+
+In der Magnetostatik gibt es im Gegensatz zur Elektrostatik keine Ladungen – echte magnetische Monopole sind zwar denkbar, alle experimentellen Tatsachen sprechen aber gegen ihre Existenz. Somit ist das Magnetfeld quellenfrei. Magnetische Feldlinien haben daher keinen Anfang und kein Ende.
+
+Der Verlauf magnetischer Feldlinien kann durch die Ausrichtung von Eisenfeilspänen oder einer Kompassnadel sichtbar gemacht werden; für dreidimensionale Demonstrationen kann man die Eisenfeilspäne zum Beispiel in Silikonöl suspendieren.
+
+Hall-Sonden sind elektronische Sensoren auf Basis des Hall-Effektes, die Stärke und oft auch Richtung der Magnetfelder messen können.
+
+Ein Stabmagnet an der Erdoberfläche richtet sich bei Fehlen anderer Kräfte so aus, dass eines seiner Enden in Richtung Norden, zum arktischen Magnetpol, und das andere in Richtung des antarktischen Magnetpols zeigt. Das nach Norden zeigende Ende wird Nordpol des Magneten genannt. Durch Definition wurde festgelegt, dass am Nordpol eines Magneten die Feldlinien aus dem Magneten aus- und an seinem Südpol in ihn eintreten. Deshalb bezeichnet man allgemein bei Elektromagneten oder Permanentmagneten Gebiete, aus denen die Feldlinien austreten, als "Nordpol" und Gebiete, in die sie eintreten, als "Südpol".
+
+Da der Nordpol des Magneten vom arktischen Magnetpol angezogen wird, ist der arktische Magnetpol ein magnetischer Südpol.
+
+Das magnetische Feld übt auf bewegte elektrische Ladungen formula_1 die sogenannte Lorentzkraft formula_2 aus. Sie ist proportional zur Geschwindigkeit formula_3, wirkt "senkrecht" zu den Feldlinien des Magnetfeldes "und senkrecht" zur Bewegungsrichtung der Ladung. Sie ist die Grundlage von Elektromotoren und Generatoren sowie der Ablenkung bewegter geladener Teilchen (z. B. mit Ablenkspulen). Mit einem statischen Magnetfeld wird dabei keine Energie ausgetauscht.
+
+Das magnetische Feld übt ferner Kräfte auf Magnete und magnetisierbare Körper (Ferrimagnetismus bestimmter nichtmetallischer Festkörper, sog. Ferrite, und Ferromagnetismus von Metallen wie Eisen) aus. Magnete und gestreckte Probekörper aus magnetisierbaren Materialien richten sich immer längs der Feldlinien beziehungsweise antiparallel zu diesen aus, das heißt, der magnetische Südpol eines Probemagneten richtet sich entlang der Feldlinien zum Nordpol des erzeugenden Feldes aus. Dieser Effekt wird zum Beispiel beim magnetischen Kompass ausgenutzt, bei dem sich die Kompassnadel, ein magnetischer Dipol, nach dem Erdmagnetfeld ausrichtet. Zudem werden in "inhomogenen" Feldern magnetisierbare Körper in Richtung steigender Feldstärke gezogen, siehe Gradient, Anwendungen sind Elektromagnete und der Reluktanzmotor. Das gilt auch für Magnete, die sich frei ausrichten können. In entgegengesetzter Richtung orientierte Magnete werden dagegen abgestoßen.
+
+Ursache für diese Beobachtungen ist, dass ein energieärmerer Zustand eingenommen wird – die Kräfte und Drehmomente wirken stets so, dass die Gesamtenergie des Feldes abnimmt, wenn die Körper ihnen folgen, wobei die Bindungsenergie als mechanische Arbeit frei wird. Umgekehrt wird an den Körpern Arbeit verrichtet, wenn sie gegen die Kräfte bewegt werden. Die Arbeit senkt bzw. erhöht die Energie des Feldes. Sind Spulen beteiligt, so kann auch Elektroenergie zu- oder abgeführt werden.
+
+Die Stärke eines Magnetfeldes kann durch zwei verschiedene physikalische Größen ausgedrückt werden, die magnetische Feldstärke formula_4 (Einheit: A/m, also Ampere pro Meter; im CGS-Einheitensystem gibt es den Namen Oersted für die entsprechende Einheit) und die magnetische Flussdichte (die sog. „magnetische Induktion“) formula_5 (Einheit Tesla). Diese unterscheiden sich im Vakuum nur durch einen konstanten Faktor, die magnetische Feldkonstante formula_6:
+In Materie, z. B. in Permanentmagneten, ist der Zusammenhang komplizierter: In diesem Fall ist formula_5 über einen "Querspalt" hinweg stetig, formula_4 über einen "Längsspalt". Messungen mit einer Magnetfeld-Sonde in Quer- und Längsspalt können wesentlich verschieden ausfallen. Die Größe formula_5 ist immer quellenfrei, während das Gleiche für formula_4 nicht gilt (s. u.). Während die magnetische Feldstärke formula_4 bei Berechnungen mit elektrischen Strömen oder bei ferromagnetischem oder ferrimagnetischem Material von Vorteil ist, verwendet man die magnetische Flussdichte zum Berechnen von induzierten Spannungen oder der Lorentzkraft. Die beiden Feldgrößen sind über die Materialgleichungen der Elektrodynamik miteinander verknüpft, welche sich im einfachsten Fall über einen Faktor, die magnetische Permeabilität, ausdrücken lässt; im allgemeinen Fall gilt stattdessen formula_13 wobei der Vektor formula_14 als die Magnetisierung des Materials bezeichnet wird. Quellenfreiheit von formula_5 und Wirbelfreiheit von formula_4 – letzteres nur im Falle der Abwesenheit elektrischer Ströme, formula_17 – drücken sich mathematisch durch die Gleichungen formula_18 bzw. formula_19 aus. Dabei sind formula_20 und formula_21 die Differentialoperatoren für die Divergenz bzw. die Rotation, also für die Quellen- bzw. die Wirbeldichte eines Feldes.
+
+Das intergalaktische Magnetfeld, ausgedrückt als magnetische Flussdichte in der Einheit Tesla (T), schätzt man auf weniger als 0,1 nT (10 T), das der Milchstraße auf 30 nT. Das Magnetfeld der Erde hat an der Oberfläche eine Stärke um 40 µT, dies entspricht im Gaußschen Einheitensystem 0,4 Gauss. Die magnetische Flussdichte der Sonnenflecken liegt unter 1 mT. Die Sättigungsmagnetisierung von Eisen beträgt ca. zwei Tesla.
+
+Auf der Oberfläche von Neutronensternen, wie z. B. Pulsaren, herrschen dagegen typischerweise Flussdichten von 10 Tesla, bei Magnetaren, einer speziellen Sorte von Neutronensternen, sogar 10 Tesla.
+
+Das mit 1 nT derzeit (2009) schwächste Magnetfeld auf der Erde findet man in einem speziell abgeschirmten kubischen Gebäude der Physikalisch-Technischen Bundesanstalt in Berlin. Zweck des Kubus ist die Messung der schwachen Hirnströme und der Herzsignale von Menschen.
+
+Am "National High Magnetic Field Laboratory" in Tallahassee (Florida) wird das mit 45 T derzeit stärkste zeitlich konstante Magnetfeld auf der Erde erzeugt. Noch höhere Magnetfelder sind mit Elektromagneten in kurzen Pulsen erreichbar. Den Weltrekord für zerstörungsfreie Magnetbauweisen hält derzeit (2012) das National High Magnetic Field Laboratory in Los Alamos, USA mit 100,75 T.
+
+Mittels intensiver Laserstrahlung lassen sich Flussdichten von bis zu 34 Kilotesla erzeugen – allerdings nur während etwa 10 ps.
+
+Hohe Magnetfelder von beispielsweise 2800 T lassen sich mit Stromimpulsen erzeugen, wenn in Kauf genommen wird, dass die Spule dabei zerstört wird (bzw. sich selbst zerstört). Eine zusätzliche Steigerung der Flussdichte kann bei gleichzeitiger Komprimierung der Spule bzw. des Feldes mittels Sprengladungen erreicht werden; siehe auch Flusskompressionsgenerator.
+
+Jedes Magnetfeld enthält Energie. Die Energiedichte formula_22 an einem beliebigen Punkt eines Magnetfelds im Vakuum ist gegeben durch
+
+Dabei ist formula_24 der Betrag der magnetischen Feldstärke, formula_25 der Betrag der magnetischen Flussdichte am gegebenen Punkt und formula_6 die magnetische Feldkonstante oder Permeabilität des Vakuums.
+
+Die Gesamtenergie des Magnetfelds einer stromdurchflossenen Spule beträgt
+
+Hier steht formula_28 für die Induktivität der Spule und formula_29 für die Stromstärke.
+
+Unter Elektromagnetismus versteht man die vielfältigen Beziehungen zwischen Magnetismus und rein elektrischen Phänomenen. Magnetfelder, die durch elektrische Ströme entstehen, können durch die Spezielle Relativitätstheorie als Folge der elektrostatischen Kräfte zwischen den Ladungen gedeutet werden. Die Erklärung beruht darauf, dass ein elektrischer Strom eine Relativbewegung entgegengesetzt geladener Teilchen darstellt, deren Ladungsdichten durch die Lorentzkontraktion verschieden beeinflusst werden. Geladene Elementarteilchen, die einen Eigendrehimpuls (Spin) haben, besitzen auch ein magnetisches Moment und sind damit u. a. verantwortlich für den Ferromagnetismus. Dies wird durch die relativistische Quantenmechanik gedeutet.
+
+Auch bei der Wirkung eines Magnetfelds auf ein bewegtes geladenes Teilchen gibt es einen nur durch die Quantenmechanik erklärbaren Effekt (siehe Aharonov-Bohm-Effekt). Hierbei beeinflusst ein räumlich begrenztes magnetisches Feld die Dynamik eines geladenen Teilchens, auch wenn dieses sich ausschließlich in einem Bereich mit verschwindendem Magnetfeld bewegt.
+
+Bewegungen von Ladungsträgern bewirken Veränderungen im elektrostatischen und magnetischen Feld ihrer Umgebung. Da sich diese Veränderungen gegenseitig beeinflussen und im Raum ausbreiten, spricht man von elektromagnetischen Wellen. Licht (ob sichtbar oder unsichtbar) und Rundfunk sind die bekanntesten Formen dieses Phänomens, aber auch in der Metallverarbeitung (Induktionsöfen) und zum Erhitzen sogar nichtleitender Substanzen kommt diese Form des Elektromagnetismus zur Anwendung (Mikrowellenherd).
+
+Für eine vertiefte Darstellung und Einordnung des "Elektromagnetismus" siehe den Artikel Elektromagnetische Wechselwirkung.
+
+Betrag und Vorzeichen der bewegten Ladungen sowie Betrag und Richtung ihrer Geschwindigkeit bestimmen die Stärke und Richtung der magnetischen Kräfte sowie der ihnen zugrundeliegenden magnetischen Felder, deren exakte Messung heute u. a. mit Hall-Sonden möglich ist.
+
+Für den Zusammenhang zwischen Stromrichtung und Richtung der magnetischen Kräfte bzw. der ihnen zugrundeliegenden magnetischen Felder ist dabei eine Reihe unterschiedlich bezeichneter Regeln und Merkhilfen im Umlauf, die sich zunächst einmal danach unterscheiden, ob bei ihnen von der „konventionellen“ bzw. „technischen“ Stromrichtung (entgegen dem Elektronenfluss) oder aber der Richtung des Elektronenflusses (umgangssprachlich auch „physikalische“ Stromrichtung genannt) ausgegangen wird. Ist ersteres der Fall, spricht man von Rechte-Hand- oder Rechte-Faust-Regeln, ansonsten von Linke-Hand- oder Linke-Faust-Regeln, wobei die zuerst genannten traditionell vorherrschen.
+
+Die nächste Unterscheidung ist die danach, ob man sich bei der betreffenden Regel außer dem Daumen auch des jeweils im rechten Winkel zum Vorgänger abgespreizten Zeige- und Mittelfingers bedient oder aber sich alle Finger außer dem Daumen zu einer Faust geschlossen vorstellt.
+
+Während die zuerst genannten Regeln damit als eigentliche Linke- bzw. Rechte-"Hand"-Regeln – auch Drei-Finger-Regel, UVW-Regel oder IBF- bzw. FBI-Regel genannt – die Richtung der Lorentzkraft auf einen bewegten Ladungsträger in einem (vorgegebenen) äußeren Magnetfeld anzeigen, dienen die an zweiter Stelle genannten Regeln – Linke- bzw. Rechte-"Faust"-Regel, Umfassungsregel, populär auch Schraubenregel bzw. Korkenzieherregel genannt – in erster Linie dazu, die Richtung des Magnetfeldes anzuzeigen, das der bewegte Ladungsträger durch seine Bewegung selbst erzeugt, sei es frei fliegend oder aber in einem geradlinigen bzw. ringförmigen elektrischen Leiter, z. B. einer Spule.
+
+
+
+Beim Magnetismus handelt es sich (ähnlich wie bei der Supraleitung) um spezifisch-quantenmechanische Effekte, die nicht einfach darzustellen sind.
+
+Ein erfolgreiches Modell wurde schon 1927 mit der Heitler-London-Theorie der Bildung von Wasserstoff-Molekülen entwickelt, obwohl diese Theorie zunächst nichts mit „Magnetismus“ zu tun zu haben schien. Nach dieser Theorie entstehen σ-Molekülorbitale, d. h. aus den zwei atomaren Wasserstoff-Funktionen "u"(…) bildet sich ein orbitaler σ-Molekülzustand:
+
+Das letzte Produkt ergibt sich aus dem ersten wegen des quantenmechanischen Prinzips der Ununterscheidbarkeit identischer Teilchen. Es bedeutet: Das erste Elektron r kann sich nicht nur beim ersten Atomkern befinden, sondern ebenso gut in einem atomaren Wasserstoff-Orbital beim zweiten Atomkern, während sich das "zweite" Elektron beim "ersten" Atomkern befindet. Dies ergibt die „Austauschwechselwirkung“, die für das Zustandekommen des Magnetismus eine fundamentale Rolle spielt und um Faktoren von 100 bis 1000 stärker ist als die durch die Elektrodynamik beschriebenen phänomenologischen Terme.
+
+Bei der "Spinfunktion" "χ"("s", "s"), welche für den Magnetismus verantwortlich ist, gilt dann wegen des Pauli-Prinzips das komplementäre Verhalten 
+
+d. h., es müssen nicht nur die "u" ersetzt werden durch "α" und "β" (ersteres bedeutet „"spin up"“, letzteres „"spin down"“), sondern auch + durch − sowie z. B. r durch die beiden diskreten Werte von "s", nämlich durch ±½. Und zwar gilt:
+
+So, d. h. mit dem Minuszeichen in (1b), ergibt sich eine Singulett-Spinfunktion. Das besagt: die Spins sind "antiparallel"; beim Festkörper bedeutet das Antiferromagnetismus und bei zweiatomigen Molekülen Diamagnetismus.
+
+Die "Tendenz zur Molekülbindung", entsprechend der oben angegebenen Ortsfunktion, ergibt also wegen des Pauli-Prinzips automatisch die schon erwähnte Singulettsymmetrie des Spinzustandes; wogegen die "Coulomb-Abstoßung" der beiden Elektronen zu einer Singulett-Ortsfunktion und komplementär dazu zu einer Triplett-Spinfunktion führen würde, d. h., „die Spins würden jetzt "parallel" stehen“.
+
+Der letztgenannte Effekt überwiegt bei Eisen, Kobalt und Nickel; diese Metalle sind ferromagnetisch. Bei den zweiatomigen Molekülen überwiegt er auch beim Sauerstoff, das im Gegensatz zu den anderen zweiatomigen Molekülen nicht diamagnetisch, sondern paramagnetisch ist. Der zuerst genannte Effekt überwiegt dagegen bei den anderen Metallen wie Natrium, Kalium, Magnesium oder Strontium, die "nichtmagnetisch" sind, oder bei Mangan, das "antiferromagnetisch" ist.
+
+Aus dem Heitler-London-Modell entstand durch Verallgemeinerung das grundlegende Heisenberg-Modell des Magnetismus (Heisenberg 1928).
+
+Die Erklärung des Phänomens beruht also letztlich auf allen Subtilitäten der Quantenmechanik, einschließlich ihrer mathematischen Struktur, insbesondere auf dem dort beschriebenen Spin und dem Pauli-Prinzip, während die Elektrodynamik eher die Phänomenologie beschreibt.
+
+Alle fundamentalen geladenen Elementarteilchen besitzen ein charakteristisches magnetisches Moment formula_34. Es ist über das gyromagnetische Verhältnis mit ihrem Spin verknüpft.
+
+Das magnetische Moment eines Atoms setzt sich zusammen aus dem Beitrag der Elektronenhülle (Hüllenmoment) und dem im Allgemeinen viel schwächeren Kernbeitrag (Kernmoment).
+
+Zum Hüllenmoment tragen das Bahnmoment, das mit dem Bahndrehimpuls der Elektronen verknüpft ist, und das durch den Elektronenspin bestimmte Spinmoment bei. Die Summe der magnetischen Momente der Elektronen eines doppelt besetzten Atomorbitals ergibt jeweils null, sodass Atome, die keine halbbesetzten Orbitale besitzen, kein permanentes Hüllenmoment aufweisen.
+
+Das Kernmoment ist zwar sehr klein, es lässt sich aber dennoch nicht nur nachweisen (Zeeman-Effekt, Stern-Gerlach-Versuch), sondern auch praktisch anwenden (z. B. NMR-Spektroskopie (, kernmagnetische Resonanz), MR-Tomographie).
+
+Magnetismus von Festkörpern ist ein kooperatives Phänomen.
+Die makroskopische Magnetisierung setzt sich additiv zusammen aus den Beiträgen der einzelnen Bausteine (Atome, Ionen, quasifreie Elektronen), aus denen der Festkörper aufgebaut ist. Bei vielen Materialien haben bereits die einzelnen Bausteine ein magnetisches Moment. Allerdings weisen selbst von den Materialien, deren Bausteine solche magnetische Momente tragen, nur wenige eine makroskopische Magnetisierung auf. In der Regel addieren sich nämlich die verschiedenen Momente zum Gesamtmoment Null. Nur wenn das nicht geschieht, wenn sich also ihre Beiträge nicht in der Summe aufheben, ist eine makroskopische Magnetisierung das Ergebnis.
+
+In Festkörpern können fünf Typen von Magnetismus auftreten. Ihre Namensgebung erfolgt beim magnetischen wie auch beim elektrischen Feld durch die Verwendung der entsprechenden Vorsilbe ganz analog:
+
+Darüber hinaus gibt es noch Formen des Magnetismus, die durch nicht magnetisches oder nichtlineares Verhalten der fünf Magnetismustypen geprägt sind:
+
+
+Mit "Amagnetismus, amagnetisch, nichtmagnetisch" oder "unmagnetisch" ist meist „nicht ferromagnetisch“ gemeint, beispielsweise als Eigenschaft von austenitischem Stahl im Gegensatz zu gewöhnlichem Baustahl. Stoffe, auf die ein Magnetfeld überhaupt keine Wirkung hat, gibt es nicht. Bei sehr hohen Magnetfeldstärken kann es auch bei „amagnetischen“ Materialien zu Anziehungs- oder im noch geringeren Maße zu Abstoßungseffekten kommen, wenn auch wesentlich schwächer als bei ferromagnetischen Stoffen. Die Bezeichnung amagnetisch wird nicht einheitlich gebraucht.
+
+Um die verschiedenen Arten des Magnetnismus und deren Temperaturabhängigkeit zu untersuchen, werden verschiedene makroskopische als auch atomar-mikroskopische Methoden verwendet. Eine der empfindlichsten makroskopischen Methoden beruht auf dem Josephson-Effekt und wird im SQUID verwendet, der in der Materialforschung meist mit einem geregelten Kryostaten kombiniert wird. Der Hall-Effekt ist ebenfalls eine makroskopische Methode und findet auch Anwendung in vielen einfachen technischen Anwendungen, z. B. im Automotoren. 
+
+Auf atomarer Skala werden Atomkerne unter Verwendung der Hyperfeinwechselwirkung genutzt, um mit Atomkernen im Kristallgitter am Ort es jeweiligen Kerns größe des Magnetfeldes zu messen. Bekannte Methoden sind Mößbauer-Spektroskopie, Gestörte Gamma-Gamma-Winkelkorrelation und NMR.
+
+Weil jede Nervenaktivität auch aus elektrischen Strömen besteht, produziert unser Nervengewebe und insbesondere unser Gehirn ständig Magnetfelder, die mit empfindlichen Detektoren empfangen werden können.
+
+Magnetische Wechselfelder können über Induktion elektrische Ströme im Gewebe auslösen und können so einen (schwachen) Einfluss auf das Nervensystem haben. So kann der motorische Cortex derartig mit Hilfe der Transkraniellen Magnetstimulation (TMS) stimuliert werden, dass es zu unwillkürlichen Muskelkontraktionen kommt. Auch die Nerven in den Muskeln selbst können auf diese Weise stimuliert werden.
+
+In entsprechend starken Feldern (zum Beispiel in einem Kernspintomografen) treten sogenannte Magnetophosphene (optische Sinneswahrnehmungen) auf. Des Weiteren ist seit langem bekannt, dass magnetische Wechselfelder die Sekretion von Hormonen (Beispiel Melatonin) beeinflussen können.
+
+Viele Vögel, Meeresschildkröten und weit ziehende Fische verfügen über einen Magnetsinn und können sich mittels des Erdmagnetfelds orientieren.
+
+Der Arzt Franz Anton Mesmer entwickelte eine Theorie, die 1784 von der französischen Akademie der Wissenschaften geprüft und verworfen wurde, nach der ein Fluid, das Mesmer als "Magnetismus animalis" bezeichnete, von Mensch zu Mensch übertragbar sei und bei der Hypnose und bestimmten Heilverfahren ("Mesmersche Streichungen") eine Rolle spielen sollte. Über den seinerzeit populären animalischen Magnetismus hinaus befasste sich in Orléans der Arzt und Magnetiseur Louis Joseph Jules Charpignon um 1845 auch mit Magnetismus in einer allgemeineren Bedeutung.
+
+"Siehe auch:" Magnetotaxis, "Magnetospirillum gryphiswaldense", "Magnetospirillum magnetotacticum", Magnetosom
+
+Wirkungen oder Gefahren magnetischer Gleichfelder auf den Menschen sind nicht bekannt. Auch die gepulsten Felder bei der Kernspintomografie sind im Allgemeinen ungefährlich. Dagegen kommt es bei starken Feldern in folgenden Fällen zu Gefahren:
+Daher gelten in Magnetfeldlaboren und an Kernspintomografen Sicherheitsregeln, die gewährleisten, dass keinerlei ferromagnetische Teile in die Nähe geraten.
+Folgende Schäden sind weiterhin relevant:
+
+Gepulste Felder können durch elektromagnetische Induktion sämtliche elektronischen und elektrischen Einrichtungen beeinflussen oder zerstören, vgl. auch Elektromagnetischer Puls.
+
+Unregelmäßigkeiten des Teilchenstroms von der Sonne (Sonnenwind) führen auf der Erde zu sogenannten magnetischen Stürmen, die durch Induktion Telefon- und Überlandleitungen, Kabelsysteme und auch metallene Rohrleitungen gefährden können.
+
+Magnetische Felder können Aufzeichnungen auf magnetischen Datenträgern wie etwa Tonband, Videoband oder Festplatte löschen.
+
+Wenn ein Magnetfeld als Folge eines Zwischenfalls – Leitungsunterbrechung beim konventionellen Elektromagneten oder Quenchen beim Supraleitungsmagneten – schlagartig zusammenbricht, können durch Induktion sehr hohe elektrische Spannungsimpulse entstehen. Führen diese zu Stromfluss, können die dadurch wiederum erzeugten Magnetfelder z. B. Gegenstände gewaltsam in den Magneten hineinziehen. Daher dürfen Experimentieraufbauten in direkter Nähe des Magneten keine geschlossenen Leiterschleifen – beispielsweise in irgendwelchen Gestellen – enthalten; dies wird durch Einfügen isolierender Zwischenstücke erreicht.
+
+Die zwei ringförmigen Permanentmagnete aus dem Magnetron eines Mikrowellenherdes ziehen sich so stark an, dass man sich eine feine Fingerhautfalte dazwischen schmerzhaft einklemmen und verletzen kann.
+
+Zu Missverständnissen kommt es öfter durch die Verwechslung der Begriffe „magnetisch“ (im Sinne von ferromagnetisch), „magnetisiert“ und „magnetisierbar“.
+
+In der Umgangssprache wird unter Magnetismus praktisch ausschließlich der Ferromagnetismus verstanden, denn dieser ist im Alltag häufig und vertraut: Haftmagnete an einer Blechtafel, die Wirkungsweise eines Kompass usw. Die anderen Arten des Magnetismus (Diamagnetismus, Paramagnetismus usw.) sind dagegen in der alltäglichen Umwelt unauffällig. Mit „magnetisch“ ist also meist „ferromagnetisch“ gemeint.
+Die meisten Menschen verbinden den Begriff Magnetismus richtigerweise sehr stark mit den Werkstoffen Eisen und Stahl. Weniger bekannt ist, dass auch Nickel und Kobalt ferromagnetisch sind.
+
+Falsche Vorstellungen über die Magnetisierbarkeit sind verbreitet und finden sich auch in einigen Büchern und sonstigen Quellen. Beispielsweise ist ein Gegenstand aus einfachem Stahl ferromagnetisch und somit magnetisierbar, aber nur magnetisch „weich“, das heißt, er verliert seine Magnetisierung sehr schnell wieder. Nicht aus jedem beliebigen Stahldraht lässt sich durch Überstreichen mit einem Dauermagneten eine provisorische Kompassnadel herstellen, ein magnetisch weicher Stahldraht ist nicht dazu geeignet. Wenn man einen magnetisch weichen Stahldraht mit einem Dauermagneten berührt, dann wird er zwar angezogen, aber nicht dauerhaft magnetisiert. Eine magnetisch „harte“ Stahlnadel lässt sich dagegen dauerhaft magnetisieren, das heißt, sie verliert ihre Magnetisierung erst über einen langen Zeitraum und könnte damit als Behelfskompass funktionieren.
+
+Ob ein Gegenstand „magnetisch“ (im Sinne von ferromagnetisch) ist, kann man leicht prüfen, indem man ihn mit einem Dauermagneten berührt. Spürt man dabei eine Kraft, dann ist der Gegenstand ferromagnetisch. Ob ein Gegenstand „magnetisiert“ ist – das heißt, selbst ein Dauermagnet ist – kann man entsprechend an einem sehr leichten Teil aus unmagnetisiertem Stahl (z. B. einer Heft- oder Büroklammer) prüfen: Bleibt die Heftklammer an dem Gegenstand hängen, dann ist er magnetisiert.
+
+Eine Magnetisierung beispielsweise bei Werkzeugen kann in der Praxis erwünscht sein (z. B. sind manche Schraubendreher absichtlich magnetisiert, damit die Handhabung kleiner Eisenschrauben vereinfacht wird). Die Magnetisierung kann aber auch unerwünscht sein, weil dadurch ständig kleine Eisenfeilspäne o. Ä. am Gerät haften.
+
+Notebooks von Apple weisen mitunter eine magnetisch koppelnde Stromversorgungsbuchse auf. Diese MagSafe-Verbindung löst sich in den meisten Fällen, wenn versehentlich am Kabel gezogen wird, und kann so Stürze des Geräts vom Tisch auf den Boden vermeiden. Der flache Stecker hat einen ferromagnetischen Rahmen, der von dem Magneten in der etwas vertieft sitzenden Fläche der Buchse angezogen wird. Wird das Gerät ohne Hülle in einen Rucksack gesteckt, mit dem gelegentlich auch Handwerkszeug transportiert wird, kann die Buchse Eisen- und Rostpartikel anziehen und sich damit verstopfen. Diese Partikel können mithilfe starken Klebebands herausgezogen werden.
+
+Die Abschirmung elektrotechnischer Geräte, Einrichtungen und Räume dient dazu, elektrische und/oder magnetische Felder von diesen fernzuhalten oder umgekehrt die Umgebung vor den von der Einrichtung ausgehenden Feldern zu schützen. Magnetische Abschirmungen werden z. B. in Röhrenmonitoren und Oszilloskopen mit Kathodenstrahlröhre eingesetzt, da es aufgrund magnetischer Störquellen zu Bildstörungen kommen kann. Dauermagnete von Lautsprechern in Fernsehgeräten mit Bildröhre werden oft magnetisch abgeschirmt.
+
+Zur Abschirmung von statischen Magnetfeldern und von Magnetfeldern geringer Frequenz dienen weichmagnetische Werkstoffe, d. h. ferromagnetische Materialien hoher Permeabilität und geringer Remanenz. Eine magnetische Abschirmung wirkt gleichzeitig auch elektrisch abschirmend, wenn sie hinreichend leitfähig ist. Hochfrequente, elektromagnetische Wechselfelder (elektromagnetische Wellen) können nur mit elektrisch leitfähigen, allseitig geschlossenen Hüllen ausreichender Dicke vollständig abgeschirmt werden. Spalte oder Öffnungen verringern die Schirmdämpfung und machen diese unmöglich, wenn ihre größte Abmessung die Größenordnung der abzuschirmenden Wellenlänge erreicht oder überschreitet.

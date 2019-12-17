@@ -1,0 +1,32 @@
+Magnetische Anisotropie
+
+Magnetische Anisotropie beschreibt die Tatsache, dass magnetische Materialien eine "Vorzugsrichtung" oder "Vorzugsebene" für die Magnetisierung aufweisen können. Das Maß dafür ist die magnetische Anisotropieenergie, die als die Arbeit definiert ist, die benötigt wird, um die Magnetisierung eines geschlossenen Systems (kein Teilchenaustausch) aus der „leichten Richtung“ (der Vorzugsrichtung) herauszudrehen.
+
+Die magnetische Anisotropie bewirkt die Kopplung der Magnetisierung an das Kristallgitter und ist z. B. dafür verantwortlich, dass sich eine Magnetnadel dreht (und damit der Ausrichtung des Spin-Gitters folgt).
+
+Es gibt verschiedene Formen der magnetischen Anisotropie:
+
+
+
+Das Auftreten der magnetischen Anisotropie ist auf den ersten Blick überraschend. Die Austauschwechselwirkung, die für die kollektive Ordnung der magnetischen Momente verantwortlich ist, ist nämlich isotrop, ebenso wie der Heisenbergsche Spin-Hamiltonoperator (als Skalarprodukt).
+
+Magnetische Anisotropie ist jedoch Erfahrungstatsache. Eine thermodynamische Betrachtung führt zur Dichte der Gibbs'schen freien Energie (ein phänomenologischer Zugang, in dem Symmetriebetrachtungen eine leitende Rolle spielen) und damit zu den Termen, die die Anisotropie beschreiben; das wurde zuerst vom russischen Physiker Akulow (1900–1976) durchgeführt.
+
+Die spontane Magnetisierung ist isotrop, d. h. für alle Richtungen gleich groß. Das folgt aus der Beobachtung, dass die Magnetisierung eines ferromagnetischen Einkristalls in einem hinreichend hohen Feld für alle Richtungen gleich groß ist. Alle ferromagnetischen Eigenschaften eines Ferromagnetikums gehen in allen Richtungen bei der gleichen Temperatur verloren, d. h. der Curie-Punkt ist isotrop.
+
+Allerdings kann, je nach Richtung, ein unterschiedliches Magnetisierungsverhalten gemessen werden: Ein Eiseneinkristall erreicht seine Sättigungsmagnetisierung recht schnell, wenn er entlang seiner Würfelkanten magnetisiert wird; bei Magnetisierung entlang der Flächendiagonalen wächst die Magnetisierung langsamer.
+
+Die magnetische Anisotropie kann durch die Magnetisierungsarbeit gekennzeichnet werden. Beim Eisen ist die Magnetisierungsarbeit entlang der Würfelkanten am geringsten, diese Richtung wird als "leichte Richtung" bezeichnet. Eisen hat drei leichte und vier schwere Richtungen (entlang der Raumdiagonalen). In Kobalt dagegen sind eine leichte (die hexagonale Achse) und unendlich viele schwere Richtungen zu finden.
+
+Die magnetische Anisotropieenergie beschreibt die mit der Orientierung der Magnetisierung verbundene Energie. Die Größe der magnetischen Anisotropieenergien liegen mehrere Größenordnungen unter denen der Austauschenergie, die für die spontane kollektive Ordnung der permanenten magnetischen Momente verantwortlich ist. Die entsprechenden Felder liegen bei der Austauschwirkung bei 400–2000 Tesla, während die der Anisotropie bei etwa 0,01 bis 10 T liegen.
+
+Grundsätzlich hat die magnetische Anisotropie ihre Ursachen in zwei physikalischen Wechselwirkungen:
+Die Spin-Bahn-Kopplung spielt insbesondere bei der magnetokristallinen Anisotropie eine Rolle, was wegen deren geringer Größe im Vergleich etwa zur Austauschwechselwirkung Schwierigkeiten für die theoretische Ableitung der Anisotropie aus Modellen birgt.
+
+Die Kristallanisotropie wird durch mechanische Spannungen beeinflusst, dieser Effekt heißt auch inverse Magnetostriktion.
+
+Herausragende Bedeutung hat die Erforschung der magnetischen Anisotropie in der Entwicklung neuer Festplatten. Immer schnellere Zugriffszeiten und insbesondere immer höhere Speicherdichten werden in näherer Zukunft an das superparamagnetische Limit führen (siehe Mooresches Gesetz). An diesem Limit werden die einzelnen magnetischen Bereiche so klein, dass sie ihre Magnetisierung nicht dauerhaft stabil halten können. Die magnetische Anisotropie kann beispielsweise gezielt dazu eingesetzt werden, um die Stabilität der Bits zu erhöhen (eine Überwindungsenergie, wie sie bei der Anisotropie vorhanden ist, bewirkt immer eine gewisse Stabilität des Systems), die sich bei kleiner werdenden Dimensionen gegenseitig beeinflussen können; letzteres hätte unerwünschte Informationsverluste zur Folge.
+
+Besonders interessant ist in diesem Zusammenhang die magnetische Dünnschichttechnologie.
+
+Die positive magnetoelastische Anisotropie von Eisen wird genutzt, um oberflächennahe Eigenspannungszustände in Eisenwerkstoffen und Stahlteilen mit dem Barkhausenrauschen aufzufinden.

@@ -1,0 +1,27 @@
+Magnetische Kühlung
+
+Die magnetische Kühlung (Kühlung durch adiabatische Entmagnetisierung) ist eine Methode der Tieftemperaturphysik, mit der kleine Materialmengen auf Temperaturen unter 1 mK (Millikelvin = 10 K) gekühlt werden können. Sie beruht auf dem magnetokalorischen Effekt und dient vor allem der Grundlagenforschung.
+
+Die magnetische Kühlung basiert auf der Temperaturabhängigkeit in der Ordnung (der Entropie) der magnetischen Momente des verwendeten Materials. Dabei können sowohl die magnetischen Momente der Elektronen (wie bei der adiabatischen Entmagnetisierung paramagnetischer Salze) als auch die Kernmomente (siehe unten: adiabatische Kernentmagnetisierung) genutzt werden.
+
+Bei hohen Temperaturen ist die thermische Energie größer als die Wechselwirkungsenergie der magnetischen Momente, die dadurch völlig ungeordnet sind. Entspricht die Größe der beteiligten Momente einem Drehimpuls "J", so ergibt sich pro Mol eine konstante (molare) Entropie "S:"
+
+wobei
+
+Sinkt bei tiefen Temperaturen (und ohne ein Magnetfeld, d. h. bei B=0) die thermische Energie unter die Wechselwirkungsenergie der magnetischen Momente, so beginnen diese, sich zu ordnen; die Entropie sinkt entlang der gestrichelten Linie der schematischen Darstellung.
+
+Bei Anwesenheit eines Magnetfeldes formula_2 wird eine Vorzugsrichtung festgelegt und die Ordnungstemperatur angehoben (Punkt A nach Punkt B). Zunächst wird dadurch pro Mol folgende Wärme freigesetzt, die mit geeigneten Maßnahmen abgeführt werden muss:
+
+Diese Vorkühlung geschieht im Allgemeinen mit Hilfe der He-He-Entmischungskühlung.
+
+Wird das Magnetfeld anschließend unter thermischer Isolation (adiabatisch) gesenkt auf einen Wert formula_4, so bedingt der Ordnungszustand eine entsprechend tiefere Temperatur formula_5 (Punkt C im Schema):
+
+Die erreichbare Temperatur formula_7 ist dabei limitiert durch das innere Feld "b", welches durch die Wechselwirkungen der magnetischen Momente selbst hervorgerufen wird. Diese können für formula_8 nicht vernachlässigt werden. Die Größe des internen Feldes formula_9 kann für paramagnetische Salze (siehe unten) aus der Néel-Temperatur bestimmt werden.
+
+Die Kühlung durch adiabatische Entmagnetisierung paramagnetischer Salze (z. B. von Cermagnesiumnitrat / CMN) war die erste Methode, mit der Temperaturen im Bereich von einigen Millikelvin erreicht werden konnten. Sie wurde bereits 1926 von Debye bzw. 1927 von Giauque vorgeschlagen und nutzt die magnetischen Momente der Elektronen. Die Methode wurde jedoch weitgehend von der He-He-Entmischungskühlung abgelöst, da diese im Gegensatz zur magnetischen Kühlung kontinuierlich arbeitet.
+
+Denkbar ist auch, die adiabatische Entmagnetisierung von Substanzen in der Nähe des Curie-Punktes zu verwenden. So soll es prinzipiell möglich sein, durch adiabatische Entmagnetisierung von Gadolinium (Curie-Punkt: 16 °C) Kühlgeräte zu bauen, die ohne umweltschädliches FCKW und ohne mechanische Teile auskommen. In den 1990er Jahren wurden billigere geeignete Metalllegierungen ohne Gadolinium entdeckt.
+
+2015 wurde auf einer Verbrauchermesse ein Kühlschrank mit einem magnetokalorischen Metallsalz (Metamagnet) auf Basis einer Mangan-Eisen-Phosphor-Silizium-Legierung präsentiert. Magnetokalorische Wärmepumpen versprechen wohl einen weitgehend geräuschlosen Betrieb und um 25 % geringeren Energieverbrauch als die herkömmliche Kältekompressortechnik.
+
+Die Kühlung durch adiabatische Kernentmagnetisierung, bei der die magnetischen Momente der Atomkerne genutzt werden, ist nach wie vor die einzige Methode, mit der ein Festkörper auf deutlich unter 1 Millikelvin gekühlt werden kann – es werden Temperaturen im µKelvin-Bereich erreicht (10 K). Die geringe Größe der Kernmomente (ca. 1/2000 derer von Elektronen) macht eine Vorkühlung auf einige Millikelvin und hohe Magnetfelder im Bereich von mehreren Tesla erforderlich.

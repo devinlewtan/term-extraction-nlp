@@ -1,0 +1,22 @@
+Anstellwinkel
+
+Der Anstellwinkel oder Anströmwinkel ist in der Aerodynamik der Winkel formula_1 zwischen der Richtung des anströmenden Fluids und der Sehne eines Profils. Das Profil kann dabei beispielsweise Teil einer Tragfläche, eines Rotorblatts, eines Segels oder einer Turbinenschaufel sein. Die Größe des Anstellwinkels bestimmt zusammen mit der Anströmgeschwindigkeit die Größe des dynamischen Auftriebs. Er ist daher ein wichtiger Parameter beim Betrieb von Flugzeugen, Windkraftanlagen, Turbinen oder Segelbooten.
+
+Im nebenstehenden Diagramm ist die Beziehung zwischen Anstellwinkel α und dem Koeffizienten des dynamischen Auftriebs C dargestellt. Es ist ersichtlich, dass der Auftrieb bei größer werdendem Anstellwinkel zunächst ebenfalls größer wird, dann ein Maximum erreicht und dann wieder kleiner wird. Der Grund dafür ist, dass beim Erreichen des maximalen Auftriebs die Strömung sich vom Profil zu lösen beginnt. Bei einer weiteren Vergrößerung des Anstellwinkels kommt es zu einem gänzlichen Abreißen der Strömung. Dies vermindert den Auftrieb stark.
+
+Anstell- oder Nickwinkel werden gelegentlich verwechselt. Der Anstellwinkel ist nicht zu verwechseln mit dem Einstellwinkel (dem Winkel zwischen Profilsehne und Flugzeug- oder Propellerlängsachse).
+
+Im stationären Flug wird der Anstellwinkel durch den Schwerpunkt und durch die Stellung des Höhenruders beeinflusst. Bei gleichem Anstellwinkel sind die Auftriebskraft und der Luftwiderstand proportional zum Quadrat der Geschwindigkeit des Flugzeugs (doppelte Geschwindigkeit ergibt vierfache Auftriebskraft) gegenüber der umgebenden Luft. Im Geradeausflug ist der Auftrieb gleich der Gewichtskraft des Flugzeugs. Daher erfordert langsames Fliegen einen besonders großen Anstellwinkel. Da der Auftrieb jenseits einer für das jeweilige Tragflächenprofil charakteristischen Geschwindigkeit wieder abnimmt, bestimmt dies die minimale Geschwindigkeit, mit der ein Flugzeug fliegen kann (v).
+
+Bei einigen wenigen Flugzeugen wird der Anstellwinkel ohne Fluglagenänderung über Verändern des Einstellwinkels der Tragfläche gegenüber dem Flugzeugrumpf gesteuert, z. B. bei der Vought F-8. Der Anstellwinkel ändert sich auch, wenn das Profil durch Ausfahren von Vorflügeln oder Landeklappen verändert wird oder wenn es sich durch Auf- oder Abwinde bewegt. Über den kritischen Anstellwinkel hinaus kann der Auftrieb durch Strakes erhöht werden.
+
+Der Strömungsabriss und die Gleitzahl eines Flugzeuges sind direkt vom Anstellwinkel abhängig und nur indirekt von der Geschwindigkeit (die Mindestgeschwindigkeit und die Geschwindigkeit des besten Gleitens sind von Fluggewicht, Lastvielfachen und weitere Faktoren abhängig, während die zugehörigen Anstellwinkel fest sind.). Deshalb ist eine Messung des Anstellwinkels von Bedeutung. Diese kann mit speziellen Instrumenten erfolgen ("angle of attack indicator"). 
+Seitenfäden sind bei Segelflugzeugen an der Haube üblich und bei Hängegleitern an der Unterverspannung. Sie zeigen die Richtung der vorbeiströmenden Luft an.
+
+Bei Hubschraubern wird der Einstellwinkel der Rotorblätter des Hauptrotors gleichförmig oder winkelabhängig über die Taumelscheibe gesteuert, wodurch sich deren Anstellwinkel ändert. Bei Verstellpropellern wird auf gleiche Weise mit der Änderung des Einstellwinkels der Anstellwinkel und damit der Schub verändert.
+
+Propeller und Lüfter haben große Einstellwinkel an der Nabe und kleine an der Spitze, sodass der Anstellwinkel möglichst homogen bleibt.
+
+Moderne Windkraftanlagen nutzen die Veränderung des Anstellwinkels der Rotorblätter zur Leistungsregelung. Dabei wird der aerodynamische Wirkungsgrad des Rotors durch Verringerung des Auftriebs so eingestellt, dass die Nennleistung des Generators nicht überschritten wird.
+
+Im Segelsport ist die Wahl des richtigen Anstellwinkels wichtiger Teil des Segeltrimms. Der Anstellwinkel des Segels muss dabei auf das momentane Segelprofil (Wölbung des Segels) abgestimmt werden, da es im Gegensatz zu herkömmlichen Tragflächen durch Einsatz von Trimmeinrichtungen oder passiv durch zu- oder abnehmenden Winddruck verändert wird.

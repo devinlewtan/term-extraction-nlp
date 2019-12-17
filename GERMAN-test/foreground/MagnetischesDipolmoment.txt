@@ -1,0 +1,62 @@
+Magnetisches Dipolmoment
+
+Das magnetische Dipolmoment (oder magnetische Moment) formula_1 ist in der Physik ein Maß für die Stärke eines magnetischen Dipols und analog dem elektrischen Dipolmoment definiert.
+
+Auf einen magnetischen Dipol wirkt in einem externen Magnetfeld der Flussdichte formula_2 ein Drehmoment
+
+durch das es in die Feldrichtung gedreht wird (formula_4: Kreuzprodukt). Seine potentielle Energie ist daher abhängig vom Einstellwinkel formula_5 zwischen Feldrichtung und magnetischem Moment:
+
+Wichtige Beispiele sind die Kompassnadel und der Elektromotor.
+
+Die Maßeinheit des magnetischen Moments im Internationalen Einheitensystem (SI) ist A·m. Oft wird das Produkt aus formula_1 und der magnetischen Feldkonstante formula_8 gebraucht (siehe Anmerkung 1); dieses hat die SI-Einheit T·m.
+
+
+
+Für eine geschlossene Leiterschleife gilt
+
+Dabei bezeichnet
+Damit folgt für das magnetische Dipolmoment:
+
+mit dem Normalenvektor formula_24 auf der ebenen Fläche formula_12.
+
+Das magnetische Moment einer stromdurchflossenen Spule ist das Produkt aus Windungszahl formula_26, Stromstärke formula_13 und Fläche formula_12:
+
+Darin ist formula_30 der zur Fläche formula_12 gehörende Vektor.
+
+Siehe auch: magnetischer Verkettungsfluss
+
+Ist der Kreisstrom dadurch verursacht, dass ein Teilchen mit der Masse formula_32 und der Ladung formula_33 auf einer Kreisbahn (Radius formula_34, Umlaufperiode formula_35) kreist, ergibt diese Formel
+Das magnetische Moment ist also fest mit dem Drehimpuls
+verknüpft. Der konstante Faktor formula_38 ist das gyromagnetische Verhältnis für bewegte Ladung auf der Kreisbahn. (Bei der Umrechnung wird die Winkelgeschwindigkeit formula_39 benutzt.)
+
+Die klassische Formel spielt in der Atom- und Kernphysik eine große Rolle, denn sie gilt auch in der Quantenmechanik, und ein wohlbestimmter Drehimpuls gehört zu jedem Energieniveau eines einzelnen Atoms oder Kerns. Da der Drehimpuls der räumlichen Bewegung (Bahndrehimpuls, im Unterschied zum Spin) nur ganzzahlige Vielfache der Konstanten formula_40 (Plancksches Wirkungsquantum) betragen kann, hat auch das magnetische "Bahnmoment" eine kleinste „Einheit“, das Magneton:
+Wird für formula_33 die Elementarladung formula_43 eingesetzt, ergibt sich für das Elektron das Bohr’sche Magneton formula_44, für das Proton das Kernmagneton formula_45. Da die Protonenmasse formula_46 knapp 2000-mal größer ist als die Elektronenmasse formula_47, ist das Kernmagneton um denselben Faktor kleiner als das Bohr’sche Magneton. Daher sind die auf dem Kernmagneton formula_48 basierenden magnetischen Wirkungen der Atomkerne und die aus ihr resultierende (Hyperfeinstruktur) im Vergleich zur auf dem Bohr’schen Magneton formula_49 beruhenden Wechselwirkung Feinstrukturaufspaltung sehr schwach und schwer zu beobachten.
+
+Teilchen und Atomkerne mit einem Spin formula_50 besitzen ein magnetisches Spinmoment formula_51, das zu ihrem Spin parallel (oder antiparallel) ist, aber im Verhältnis zum Spin eine andere Größe hat, als wenn es von einem gleich großen Bahndrehimpuls herrührte. Dies wird durch den anomalen Landé-Faktor des Spins formula_52 ausgedrückt. Man schreibt für Elektron (formula_53) und Positron (formula_54)
+
+für Proton (p) und Neutron (n)
+und entsprechend für andere Teilchen. Für das Myon wird im Bohr'schen Magneton statt der Masse des Elektrons die des Myons eingesetzt, für die Quarks ihre jeweilige Konstituentenmasse und drittelzahlige elektrische Ladung. Liegt das magnetische Moment antiparallel zum Spin, ist der g-Faktor negativ. Allerdings wird diese Vorzeichenkonvention nicht durchgängig angewendet, so dass häufig der g-Faktor z. B. des Elektrons als positiv angegeben ist.
+
+Die eingeklammerten Ziffern geben die geschätzte Standardabweichung an.
+
+Nach der Dirac-Theorie ist der Landé-Faktor der fundamentalen Fermionen exakt formula_59, quantenelektrodynamisch wird ein Wert von etwa formula_60 vorhergesagt. Präzise Messungen an Elektron bzw. Positron sowie am Myon stimmen damit hervorragend überein, einschließlich der vorhergesagten kleinen Differenz zwischen Elektron und Myon, und bestätigen so die Dirac-Theorie und die Quantenelektrodynamik. Die stark abweichenden g-Faktoren für die Nukleonen sind, allerdings mit Abweichungen im Prozentbereich, durch ihren Aufbau aus jeweils drei Konstituentenquarks zu erklären.
+
+Weisen die Teilchen (z. B. Elektronen, die an einen Atomkern gebunden sind) zusätzlich einen Bahndrehimpuls auf, so ist das magnetische Moment die Summe aus formula_61, dem oben betrachteten magnetischen Moment des Spins, und formula_62, demjenigen des Bahndrehimpulses:
+
+Ein magnetischer Dipol formula_1 am Koordinatenursprung führt am Ort formula_19 zu einer magnetischen Flussdichte
+
+Darin ist formula_8 die magnetische Feldkonstante. Außer am Ursprung, wo das Feld divergiert, verschwindet überall sowohl die Rotation als auch die Divergenz dieses Feldes.
+Das zugehörige Vektorpotential ergibt sich zu
+
+wobei formula_69 ist.
+
+Die Kraft, die von Dipol 1 auf Dipol 2 ausgeübt wird, ist
+Es ergibt sich
+worin formula_72 der Einheitsvektor ist, der von Dipol 1 zu Dipol 2 zeigt und formula_34 der Abstand zwischen den beiden Magneten ist.
+Die Kraft auf Dipol 1 ist reziprok.
+
+Das Drehmoment, das von Dipol 1 auf Dipol 2 ausgeübt wird, ist
+worin formula_75 das von Dipol 1 erzeugte Feld am Ort von Dipol 2 ist (s. o.).
+Das Drehmoment auf Dipol 1 ist reziprok.
+
+In Anwesenheit mehrerer Dipole können die Kräfte oder Momente überlagert werden. Da weichmagnetische Werkstoffe einen feldabhängigen Dipol ausbilden, sind diese Gleichungen nicht anwendbar.

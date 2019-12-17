@@ -1,0 +1,32 @@
+Faraday-Effekt
+
+Der Faraday-Effekt ist ein magnetooptischer Effekt. Er beschreibt die Drehung der Polarisationsebene einer "linear" polarisierten elektromagnetischen Welle in einem Medium, wenn darin ein Magnetfeld parallel zur Ausbreitungsrichtung der Welle herrscht.
+
+Der Faraday-Effekt wurde von Michael Faraday am 13. September 1845 entdeckt. Er wurde als erster experimenteller Hinweis dafür gedeutet, dass Licht und Magnetismus miteinander in Beziehung stehen. Dass Licht als elektromagnetische Welle beschrieben werden kann, wurde theoretisch wenige Jahre später von James Clerk Maxwell hergeleitet.
+
+Jede linear polarisierte Welle kann als Überlagerung zweier zirkular polarisierter Wellen gleicher Frequenz mit entgegengesetztem Umlaufsinn interpretiert werden. Verläuft die Ausbreitungsrichtung parallel zu den Magnetfeldlinien, unterscheiden sich in vielen Materialien die Brechungsindizes "n" und "n" und deshalb auch die Wellenlängen. Die entsprechenden Formeln lauten
+
+formula_1
+
+Daraus folgt, dass sich die Polarisationsebene um
+weiterdreht, wenn eine Schwingungsdauer, also die Zeit T = 1/f vergangen ist.
+
+Der Faraday-Effekt tritt im Bereich der Magnetooptik beim Durchgang von Licht durch ein transparentes Medium auf. Ein ähnlicher Effekt, der die Drehung der Polarisationsebene bei Reflexion beschreibt, ist der magnetooptische Kerr-Effekt. Die meisten dielektrischen Materialien (einschließlich Flüssigkeiten) zeigen den Faraday-Effekt, wenn sie einem starken magnetischen Feld ausgesetzt werden. Die Drehung der Polarisationsebene ist umso größer, je stärker die magnetische Flussdichte ist.
+
+Weist das Medium auch ohne ein angelegtes Magnetfeld einen Einfluss auf die Polarisationsebene auf, spricht man von optischer Aktivität.
+
+Der Drehwinkel formula_3, um den sich die Polarisationsebene dreht, berechnet sich wie folgt:
+
+formula_5 ist die Länge des Lichtweges durch die Substanz, formula_6 die magnetische Flussdichte und formula_7 die Verdet-Konstante. formula_7 ist vom Medium und von der Wellenlänge abhängig. Mit einer anderen Verdet-Konstanten formula_9, ist statt der Flussdichte formula_6 die magnetische Feldstärke formula_11 zu verwenden:
+
+Eine positive Verdet-Konstante führt zu einer mathematisch negativen Drehung, wenn das Magnetfeld parallel zur Ausbreitungsrichtung liegt. Ein antiparalleles Magnetfeld führt dann zu einer mathematisch positiven Drehung (siehe Bild). Das bedeutet, dass sich für eine Welle, die das Medium zweimal in jeweils entgegengesetzter Richtung durchläuft (hin und zurück), die Rotation verdoppelt. Dies ist ein wichtiger Unterschied zur optischen Aktivität links- oder rechtsdrehender Substanzen, durch welche beim Durchlaufen des Mediums in entgegengesetzter Richtung die Rotation wieder rückgängig gemacht wird.
+
+Eine wichtige Anwendung des Faraday-Effektes ist der optische Isolator. Für diese und andere Anwendungen werden Materialien mit hoher Verdet-Konstante verwendet, wie beispielsweise mit Terbium dotierte Gläser und Terbium-Gallium-Granat.
+
+Weiterhin gibt es auf dem Effekt basierende Magnetometer und Stromsensoren, wobei hier Lichtleitkabel verwendet werden.
+
+Der Faraday-Effekt tritt auch bei vormagnetisierten Ferriten auf und wird in Frequenzbereichen von einigen Gigahertz im Bereich von Mikrowellen zum Aufbau von Gyratoren und zur Realisierung von Faraday-Rotatoren verwendet. Durch die Drehung der Polarisationsebene können so in der Hochfrequenztechnik spezielle Formen von Zweitoren zur Transformation von Impedanzen in ihre dualen Impedanzen realisiert werden. 
+
+Der Faraday-Rotator, welcher in diesem Fall in einem Hohlleiter angeordnet ist, weist zwei orthogonal zueinander stehende Hohlleiterausgänge auf, die hineinlaufende Welle lässt sich durch Ändern des Magnetfeldes durch eine Steuerleitung jeweils auf einen der Ausgänge schalten, wie in nebenstehender Abbildung dargestellt.
+
+Durchlaufen Funkwellen die Ionosphäre, bewirkt die Bewegung von ungebundenen Elektronen im Erdmagnetfeld eine Rotation der Polarisationsebene. (siehe auch Brechungsindex des Plasmas) Der Drehwinkel ist stets proportional zum Quadrat der Wellenlänge (β = k·λ²) und ist deshalb im Mittel- und Kurzwellenbereich unübersehbar. Über sehr große Entfernungen kann aber auch noch bei 500 MHz eine Drehung über 90° beobachtet werden. Bei den noch höheren Frequenzen der Rundfunksatelliten ist der Winkel aber schon so gering, dass die vertikale bzw. horizontale Polarisation der Übertragungskanäle nur unwesentlich verändert wird.

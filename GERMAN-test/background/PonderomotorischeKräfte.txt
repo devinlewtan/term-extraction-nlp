@@ -1,0 +1,24 @@
+Ponderomotorische Kräfte
+
+Die ponderomotorische Kraft (englisch: "", deshalb manchmal auch "ponderomotive Kraft" genannt) ist der niederfrequente Anteil der Kraft eines räumlich inhomogenen, hochfrequenten elektromagnetischen Feldes auf ein System von (sich in diesem Feld bewegenden) elektrischen Ladungen.
+
+Wenn ein homogenes (also nicht ortsabhängiges) Wechselfeld auf ein geladenes Teilchen wirkt, schwingt das Teilchen durch die wechselnde Kraft um seine Ruhelage. Da das Feld abwechselnd mit der gleichen Stärke in zwei entgegengesetzte Richtungen wirkt, ist die Teilchen-Trajektorie streng periodisch, das heißt, es wirkt im zeitlichen Mittel auch keine Kraft auf das Teilchen.
+
+Bei einem inhomogenen (ortsabhängigen) Feld erfährt das Teilchen bei der Auslenkung auf eine Seite eine andere Feldstärke als bei Auslenkung auf die andere Seite. Dadurch ist die Kraft im zeitlichen Mittel nicht mehr null; die mittlere Kraft wird als ponderomotorische Kraft bezeichnet. Da bei hochfrequenten Wechselfeldern die Kraft sehr rasch variiert und die Schwingungsamplituden der Teilchen demnach sehr gering sind, ist für eine makroskopische Betrachtung der Teilchenbahnen nur die gemittelte, also die ponderomotorische Kraft entscheidend.
+
+Für ein geladenes Teilchen ist die ponderomotorische Kraft proportional zum Gradienten der Intensität des elektromagnetischen Feldes und wirkt bei einem "freien" Teilchen in Richtung geringerer Feldstärke. Die Intensität des elektromagnetischen Feldes ist im Wesentlichen das Quadrat der Feldstärke. Die Kraft ist umgekehrt proportional zur Masse des Teilchens. Dies erklärt sich dadurch, dass leichte Teilchen größere Schwingungsamplituden haben und daher eher auf räumlich unterschiedliche Feldstärken empfindlich sind, als massereiche Teilchen.
+
+Auf ein "gebundenes" Teilchen wirkt die ponderomotorische Kraft oberhalb der Bindungs-Resonanzfrequenz ebenfalls "entgegen" dem räumlichen Intensitäts-Gradienten. Unterhalb der Resonanzfrequenz wirkt die ponderomotorische Kraft "in Richtung" des räumlichen Intensitäts-Gradienten des Feldes.
+
+Im Grunde ist der Effekt nur von der Teilchen-Dynamik abhängig – nicht davon, welche Art von Wechselwirkung die Ursache der Kraft ist. Beispielsweise beruht die Schallstrahlungskraft (acoustic radiation force), die im Ultraschall auf Partikel (oder Gasblasen in Flüssigkeiten) wirkt, auf demselben Phänomen, jedoch im Schallfeld.
+
+Bei einem Vielteilchen-System sorgt nicht nur die Detektor-Trägheit für eine Tiefpass-Filterung, sondern meist bereits die thermodynamische Ensemble-Mittelung beim Übergang von der mikroskopischen zur makroskopischen Perspektive.
+
+Die ponderomotorische Kraft ergibt sich aus
+wobei formula_2 die elektrische Ladung und formula_3 die Masse des Teilchens ist; formula_4 und formula_5 sind die Kreisfrequenz und Feldstärke des elektrischen Felds. Die Linie oberhalb des Quadrats der Feldstärke steht für den Mittelwert über die Zeit. Wird die ortsabhängige Amplitude der Feldstärke eingesetzt, ist der Vorfaktor formula_6 statt formula_7 zu verwenden.
+
+Ponderomotorische Kräfte werden in Ionenfallen, zum Beispiel in der Paul-Falle verwendet, um Ionen ohne Kontakt mit den Wänden des Vakuumgefäßes zu speichern. Eine ähnliche Anordnung wie die Paul-Falle ist der Quadrupol-Massenanalysator, der für die Massenspektrometrie verwendet wird. Dabei wird die Tatsache ausgenutzt, dass Ionen zu hoher Masse nur eine geringe Schwingungsamplitude aufweisen und daher die ponderomotorische Kraft nicht ausreicht, um ein ihr entgegenwirkendes konstantes Feld zu überwinden.
+
+Ponderomotorische Kräfte wirken auch auf Elektronen in Laserstrahlen extrem hoher Energiedichte (Femtosekundenlaser).
+
+Des Weiteren spielen ponderomotive Kräfte beim Freien Elektronen Laser (FEL) eine entscheidende Rolle, denn sie sind die Ursache für den als "Microbunching" bezeichneten Effekt, der zur Photonen-Erzeugung führt.

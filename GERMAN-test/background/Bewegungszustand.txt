@@ -1,0 +1,11 @@
+Bewegungszustand
+
+Als Bewegungszustand bezeichnet man in der Mechanik die momentane Bewegung eines Körpers. Diese kann in einer Translations- und/oder Rotationsbewegung bestehen.
+
+
+
+Die gleichförmige Bewegung ist ein Beispiel für eine Bewegung, bei der der Bewegungszustand unverändert bleibt. Dagegen wird bei einer gleichförmigen Kreisbewegung eines Körpers der Bewegungszustand nicht beibehalten, denn hier ändert sich fortwährend die Richtung der Geschwindigkeit.
+
+Der Trägheitssatz oder das erste newtonsche Gesetz der Mechanik besagt, dass jeder Körper, der nicht von äußeren Kräften beeinflusst wird, in seinem Bewegungszustand verharrt. Mit anderen Worten ist das Bestreben eines Körpers, seinen Bewegungszustand beizubehalten, Ausdruck seiner Trägheit. Insbesondere bewegt sich bei einem Körper ohne äußere Kräfte der Massenmittelpunkt mit gleichbleibender Geschwindigkeit geradlinig weiter. Im Fall der Rotation um den Massenmittelpunkt bleibt dann der Drehimpuls nach Betrag und Richtung konstant, jedoch nicht unbedingt die Drehachse und Rotationsgeschwindigkeit.
+
+Im scheinbaren Gegensatz zum Trägheitssatz ist es Alltagserfahrung, dass ein sich bewegender Körper gerade dann langsamer wird, wenn keine Kraft feststellbar ist, die ihn antreibt. Das erklärt sich dadurch, dass bei jeder Bewegung Bremskräfte wie der Luftwiderstand und sonstige Reibungskräfte vorhanden sind. Diese sind für die Abbremsung des Körpers, also die Änderung seines Bewegungszustandes, ursächlich. Allgemein besagt das zweite newtonsche Gesetz der Mechanik, wie sich der Bewegungszustand ändert, wenn eine resultierende äußere Kraft auf den Körper wirkt.

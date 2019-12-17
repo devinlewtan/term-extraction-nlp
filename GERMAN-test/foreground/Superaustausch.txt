@@ -1,0 +1,17 @@
+Superaustausch
+
+Superaustausch ergibt eine indirekte, antiferromagnetische Spinkopplung (Austauschwechselwirkung) magnetischer Momente in einem Stoff.
+
+Die Kopplung erfolgt hierbei über ein vermittelndes, diamagnetisches Teilchen (z. B. Liganden). Dabei induziert der Spin eines besetzten Metallorbitals (meist ein d-Orbital) eine Spinpolarisation in einem vollständig besetzten, benachbarten Atomorbital (meist ein p-Orbital) des Liganden. In diesem Nachbarorbital müssen gemäß dem Pauli-Verbot die Spins eine antiparallele Anordnung haben, was zu einer antiparallelen Kopplung der Spins in einem weiteren benachbarten Metallatom führt und somit zu einer antiferromagnetischen (Teil-)Ordnung.
+
+Der Superaustausch ist nur bei (annähernd) linearer Anordnung effektiv (~ „180°-Superaustausch“), da es sich bei einer zu großen Abweichung von der Linearität nicht mehr um ein, sondern um mehrere, allerdings magnetisch voneinander unabhängige vermittelnde Orbitale handelt.
+
+Der Name wurde 1934 von Hendrik Anthony Kramers geprägt und 1950 vom Träger des Nobelpreises für Physik Philip Warren Anderson vertieft. Diese Autoren haben nicht nur den Mechanismus beschrieben, sondern auch typische Anwendungen angegeben.
+
+Beispiele sind Oxide, die im NaCl-Typ kristallisieren (antiferromagnetisch, s. Abb.) oder Spinelle (ferrimagnetisch).
+
+Quantenmechanische Störungsrechnung ergibt für die antiferromagnetische Wechselwirkung der Spins auf benachbarten Plätzen 1 bzw. 2 von Manganatomen im Kristallgitter von Mangan(II)-oxid den Energie-Operator:
+
+wobei
+
+Der Superaustausch ist dafür verantwortlich, dass bei Manganchalkogenen (MnO, MnS, MnSe) mit zunehmender Ordnungszahl eine Erhöhung der Néel-Temperatur zu beobachten ist. Dies rührt daher, dass die p-Orbitale der schwereren Chalkogene an Größe gewinnen und so eine bessere Überlappung mit den Metallorbitalen gewährleistet ist; dadurch wächst die Hopping-Energie.

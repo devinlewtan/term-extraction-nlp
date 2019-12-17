@@ -1,0 +1,5 @@
+Staupunkt
+
+Als Staupunkt (engl. "stagnation point") wird der Punkt auf der Oberfläche eines angeströmten Körpers (Profil) bezeichnet, an dem das strömende Fluid theoretisch senkrecht auftrifft. Die Geschwindigkeit der Strömung verschwindet im Staupunkt, so dass die kinetische Energie (im idealisierten Fall vollständig) in Druckenergie umgewandelt wird. Der Druck im Staupunkt ist daher, verglichen mit anderen Stellen auf der Körperoberfläche, am größten und wird als Gesamtdruck bezeichnet. Diejenige Stromlinie, die als einzige im Staupunkt endet, wird meist als "Staupunktsstromlinie" bezeichnet.
+
+Bei Tragflächen befindet sich der Staupunkt an der Vorderkante des Profils. Mit Änderung des Anstellwinkels ändert sich auch die Lage des Staupunktes: mit Erhöhung des Anstellwinkel wandert der Staupunkt ein wenig auf die Tragflächenunterseite (vgl. Abbildung). Folglich muss die anströmende Luft, die unmittelbar oberhalb des Staupunktes auf die Vorderkante trifft, eine kurze Strecke entgegengesetzt der anströmenden Luft zurücklegen, um die Profiloberseite zu erreichen.

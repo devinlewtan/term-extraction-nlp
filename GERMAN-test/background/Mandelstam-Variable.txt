@@ -1,0 +1,21 @@
+Mandelstam-Variable
+
+Bei den Mandelstam-Variablen "s", "t" und "u" (nach Stanley Mandelstam, der sie 1958 einführte) handelt es sich um Kurzschreibweisen für Terme, die in der Teilchenphysik bei der Berechnung von Streuprozessen mit zwei einlaufenden und zwei auslaufenden Teilchen häufig auftauchen.
+
+Sind die Viererimpulse der beiden einlaufenden Teilchen mit formula_1 und die der auslaufenden Teilchen mit formula_2 bezeichnet, so sind die Mandelstam-Variablen gegeben durch:
+
+Das in diesen Definitionen auftauchende Quadrat von Viererimpulsen ist dabei – wie in der relativistischen Physik üblich – definiert als formula_6 (siehe Vierervektor). Die Mandelstam-Variablen sind damit lorentzinvariante Skalare ebenso wie die Streuamplitude selbst, die durch sie in relativistisch invarianter Weise ausgedrückt werden soll.
+
+Die drei Mandelstamvariablen sind nicht voneinander unabhängig: ihre Summe ist gleich der Summe der Massenquadrate der beteiligten Teilchen:
+
+wobei wie in der Teilchenphysik üblich der dimensionslose Wert c=1 für die Lichtgeschwindigkeit angenommen ist (natürliche Einheiten).
+
+Allgemein sollte die Streuamplitude, da sie eine relativistische Invariante ist, von den relativistischen Invarianten formula_8 (i = 1, 2, 3, 4) und den sechs möglichen unabhängigen (relativistischen) Skalarprodukten formula_9 abhängen – auch die Mandelstamvariablen s, t, u sind aus diesen als Linearkombination zusammengesetzt. Die formula_8 sind keine Variablen wegen formula_11 (die äußeren Beine der Feynmandiagramme sind "on shell"). Wegen der Erhaltung formula_12 der Viererimpulse (was vier Gleichungen ergibt, da die formula_13 je vier Komponenten haben) sind von den sechs Skalarprodukten formula_14 nur zwei unabhängig. Also sind auch nur zwei der Mandelstamvariablen unabhängig, die dritte ergibt sich aus der o. g. Summe.
+
+Die Beiträge zum Streuprozess, in denen die jeweiligen Mandelstam-Variablen bei ihrer Berechnung auftauchen, werden als s-, t- und u-Kanal bezeichnet. Die zugehörigen Feynman-Diagramme sind in den folgenden Abbildung gezeigt.
+
+Die Darstellung folgt der Konvention, dass die einlaufenden Teilchen als von links kommende Linien und die Streuprodukte als nach rechts auslaufende Linien dargestellt sind. Die gestrichelte Zwischenlinie stellt ein virtuelles Teilchen dar; das Quadrat seines Viererimpulses ist dem jeweiligen Diagramm entsprechend gleich "s", "t" oder "u".
+
+Beispielsweise gibt das Diagramm für den s-Kanal eine Elektron-Positron-Paarvernichtung auf der linken Seite unter Bildung eines virtuellen Photons und einer Elektron-Positron-Paarerzeugung auf der rechten Seite wieder. Auch die Bildung eines instabilen Zwischenzustands (Resonanz) bei der Wechselwirkung zweier Teilchen wird so wiedergegeben. Eine gewöhnliche Elektron-Elektron-Streuung wird durch das Diagramm des t-Kanals wiedergegeben (wobei der u-Kanal mit betrachtet werden muss, bei dem die äußeren Beine 3,4 des Diagramms vertauscht sind).
+
+In der Streuamplitude werden den Regeln der Quantenmechanik entsprechend alle möglichen Prozesse mit virtuellen Teilchen vom Typ s, t, u aufsummiert, da nur die Anfangszustände 1,2 und Endzustände 3,4, aber nicht die virtuellen Teilchen der Zwischenzustände beobachtet werden.

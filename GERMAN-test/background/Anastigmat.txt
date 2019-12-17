@@ -1,0 +1,11 @@
+Anastigmat
+
+Als Anastigmat wird ein optisches Linsensystem (z. B. ein Objektiv) bezeichnet, das einen früher berüchtigten Abbildungsfehler, den Astigmatismus (Punktlosigkeit) nicht aufweist. Dazu werden die sagittale und die meridionale Bildschale zur Deckung gebracht und auch die Bildfeldwölbung beseitigt, was mit einer Einzellinse physikalisch nicht erreichbar ist.
+
+Das erste anastigmatische Objektiv war das von Paul Rudolph 1891 für Carl Zeiss entwickelte, vierlinsige "Protar". Der einfachste Anastigmat ist das wenig später entwickelte "Cooke-Triplet" aus einer konvexen, einer konkaven und einer weiteren konvexen Linse. Auf dem Cooke-Triplet bauen weitere wichtige Objektive auf, beispielsweise vom vierlinsigen Tessar-Typ, bei dem die Hinterlinse durch eine verkittete Linsenkombination (positiv brechende Konkav-konvex-Kombination) ersetzt worden ist, und ebenso das Heliar von Voigtländer, bei dem auch die Vorderlinse durch ein solches Kittglied ersetzt ist.
+
+Objektive nach Art eines Gaußschen Doppelobjektivs sind ebenfalls in der Regel Anastigmaten. Ursprünglich handelte es sich dabei um streng symmetrische, später auch um komplexere, nicht-symmetrische Systeme.
+
+Alle hochwertigen Linsensysteme sind heute als Anastigmaten ausgeführt. Oft handelt es sich dabei um Varianten des Triplet- oder des Gauß-Typs. Ausnahme sind Sonderfälle, bei denen nur ein kleines Gesichtsfeld abgebildet wird, wie Objektive von Fernrohren und Ferngläsern.
+
+Insbesondere ältere Kamera- und Projektionsobjektive tragen entweder direkt die Bezeichnung „Anastigmat“ (z. B. der "Novotrinast-Anastigmat" der Ed. Liesegang oHG) oder lassen eine entsprechende Eigenschaft anklingen ("Patrinast", ebenfalls ein Projektionsobjektiv von Liesegang; "Trinast" von Carl Zeiss). Oft handelt es sich dabei um Objektive nach Art des Cooke-Triplets. Der abgebildete "Unofocal" Doppel-Anastigmat von C.A. Steinheil folgt jedoch einem Gauß-Typ.

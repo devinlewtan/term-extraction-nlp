@@ -1,0 +1,10 @@
+Kommensurabilität (Quantenmechanik)
+
+In der Quantenmechanik heißen zwei Observablen kommensurabel, wenn sie gleichzeitig beliebig genau gemessen werden können. Observablen, die nicht gleichzeitig beliebig genau gemessen werden können, heißen inkommensurabel. Zwei Observablen sind genau dann kommensurabel, wenn der Kommutator der zugehörigen Operatoren verschwindet. 
+
+Inkommensurable Observablen, deren Kommutator den Wert formula_1 annimmt, heißen zueinander komplementäre Observablen.
+
+Nach der (verallgemeinerten) Heisenbergschen Unschärferelation gilt für zwei Operatoren formula_2 und einen Zustand formula_3 für deren Messunsicherheiten formula_4 beziehungsweise formula_5 im Zustand formula_6:
+Aus formula_8 für jeden beliebigen Zustand folgt formula_9. 
+
+Andererseits folgt aus formula_9, dass ein Satz gemeinsamer Eigenzustände zu den Operatoren formula_11 und formula_12 existiert. Durch Messung einer der beiden Größen kollabiert der Zustand auf den entsprechenden Eigenzustand und befindet sich bereits in einem Eigenzustand des zweiten Operators, sodass eine Messung der anderen Größe das System nicht erneut verändert.

@@ -1,0 +1,60 @@
+Verschiebungsstrom
+
+Der Verschiebungsstrom ist der Teil des elektrischen Stromes, der durch die zeitliche Änderung der elektrischen Flussdichte gegeben ist. Er wurde von James Clerk Maxwell als nötiger Zusatzterm im ampèreschen Gesetz erkannt.
+
+Der elektrische Strom setzt sich aus zwei additiven Komponenten zusammen:
+
+
+Mathematisch lässt sich der totale Strom formula_3 als Summe aus beiden Komponenten ausdrücken als:
+
+Dadurch wird eine begriffliche Erweiterung des ampèreschen Durchflutungsgesetzes nötig, die den gesamten elektrischen Strom in der Form
+
+ausdrückt. Dabei ist der erste Summand der Leitungsstrom, der von der elektrischen Feldstärke formula_6 ausgelöst wird. Die dabei auftretende Konstante formula_7 ist die elektrische Leitfähigkeit des Mediums (Leiters), in dem der Leitungsstrom fließt. 
+
+Der zweite Summand ist der Verschiebungsstrom mit der zeitlichen Änderungsrate der Feldstärke und der Permittivität formula_8. Die Permittivität ist das Maß der im Medium möglichen Polarisation. Verschiebungsstrom ist wichtig in Materialien mit hoher Permittivität und geringer Leitfähigkeit, also Nichtleitern (Isolatoren). Ein Sonderfall mit nicht vorhandener Leitfähigkeit, aber schwach vorhandener Permittivität formula_9 ist der leere Raum (Vakuum): In ihm fließt (abgesehen von freien Ladungsträgern infolge eventueller hoher Feldstärken) nur Verschiebungsstrom.
+
+Die beiden Stoffkonstanten Leitfähigkeit und Permittivität sind im Allgemeinen Tensoren 2. Stufe und beschreiben auch nichtlineare und nichtisotrope Abhängigkeiten des Gesamtstroms von der Feldstärke. Für die meisten Materialien können diese Konstanten jedoch als Skalare betrachtet werden.
+
+Die Einteilung, ab wann in einem Medium der Leitungsstrom vorherrscht und dieses daher als elektrischer Leiter bezeichnet werden kann, und ab wann der Verschiebungsstrom vorherrscht, ergibt sich folglich aus den Werten der beiden Stoffkonstanten und – weil beim Verschiebungsstromes die zeitliche Ableitung der Feldstärke auftritt – der Kreisfrequenz formula_10 des Feldes. Allgemein gilt:
+
+Typische Leiter wie Kupfer oder typische Isolatoren wie manche Kunststoffe (PVC) weisen von der Frequenz unabhängige Stoffkonstanten auf. Bei Leitern wie Kupfer überwiegt bis zu sehr hohen Frequenzen (im Röntgenbereich, siehe Plasmaoszillation) der Leitungsstrom gegenüber dem Verschiebungsstrom. Hingegen sind bei bestimmten Stoffen wie Ionenleitern (Salzwasser) die Stoffkonstanten stark frequenzabhängig. Dann hängt es von der Frequenz (zeitliche Änderungsrate des elektrischen Feldes) ab, ob der Stoff als Leiter oder Nichtleiter anzusehen ist.
+
+Bei zeitlichen harmonischen (sinusförmigen) Änderungen ist im gleichen Medium der Verschiebungsstrom gegenüber dem Leitungsstrom immer um 90° (π/2) phasenverschoben. Hingegen sind in einem Stromkreis, der durch einen Isolator unterbrochen ist, der im Isolator dominierende Verschiebungsstrom und der im elektrischen Leiter dominierende Leitungsstrom miteinander in Phase, und die beiden Ströme sind betragsmäßig praktisch gleich. Dieser technisch wichtige Fall tritt beim Kondensator im sinusförmigen Wechselstromkreis in Erscheinung: Der Strom in den Zuleitungsdrähten und den Kondensatorplatten (elektrischer Leiter) wird durch den Leitungsstrom getragen, der Strom durch das Dielektrikum (Isolator) zwischen den Kondensatorplatten primär durch den Verschiebungsstrom. Ohne Verschiebungsstrom wäre keine Stromleitung durch den Kondensator möglich – wenngleich diese Stromleitung durch den Verschiebungsstrom wegen der nötigen zeitlichen Änderungsrate beim elektrischen Fluss immer auf Wechselströme (zeitliche Änderung) limitiert ist.
+
+Als Maxwell die bis dahin von anderen Physikern wie Ampère und Faraday zusammengetragenen Erkenntnisse über elektromagnetische Phänomene in den Maxwellschen Gleichungen zu vereinen suchte, wurde ihm klar, dass das Ampèresche Gesetz über die Erzeugung von Magnetfeldern durch Ströme nicht vollständig sein konnte.
+
+Diese Tatsache wird durch ein einfaches Gedankenexperiment klar. Ein Strom "I" fließe durch einen langen Draht, in dem ein Kondensator liegt.
+Das Ampèresche Gesetz
+
+besagt nun, dass das Wegintegral des Magnetfelds entlang eines beliebigen Weges um den Draht proportional zu dem Strom ist, der durch eine von diesem Weg aufgespannte Fläche fließt. Auch die differentielle Form
+
+verlangt, dass die Wahl dieser aufgespannten Fläche beliebig ist.
+Nun habe der Integrationsweg die einfachste mögliche Form, ein Kreis um die Längsachse des Drahts (in der Grafik mit ∂S bezeichnet). Die natürlichste Wahl der durch diesen Kreis aufgespannten Fläche ist offenbar die Kreisfläche S. Wie erwartet schneidet diese Kreisfläche den Draht, somit ist der Strom durch die Fläche I. Aus der Symmetrie des Drahtes ergibt sich entsprechend für das Magnetfeld des langen Drahtes, dass dessen Feldlinien Kreisbahnen um die Längsachse sind.
+
+Auch wenn man die Fläche beliebig „ausbeult“ oder „aufbläst“, fließt durch sie immer noch der gleiche Strom – es sei denn, man dehnt sie soweit aus, dass sie zwischen den beiden Kondensatorplatten verläuft. Durch diese Fläche S fließt scheinbar kein Strom. Maxwell ging davon aus, dass das Ampèresche Gesetz nicht falsch, sondern nur unvollständig ist.
+
+Durch den Kondensator fließt kein Strom, aber das elektrische Feld und damit der elektrische Fluss ändert sich beim Aufladen des Kondensators (es ist das elektrische Feld "D" ohne Einflüsse durch dielektrische Materie gemeint; in der Grafik mit "E" bezeichnet). Maxwell definierte einen Verschiebungsstrom nun als die Änderung des elektrischen Flusses durch die gegebene Oberfläche. Der Verschiebungsstrom ist daher kein Strom, bei dem Ladung transportiert wird. Vielmehr ist es eine anschauliche Bezeichnung für ebendiese Änderung des elektrischen Flusses, da sie offenbar die gleiche Wirkung hat wie ein richtiger Strom.
+
+Der Verschiebungsstrom, die Änderung des elektrischen Flusses durch eine Oberfläche formula_15, ist definiert durch
+
+wobei der elektrische Fluss definiert ist durch
+
+Der Vorfaktor, bestehend aus den beiden Dielektrizitätskonstanten, eliminiert hierbei dielektrische Effekte, da für die elektrische Flussdichte, die von diesen unberührt bleibt und nur von Ladungen ausgeht, gilt
+
+mit der Dielektrizitätskonstante des Vakuums und der Konstante der entsprechenden Materie.
+
+Analog gilt für das von dia- und paramagnetischen Effekten unberührte magnetische Feld
+
+Außerdem kann bekanntlich der (tatsächliche) Strom "I" durch einen Leiter als Oberflächenintegral einer Stromdichte "j" dargestellt werden:
+
+Mit dieser Vorbereitung erhält man
+
+Dieser Verschiebungsstrom muss nun in das im ersten Abschnitt zitierte Ampère'sche Gesetz eingefügt werden:
+
+womit die integrale Form der vierten Maxwellschen Gleichung erreicht ist.
+
+Für die differentielle Formulierung fehlt nur noch die Definition einer Verschiebungsstromdichte für den Verschiebungsstrom analog zum Betrag der Stromdichte "J" des tatsächlichen Stromes "I":
+
+Man erhält
+
+die differentielle Form der vierten Maxwellschen Gleichung.

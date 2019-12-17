@@ -1,0 +1,19 @@
+Induktiver Sensor
+
+Grundprinzip induktiver Sensoren ist die Änderung der Induktivität oder deren Güte durch eine Lageänderung relativ zu einem leitfähigen und/oder ferromagnetischen Teil.
+
+Die Induktivität einer Spule hängt vom Quadrat der Windungszahl und dem magnetischen Widerstand des Kreises ab.
+
+Der magnetische Widerstand einer vom Eisen umschlossenen Spule ist abhängig von der Feldlinienlänge (l), der durchsetzten Fläche (A) und der magnetischen Feldkonstanten sowie der Permeabilitätszahl:
+
+
+Induktive Sensoren arbeiten grundsätzlich mit einer Induktivität (offene Spule), es wird ein Magnetfeld erzeugt und das Objekt verändert das Feld. Durch dieses Messprinzip lassen sich berührungslos und verschleißfrei Winkel, Wege bzw. Abstände und Geschwindigkeiten messen.
+Die Spule sendet meist als Bestandteil eines Schwingkreises / Oszillators ein magnetisches Feld aus, welches in einem vorbeigeführten, elektrisch leitenden Material Wirbelströme hervorruft, weshalb diese Sensorbauform auch als Wirbelstromsensor bezeichnet wird. Die Amplitude und die Frequenz des Schwingkreises verändern sich. Über einen Schmitt-Trigger wird bei einer bestimmten Veränderung der Ausgang geschaltet oder die Amplitude wird in eine Entfernung umgerechnet. Die Messgenauigkeit des Sensors kann hierbei erhöht werden, wenn mehrere Spulen eingesetzt werden.
+
+Ein anderes (berührendes) Verfahren nutzt einen Tauchanker, also einen beweglichen Eisenkern, der in eine Spule eintaucht. Mit der Eintauchtiefe ändert sich die Induktivität bzw. der magnetische Widerstand derselben. Die Spule kann als Spannungsteiler mit einer zweiten gleichartigen dahinterliegenden Spule geschaltet werden. Mit solchen Tastsensoren können mikrometergenau Objekte vermessen oder geprüft werden.
+
+Das Tauchankerprinzip wird oftmals erweitert zum sog. LVDT (Linearer Variabler Differential-Transformator). An eine Primärspule wird hier eine Wechselspannung angeschaltet. Nach dem Transformatorprinzip erfolgt über den beweglichen Tauchanker eine Übertragung auf zwei übereinander angeordnete Sekundärspulen, wobei der jeweilige Übertragungsfaktor von der Position des Tauchankers abhängt. Die Kopplung ist bei beiden Sekundärspulen gegensinnig, so dass sich die Sekundärspannungen ebenfalls gegensinnig ändern. Typischerweise wird die Differenz dieser beiden Spannungen dann ausgewertet, was eine sehr hohe Messempfindlichkeit und in weiten Bereichen gut proportionales Verhalten ergibt.
+
+Ist das Objekt ferromagnetisch und die Spule ist gleichstromdurchflossen, ruft eine Bewegung des Objektes eine Spannungsänderung an ihr hervor. Auf diese Weise können mittels Eisenzahnungen Drehzahlen (siehe Drehgeber) oder Geschwindigkeiten bestimmt oder der Verkehr gezählt werden.
+
+Wenn im Objekt magnetisierte Streifenmuster vorliegen, kann bei Bewegung in der Spule ohne Gleichstrom eine Spannung induziert werden.

@@ -1,0 +1,10 @@
+DRIFTS
+
+Der Begriff DRIFTS (, dt. »diffuse Reflexions-Fouriertransformationsinfrarotspektroskopie«) bezeichnet eine Methode der Infrarotspektroskopie, bei der die diffuse Reflexion einer Probe gemessen wird.
+
+Infrarotes Licht einer thermischen Quelle (siehe z. B. Globar) wird zur spektralen Auflösung durch ein
+FTIR-Spektrometer geführt und dann auf eine Probe fokussiert. Dort treten zwei Effekte auf, die sich bei rauer Probenoberfläche experimentell nicht einfach trennen lassen:
+
+Neben der hohen Signalintensität der Fourier-spektroskopischen Methode bietet die diffuse Reflexion Vorteile gegenüber einer Transmissionsmessung. So erlaubt sie etwa die Untersuchung stark streuender oder absorbierende Proben, wie Textilien, Lackschichten, Schäume, Papier. Zudem ist keine Probenpräparation erforderlich, weshalb Pulver direkt gemessen werden können – an Katalysator-Pellets (beispielsweise aus Zeolithen) würde eine Probenpräparation die Reaktionsbedingungen verfälschen.
+
+Auch wenn die Reproduzierbarkeit bei sorgfältiger Probenpräparation gegeben ist, ist eine exakte quantitative Auswertung nicht möglich. Allerdings wurden verschiedene semiquantitative Modelle entwickelt. Am häufigsten wird die Kubelka-Munk-Theorie verwendet, in der der spektrale Reflexionsgrad der Probe auf zwei wellenlängenabhängige Materialkonstanten, den Absorptions- und den Streukoeffizienten, zurückgeführt wird. Der Theorie liegt ein eindimensionales System zu Grunde, sodass die gemessenen Koeffizienten nur unter weiteren Annahmen, die in der Praxis selten erfüllt sind, auf mikroskopische Größen schließen lassen.

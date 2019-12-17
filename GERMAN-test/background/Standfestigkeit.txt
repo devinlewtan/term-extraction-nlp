@@ -1,0 +1,22 @@
+Standfestigkeit
+
+Standfestigkeit beschreibt die Fähigkeit eines Körpers oder Gerätes, eine vorgegebene Position, Eigenschaft oder Leistung über eine gegebene Zeit beizubehalten.  Nicht mit Stehvermögen zu verwechseln.
+
+Im Maschinenbau wird mit Standfestigkeit in der Regel die Fähigkeit von Maschinen verstanden, eine gewünschte Nennleistung über längere Zeiträume ohne Defekt oder besondere Wartungsmaßnahmen bereitstellen zu können. Insbesondere bei leistungsstarken Verbrennungsmotoren ist hiermit gemeint, die Maximalleistung nachhaltig abfordern zu können.
+
+Entscheidend für die Standfestigkeit eines Körpers ist die Lage seines Schwerpunktes bezüglich der Auflagefläche. Ein Körper bleibt nur dann auf seiner Auflagefläche stehen, wenn das Schwerpunktlot sie trifft, das heißt, wenn die Auflagefläche sich unter dem Massenmittelpunkt befindet. Ist dies nicht der Fall, so kippt der Körper um. 
+
+Von Bedeutung ist die Standfestigkeit in der Baustatik zum Beispiel für Gebäude, Türme, Masten, Kräne oder Regale. Bei allen diesen Beispielen muss ein stabiles Gleichgewicht gewährleistet sein.
+
+
+
+
+Ein Maß für die Standfestigkeit ist der Betrag "M" des Drehmoments, das auf den Körper wirken muss, um ihn umzuwerfen:
+
+Bedeutung der Formelzeichen:
+
+formula_2 - Betrag des Drehmoments, das wirken muss, um den Körper umzuwerfen,
+formula_3 - Gewichtskraft des Körpers,
+formula_4 - Entfernung des Massenschwerpunktes von der Kippkante. 
+
+Aus dieser Formel lässt sich schließen, dass die Standfestigkeit umso größer ist, je tiefer der Massenschwerpunkt des Körpers liegt, je größer seine Gewichtskraft ist und je größer seine Standfläche ist.

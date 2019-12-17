@@ -1,0 +1,23 @@
+Landau-Lifschitz-Gilbert-Gleichung
+
+Die Landau-Lifschitz-Gilbert-Gleichung (mit englischer Transkription im Deutschen gelegentlich auch Landau-"Lifshitz"-Gilbert-Gleichung genannt) beschreibt in der Festkörperphysik das Verhalten der magnetischen Momente eines ferromagnetischen Materials in einem effektiven magnetischen Feld formula_1. Benannt ist sie nach Lew Dawidowitsch Landau, Jewgeni Michailowitsch Lifschitz und Terri L. Gilbert. Es handelt sich um eine gewöhnliche Differentialgleichung, aus der allerdings durch Berücksichtigung der nichtlokalen Natur dieses Effektivfeldes bezüglich der Wechselwirkung der Magnetisierungsdipole eine komplizierte Integro-Differentialgleichung entsteht.
+
+Die ursprüngliche Landau-Lifschitz-Gleichung wurde im Jahr 1935 aufgestellt. Sie lautet
+und beschreibt sowohl die Präzession der Magnetisierung formula_3 als auch die auftretende Dissipation. Dabei bleibt der Betrag von formula_4 erhalten, denn es ist
+Diesen konstanten Betrag nennt man die Sättigungsmagnetisierung formula_6, der auch als Parameter in der Landau-Lifschitz-Gleichung auftritt. Weitere Parameter der Gleichung sind das gyromagnetische Verhältnis formula_7 und ein phänomenologischen Dämpfungsparameter formula_8. Jedoch versagt diese Formel für den Fall großer Dämpfung (formula_9).
+
+In der stationären Lösung des Systems, zu der das System strebt, wenn es sich selbst überlassen wird, stehen Magnetisierung und effektives magnetisches Feld parallel zueinander.
+
+1955 ersetzte Gilbert den Dämpfungsterm und führte eine Art zähflüssige Kraft ein. Es ergab sich die Landau-Lifschitz-Gilbert-Gleichung:
+
+die sich mit formula_11, dem Gilbert-Dämpfungsparameter formula_12 und der Kurzschreibweise formula_13 als Einheitsvektor der Magnetisierung in äquivalenter Form auch einfacher schreiben lässt:
+
+Man kann zeigen, dass die zuletzt resultierende Landau-Lifschitz-Gilbert-Gleichung mit der im vorigen Unterkapitel zitierten originalen Landau-Lifschitz-Gleichung identisch ist, wenn man formula_15 mit "λ" identifiziert; der entscheidende Unterschied ist aber, außer der größeren formalen Einfachheit, dass in Regressionen jetzt nicht formula_16 und formula_17 sondern formula_18 und formula_19 benutzt werden. Formal wird nur formula_20 durch formula_21 ersetzt; der letzte Term enthält alle Dämpfungsterme.
+
+Ebenso wie in der ursprünglichen Landau-Lifschitz-Gleichung richtet sich das magnetische Moment nun asymptotisch für formula_22 in Richtung des Feldes aus, wobei sich nun wie in der Mechanik beim gedämpften Oszillator die Dämpfung auch auf die Präzessionsfrequenz auswirkt. Für den Fall kleiner Dämpfung geht die Landau-Lifschitz-Gilbert-Gleichung in die Landau-Lifschitz-Gleichung über.
+
+Landau und Lifschitz haben 1935 noch angegeben, wie der Vektor formula_23 von allen vier beteiligten Wechselwirkungen (der „magnetischen Austauschenergie“, der „Dipol-Dipol-Energie“, der „Anisotropieenergie“ und der „Zeeman-Energie“) abhängt. Auf Einzelheiten kann hier nicht eingegangen werden.
+
+Mit den Landau-Lifschitz-Gilbert-Gleichungen können u. a. auch dynamische Zustände (z. B. Spinwellen, wie im nebenstehenden Bild) realistisch behandelt werden, wobei alle relevanten Geometrien (beispielsweise auch Dünnschicht-Geometrien) und Wechselwirkungen (u. a. auch die sehr langreichweitige magnetische Dipol-Dipol-Wechselwirkung) voll berücksichtigt werden können, wenn man bei den Computersimulationen hohen Speicherbedarf und entsprechende Rechenzeiten in Kauf nimmt.
+
+Die Dispersionsrelationen in diesen Systemen – das sind die Beziehungen zwischen Frequenz und Wellenlänge der Anregungszustände – sind wegen der hohen Zahl der charakteristischen Längen des Systems und der beteiligten Winkel sehr komplex.

@@ -1,0 +1,5 @@
+Bandmagnetismus
+
+Bandmagnetismus (auch Itineranter Magnetismus) ist ein Mechanismus der magnetischen Austauschwechselwirkung. Die magnetischen Momente werden dabei von beweglichen Bandelektronen getragen. Die Elemente Eisen, Kobalt und Nickel sind Bandmagnete. Ein einfaches Modell zur Erklärung des Bandmagnetismus ist das Stoner-Modell, das jedoch nur für eine Temperatur T=0 gilt.
+
+Skript der Uni Tübingen, ab Seite 272 (PDF; 1,2 MB)

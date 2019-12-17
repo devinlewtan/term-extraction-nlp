@@ -1,0 +1,65 @@
+Magnetohydrodynamik
+
+Die Magnetohydrodynamik (MHD) ist ein Teilgebiet der Physik. Sie beschreibt das Verhalten elektrisch leitender Fluide, die von magnetischen (und elektrischen) Feldern durchdrungen werden.
+
+Die Magnetohydrodynamik im engeren Sinne behandelt Flüssigkeiten, insbesondere auch Plasmen (Magnetoplasmadynamik, MPD), die im Rahmen der MHD als Flüssigkeiten (Fluide) beschrieben werden. Die Magnetogasdynamik (MGD) dagegen behandelt Gase.
+
+Die mathematische Behandlung erfolgt durch eine Kombination der Navier-Stokes-Gleichungen der Hydrodynamik mit den Maxwell-Gleichungen der Elektrodynamik.
+
+Typische Anwendungsgebiete der MHD sind die Strömungsbeeinflussung und die Strömungsmessung in Metallurgie und Halbleitereinkristallzüchtung sowie die Beschreibung von Plasmen in stellaren Atmosphären und Fusionsreaktoren.
+
+Um die Dynamik eines Plasmas in allen Einzelheiten zu beschreiben, wäre es nötig, die Bewegungsgleichung für jedes Teilchen zu lösen. Natürlich ist dieser Ansatz unsinnig, da die Zahl der Teilchen im Allgemeinen sehr groß ist. Um das Problem trotzdem lösen zu können, wählt man einen statistischen Ansatz. Das heißt in der Praxis, dass man, anstatt die Trajektorien der Einzelteilchen zu betrachten, makroskopische Größen (Mittelwerte) verwendet.
+
+Ein Beispiel für eine solche Größe ist die Fließgeschwindigkeit eines Flusses. Insgesamt bewegt sich das Flusswasser in einer Richtung auf das Meer zu. Jedes einzelne Wassermolekül kann sich dabei aber durchaus „kreuz und quer“ bewegen, da es andauernd mit anderen Molekülen wechselwirkt. Entscheidend für das makroskopische Verhalten ist nur, dass die mittlere Geschwindigkeit der Fließgeschwindigkeit entspricht. Mit solchen makroskopischen Größen wie Geschwindigkeit und Druck lassen sich dann alle Phänomene der Schifffahrt adäquat beschreiben, ohne dass jemals ein einzelnes Molekül ins Spiel kommt.
+
+So ähnlich ist es auch bei der MHD. Auch sie ist im Grunde eine hydrodynamische Theorie in dem Sinne, dass Plasmen ähnlich behandelt werden wie Flüssigkeiten. Auch hier werden keine Einzelteilchen, sondern „gemittelte Größen“ behandelt. Die MHD vereinigt Elemente der Hydro- und Elektrodynamik um eine Theorie „elektrisch leitender Plasmen“ zu formen.
+
+Üblicherweise werden noch einige weitere Näherungen gemacht. Das sind erstens elektrische Neutralität, zweitens die Gültigkeit des ohmschen Gesetzes und drittens Quasigleichgewicht. Die letzte Näherung bedeutet, dass das Plasma sich zwar entwickelt, aber langsam im Vergleich zu der Zeit in der sich Gleichgewicht einstellt. Diese Annahme stellt eine große Vereinfachung für die Gleichungen dar, da sie zum Beispiel dafür sorgt, dass der Druck als skalare Größe behandelt werden kann, während man es im Allgemeinen mit einem (richtungsabhängigen) Tensor zu tun hat. Die elektrische Neutralität eliminiert die Ladungsdichte aus den Gleichungen. Unter diesen Voraussetzungen können nun die Gleichungen der MHD formuliert werden.
+
+Die Grundgleichungen der MHD lauten (in CGS Einheiten) wie folgt:
+
+Die vorkommenden Größen sind die Massendichte formula_2, die Plasmageschwindigkeit formula_3, der Druck formula_4, der elektrische Strom formula_5, das Magnetfeld formula_6, das elektrische Feld formula_7, die Gravitationsbeschleunigung formula_8 und die Lichtgeschwindigkeit formula_9. In Gleichung (2) wurde die Gravitation explizit berücksichtigt; der Term formula_10 deutet an, dass im Allgemeinen weitere Kräfte wie z. B. Reibungskräfte berücksichtigt werden müssen, die hier nicht explizit angegeben wurden. Gleichung (1) beschreibt die Massenerhaltung, Gleichung (2) ist die „Bewegungsgleichung“ oder auch „Impulsgleichung“, die Gleichungen (3), (4) und (5) stammen aus der Elektrodynamik (Maxwell-Gleichungen), wobei in Gleichung (3) der Verschiebungsstrom vernachlässigt wurde. Gleichung (6) ist das ohmsche Gesetz mit der elektrischen Leitfähigkeit, formula_11. Dies ist die einzige Gleichung in der relativistische Effekte berücksichtigt werden.
+
+Um das Gleichungssystem zu schließen, wird noch eine weitere Gleichung benötigt. Dieses kann zum Beispiel die Zustandsgleichung der Materie oder die Gleichung der lokalen Energieerhaltung sein.
+
+Die Gleichungen der MHD können auf unterschiedliche Arten hergeleitet werden. Eine Möglichkeit ist von der Boltzmann-Gleichung auszugehen, um zum obigen Ergebnis zu kommen.
+
+Durch die Kombination der Gesetze von Ampère, Faraday und Ohm (Gleichungen 3, 4 und 6) erhält man die sogenannte "Induktionsgleichung."
+
+In der Gleichung bezeichnet formula_13 die "magnetische Diffusivität." Diese Gleichung spielt eine wichtige Rolle für das Verständnis magnetischer Plasmen.
+
+Die Lösung der MHD Gleichungen kann sehr kompliziert werden. In vielen Fällen können die Gleichungen jedoch durch weitere Annahmen vereinfacht werden, um ihre Lösung zu erleichtern. Nimmt man an, dass die elektrische Leitfähigkeit des Plasmas unendlich groß ist (formula_14), es daher also keinen elektrischen Widerstand besitzt, nennt man die resultierende Theorie „Ideale MHD“ im Gegensatz zur „resistiven MHD“ mit endlicher Leitfähigkeit. Im idealen Fall liefert Gleichung (6) formula_15.
+
+Beispiele für die Anwendbarkeit der Idealen MHD finden sich zum Beispiel bei der Berechnung von Plasmaströmungen in Zusammenhang mit der Kernfusion oder stellaren Koronen. Zusätzlich wird oft angenommen, dass das Plasma inkompressibel ist (also formula_16) und es keine innere Reibung (Viskosität) gibt.
+
+Die MHD kombiniert die hydro- und elektrodynamischen Eigenschaften von Plasmen. Somit sind Materialbewegungen und das Verhalten des Magnetfeldes nicht unabhängig voneinander. Plasmabewegungen führen zu weiteren magnetischen und elektrischen Feldern, die im Inneren des Plasmas wiederum zu elektrischen Strömen führen.
+
+Ein wichtiger Spezialfall ergibt sich für den Fall der Idealen MHD. Hier verschwindet der elektrische Widerstand des Plasmas und die Induktionsgleichung nimmt die Form
+
+an. Man kann zeigen, dass in diesem Falle Plasma und Magnetfeld gekoppelt sind; das Magnetfeld folgt den Plasmaströmungen. Man spricht in diesem Falle von einem „eingefrorenen“ Magnetfeld oder, im Zusammenhang mit der idealen Induktionsgleichung, auch von einer „flusserhaltenden“ Gleichung. Die Morphologie des Magnetfeldes kann auch in diesem Falle beträchtlichen Änderungen unterworfen sein, es ist aber wichtig, dass keine topologischen Änderungen (daher keine Änderungen im Zusammenhang des Magnetfeldes) vorkommen können.
+
+Ob dabei das Magnetfeld dem Plasma oder das Plasma dem Magnetfeld folgt, hängt davon ab, welche Komponente dominiert, daher einen größeren Druck ausübt. In der Sonne können beide Fälle beobachtet werden. Während das Plasma in der Photosphäre sehr dicht ist und die Plasmabewegungen aus der Konvektionszone das Verhalten des Magnetfeldes dominieren, ist das Plasma in der Korona sehr dünn, so dass die Struktur der Korona vom Magnetfeld dominiert wird.
+
+Im Inneren des Plasmas können sich verschiedene Wellenmoden ausbilden. Dieses sind die langsamen und schnellen magnetoakustischen Wellen und die so genannten "Alfvén-Wellen". Diese Moden stellen Spezialfälle für Wellen dar, die sich entweder parallel oder senkrecht zum Magnetfeld ausbreiten. Sie geben Einblick in die grundlegenden physikalischen Phänomene. Im allgemeinen Fall wird man es jedoch mit einer Überlagerung aller Moden zu tun haben.
+
+Die MHD findet vielfältige Anwendungen sowohl im ingenieurtechnischen als auch im naturwissenschaftlichen Bereich.
+
+Das Magnetfeld der Erde wird durch den sogenannten Geodynamo erzeugt, der durch die Gleichungen der Magnetohydrodynamik beschrieben wird. Das Erdmagnetfeld entsteht im äußeren Erdkern, der vorwiegend aus flüssigem Eisen besteht (siehe Entstehung und Aufrechterhaltung des Erdmagnetfeldes (Geodynamo)).
+
+Die im Zusammenhang mit einem Geodynamo auftretenden partiellen Differentialgleichungen können nur in stark vereinfachten Fällen analytisch gelöst werden. Numerische Verfahren liefern seit Mitte der 1990er Jahre erste Ansätze zum Verständnis der Dynamik des Erdmagnetfeldes.
+
+Ähnlich verhält es sich mit dem Magnetfeld der Sonne und anderer Sterne ähnlichen Spektraltyps. Die Entstehung ihrer Magnetfelder resultiert aus dem Zusammenspiel mehrerer Faktoren in den äußeren Schichten der Sterne (Dynamotheorie) und wird ebenfalls mit auf der MHD beruhenden Modellen beschrieben.
+
+Die Korona (äußerste Atmosphäre) der Sonne und anderer Sterne ist ein hochstrukturierter Bereich sehr niedriger Plasmadichten in dem das Magnetfeld die dominierende, strukturgebende Komponente darstellt. MHD-Effekte sind hier sehr wichtig, um die Aufteilung und Dynamik dieser äußeren Sternatmosphäre zu beschreiben und zu verstehen. Auch in den darunterliegenden atmosphärischen Schichten der Chromosphäre und der Photosphäre spielt die MHD eine wichtige Rolle.
+
+Magnetfelder werden in der Metallurgie eingesetzt, um die Strömung von Flüssigmetallen wie beispielsweise Stahl oder Aluminium zu beeinflussen. Bei der Anwendung ist zwischen statischen und zeitabhängigen Magnetfeldern zu unterscheiden. Statische (zeitunabhängige) Magnetfelder führen zu einer Dämpfung von Turbulenz und werden deshalb in Form magnetischer Bremsen (englisch: electromagnetic brakes) beim Stranggießen von Stahl eingesetzt. Zeitabhängige Magnetfelder finden Anwendung zum elektromagnetischen Abstützen beim Gießen von Aluminium (elektromagnetisches Gießen).
+
+Die Beeinflussung elektrochemischer Anwendungen durch ein Magnetfeld wird Magnetoelektrochemie genannt. Durch dieses wird aufgrund der MHD bei Stromfluss eine Konvektionsströmung im Elektrolyten hervorgerufen. So lassen sich bei Elektrolysen höhere Stromdichten erreichen, beispielsweise bei der Metallabscheidung.
+
+Bewegt sich ein elektrisch leitfähiges Fluid unter dem Einfluss eines Magnetfeldes, so wird in dem Fluid eine Spannung erzeugt, die der Stärke des Magnetfeldes und der Strömungsgeschwindigkeit proportional ist. Dieses Prinzip wurde 1832 von Michael Faraday entdeckt, der auf diese Weise (erfolglos) versuchte, die Fließgeschwindigkeit der Themse zu bestimmen. Das Prinzip findet heute in Gestalt von elektromagnetischen Durchflussmessern (auch induktive Durchflussmesser genannt), breitgefächerte Anwendung in Lebensmittelindustrie, der chemischen Industrie sowie in Wasserwerken. Bei der Bewegung eines elektrisch leitfähigen Fluids in einem Magnetfeld entstehen in dem Fluid auf Grund der induzierten Spannung auch Wirbelströme. Diese erzeugen im Fluid eine Lorentzkraft, die der Bewegung entgegenwirkt. Dieser physikalische Effekt wird in dem als Lorentzkraft-Anemometrie bezeichneten berührungslosen Strömungsmessverfahren angewendet.
+
+Eine technische Anwendung der Magnetohydrodynamik ist der magnetohydrodynamische Generator (MHD-Generator). Hierbei wird ein Plasma zwischen zwei leitenden Elektroden hindurchgeschossen. Senkrecht zu den Elektroden wird ein Magnetfeld angelegt, das dann die negativ geladenen Elektronen und die positiv geladenen Ionen auf Grund der gegensätzlichen Ladung trennt. Zwischen den Platten entsteht somit eine Spannungsdifferenz. Auf diese Weise kann kinetische Energie direkt in elektrische Energie umgewandelt werden, ohne mechanische Komponenten (Turbinen oder Generatoren) benutzen zu müssen. Trotz intensiver Anstrengungen, insbesondere in den 1960er Jahren, ist es nicht gelungen, langzeitstabile Elektroden zu entwickeln. Aus diesem Grunde besitzt der MHD-Generator gegenwärtig keinerlei praktische Bedeutung.
+
+Eine elektrisch leitfähige Substanz, wie zum Beispiel ein Plasma, kann in einem elektromagnetischen Feld beschleunigt werden (Magnetoplasmadynamischer Antrieb). Da auch Meerwasser und ionisierte Luft als Ionengemische leitfähig sind, können sie ebenfalls in einem elektromagnetischen Feld beschleunigt werden (Magnetohydrodynamischer Antrieb). Diese Eigenschaften können im Prinzip zum Antrieb von Schiffen, U-Booten und Fluggeräten genutzt werden. Der Wirkungsgrad solcher Anlagen ist jedoch gering. Aus diesem Grund besitzt der MHD-Antrieb heute keine praktische Bedeutung.
+
+Magnetohydrodynamische Sensoren werden genutzt, um Winkelgeschwindigkeiten zu messen. Die Genauigkeit steigt mit der Größe. Ein Einsatzgebiet ist die Luft- und Raumfahrt. Das Prinzip eines MHD-Sensors, das auch die prinzipielle Idee der Magnetohydrodynamik (MHD) insgesamt verstehen hilft, ist in dieser Skizze dargestellt.

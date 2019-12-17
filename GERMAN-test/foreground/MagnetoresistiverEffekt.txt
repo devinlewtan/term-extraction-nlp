@@ -1,0 +1,31 @@
+Magnetoresistiver Effekt
+
+Als magnetoresistive Effekte bezeichnet man alle Effekte, die die Änderung des elektrischen Widerstands eines Materials durch Anlegen eines äußeren Magnetfeldes beschreiben. Dazu gehören insbesondere der anisotrope magnetoresistive Effekt (AMR-Effekt), der Riesenmagnetowiderstand (GMR-Effekt), der CMR-Effekt, der TMR-Effekt sowie der planare Hall-Effekt. 
+
+Im Weiteren wird unterschieden zwischen magnetoresistiven Effekten in:
+
+Erste magnetoresistive Effekte beschrieb Lord Kelvin (William Thomson) 1856. Dabei handelt es sich um Widerstandserhöhung in einem Leiter bei Anlegung eines Magnetfeldes durch die Ablenkung der Stromwege, ein Galvanomagnetischer Effekt (als Thomson-Effekt bekannt, seltener als Gauß-Effekt, wobei der Thomson-Effekt nicht mit dem thermoelektrischen Thomson-Effekt verwechselt werden darf).
+
+Das magnetische Verhalten von Festkörpern wird durch die Art und Stärke der Elementarmagnete und ihrer Wechselwirkung untereinander, d. h. durch kooperative Effekte sowie das damit verbundene Verhalten der bewegten Ladungen im Festkörper geprägt. 
+
+Zur Beschreibung der Stärke des jeweiligen magnetoresistiven Effektes, bedient man sich des Quotienten aus Widerstandsänderung und Widerstand ohne äußerem Feld: 
+
+formula_2 ist der Widerstand in Abhängigkeit vom Magnetfeld, formula_3 der Widerstand ohne äußeres Feld und formula_4 der Kennwert des magnetoresistiven Effekts.
+
+Beim GMR, CMR, TMR wird aber auch häufig der Sättigungswert des Widerstandes als Basisgröße in der Normierung genommen.
+
+Magnetowiderstandseffekte ändern den Widerstand von magnetischen bzw. nichtmagnetischen Materialien und können sowohl positiv als auch negativ sein, je nachdem ob der Widerstand im Magnetfeld zu- oder abnimmt.
+
+Dünne Lagen (im Nanometerbereich) ferromagnetischer Übergangsmetalle weisen einen AMR-, GMR-, CMR- oder TMR-Effekt von rund 3 % beim AMR, rund 50 % beim GMR (Raumtemperatur, Magnetfelder bis 2 T), bis 600 % beim TMR bis zu noch größeren Effekten beim CMR (Colossal Magneto Resistance Effekt in Perowskiten, Änderung des Widerstandes um einen Faktor über 1000) auf.
+
+Siehe hierzu im Speziellen die Artikel AMR-Effekt und GMR-Effekt.
+
+Sie beruhen mit Ausnahme des TMR-Effektes darauf, dass ein äußeres Magnetfeld die Richtung der Magnetisierung in ferromagnetischen Materialien beeinflusst und der Winkel zwischen Magnetisierung und Stromrichtung Auswirkungen auf den elektrischen Widerstand hat. Beim TMR (Tunnel-Magneto-Widerstandseffekt), der 1975 entdeckt wurde und in den 1990er Jahren ins Blickfeld der Forschung kam, beruht der Effekt auf spinabhängigen Tunnelströmen von ferromagnetischen Materialien, die durch Isolatorschichten getrennt sind.
+
+Siehe hierzu im Speziellen den Artikel TMR-Effekt.
+
+Der planare Hall-Effekt (auch Pseudo-Hall-Effekt oder außergewöhnlicher Hall-Effekt) hat einen ähnlichen Effekt wie der gewöhnliche Hall-Effekt, hat aber andere Ursachen und wird auch nicht durch die Magnetfeldkomponenten senkrecht zur Leitungsebene (betrachtet wird eine ähnliche Geometrie wie beim Hall-Effekt) verursacht, sondern durch die Magnetfeldkomponenten in der Ebene des Leiters. Er tritt bei ferromagnetischen Materialien auf und beruht auf dem AMR-Effekt (dem "anisotropen magnetoresistiven Effekt"): Der Widerstand senkrecht zur Richtung des angelegten Magnetfelds unterscheidet sich vom Widerstand parallel zu diesem Feld. In Anwendungen ist dieser Effekt von untergeordneter Bedeutung, z. B. wurden Anwendungen in der Biotechnik diskutiert.
+
+Der Einfluss eines von außen angelegten Magnetfeldes auf das elektrische Verhalten eines Festkörpers (z. B. seinen elektrischen Widerstand) variiert sehr stark, je nachdem welcher der oben benannten Effekte wirkt. Obwohl magnetoresistive Effekte (insb. der AMR-Effekt) bereits Mitte des 19. Jahrhunderts bekannt waren (Entdeckung des AMR-Effektes 1857 durch William Thomson, 1. Baron Kelvin), wurde eine technische Nutzung erst gegen Ende der Sechziger Jahre möglich bspw. im Bereich der Sensorik (AMR-Sensor) erst zu Beginn der achtziger Jahre.
+
+Vergleich von MR-Effektgrößen der unterschiedlichen Wirkungsmechanismen.

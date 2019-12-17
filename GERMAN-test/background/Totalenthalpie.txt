@@ -1,0 +1,35 @@
+Totalenthalpie
+
+Die Totalenthalpie formula_1, auch Gesamtenthalpie, Stagnationsenthalpie oder Ruheenthalpie genannt, ist eine thermodynamische Zustandsgröße, die in der Strömungslehre zur Beschreibung kompressibler strömender Medien benötigt wird, insbesondere bei Berechnungen für Wärmekraftmaschinen wie Dampfturbinen und Raketentriebwerke.
+
+Die Totalenthalpie ist ein Maß dafür, wie viel „Arbeitsfähigkeit“ einem Medium, beispielsweise Dampf, an einer bestimmten Stelle einer Dampfturbine, noch innewohnt, unabhängig davon, ob diese Energie als thermische Energie, Druck (diese beiden machen die Enthalpie aus) oder kinetische Energie vorhanden ist.
+
+Die Totalenthalpie ist definiert als Summe aus der Enthalpie formula_2 und der kinetischen Energie formula_3 eines strömenden Teilchens:
+
+wobei
+
+Da bei einer Strömung die Masse erhalten bleibt, wird oft die spezifische Totalenthalpie formula_7, also die Totalenthalpie je Masseneinheit, verwendet:
+
+Enthalpie kann in kinetische Energie des strömenden Mediums übergeführt werden (in diesem Fall kommt es zur Expansion und meist zur Temperaturerniedrigung), und umgekehrt kinetische Energie in Enthalpie (Staudruck, also Kompression, damit einhergehend meist Temperaturerhöhung). Die Totalenthalpie ist also ein Maß dafür, wie viel „Arbeitsfähigkeit“ einem Medium, beispielsweise Dampf, an einer bestimmten Stelle einer Dampfturbine, noch innewohnt, unabhängig davon, ob diese Energie als thermische Energie, Druck (diese beiden machen die Enthalpie aus) oder kinetische Energie vorhanden ist.
+
+Aus der Totalenthalpie lässt sich die Stagnations- oder Totaltemperatur formula_9 ableiten:
+
+wobei formula_11 die spezifische Wärme bei konstantem Druck ist (Hier wurde angenommen, dass formula_11 zwischen formula_13 und formula_9 nicht von der Temperatur abhängt).
+
+Wird das strömende Medium auf die Geschwindigkeit formula_15 abgebremst (beispielsweise durch ein Hindernis), so erhöht sich seine Enthalpie auf die Totalenthalpie:
+
+und seine Temperatur von formula_13 auf die Totaltemperatur:
+
+Die Stagnationstemperatur ist im Raketen- und Flugzeugbau von Bedeutung für die thermische Belastung von Oberflächen bei Überschallströmungen.
+
+Die Totalenthalpie (und damit bei idealen Gasen auch formula_9) bleibt in Strömungen konstant, solange weder mechanische Arbeit geleistet wird noch Wärme zwischen dem strömenden Medium und der Umgebung fließt (vgl. unten: erster Hauptsatz); dies gilt auch für die Stoßwellen einer Überschallströmung.
+
+Weitere Energieterme können hinzugefügt werden (etwa für chemische Reaktionen, Phasenänderungen, Bewegung in Feldern).
+
+So kann im Gravitationsfeld die potentielle Energie berücksichtigt werden:
+
+mit
+
+Beispielsweise lässt sich der Erste Hauptsatz der Thermodynamik (für ein offenes System) dann so anschreiben:
+
+Hier sind

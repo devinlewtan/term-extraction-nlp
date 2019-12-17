@@ -1,0 +1,616 @@
+Magnetischer Monopol
+
+Ein magnetischer Monopol ist ein gedachter Magnet, der nur einen Pol hat, also nur den Nord- oder nur den Süd-Pol. Nach seinen Wirkungen kann man sich einen einzelnen magnetischen Pol wie ein Ende eines langen Stabmagneten (siehe Polstärke) vorstellen, wenn dessen anderes Ende so weit entfernt ist, dass die von dort ausgehenden Kräfte vernachlässigbar klein sind.
+
+In bestimmten Festkörpern sind elektronische Strukturen (Quasiteilchen) nachgewiesen worden, die einer Mischung von genau gleich vielen einzelnen und frei beweglichen Nord- und Südpolen ähneln. Diese werden zwar als magnetische Monopole bezeichnet, können aber nur paarweise, nicht einzeln auftreten und nicht als freie Teilchen existieren.
+
+Ein wirklicher magnetischer Monopol, zu dem kein Gegenpol existiert, ist bisher nicht beobachtet worden. Wenn es ihn als Teilchen gäbe, wäre er Träger einer "magnetischen Ladung" entsprechend der elektrischen Ladung; magnetische Ladungen wären Quellen und Senken des magnetischen Feldes (siehe auch Monopol (Physik)). Überlegungen über solche magnetischen Monopole gab und gibt es in verschiedenen Bereichen der theoretischen Physik. In der beobachteten Natur kennt man jedoch bisher nur magnetische Felder mit geschlossenen Feldlinien, die keine Quellen und Senken besitzen.
+
+In Festkörpern vom Typ Spin-Eis werden seit 2009 sogenannte Monopole beobachtet und erforscht. Es handelt sich um monopolähnliche Quasiteilchen in Gestalt der beiden Enden von langen Ketten „zusammenhängend“ ausgerichteter Elektronenspins. Sie können sich, vergleichbar Gasmolekülen, frei durch den Festkörper bewegen und verhalten sich in vielerlei Hinsicht wie echte einzelne magnetische Monopole. Sie können aber nur paarweise als Nord- und Südpol auftreten. Daher kann man sie zwar lokal als Quellen der Magnetisierung ansehen, global bleibt das Magnetfeld jedoch quellenfrei.
+
+Nach konzeptionellen Vorarbeiten von Castelnovo, Moessner und Sondhi konnte 2009 ein Team vom Helmholtz-Zentrum Berlin zusammen mit anderen Forschern durch Neutronenbeugung in einem Dysprosium-Titanat-Kristall (DyTiO) erstmals solche sogenannten Monopole in fester Materie beobachten.
+
+2010 gelang es am Paul-Scherrer-Institut mittels Synchrotronstrahlung ebenfalls, diese Quasi-Monopole abzubilden.
+
+2013 entdeckten Forscher der Technischen Universitäten Dresden und München, dass die Quasimonopole beim Abbau von Skyrmion-„Kristallen“ eine Rolle spielen können. Dieser Effekt könnte bei einer zukünftigen Nutzung von Skyrmionen in der Datenspeichertechnik wichtig sein.
+
+2014 gelang es Forschern um David Hall (University of Amherst) und Mikko Möttönen (Universität Aalto), Quasimonopole in einem ferromagnetischen Bose-Einstein-Kondensat nachzubilden.
+
+Ein Dirac-String (engl. "string" = Faden) ist eine gedachte Linie, die von einem magnetischen Monopol ausgeht. Für ein elektrisch geladenes Teilchen, das sich im Magnetfeld des Monopols bewegt, ist auf dieser Linie die Phase der quantenmechanischen Wellenfunktion singulär und die Aufenthaltswahrscheinlichkeit gleich Null. Wenn es einen magnetischen Monopol gibt, muss auch die Existenz einer solchen Linie angenommen werden, da Teilchen außerhalb der Linie sonst keine eindeutige Phase hätten. Ein solcher "string" müsste wegen der auf ihm verschwindenden Aufenthaltswahrscheinlichkeit beobachtbar sein und ist an den Quasimonopolen tatsächlich beobachtet worden. In den Veröffentlichungen über die Quasimonopole werden diese daher auch „Dirac-Monopole“ genannt; es handelt sich aber nicht um Monopole im Sinne von Elementarteilchen, eine Vorstellung, die ebenfalls auf Paul Dirac zurückgeht.
+
+Von Paul Dirac stammt die Spekulation, es könne den magnetischen Monopol als Elementarteilchen geben, welches das magnetische Gegenstück zum Elektron wäre. Für diese Idee sprechen zwei Argumente:
+Beide Argumente werden in den folgenden Abschnitten erläutert. Trotz intensiver Bemühungen konnte bisher allerdings die Existenz eines solchen Teilchens nicht nachgewiesen werden.
+
+Symmetrien spielen in der Physik eine fundamentale Rolle. Die im 19. Jahrhundert formulierten Maxwell-Gleichungen, die die elektrischen und magnetischen Phänomene beschreiben, zeigen eine unnatürlich erscheinende Asymmetrie zwischen den Vektoren der elektrischen Feldstärke formula_1 und der magnetischen Flussdichte formula_2. Während die elektrischen Ladungen als Ladungsdichte formula_3 und zugehörige Stromdichte formula_4 auftreten, sind wegen der Nichtexistenz magnetischer Ladungen die entsprechenden magnetischen Größen gleich Null:
+
+Nimmt man jedoch die Existenz von magnetischen Ladungen (Monopolen) an, so gäbe es auch eine von Null verschiedene magnetische Ladungsdichte formula_5 und magnetische Stromdichte formula_6, die Gleichungen würden dann lauten:
+
+Man erhielte also eine Theorie, die unter folgenden Transformationen unverändert bliebe (sog. "symplektische Symmetrie"):
+Die Existenz magnetischer Monopole würde also die Unterschiede zwischen elektrischem und magnetischem Feld weiter verringern, elektrische und magnetische Phänomene wären streng „dual“ zueinander.
+
+Wie im Fall der Maxwell-Gleichungen ohne magnetische Monopole lassen sich Potentiale einführen, die hilfreich zur Konstruktion von Lösungen der jeweiligen Differentialgleichungen sind und gewissen neuen Differentialgleichungen genügen. Zusätzlich zum elektromagnetischen Viererpotential formula_7 führt man ein zweites, „magnetoelektrisches“ Viererpotential formula_8 ein. Die Potentiale werden dabei so gewählt (wobei eine gewisse Willkür besteht, insofern es möglich ist), dass sich der Feldstärketensor als Differentialform
+ergibt, bzw. in Indexnotation als
+
+Die Maxwell-Gleichungen nehmen die folgende Form an (wobei formula_11 als Vierervektoren aufgefasst werden):
+
+Es ergeben sich hieraus die Kontinuitätsgleichungen:
+
+Für die Potentiale heißt das:
+Dies heißt, dass sich formula_7 genau wie im Fall ohne magnetische Monopole unabhängig von formula_19 verhält, und die Komponenten von formula_8 völlig analog in jeder Komponente die Wellengleichung mit magnetischer Ladung bzw. Strom als Inhomogenität erfüllen. Die Theorie weist auch eine zusätzliche Eichinvarianz auf: Für Skalarfelder formula_21 ist sie nicht nur invariant unter der Transformation
+sondern auch unter
+
+Die oben erwähnte Symmetrietransformation lässt sich in dieser Notation als Transformation über den Hodge-Stern-Operator vom Feldstärketensor zum dualen Feldstärketensor, formula_24 sowie durch die Übergänge formula_25 und formula_26 verstehen.
+
+Außer dem Drehimpuls ist auch die elektrische Ladung quantisiert, d. h. sie tritt nur als ganzzahliges Vielfaches der Elementarladung auf. Nach Dirac würde das Vorhandensein magnetischer Monopole diesen Umstand leicht erklären: Ein sich im Feld eines Monopols bewegendes Elektron wird auf eine gekrümmte Bahn abgelenkt. Die mit der Ablenkung einhergehende Änderung des Drehimpulses kann nur quantisiert in bestimmten diskreten Schritten erfolgen, muss aber proportional der elektrischen Ladung sein. Daher folgt aus der Drehimpulsquantisierung zusammen mit der Existenz des magnetischen Monopols direkt die Quantisierung der elektrischen Ladung. Die Überlegung würde in gleicher Weise auch für die magnetische Ladung gelten. Der Monopol wäre also Träger der magnetischen Elementarladung.
+
+Möglicherweise kann sich ein Hinweis auf die Existenz magnetischer Monopole aus den sogenannten Theorien der großen Vereinheitlichung (GUT) ergeben. Diese Theorien beschreiben die Vereinheitlichung der Elektroschwachen Kraft mit der Starken Kraft bei hohen Energien, wie sie bis etwa 10 Sekunden nach dem Urknall in unserem Universum herrschten. Durch die Abkühlung des expandierenden Universums sank die typische Teilchenenergie zu diesem Zeitpunkt unter einen kritischen Wert von ungefähr 10 GeV (das entspricht etwa 10 Kelvin). Dadurch wurde die Symmetriebrechung der vereinheitlichten Kraft in die separaten Kräfte Starke Wechselwirkung und Elektroschwache Wechselwirkung ausgelöst. Dabei traten unter anderem stabile punktförmige topologische Defekte des Eichfeldes, sogenannte Solitonen, auf – die magnetischen Monopole. Dieser Mechanismus ist in etwa mit den Vorgängen in erstarrenden Flüssigkeiten zu vergleichen. Die Kristallisation startet gleichzeitig an verschiedenen Raumpunkten. Wachsen nun zwei Kristalle zusammen, entstehen an den Kontaktflächen Gitterdefekte. Die Dichte der entstandenen Monopole lässt sich zum Zeitpunkt der Entstehung auf etwa 10 m abschätzen. Die Tatsache, dass die Teilchendichte heutzutage signifikant niedriger liegt, wird auch als ein weiterer Hinweis auf eine starke inflationäre Phase des frühen Universums gesehen. In diesen Theorien sind Aufbau und Eigenschaften eines GUT-Monopols genau beschrieben.
+
+Ein GUT-Monopol besitzt eine Masse von etwa 10 GeV, einen Durchmesser von ungefähr 10 m und eine definierte zwiebelähnliche Substruktur. Demnach liegt in der Nähe des Zentrums, d. h. im Bereich von 10 m, ein GUT-symmetrisches Vakuum vor. Daran schließt sich eine Schale der sogenannten elektro-schwachen Vereinigung an mit Teilchen wie den Eichbosonen der schwachen Wechselwirkung W, W und Z. Diese Zone geht bei etwa 10 m in die Confinement-Schale über, die mit Gluonen und Photonen angefüllt ist. Die äußerste Schale wird aus Fermion-Antifermion-Paaren gebildet.
+
+Untersucht man die Ablenkung eines geladenen Teilchens in der Umgebung eines Monopols, so stellt man fest, dass eine solche Anordnung die Zeitumkehrinvarianz verletzt. Das bedeutet, der Prozess verläuft bei Umkehrung der Zeitrichtung nicht in derselben Art und Weise ab. Diese Tatsache sprach lange Zeit direkt gegen die Existenz von magnetischen Monopolen. Nachdem jedoch im Jahre 1964 die CP-Verletzung im Zerfall der K-Mesonen nachgewiesen werden konnte, folgt aus dem CPT-Theorem direkt die Existenz T-invarianzverletzender Prozesse.
+
+Aufgrund der oben genannten inneren Struktur können GUT-Monopole den Protonen- und Neutronenzerfall katalysieren. Dabei werden folgende Reaktionen von den Theorien vorhergesagt ("M" steht für den Monopol):
+Der Monopol selbst zerfällt bei diesen Reaktionen nicht. Durch diese Zerfallsprozesse ist er also in der Lage, die Stabilität von Materie zu beeinflussen.
+
+Wegen der oben genannten sehr hohen Ruheenergie des GUT-Monopols – seine Masse ist mit der eines Bakteriums vergleichbar – kann man ihn selbst in Colliding-Beam-Experimenten nicht direkt erzeugen und nachweisen. Deshalb ist man bei der Suche nach Monopolen auf deren natürlich vorhandene Flussdichte angewiesen, die jedoch von den gängigen Theorien als sehr niedrig vorhergesagt wird.
+
+Ein mögliches Experiment zum Nachweis des hypothetischen Teilchens basiert auf der Verwendung supraleitender Spulen. Beim Durchgang eines Monopols durch eine solche Spule wird durch die Änderung des magnetischen Flusses ein Ringstrom induziert, der nachgewiesen werden kann. Ein solcher Kreisstrom ist tatsächlich nur mittels magnetischer Monopole und nicht etwa durch das Feld eines herkömmlichen Dipolmagneten erzeugbar. Jedoch erfordert die relativ große Störanfälligkeit solcher Experimente eine sorgfältige Versuchsdurchführung.
+
+Weitere Experimente, wie beispielsweise Super-Kamiokande (das Kamiokande-Nachfolgeexperiment), zielen auf den Nachweis des oben beschriebenen durch Monopole induzierten Protonenzerfalls. Hierbei dienen als Protonenträger beispielsweise mehrere (zehn-)tausend Tonnen hochreines Wasser. Die Abschätzung der zu erwartenden Zerfallsrate setzt allerdings die Kenntnis des typischen Wirkungsquerschnitts der Zerfallsreaktion voraus.
+
+In einem Spulenexperiment wurde 1982 von Blas Cabrera (Stanford University, USA) ein einziges Ereignis beobachtet. Es kann jedoch nicht ausgeschlossen werden, dass es sich hierbei um eine Fehlsignatur handelt. Gegenwärtige Experimente geben deshalb stets Obergrenzen des Teilchenflusses an, die derzeit, abhängig von der verwendeten Methode, etwa im Bereich von 10 scm liegen. Das bedeutet umgerechnet, dass eine Fläche von 1 m im Durchschnitt höchstens alle 30.000 Jahre von einem Monopol durchquert wird.
+
+Anhand der Lebensdauer galaktischer magnetischer Felder kann eine obere Grenze für die Häufigkeit auf der Erde auftreffender GUT-Monopole ermittelt werden. Diese wird auf durchschnittlich höchstens einen Monopol pro Quadratmeter der Erdoberfläche und 31.700 Jahre geschätzt, was dem sogenannten Parker-Limit von F 
+
+Magnetostatik
+
+Die Magnetostatik ist ein Teilgebiet der Elektrodynamik. Sie behandelt magnetische Gleichfelder, also zeitlich konstante Magnetfelder. 
+
+In der Magnetostatik wird die räumliche Verteilung von Magnetfeldern in der Umgebung von Dauermagneten und von stationären Strömen (Konzept des "Stromfadens") untersucht. Ein stationärer Strom ist beispielsweise Gleichstrom in einem elektrischen Leiter. Hierzu gehören neben den einzelnen magnetischen Eigenschaften der Stoffe wie Ferromagnetismus, Diamagnetismus etc. auch das Erdmagnetfeld. Außerdem beschreibt die Magnetostatik die Kraftwirkung derartig erzeugter Felder auf Magnete und Ströme. Hierzu gehört das Verhalten eines magnetischen Dipols in einem zeitlich konstanten Magnetfeld, beispielsweise das Verhalten einer (frei beweglichen) Magnetnadel im Erdmagnetfeld. 
+
+Die Grundbegriffe sind der Elektrostatik analog. Der positiven und negativen elektrischen Ladung entsprechen Nordpole und Südpole, quantitativ: positive und negative Polstärke. Allerdings können magnetische Pole im Gegensatz zu elektrischen Ladungen nicht isoliert werden, sondern treten in einem Körper immer zusammen auf.
+
+Obwohl es keine isolierten magnetischen Ladungen (magnetische Monopole) gibt, können magnetostatische Effekte mit einer Analogie zur Elektrostatik veranschaulicht werden. Dies wird insbesondere in der Schulphysik benutzt: man betrachtet einen Stabmagneten der Länge "l" als zwei entgegensetzte magnetische Ladungen im Abstand "l". Das Analogon zur elektrischen Ladung ist die "magnetische Polstärke" formula_1. Sie ist von der gleichen Dimension wie der magnetische Fluss und wird somit in der Einheit Weber angegeben. 
+
+Es gilt dann das "magnetische Kraftgesetz" (auch "magnetostatisches Kraftgesetz"): 
+Zwischen zwei Magnetpolen der Polstärke formula_2 und formula_3 im Abstand formula_4 wirkt die magnetische Kraft
+Dabei ist μ die magnetische Feldkonstante. 
+
+Daraus folgt z. B. bei einem homogenen Feld mit bekannter Flussdichte "B" und Fläche "A" für die Kraft: 
+
+Für zeitlich konstante Felder „entkoppeln“ die Gleichungen für elektrische (E) und magnetische (B) Felder: setzt man in den Maxwellgleichungen alle Zeitableitungen gleich 0, so entstehen Gleichungen, die nicht gleichzeitig E und B enthalten. Die Phänomene der Magnetostatik lassen sich mit folgenden zwei reduzierten Maxwellgleichungen beschreiben:
+
+
+Man führt das Vektorpotential formula_9 als Hilfsfeld mit folgender Definition ein: 
+Dadurch wird automatisch die Gleichung formula_7 erfüllt, da die Divergenz eines Rotationsfeldes identisch 0 ist formula_12.
+
+formula_9 ist jedoch nicht eindeutig bestimmt, da formula_14 invariant ist unter einer Eichtransformation formula_15 mit formula_16. D.h. die durch A und A' festgelegten B-Felder sind identisch. Dies ergibt sich aus 
+da die Rotation des Gradienten eines Skalarfeldes verschwindet.
+
+Setzt man formula_10 in die inhomogene Maxwellgleichung (obige Gleichung 2)
+ein, so ergibt sich mit der Coulomb-Eichung formula_20 die besonders einfache Form: 
+
+Dies stellt für jede Komponente eine Poisson-Gleichung dar, die durch
+gelöst wird.
+
+Wendet man die Rotation auf A an so erhält man das Biot-Savart-Gesetz für das physikalisch relevante B-Feld 
+
+Für einen Stromfaden geht formula_24 zu formula_25 über:
+
+Magnetostatische Felder existieren innerhalb gleichstromführender Leiter. Sie sind quellenfrei und es gibt keine magnetischen Ladungen,
+
+Die Ursache magnetostatischer Felder sind bewegte elektrische Ladungen bzw. ihnen äquivalente Gleichströme mit der Wirbeldichte:
+
+
+
+
+
+Curiesches Gesetz
+
+Das curiesche Gesetz (auch Curie-Gesetz genannt) beschreibt die Abhängigkeit der magnetischen Suszeptibilität formula_1 einer Substanz von der absoluten Temperatur formula_2, sofern idealer Spin-Paramagnetismus vorliegt. Es wurde von Pierre Curie im Jahre 1896 erstmals in dieser Form aufgestellt. 1907 entwickelte der französische Physiker Pierre-Ernest Weiss Curies Gesetz zum Curie-Weiss-Gesetz weiter, indem er kooperative Effekte in die Gleichung mit einbezog.
+
+Man erhält das Gesetz, wenn man ein ideales System aus formula_3 Teilchen mit Spin ½ betrachtet (formula_3: Teilchenzahl). Ideal bedeutet, dass 
+
+Als Modell nimmt man die Ausrichtung eines Spin-½-Teilchens in einem äußeren Magnetfeld. Das Elektron hat ein magnetisches Moment und verhält sich als magnetischer Dipol. Legt man ein äußeres Magnetfeld an, so übt dieses eine richtende Kraft auf den Spin des Elektrons aus. Es ist eine Ausrichtung des Spins in Richtung des Magnetfeldes möglich, die energetisch günstig ist, und eine zum Magnetfeld entgegengesetzte Ausrichtung, die energetisch ungünstig ist. Zunächst würde man erwarten, dass sich in einer Substanz alle Spins parallel zum äußeren Magnetfeld ausrichten. Tatsächlich besteht jedoch eine Temperaturabhängigkeit, die zurückzuführen ist auf:
+Die magnetische Suszeptibilität formula_1 ist eine physikalische Größe, die davon abhängt, wie viele Spins im Magnetfeld in Feldrichtung ausgerichtet und wie viele entgegengerichtet sind. Zur Berechnung der Suszeptibilität müssen daher der richtende Effekt des äußeren Magnetfelds und die entgegenwirkenden thermischen Effekte berücksichtigt werden. Die quantenmechanisch korrekte Funktion für diese Aufgabe ist die Brillouin-Funktion. Das curiesches Gesetz ist ein Spezialfall dieser Funktion für schwache Magnetfelder und nicht zu tiefe Temperaturen:
+
+mit der Curie-Konstanten formula_7
+
+Darin ist
+
+Oft werden magnetische Suszeptibilität und Curie-Konstante statt auf das Volumen formula_13 auf die Stoffmenge formula_14 bezogen:
+
+mit formula_16
+
+wobei formula_17 die Avogadro-Konstante bezeichnet.
+
+Das magnetische Moment formula_18 eines Elektrons hängt direkt ab von seinem Spin formula_19 und damit von der Spinquantenzahl formula_20
+
+Hierin ist
+
+Im äußeren Magnetfeld formula_24 (Betrag der magnetischen Flussdichte) gibt es für ein Teilchen mit formula_25 nur zwei Ausrichtungsmöglichkeiten (vgl. Zeeman-Effekt):
+Die jeweils zugehörige Energie ist gegeben durch:
+
+Die Energiedifferenz zwischen den beiden Zuständen beträgt:
+
+Im kanonischen Ensemble, d. h. bei konstanter Temperatur und konstanter Teilchenzahl, ergibt sich aus der Boltzmann-Statistik die Besetzungswahrscheinlichkeit formula_30 des jeweiligen Zustandes:
+
+mit der Energienormierung formula_32, d. h. dem Kehrwert der thermischen Energie. formula_33 bezeichnet die Boltzmannkonstante und formula_2 die Temperatur.
+
+Aus den Besetzungswahrscheinlichkeiten ergibt sich die Formel für die Magnetisierung formula_35 bei reinem Spin-1/2-Paramagnetismus:
+
+Dabei bezeichnet formula_37 die Komponente des elektronischen (spin-)magnetischen Moments in Feldrichtung:
+
+Die magnetische Suszeptibilität hängt mit der Magnetisierung wie folgt zusammen:
+
+Das curiesche Gesetz erhält man als Näherung unter der Annahme, dass der magnetische Einfluss klein gegenüber dem Temperatureinfluss ist, also bei relativ schwachen Magnetfeldern und relativ hohen Temperaturen:
+
+Hierin ist formula_42 die stoffspezifische Curie-Konstante.
+
+Für Mehrelektronen-Systeme kann das Curie-Gesetz nur begrenzt angewendet werden, da interelektronische Wechselwirkung und Spin-Bahn-Kopplung zu Komplikationen führen. Für den Fall einer reinen LS-Kopplung, bei der der elektronische Grundzustand thermisch isoliert ist, kann die Curie-Konstante wie folgt formuliert werden:
+
+mit
+
+Die Quantenzahlen formula_48 und formula_47 gehören zum Grundzustand der LS-Kopplung.
+
+Die Quantenzahlen formula_47, formula_48 und formula_44 können mit Hilfe der Hundschen Regeln bestimmt werden.
+
+Bei Mehrelektronen-Systemen, die zusätzlich zur LS-Kopplung und thermischen Isolierung des Grundzustandes auch eine Halbbesetzung einer Unterschale aufweisen, spricht man von Spin-Only-Systemen. Der Name stammt daher, dass bei Halbbesetzung die Gesamtbahndrehimpuls-Quantenzahl formula_54 ist. Dadurch wird das magnetische Verhalten des Atoms allein von seinem Gesamt-Spin bestimmt.
+
+Der Landé-Faktor lautet dann bei formula_55:
+
+Die Curie-Konstante ergibt sich zu:
+
+Das ideale Curie-paramagnetische Verhalten tritt relativ selten auf, da zahlreiche Faktoren (Interelektronische Wechselwirkung, Spin-Bahn-Kopplung, Anisotropie, Ligandenfeld-Effekte, kollektive Effekte) das magnetische Verhalten eines Stoffes stark beeinflussen. Bei den Hauptgruppenelementen zeigen Radikale spin-paramagnetisches Verhalten, z. B. das Sauerstoff-Molekül mit zwei ungepaarten Elektronen. Bei den Nebengruppenelementen findet man Curie-Paramagnetismus nur bei Atomen mit LS-Kopplung und thermisch isoliertem Grundzustand.
+
+Spin-Only-Paramagnetismus findet man bei einigen Verbindungen mit schwachem Ligandenfeld von Mnformula_58 oder Feformula_59 (beide: 3dformula_60-Elektronenkonfiguration) oder Gdformula_59 (4fformula_62-Elektronenkonfiguration). Der Ligandenfeld-Effekt muss schwach genug sein, dass eine high-spin-Konfiguration vorliegt.
+
+Bei Auftreten kollektiver magnetischer Effekte, also bei Ferromagnetismus, Antiferromagnetismus oder Ferrimagnetismus, gilt statt des curieschen Gesetzes das Curie-Weiss-Gesetz:
+
+Hierin ist
+
+
+
+
+
+Curie-Konstante
+
+Die Curie-Konstante formula_1 (nach Pierre Curie) ist eine Größe aus dem Bereich des Magnetismus, die jeweils für einen Stoff konstant ist und die Dimension einer Temperatur hat:
+
+mit
+
+Statt auf das Volumen wird die Curie-Konstante oft auch auf die Stoffmenge formula_9 bezogen:
+
+mit
+Als Dimension von formula_14 ergibt sich m K mol.
+
+
+
+
+
+
+
+Magnetorotationsinstabilität
+
+Magnetorotationsinstabilität (MRI, magnetische Rotationsinstabilität) oder Balbus-Hawley-Instabilität bezeichnet das Phänomen der Entstehung von Instabilität rotierender Fluide in der Umgebung kleiner Magnetfelder unter bestimmten Voraussetzungen mit der Folge, dass Materie ins Zentrum fällt.
+
+Die Instabilität sorgt in astrophysikalischen Akkretionsscheiben unter anderem für die Entstehung von Sternen und von Schwarzen Löchern, ist aber auch im Labor beobachtbar. Sie folgt aus den Grundgleichungen der Magnetohydrodynamik (MHD).
+
+Sowohl bei der Sternentstehung, als auch bei der Entstehung von Schwarzen Löchern sammelt sich Materie in einer Akkretionsscheibe und rotiert um das Zentrum, in dem der Stern entsteht. 
+
+Die Materie strömt dabei laminar und aufgrund des Dritten Kepler'schen Gesetzes mit nach außen abnehmender Geschwindigkeit. Da der Zustand der geringsten Energie darin besteht, dass sich sämtliche Masse im Zentrum sammelt, andererseits aber der Drehimpuls des Gesamtsystems erhalten bleiben muss, führt dies dazu, dass sich ein Großteil der Masse nach innen bewegt, was durch einen kleinen Teil, der sich nach weit außen bewegt, kompensiert wird. 
+
+Mögliche Ansätze von durch Viskosität erzeugten Turbulenzen erweisen sich nicht als effizient genug, um die Sternentstehung zu verursachen.
+
+Steven A. Balbus und John F. Hawley zeigten 1991 durch Analyse der Gleichungen der Magnetohydrodynamik, dass kleine Magnetfelder zu Instabilitäten in den rotierenden Scheiben führen. Dies führt dazu, dass Drehimpuls von innen nach außen transportiert wird, und dass die inneren Materieschichten damit ins Zentrum fallen können, so dass sich dort Masse anreichert.
+
+Die MRI wird durch Scherung des Magnetfeldes im Plasma verursacht. Die Scherung entsteht, da das Magnetfeld dem Plasma folgt und sich die inneren Schichten schneller bewegen als die äußeren (differenzielle Rotation). 
+
+In einem so gescherten Flächenelement wirkt das Magnetfeld wie eine Feder, die die innere Schicht abbremst, ihr dadurch zugunsten der äußeren Schichten Drehimpuls nimmt und die innere Schicht auf eine niedrigere Umlaufbahn bringt. Dadurch kann Masse in Richtung Gravitationszentrum akkretieren. 
+
+Die MRI ist also die Ursache für die hohe Akkretionsrate und damit für die hohe Leuchtkraft, die an verschiedenen Objekten (z. B. AGN, Quasare, Mikroquasare) beobachtet wird.
+
+Aus der linearen Stabilitätsanalyse der MHD-Gleichungen mit differenzieller Rotation erhält man die Dispersionsrelation:
+
+formula_2 bezeichnet die Frequenz und formula_3 den Wellenvektor der Störung, formula_4 die Alfvén-Geschwindigkeit, formula_5 die Schallgeschwindigkeit, formula_6 die Epizykelfrequenz und formula_7 die Rotationsfrequenz der Scheibe.
+
+Instabilität tritt ein, wenn formula_2 imaginär wird. Dann erhält man in der Wellengleichung einer Störung formula_9 ein exponentielles Wachstum. Es zeigt sich, dass der langsame Ast der magnetosonischen Welle für genügend schwache Magnetfelder instabil wird, d. h. Störungen wachsen exponentiell. Die charakteristische Wachstumszeit einer Störung ist dabei von der Größenordnung der lokalen Rotationsdauer.
+
+Der Effekt wurde bereits 1959 von Evgeny Velikhov und 1960 von Subrahmanyan Chandrasekhar im Zusammenhang mit Stabilitätsbetrachtungen von Couette-Flüssen beschrieben, daher auch die Bezeichnung "Velikhov-Chandrasekhar-Instabilität".
+
+Steven A. Balbus und John F. Hawley wandten den Effekt auf astrophysikalische Systeme wie differenziell rotierende Akkretionsscheiben an. Sie zeigten die Wirksamkeit der MRI beim Drehimpulstransport theoretisch und in Simulationen. Sie lieferten damit die physikalische Grundlage des 1973 von Nikolai I. Shakura und Rashid Sunyaev entworfenen Modells der Standardscheibe (siehe Akkretionsscheibe).
+
+Heutige Forschung betrachtet z. B. die Wechselwirkung der MRI mit Strahlung, die MRI in resistiven, den Übergang von optisch dichten zu optisch dünnen Scheiben und der Entstehung von Jets aus Akkretionsscheiben.
+
+Experimentell nachgewiesen wurde sie 2006 durch Günther Rüdiger und Frank Stefani.
+
+
+
+
+
+Halbach-Array
+
+Ein Halbach-Array ist eine spezielle Konfiguration von Permanentmagneten. Eine solche Konfiguration ermöglicht, dass sich der magnetische Fluss an der einen Seite der Konfiguration fast aufhebt, auf der anderen Seite jedoch verstärkt.
+Benannt ist eine solche Anordnung nach Klaus Halbach, damals Wissenschaftler am Lawrence Berkeley National Laboratory. Halbach stellte 1980 als erster ein Bauteil (ein 16-teiliger Quadrupol) dieser Art vor. Viele Fachautoren schreiben jedoch die Erstveröffentlichung John C. Mallinson zu, der diesen Effekt bereits 1973 unter der Bezeichnung „“ (dt. „einseitiger Fluss“) beschrieb.
+
+Ein Halbach-Array setzt sich aus Segmenten von Permanentmagneten zusammen, deren Magnetisierungsrichtung gegeneinander jeweils um 90° in Richtung der Längsachse des Arrays gekippt ist. Dadurch rücken die Feldlinien auf der Seite, in deren Richtung der Direktor des Feldes gekippt wird, enger zusammen, was eine Erhöhung der magnetischen Flussdichte bewirkt. Auf der gegenüberliegenden Seite liegen die Feldlinien weniger eng als im ungestörten Magneten, daher wird das Feld schon in geringem Abstand abgeschwächt, bzw. verschwindet völlig, da sich Nord- und Südpole jeweils abwechseln.
+
+Die Eigenschaft, dass sich der magnetische Fluss auf einer Seite des Halbach-Arrays fast aufhebt, ist in verschiedenen Anwendungen interessant, so zum Beispiel bei Magnetschwebebahnen (Inductrack). Haftmagnete (Dekomagnete am Kühlschrank, Magnetwand) werden häufig als Halbach-Array gefertigt, da so eine deutlich geringere Menge an magnetischem Material die gleiche Haltekraft erzielt.
+
+Beim Bau von Generatoren und Elektromotoren sind ringförmige Halbach-Arrays interessant. Die von Halbach zuerst untersuchten ringförmigen Quadrupole werden in Teilchenbeschleunigern verwendet. Eine relativ neue Anwendung ist die Verwendung ringförmiger Dipole für NMR-Experimente.
+
+
+
+
+
+Wiegand-Sensor
+
+Wiegand-Sensoren oder Impulsdrahtsensoren enthalten als wesentliches Bauelement "Wiegand-Drähte", die durch parallele weich- und hartmagnetische Bereiche eine Hysteresekurve mit (meist zwei) ausgeprägten Sprungstellen aufweisen, eine Art makroskopischer Barkhausen-Effekt, gemeinhin bekannt als Wiegand-Effekt. Die plötzliche Änderung der Magnetisierung verursacht in einer nahen Spule einen Spannungsimpuls, dessen Größe und Form nicht davon abhängt, wie schnell das äußere Magnetfeld sich ändert. Die Bezeichnung geht auf John Richard Wiegand zurück, der sich 1972 mit metallischen Legierungen beschäftigte und in der Folge die genannten Drähte patentierte.
+
+Wiegand-Sensoren werden vorwiegend zur Bewegungserfassung mittels (Dreh-)Impulsgebern und zur Kodierung von Identmitteln von Zutrittskontrollsystemen eingesetzt.
+
+Wichtigster Teil eines Wiegand-Sensors ist der Wiegand-Draht. Er besteht aus einer speziellen Legierung mit einem hartmagnetischen Metall als Mantel und einem weichmagnetischen Metall als Kern. Der typische Durchmesser solcher Drähte beträgt 0,25 mm.
+
+In diesen beiden Bereichen kann nun eine unterschiedliche Magnetisierbarkeit (Mantel und Kernbereich) beobachtet werden. Betrachtet man die Möglichkeiten der Magnetisierung, gibt es insgesamt drei Fälle: einer, in denen Kern und Außenhaut gleich magnetisiert ist, und zwei mit gegenläufiger Magnetisierung.
+
+Die beiden Bereiche reagieren in Gegenwart eines Magnetfeldes unterschiedlich. So ändert der hartmagnetische Mantel seine magnetische Polarisierung erst in Gegenwart stärkerer Magnetfelder als der weichmagnetische Kern. Nun sei der gesamte Draht in Längsrichtung von einem externen Magnetfeld umgeben, wobei Mantel und Kern gleich polarisiert sind. Die Feldlinien des weichmagnetischen Metalls richten sich nach denen des äußeren Felds, das zudem vom Magnetfeld des hartmagnetischen Mantels überlagert wird.
+
+Überschreitet das äußere Magnetfeld zusammen mit dem Magnetfeld des Mantel die Koerzitivfeldstärke des Kerns, kommt es zur sprunghaften Ummagnetisierung des gesamten Kerns. Der Ummagnetisierungssprung ist mit einer Änderung des magnetischen Flusses verbunden und kann mit Hilfe einer Spule, die den Wiegand-Draht umgibt, als Spannungsimpuls nachgewiesen werden. Nun muss der Wiegand-Draht soweit magnetisiert werden, dass wieder Kern und Mantel in die gleiche Richtung polarisiert sind. Hierzu ist ein starkes Magnetfeld notwendig.
+
+Werden beide Pole eines Magneten am Wiegand-Sensor vorbeigeführt, so entstehen vier Signale, da zuerst der Kern und dann die Außenhaut des Drahtes ummagnetisiert wird. Ebenso ist es möglich, den Wiegand-Sensor auch durch ein fremderzeugtes Feld jeweils wieder zurückzusetzen.
+
+Auf Grund der Formanisotropie hat der Werkstoff nur einen weissschen Bezirk und es existieren somit fast rechteckige Hysteresekurven.
+
+Durch Kaltumformung und anschließendes Tempern wird ein dünner Draht erzeugt (Durchmesser ca. 300 µm). Der Kern des Drahtes ist durch das besondere Herstellungsverfahren weichmagnetisch, während die Außenhaut hartmagnetisch ist. Die Herstellung bedingt auch, dass die magnetischen Momente in der Achsrichtung orientiert sind.
+
+Verwendung findet der Wiegand-Sensor unter anderem in Zugangskarten, Drehgebern sowie Weg- und Näherungssensoren.
+
+In eine Zugangskarte (Türkarte) werden eine Reihe von kurzen Wiegand-Drähten eingebettet. Ein Lesegerät erkennt beim Durchziehen die Impulse der Wiegand-Drähte und vergleicht sie mit dem vorher gespeicherten Referenzmuster. Weitere Sicherheitsmerkmale wie ein Magnetstreifen können zusätzlich aufgebracht und abgefragt werden. Durch die komplizierte Herstellung des Wiegand-Drahtes gelten die Wiegand-Karten als relativ fälschungssicher.
+
+Eine Reihe von Wiegand-Drähten wird entlang des äußeren Umfangs eines Polrades eingebettet. Ein extern angebrachter Lesekopf erfasst die Pulse der Wiegand-Drähte.
+
+Hierbei werden Wiegand-Sensoren genutzt, um bei magnetischen Multiturn-Absolutwertgebern die Erfassung der Umdrehungen im spannungslosen Zustand zu realisieren. Wird die Welle des Drehgebers gedreht, erzeugt ein darauf angebrachter Magnet ein veränderliches Magnetfeld am ortsfest angebrachten Wiegand-Sensor. Die dadurch erzeugten Spannungspulse werden dazu verwendet, die Umdrehungen in einem nichtflüchtigen Speicher zu speichern. Dieser Mechanismus arbeitet auch bei sehr langsamen Drehzahlen, er löst das sonst zur Speicherung der Umdrehungen verwendete Getriebe / Batterie ab.
+
+
+
+
+Hufeisenmagnet
+
+Als Hufeisenmagnet bezeichnet man einen Magneten, der ungefähr die Form eines Hufeisens hat. Den Hufeisenmagnet zeichnet insbesondere das stark konzentrierte Magnetfeld zwischen seinen "Schenkeln" aus. Abseits der beiden Pole fällt das Magnetfeld schnell ab. Ein Hufeisenmagnet ist im Prinzip ein gebogener Stabmagnet.
+
+
+
+
+
+Magnetischer Widerstand
+
+Der magnetische Widerstand oder auch Reluktanz formula_1 ist der Proportionalitätsfaktor zwischen der magnetischen Spannung formula_2 und dem magnetischen Fluss formula_3 in der Form:
+
+Die Gleichung wird nach John Hopkinson als das hopkinsonsche Gesetz bezeichnet und hat eine ähnliche Form wie das ohmsche Gesetz für den elektrischen Stromkreis, wenn der magnetische Fluss formula_3 zur elektrischen Stromstärke formula_6 und die magnetische Spannung formula_2 zur elektrischen Spannung formula_8 in Analogie gesetzt werden. Der magnetische Widerstand ist nicht mit dem magnetoresistiven Effekt zu verwechseln, welcher einen elektrischen Widerstand beschreibt, der durch einen magnetischen Fluss beeinflusst wird.
+
+Aufgrund der historisch bedingten Begriffsbildung wird die magnetische Spannung formula_2 in der Fachliteratur manchmal auch als "magnetische Durchflutung" mit dem Formelzeichen formula_10 bezeichnet.
+
+Der magnetische Widerstand für ein Element mit gleichmäßigem magnetischem Fluss entspricht der Größe:
+
+Dabei entspricht
+
+Bei magnetischen Kreisen mit abschnittsweise konstanten magnetischen Leitwerten, Querschnitten und Längen können nach obiger Beziehung magnetische Teilwiderstände bestimmt werden. Die Rechenregeln zur Zusammenfassung dieser Widerstände sind dabei analog wie bei der Reihen- und Parallelschaltung von elektrischen Widerständen.
+
+Der Gesamtwiderstand im magnetischen Kreis ist zudem maßgeblich für dessen Induktivität formula_17 und magnetische Flussdichte formula_18.
+
+Magnetische Widerstände werden in der Theorie der magnetischen Kreise benutzt, die von John Hopkinson und seinem Sohn Edward Hopkinson am Ende des 19. Jahrhunderts entwickelt wurde. Die damals entwickelten Vorstellungen waren eine Grundlage für den Bau elektrischer Maschinen und werden auch heute noch zum Verständnis von einfachen magnetischen Kreisen benutzt.
+
+Der Kehrwert des magnetischen Widerstandes ist der magnetische Leitwert oder auch Permeanz formula_19.
+
+Die Einheit des magnetischen Widerstandes formula_1 im Internationalen Einheitensystem (SI) ist der Kehrwert der Einheit Henry und kann als H ausgedrückt werden. Die Einheit des magnetischen Leitwertes formula_19 ist das Henry.
+
+
+
+
+
+Magnetische Steifigkeit
+
+Die Magnetische Steifigkeit formula_1 beschreibt die Eigenschaft eines schnellen geladenen Teilchens, seine Bahn mehr oder weniger gut durch Magnetfelder 'biegen' zu lassen. Man erhält sie durch Gleichsetzen von Lorentzkraft und Zentripetalkraft:
+
+wobei
+Die magnetische Steifigkeit wird zumeist angegeben in Tm (Tesla mal Meter).
+
+Wichtig ist dieser Wert bei Teilchenbeschleunigern, insbesondere Synchrotrons und Zyklotrons: Je höher die Energie werden soll, desto größer werden die Geschwindigkeit und der Lorentzfaktor und damit die magnetische Steifigkeit. Da sich die Stärke des Magnetfelds jedoch "nicht" beliebig steigern lässt, muss stattdessen der Radius der Anlage entsprechend groß gewählt werden. Die stärksten Dipolmagnete heutiger Synchrotrone besitzen eine maximale Feldstärke von 8,6 T (siehe LHC).
+
+
+
+
+Spin-Glas
+
+Ein Spin-Glas (auch Spinglas, ) ist ein "bezüglich seiner Spinstruktur und der Position der Spins ungeordnetes" magnetisches System mit einer ungeordneten geometrischen Frustration. Diese ist ein quantifizierbares Maß für die Unfähigkeit des Systems, einen einfachen Spinzustand niedrigster Energie (Grundzustand) zu erreichen und kann auch ohne Verwendung des Energiebegriffs mathematisch präzise gefasst werden.
+
+Spin-Gläser (aber auch gewisse konventionell-geordnete Systeme) haben extrem viele metastabile Zustände, die auf experimentell zugänglichen Zeitskalen niemals alle durchlaufen werden können.
+
+Typische Ursache der Frustration ist bei Spin-Gläsern das "gleichzeitige" Vorliegen von
+
+Das Phänomen der „Frustration“ in dem oben angegebenen Sinn tritt z. B. auf, wenn eine ungerade Zahl von Spins "antiferromagnetisch" miteinander wechselwirken. Der Begriff wurde durch Ausnutzung von Querbeziehungen in modifizierter Form von dem Franzosen Gérard Toulouse aus der Hochenergiephysik übernommen (siehe Quantenchromodynamik und Wilson-Loop, nach dem amerikanischen Nobelpreisträger Kenneth Wilson).
+
+Bringt man ein Spin-Glas in ein (schwaches) äußeres Magnetfeld und zeichnet die Magnetisierung als Funktion der Temperatur auf, so beobachtet man oberhalb der Übergangstemperatur formula_1 ein „typisches“ magnetisch-ungeordnetes Verhalten (wie z. B. beim Paramagnetismus, aber auch andere Arten von Magnetismus sind möglich). Die Magnetisierung folgt dem Curie-Gesetz, gemäß dem die Magnetisierung umgekehrt proportional zur Temperatur ist. Unterschreitet die Temperatur die kritische Temperatur formula_1, so erreicht man die Spin-Glas-Phase, und die Magnetisierung wird praktisch "konstant". Ihr Wert wird als „“ bezeichnet. Wird das äußere Magnetfeld abgeschaltet, so fällt die Magnetisierung des Spin-Glases zunächst schnell auf die remanente Magnetisierung ab und nähert sich dann langsamer der Null (oder einem kleinen Bruchteil der ursprünglichen Magnetisierung, dies ist noch nicht bekannt). Diese Abnahme ist "nicht" exponentiell und zeichnet Spin-Gläser aus. Messungen haben in der Größenordnung von Tagen kontinuierliche Veränderungen der Magnetisierung oberhalb der Rauschgrenze der Messgeräte gezeigt.
+
+Im Gegensatz zum Spin-Glas fällt bei einem Ferromagneten die Magnetisierung nach Abschalten des äußeren Feldes auf einen bestimmten Wert ab (remanente Magnetisierung), der im weiteren Zeitverlauf konstant bleibt. Bei einem Paramagneten fällt die Magnetisierung bei Abschalten des äußeren Feldes schnell auf Null ab. In beiden Fällen erfolgt der Abfall exponentiell mit sehr kleiner Zeitkonstante.
+
+Kühlt man ein Spin-Glas ohne äußeres Feld unter die Übergangstemperatur ab und bringt es danach in ein Magnetfeld, so steigt die Magnetisierung schnell auf die Nullfeld-gekühlte Magnetisierung, die niedriger ist als die oben angegebene „feldgekühlte Magnetisierung“, und nähert sich danach langsamer dem Field-cooled-Wert an.
+
+In der Theorie der Spin-Gläser benutzt man durchweg stark vereinfachte Modelle, die aber das Wesentliche beschreiben sollen (man unterscheidet also "relevante" und "irrelevante" Eigenschaften).
+
+Zum Beispiel beschreibt man im Edwards-Anderson-Modell die Spin-Gläser durch ein Spinmodell mit Ising-Freiheitsgraden und von Ort zu Ort "zufällig" verteilten Wechselwirkungskonstanten formula_3 Als Zufallsverteilung benutzt man dabei Gauß’sche Normalverteilungen, und es werden nur "Nächste-Nachbar-Wechselwirkungen" berücksichtigt.
+
+Gibt man die zuletzt genannte Beschränkung auf, so erhält man das stark untersuchte Sherrington-Kirkpatrick-Modell (nach David Sherrington und Scott Kirkpatrick 1975).
+
+Noch einfacher ist das ±1-Spin-Glas, bei dem man annimmt, dass man es nur mit binären Spin-Freiheitsgraden der Art formula_4 zu tun hat, wobei "positive" und "negative Wechselwirkungen" mit übereinstimmendem Betrag gleich häufig sind.
+
+Ein großer Teil der frühen theoretischen Arbeiten über Spin-Gläser benutzt eine Form der Mean-Field-Theorie, basierend auf einem Satz von "Replikas" der Zustandsfunktion des Systems.
+
+Ein wichtiges, "scheinbar" (!) auf einfache Weise exakt lösbares Modell eines Spin-Glases wurde von Sherrington und Kirkpatrick eingeführt und führte zu beträchtlichen Erweiterungen der Mean-Field-Theorie zur Beschreibung der langsamen Dynamik der Magnetisierung und des komplexen nicht-ergodischen Gleichgewichtszustands.
+
+Anstelle der von Sherrington und Kirkpatrick angegebenen Lösung ihres Modells trat eine von Giorgio Parisi abgeleitetes komplizierteres Resultat, mit einer Ordnungsparameter-"Funktion" formula_5 anstelle des sonst üblichen einfachen Ordnungsparameters formula_6. Parisi fand in diesem Zusammenhang auch ein spezielles hierarchisches Verfahren zur „Replika-Symmetriebrechung“, das über die Spin-Glas-Theorie hinaus auch in anderem Zusammenhang Anwendung gefunden hat (siehe unten).
+
+Das nicht-ergodische Verhalten des Systems unterhalb der Freezing-Temperatur formula_1 besteht darin, dass das System bei diesen Temperaturen in den tiefen Tälern der sich ergebenden hierarchisch-ungeordneten Energielandschaft „hängen bleibt“.
+
+Obwohl Spin-Glas-Magnetismus typischerweise nur unter einer Temperatur von etwa 30 Kelvin (≈ −240 Grad Celsius) auftritt und somit für die Praxis als völlig nutzlos erscheint, hat er in anderem Zusammenhang, z. B. in der Theorie der sog. neuronalen Netze, d. h. in der theoretischen Hirnforschung, Anwendung gefunden. Das Gleiche gilt auch für die mathematisch-wirtschaftswissenschaftliche Optimierungstheorie.
+
+
+
+
+
+
+Rayleigh-Gesetz (Magnetismus)
+
+Das Rayleigh-Gesetz (benannt nach seinem Entdecker John William Strutt, 3. Baron Rayleigh) beschreibt die Änderung der Magnetisierung von ferromagnetischem Material bei magnetischen Feldstärken formula_1 kleiner als die Koerzitivfeldstärke formula_2
+
+Ferromagnetische Materialien bestehen aus weissschen Bezirken, welche durch Bloch-Wände voneinander getrennt sind. Wird nun ein kleines magnetisches Feld formula_3 an das Material angelegt, so wachsen diese weissschen Bezirke, da die Bloch-Wände sich verschieben. Rayleigh leitete daraus die lineare und quadratische Abhängigkeit der Magnetisierung formula_4 von der Feldstärke her:
+
+mit
+
+In analoger Weise kann das Rayleigh-Gesetz auch verwendet werden, um die Änderung der elektrischen Polarisation von ferroelektrischem Material bei kleinen elektrischen Feldern zu beschreiben.
+
+
+
+
+
+
+Scherung (Magnet)
+
+Als magnetische Scherung bezeichnet man die Selbstentmagnetisierung eines Permanentmagneten bei der Entnahme aus dem geschlossenen magnetischen Kreis, der zur Magnetisierung benutzt wurde.
+
+Beim Magnetisieren eines Dauermagneten wird dieser in einen geschlossenen Ring von Flussleitstücken (Weicheisenteilen) gebracht, in denen durch Magnetisierspulen ein starkes Magnetfeld erzeugt wird, das "magnetisierende Feld". Der magnetische Fluss wird von den Flussleitstücken konzentriert und durch den Magneten geleitet, wodurch dieser selbst magnetisiert wird.
+
+Durch die Entnahme aus dem geschlossenen Magnetkreis kann der magnetische Fluss nicht mehr wie vorher nahtlos aus den Kontaktflächen des Magneten in die Flussleitstücke aus- bzw. aus den Leitstücken wieder in den Magneten eintreten. Die nun im Magneten vorhandenen magnetischen Momente müssen vielmehr im umgebenden Luftraum, den bisher nur der Fluss eines geringfügigen Streufeldes durchsetzte, ein neues Magnetfeld aufbauen. An den Kontaktflächen bilden sich zwei Pole, aus denen die Feldlinien bzw. der magnetische Fluss austreten, um den Magneten herumlaufen und wieder eintreten. Die Energie dazu kommt aus der Magnetisierung des Magneten, die sich damit verringert. Dieser Prozess wird Scherung oder Selbstentmagnetisierung genannt und führt dazu, dass kein (aus dem Magnetkreis ausgebauter) Permanentmagnet tatsächlich die für sein Material angegebene Remanenzflussdichte besitzt.
+
+Die Stärke der Scherung hängt ab
+Deshalb müssen hochremanente Magnete eher zylindrisch dimensioniert werden, niedrigremanente Magnete können hingegen auch sehr flach ausgeführt werden, ohne dass es zu nennenswerten Scherungsverlusten kommt.
+
+
+
+
+Steinmetzformel
+
+Mit der Steinmetz-Formel lassen sich Kernverluste induktiver Bauelemente berechnen. Sie trägt den Namen ihres Entdeckers, des deutsch-amerikanischen Ingenieurs Karl Steinmetz, der als erster diese Verluste durch Hysterese und Wirbelströme berechnete.
+
+Wirbelströme, die in den Eisenkernen von Transformatoren sowie den eisernen Spulenkörpern von Generatoren beziehungsweise Elektromotoren auftreten, verursachten in den Anfängen der Elektrotechnik große Probleme, weil sie zum einen den Wirkungsgrad der Anlagen verschlechterten und zum anderen zu einer Erwärmung der Bauteile führten. Der Aufbau der Spulenkörper aus voneinander isolierten Eisenplättchen anstelle eines massiven Eisenkörpers verringerte zwar die Wirbelströme, dennoch wurde in den Transformatoren viel elektrische Energie in Wärme umgewandelt. Weil nämlich die Eisenkerne des Transformators unter dem Einfluss des magnetischen Wechselfeldes der Spulen magnetisiert werden und die Magnetisierung nicht vollständig zurückgeht, wenn das Magnetfeld seine Richtung im Takt der Wechselstrom-Frequenz ändert, bleibt eine Restmagnetisierung bestehen. Die sogenannte Remanenz muss durch das umgepolte Magnetfeld erst überwunden werden, woraus die zusätzlichen Wärmeverluste entstehen. Die Lösung hierfür fand Karl Steinmetz in der Hysterese.
+
+Die Atome ferromagnetischer Materialien haben ein magnetisches Moment. Im unmagnetisierten Zustand sind die magnetischen Momente der Atome in alle Raumrichtungen ausgerichtet, wobei Atome in begrenzten Zellen (Weiß’sche Zellen) eine Vorzugsrichtung aufweisen. Die Grenzen dieser Zellen bezeichnet man als Blochwände. Legt man nun ein externes magnetisches Feld an, werden die magnetischen Momente entlang der Magnetfeldrichtung ausgerichtet, indem die Weiß’schen Zellen mit magnetischem Moment in Feldrichtung auf Kosten benachbarter Zellen wachsen. Man spricht auch vom Verschieben von Blochwänden. In bestimmten Grenzen ist dies ein reversibler Prozess. Bei Erhöhung der Feldstärke springen die Blochwände von Fehlstelle zu Fehlstelle, was nicht mehr reversibel ist. Sind alle Zellen ausgerichtet, werden bei einer weiteren Erhöhung des Magnetfeldes die magnetischen Momente aus ihrer Kristallrichtung in die Feldrichtung gedreht. Dieses Verhalten, man spricht hier von Drehprozessen, spiegelt sich in der Hysterese-Kurve (auch B-H-Kurve genannt) wider, deren Verlauf materialabhängig ist.
+
+Im unteren Bereich der Neukurve herrschen reversible Blochwand-Verschiebungen vor. Im mittleren Bereich, in dem die magnetische Flussdichte formula_1 nahezu linear mit der magnetischen Feldstärke formula_2 wächst, erkennt man die irreversiblen Sprünge der Blochwände. Im Sättigungsbereich, bei dem das Ansteigen der magnetischen Flussdichte sehr viel langsamer erfolgt, herrschen die Drehprozesse vor. Zum Erreichen der Sättigungsflussdichte muss eine Sättigungsfeldstärke formula_3 anliegen. Bei Reduzierung der Feldstärke bleiben viele der verschobenen Blochwände an Fehlstellen hängen, die magnetische Flussdichte nimmt entlang einer anderen Kurve ab. Es ist noch magnetischer Fluss vorhanden, auch wenn die Feldstärke auf Null zurückgegangen ist. Um die sogenannte Remanenzflussdichte formula_4 auf Null zurückzusetzen, muss man eine bestimmte negative Feldstärke aufbringen, die Koerzitivfeldstärke formula_5.
+
+Steinmetz erkannte, dass die Fläche innerhalb der Hysterese-Kurve den Kernverlusten (in mW pro cm) pro Zyklus entspricht und setzte diese Tatsache in folgende Formel um:
+Dabei ist formula_7 die mittlere Verlustleistung pro Volumeneinheit, formula_1 der Spitzenwert der Induktion, formula_9 die Kernkonstante und formula_10 die Frequenz der sinusförmigen Messspannung. Die Koeffizienten formula_11 und formula_12 sind materialabhängig. Bei Ferriten beispielsweise liegt der Koeffizient formula_11 zwischen 1,1 und 1,9, der Koeffizient formula_12 im Bereich von 1,6 bis 3.
+
+Anhand der „einfachen“ Steinmetz-Formel lassen sich die Kernverluste von Induktivitäten berechnen, deren Kernbauformen auf Industriestandard basieren. Diese Standardkerne weisen die gleiche Geometrie auf, weshalb auch ihre Kernkonstanten identisch sind. Lediglich die entsprechenden Materialcharakteristika müssen in die Gleichung eingesetzt werden. Eine Ausnahme dabei bilden allerdings Komposit-Induktivitäten, denn auch bei gleicher Kerngröße variieren bei diesen Bauelementen die Geometrieparameter je nach Induktivitätswert. Der Grund: Anders als bei Ringkernkonstruktionen oder den sogenannten E-Kernen wird bei einer Komposit-Induktivität der Kupferdraht zunächst zu einer Luftspule gewickelt. Da jede Spule einen anderen Durchmesser und eine andere Höhe aufweist, gelten für jede Induktivität andere Geometrieparameter und die Kernkonstanten müssen individuell ermittelt werden.
+
+Komposit-Induktivitäten werden häufig in nicht galvanisch getrennten DC/DC-Wandlern eingesetzt, welche nicht mit sinusförmigem Wechselstrom, sondern mit gepulstem Gleichstrom arbeiten. Zu der Tatsache, dass der für den Kernverlust mitverantwortliche Strom nun einen dreieckigen Zeitverlauf ausweist, gesellt sich noch ein weiterer Verlustfaktor: Der Einfluss der Betriebstemperatur. Weil DC/DC-Wandler immer öfter auch bei höheren Umgebungstemperaturen zum Einsatz kommen, muss die Induktivität nicht nur den Temperaturanstieg infolge interner Leistungsverluste verkraften, sondern auch höhere Umgebungstemperaturen. Dies beeinflusst den Eisenkern dahingehend, dass Eisenpulver bei höheren Temperaturen schneller altert, wodurch die Kernverluste steigen. Um die Auswirkungen der thermischen Alterung zu minimieren, empfiehlt es sich, die maximale Betriebstemperatur der Induktivität unter +125 °C zu halten. Um die Betriebsbedingungen an den oberen Temperaturgrenzen der jeweiligen Anwendung / Schaltung zu bestimmen, kann die für sinusförmige Signale geltende Steinmetz-Formel auch unter Berücksichtigung der vorherrschenden Temperaturen angewandt werden:
+
+formula_11 und formula_12 sind wieder die sogenannten Steinmetz-Frequenz- beziehungsweise Steinmetz-Induktionskoeffizienten, welche für Betriebsbedingungen spezifiziert sind, formula_9, formula_19, formula_20 und formula_21 sind Materialkonstanten, formula_10 die Frequenz und formula_23 die Betriebstemperatur.
+
+Für nicht sinusförmige Signale gilt:
+
+Das sogenannte „Volt-µsec-Produkt“ gibt den Maximalwert an, bis zu dem Speicherdrosseln aufgrund ihrer magnetisch wirksamen Fläche angesteuert werden können. Oder anders ausgedrückt: je höher das Volt-µsec-Produkt, desto höher die Verluste. Mit zunehmender Schaltfrequenz wird das notwendige Vµsec-Produkt der Speicherdrossel geringer; mit steigender Eingangsspannung jedoch größer. Da zur Berechnung der Kernverluste neben dem Volt-µsec-Produkt auch das Tastverhältnis (Duty-Cycle) und die Arbeitsfrequenz der Schaltung essenziell sind, haben diese auch Einfluss auf die Genauigkeit der Steinmetz-Formel. Die Genauigkeit der Steinmetz-Formel ist bei einem Duty-Cycle von 50 % schon geringer, bei kleinen oder großen Duty-Cyclen können Fehler von über 100 % entstehen.
+Ebenso führen eine Vernachlässigung der Harmonischen oder der DC-Vormagnetisierung zu Ungenauigkeiten bei den errechneten Kernverlusten.
+Ursachen dafür sind, dass sich eine andere B-H-Kurve einstellt, dass sich ein falsches Vμsec-Produkt ergibt und die Temperaturabhängigkeit nicht berücksichtigt wird.
+
+Um Entwicklern die Auswahl der passenden Induktivitäten zu erleichtern beziehungsweise die in Frage kommenden Bauelemente einzugrenzen, bieten einige Hersteller passiver Bauelemente Tools zur Berechnung an, mit denen sich auch die zu erwartenden Kernverluste ermitteln lassen.
+
+
+
+
+Elektropermanentmagnet
+
+Ein Elektropermanentmagnet ist ein spezieller Magnet, dessen äußere Magnetwirkung mit einem Stromimpuls ein- und ausgeschaltet werden kann. 
+
+Er besteht aus einem Elektromagnet mit einem Kern aus magnetisch semihartem Material und einem Permanentmagnet (aus magnetisch hartem Material). Ist der semiharte Kern gegenläufig zum harten Kern magnetisiert, so heben sich deren magnetische Wirkungen nach außen hin auf. Wird der semiharte Kern gleichläufig zum Permanentmagneten magnetisiert, so ist außen eine Magnetwirkung vorhanden. Es handelt sich damit um einen bistabilen Magneten. Elektrische Energie wird nur zur Umschaltung zwischen den beiden Zuständen benötigt.
+Elektropermanentmagneten spielen unter anderem in der Forschung um modulare Kleinstroboter eine große Rolle.
+
+
+
+
+
+Boolesches Netzwerk
+
+Boolesche Netzwerke bezeichnen ein Modell aus der Statistischen Physik. Sie können als Generalisierung des Ising-Modells verstanden werden, nämlich als eine Spin-Dynamik auf einem Digraph formula_1. Jedem Knoten formula_2 sind dabei sowohl ein boolescher Zustand (oder Spin) als auch eine Boolesche Funktion über die Zustände der eingehenden Knoten zugeordnet. 
+
+Diese Aktualisierungsregeln definieren die Systemdynamik, die trotz einfacher Regeln nicht trivial ist. Der Arzt Stuart Kauffman war 1969 der erste Wissenschaftler, der Boolesche Netzwerke als Modell für genetische Netzwerke vorschlug und zwar für den Spezialfall, dass es formula_3 Knoten (oder Gene) gibt die jeweils exakt von formula_4 anderen Knoten abhängen, deswegen wird diese Variation auch formula_3-formula_4-Modell genannt. Obwohl Boolesche Netzwerke durch einfache Regeln definiert sind, wurde die Systemdynamik erst nach 2000 mathematisch verstanden.
+
+Obwohl Boolesche Netzwerke eine starke Vereinfachung darstellen (Gene sind nie einfach nur "an" oder "aus"), gibt es viele Beispiele, in denen ein Boolesches Modell die richtige Abfolge der Schaltereignisse in einem genetischen Netzwerk vorhersagt.
+
+Netzwerke sind eine Möglichkeit, die Eigenschaften komplexer Systeme zu untersuchen. Die Topologie eines Graphen spiegelt dabei wider, wie die verschiedenen Einheiten des Systems miteinander wechselwirken. Eine zusätzlich zu der Topologie definierte Dynamik kann dabei entweder die Kanten des Graphen im Laufe der Zeit verändern (Dynamik "vom" Netzwerk) oder nur die Werte der Knoten (Dynamik "auf dem" Netzwerk). Bei Booleschen Netzwerken handelt es sich um die zweite Variante.
+
+Eine wichtige Fragestellung bei der Untersuchung Boolescher Netzwerke ist, die globalen Eigenschaften eines gegebenen Ensembles zu analysieren. Die Zahl und die Länge der Attraktoren sind eine Möglichkeit, die globalen Eigenschaften zu quantifizieren. Die Herausforderung ist dabei, dass der Zustandsraum extrem schnell wächst, nämlich mit formula_7. Auch mit modernen Computern sind die Speichergrenzen schnell erreicht. Das einfachste Ensemble sind die zufälligen Booleschen Netzwerke (englisch: , RBN). Hier ist die Graph-Topologie ein Erdős-Rényi-Zufallsgraph. Für RBNS gab es viele Versuche, die Verteilung der Attraktoren mittels Mittelwerte in Abhängigkeit von der Anzahl formula_3 der Knoten zu charakterisieren.
+
+
+
+
+Elektrodynamischer Auftrieb
+
+Elektrodynamischer Auftrieb (, EDS) ist eine Ausprägung der magnetischen Levitation, in der sich eine abstoßende Kraft aus der Wechselwirkung induzierter Ströme mit einem magnetischen Wechselfeld ergibt.
+
+Das magnetische Wechselfeld, welches die induzierten Ströme verursacht, kann z. B. durch eine Relativbewegung eines Dauermagneten über einer elektrisch leitfähigen Platte, beispielsweise eine Aluminiumplatte, oder durch das Anlegen von Wechselspannung an ein Spulensystem, z. B. eines Linearstators, erzeugt werden.
+
+Der einfachste Fall einer elektrodynamischen Lagerung ist, wenn sich ein Permanentmagnet über einer leitfähigen Metallplatte bewegt. In der Platte werden Wirbelströme erzeugt, und diese erzeugen wiederum eine abstoßende Lorentzkraft mit dem Magnetfeld des Permanentmagneten. Außerdem ergibt sich eine abbremsende Kraft entgegen der Bewegungsrichtung der Magnete. Eine solche Anordnung mit Permanentmagneten kommt in dem experimentellen Magnetschwebebahn-System Inductrack zum Einsatz. In einem Halbach-Array könnte es weiters für zukünftigen Hochgeschwindigkeitsverkehr wie der Hyperloop zur Anwendung kommen.
+
+Eine Linearasynchronmaschine besteht aus einem Linearstator und einer Sekundärseite, in der Ströme induziert werden. Im einfachsten Fall besteht die Sekundärseite nur aus einer leitfähigen Platte. Das sich bewegende Magnetfeld des Linearstators erzeugt Wirbelströme in der Platte und es ergibt sich eine Schub-, sowie Auftriebskraft. Damit kann diese Anordnung zum Elektrodynamischen Schweben sowie zum Antrieb eingesetzt werden.
+
+Elektrodynamische Lagerungen ("electrodynamic bearings", EDB) sind mechanische Lagerungen, welche nicht nur eine Auftriebskraft, sondern eine Rückstellkraft erzeugen können. Damit können auch z. B. Radiallager realisiert werden. Elektrodynamische Lagerungen sind typischerweise von selbst dynamisch stabil und eine Regelung ist nicht erforderlich.
+
+
+
+
+Magnetfischen
+
+Magnetfischen, auch Magnetangeln, bezeichnet die Suche nach ferromagnetischen Gegenständen, meist mit einem aus einer Neodym-Eisen-Bor-Legierung bestehenden Dauermagneten, in Gewässern.
+
+Dabei wird der Magnet meistens mittels einer Schnur oder einem Seil befestigt und wiederholt ins Wasser geworfen.
+
+Die rechtliche Situation in Deutschland ist umstritten. Nicht endgültig geklärt ist, ob der eigentliche Akt des Magnetfischens illegal ist oder nur das Mitnehmen von gefundenen Objekten.
+
+Sollte man ein Bodendenkmal finden, gelten in Deutschland zwei alternative Regelungen: die Behandlung nach der „Hadrianischen Teilung“ oder die Behandlung nach dem Schatzregal. Von der Hadrianischen Teilung weichen die meisten Bundesländer durch die Öffnungsklausel in Art. 73 EGBGB ab und machen bei Bodendenkmälern vom staatlichen Aneignungsrecht Gebrauch. Der Finder unterliegt einer Anzeigepflicht nach allen Landesdenkmalschutzgesetzen. So schreibt § 11 Abs. 2 des Brandenburgischen Denkmalschutzgesetzes vor, dass der Entdecker, der Verfügungsberechtigte des Gewässers sowie der Leiter der Arbeiten, bei denen der Fund entdeckt wurde, eine Fundanzeige zu erstatten haben.
+
+In 15 der 16 deutschen Bundesländer enthalten die Denkmalschutzgesetze eine Vorschrift, die das Schatzregal vorsieht.
+
+Die einzige Ausnahme ist Bayern, das als einziges Land über kein Schatzregal verfügt. Es kann sich jedoch trotzdem herausragende Funde aufgrund anderer Bestimmungen (z. B. Ablieferung gegen Entschädigung) sichern und auch unabhängig von der Eigentumsfrage einer wissenschaftlichen Bearbeitung zuführen.
+
+Obwohl Magnetfischen in den meisten Fällen zu einem saubereren Gewässer beiträgt, kann es auch schädlich sein. So kann man dem biologischen Gleichgewicht schaden, wenn man zu Laichzeiten Magnetfischen betreibt. Dies gilt besonders für Gewässer mit bedrohten Arten.
+
+Immer wieder werden beim Magnetfischen Kampfmittel wie Munition oder Waffen, die in der Regel aus dem Ersten und Zweiten Weltkrieg stammen, geborgen. Durch Rost oder Verschmutzungen sind diese für Laien häufig nicht auf den ersten Blick als solche erkennbar und bergen ein starkes Gefährdungspotential. Die Hamburger Umweltbehörde warnt daher vor dem Magnetangeln und bezeichnet es als „gefährliches Hobby“.
+
+
+
+
+
+Gestörte Gamma-Gamma-Winkelkorrelation
+
+Die gestörte γ-γ-Winkelkorrelation, kurz PAC () oder PAC-Spektroskopie, ist eine Methode der nuklearen Festkörperphysik, mit der magnetische und elektrische Felder in Kristallstrukturen gemessen werden können. Dabei werden elektrische Feldgradienten und die Larmorfrequenz in Magnetfeldern sowie dynamische Effekte bestimmt. Mit dieser sehr sensitiven Methode, die nur ca. 10–1000 Milliarden Atome eines radioaktiven Isotops pro Messung benötigt, können Materialeigenschaften in der lokalen Struktur, Phasenübergänge, Magnetismus und Diffusion untersucht werden. Die PAC-Methode ist verwandt mit der Kernspinresonanz und dem Mößbauer-Effekt, jedoch zeigt sie keine Signalabschwächung bei sehr hohen Temperaturen. Heute wird hautsächlich die zeit-differenzielle PAC (TDPAC, ) verwendet. 
+
+PAC geht auf eine theoretische Arbeit von Donald R. Hamilton aus dem Jahr 1940 zurück. Das erste erfolgreiche Experiment wurde von Brady und Deutsch 1947 durchgeführt. Bei diesen ersten PAC-Experimenten wurden im Wesentlichen Spin und Parität von Kernspins untersucht. Es wurde jedoch früh erkannt, dass elektrische und magnetische Felder mit dem Kernmoment wechselwirken, was die Grundlage für eine neue Form der Materialuntersuchungen lieferte: Die nukleare Festkörperspektroskopie.
+
+Schritt für Schritt entwickelt sich die Theorie.
+Nachdem 1953 Abragam und Pound ihre Arbeiten über die Theorie von PAC veröffentlichten, die extranukleare Felder in der Theorie berücksichtigen, wurden danach viele Untersuchungen mit PAC durchgeführt.
+
+In den 1960er und 1970er Jahren stieg das Interesse an PAC-Experimenten stark an, deren Fokus hauptsächlich magnetische und elektrische Felder in Kristallen waren, in die die Sondenkerne eingebracht wurden. Mitte der 1960er Jahre wurde die Ionenimplantation entdeckt, die neue Möglichkeiten zur Probenherstellung ermöglichte. Die rasante elektronische Entwicklung der 1970er Jahre brachte deutliche Verbesserungen in der Signalverarbeitung. Von den 1980ern bis heute hat sich PAC als eine wichtige Methode zur Untersuchung und Charakterisierung von Materialien entwickelt, z. B. für die Untersuchung von Halbleitermaterialien, zwischenmetallischen Verbindungen, Oberflächen und Grenzflächen. Lars Hemmingsen et al. wendeten PAC zuletzt auch in biologischen Systemen an.
+
+Während bis ca. 2008 PAC-Instrumente konventionelle Hochfrequenzelektronik der 1970er Jahre verwendeten, wurde in 2008 durch Christian Herden und Jens Röder et al. das erste voll-digitalisierte PAC-Instrument entwickelt, dass umfangreiche Datenanalysen sowie den parallelen Einsatz mehrerer Sonden ermöglicht. Nachbauten und weitere Entwicklungen folgten.
+
+PAC nutzt radioaktive Sonden, die beim Zerfall einen Zwischenzustand mit Lebensdauern von 2 ns bis ca. 10 µs besitzen, siehe Beispiel In im Bild rechts. Nach dem Elektroneneinfang (EC, ) transmutiert Indium zu Cadmium. Unmittelbar danach befindet sich der Cadmium-Kern überwiegend im angeregten 7/2-Kernspin und nur zur einem ganz kleinen Teil im 11/2-Kernspin, letzterer soll nicht weiter betrachtet werden. Der 7/2 angeregte Zustand geht durch Aussenden eines γ-Quants mit 171 keV in den 5/2-Zwischenzustand über, der eine Lebensdauer von 84,5 ns besitzt und der sensitive Zustand für die PAC ist. Dieser Zustand wiederum zerfällt in den 1/2-Grundzustand durch aussenden eines γ-Quants mit 245 keV. PAC detektiert nun beide γ-Quanten und wertet das erste als Start-Signal, das zweite als Stop-Signal.
+Nun misst man die Zeit zwischen Start und Stopp für jedes Ereignis. Man spricht hier von einer Koinzidenz, wenn ein Start- und Stopp-Paar gefunden wurde. Da der Zwischenzustand nach den Gesetzen des radioaktiven Zerfalls zerfällt, erhält man nach dem Auftragen der Häufigkeit über der Zeit eine exponentielle Kurve mit der Lebensdauer dieses Zwischenzustandes. Aufgrund der nicht-kugelsymmetrischen Ausstrahlung des zweiten γ-Quants, die sogenannte Anisotropie, die eine intrinsische Eigenschaft des Kerns in diesem Übergang ist, kommt es mit den ihm umgebenden elektrischen oder/und magnetischen Feldern zu einer periodischen Störung (Hyperfeinwechselwirkung). Die Abbildung der Einzelspektren rechts zeigt den Effekt dieser Störung als Wellenverlauf auf dem exponentiellen Zerfall von je zwei Detektoren, ein Paar in 90° und eins in 180° zueinander. Die Wellenverläufe zu beiden Detektorpaaren sind gegeneinander verschoben. Sehr vereinfacht kann man sich vorstellen, dass ein fest stehender Beobachter einen Leuchtturm betrachtet, dessen Lichtintensität periodisch heller und dunkler wird. Entsprechend „sieht“ eine Detektoranordnung, meist 4 Detektoren in planarer 90°-Anordnung oder 6 Detektoren in oktaedrischer Anordnung, die Rotation des Kerns in Größenordnungen von MHz bis GHz.
+
+Nach der Anzahl n der Detektoren, ergibt sich die Anzahl der Einzelspektren ("z") nach "z"="n"²−"n", für "n"=4 daher 12 und für "n"=6 somit 30. Um ein PAC-Spektrum zu erhalten, werden die 90°- und 180°-Einzelspektren so miteinander verrechnet, dass die exponentiellen Funktionen sich aufheben und zusätzlich die unterschiedlichen Detektoreigenschaften sich herauskürzen. Es bleibt die reine Störfunktion übrig, wie in dem Beispiel eines komplexen PAC-Spektrums gezeigt ist. Seine Fouriertransformation ergibt die Übergangsfrequenzen als Peaks.
+
+formula_1, das Zählratenverhältnis wird wie folgt berechnet: 
+
+Je nach Spin des Zwischenzustandes zeigen sich eine unterschiedliche Anzahl von Übergangsfrequenzen. Für 5/2 Spin sind 3 Übergangsfrequenzen zu beobachten mit dem Verhältnis ω+ω=ω. Für jeden zugehörigen Gitterplatz der Einheitszelle ist in der Regel eine andere Kombination von 3 Frequenzen zu beobachten.
+
+PAC ist eine statistische Methode: Jedes radioaktive Sondenatom sitzt in seiner eigenen Umgebung. In Kristallen sind aufgrund der hohen Regelmäßigkeit der Anordnung der Atome oder Ionen die Umgebungen identisch oder sehr ähnlich, so dass Sonden auf identischen Gitterplätzen die gleiche Störgröße erfahren, die dann erst in einem PAC-Spektrum messbar wird. Befinden sich die Sonden hingegen in sehr unterschiedlichen Umgebungen, wie z. B. in amorphen Materialien, ist in der Regel eine breite Frequenzverteilung oder gar keine erkennbar und das PAC-Spektrum erscheint flach, ohne Frequenzverlauf. Bei Einkristallen können je nach Orientierung des Kristalls zu den Detektoren bestimmte Übergangsfrequenzen vermindert oder ausgelöscht werden, wie im Beispiel des PAC-Spektrums von Zinkoxid (ZnO) zu sehen ist.
+
+Beim typischen PAC-Spektrometer sind 4 Detektoren in planarer 90°- und 180°-Anordnung oder 6 Detektoren in oktaedrischer Anordnung um die Probe mit radioaktiver Quelle platziert. Als Detektoren werden Szintiallationskristalle aus BaF oder NaI verwendet. Bei modernen Instrumenten kommen heute überwiegend LaBr:Ce oder CeBr zum Einsatz. Photomultiplier wandeln die schwachen Lichtblitze in elektrische Signale um, die im Szintillator durch Gammastrahlung erzeugt wurden. In klassischen Instrumenten werden diese Signale verstärkt und in logischen UND/ODER Schaltungen in Kombination mit Zeitfenstern den verschiedenen Detektorkombinationen (für 4 Detektoren: 12, 13, 14, 21, 23, 24, 31, 32, 34, 41, 42, 43) zugeordnet und gezählt. Moderne digitale Spektrometer verwenden Digitizer-Karten, die das Signal direkt verwenden und in Energie- und Zeitwerte umwandeln und auf Festplatten speichern. Diese werden dann per Software nach Koinzidenzen durchsucht.
+Während bei klassischen Instrumenten für die jeweiligen γ-Energien begrenzende „Fenster“ vor der Verarbeitung gesetzt werden müssen, ist dies bei der digitalen PAC während des Aufzeichnens der Messung nicht notwendig und erfolgt erst im Analyseschritt. Bei Sonden mit komplexen Kaskaden ist es dadurch möglich, eine Datenoptimierung vorzunehmen oder mehrere Kaskaden parallel auszuwerten, sowie verschiedene Sonden gleichzeitig zu messen. Die dabei anfallenden Datenmengen können pro Messung zwischen 60 und 300 GB betragen.
+
+Als Materialien für die Untersuchung (Proben) eigenen sich prinzipiell alle Materialien, die fest und flüssig sein können. Je nach Fragestellung und Ziel der Untersuchung ergeben sich bestimmte Rahmenbedingungen. Für die Beobachtung klarer Störfrequenzen ist es aufgrund der statistische Methode notwendig, dass ein gewisser Anteil der Sondenatome sich in einer ähnlichen Umgebung befindet und z. B. denselben elektrischen Feldgradienten erfährt. Ferner darf sich während des Zeitfensters zwischen dem Start und Stop, oder grob ca. 5 Halbwertszeiten des Zwischenzustandes, die Richtung des elektrischen Feldgradienten nicht ändern. In Flüssigkeiten wird deshalb infolge der häufigen Stöße keine Störfrequenz messbar, es sei denn, die Sonde befindet sich komplexiert in großen Molekülen, wie z. B. in Proteinen. Die Proben mit Proteinen oder Peptiden werden zur Verbesserung der Messung meist eingefroren.
+
+Die am meisten untersuchten Materialien mit PAC sind Festkörper wie Halbleiter, Metalle, Isolatoren und verschiedene Arten funktioneller Materialien. Für die Untersuchungen liegen diese meist kristallin vor. Amorphe Materialien besitzen keine hochgeordneten Strukturen. Sie besitzen jedoch eine Nahordnung, die sich in der PAC-Spektroskopie als breite Verteilung von Frequenzen zeigen kann. Nano-Materialien haben nach dem Core-Shell-Modell einen kristallinen Kern und eine Hülle, die eine eher amorphe Struktur besitzt. Je kleiner das Nanoteilchen wird, um so größer wird der Volumenanteil dieses amorphen Anteils. In PAC-Messungen zeigt sich dies mit der Abnahme des kristallinen Frequenzanteils in einer Verringerung der Amplitude (Dämpfung).
+
+Die für eine Messung benötigte Menge an geeigneten PAC-Isotopen liegt zwischen ca. 10 bis 1000 Milliarden Atomen (10–10). Die richtige Menge hängt von den jeweiligen Eigenschaften des Isotops ab. 10 Milliarden Atome sind eine sehr kleine Stoffmenge. Zum Vergleich enthält ein Mol ca. 6,22·10 Teilchen. 10 Atome in einem Kubikzentimeter Beryllium ergeben eine Konzentration von ca. 8 nmol/L (Nanomol = 10 mol). Die radioaktiven Proben haben je eine Aktivität von 0,1–5 MBq, was in der Größenordnung der Freigrenze für das jeweilige Isotop liegt.
+
+Wie die PAC-Isotope in die zu untersuchende Probe gebracht werden, obliegt dem Experimentator und den technischen Möglichkeiten. Es sind folgende Methoden üblich:
+
+Bei der Implantation wird ein radioaktiver Ionenstrahl erzeugt, der auf das Probenmaterial gerichtet ist, wie z. B. an ISOLDE. Durch die kinetische Energie der Ionen (1–500 keV) fliegen diese in das Kristallgitter und werden durch Stöße abgebremst. Sie kommen entweder auf Zwischengitterplätzen zum Stehen oder stoßen ein Gitteratom von seinem Platz und ersetzen dieses. Dies führt zu einer Störung der Kristallstruktur. Diese Störungen können mit PAC untersucht werden. Durch Temperieren können diese Störungen ausgeheilt werden. Sollen hingegen Strahlendefekte im Kristall und deren Ausheilung untersucht werden, misst man unausgeheilte Proben, die dann schrittweise ausgeheilt werden.
+
+Die Implantation ist meist die Methode der Wahl, weil mit ihr sehr gut definierte Proben hergestellt werden können.
+
+Im Vakuum kann die PAC-Sonde auf die Probe aufgedampft werden. Die radioaktive Sonde wird dazu auf einer Heizplatte oder Glühlwendel aufgetragen, dort auf die Verdampfungstemperatur gebracht und auf dem gegenüberliegenden Probenmaterial kondensiert. Mit dieser Methode können z. B. Oberflächen untersucht werden. Weiterhin können durch Aufdampfen weiterer Materialien Grenzflächen hergestellt werden, deren Verhalten beim Temperieren mit PAC studiert werden kann. Ebenso kann die PAC-Sonde bei Sputtern übertragen werden mit Hilfe eines Plasmas.
+
+Bei der Diffusionsmethode wird die radioaktive Sonde meist in einem Lösungsmittel verdünnt auf die Probe aufgebracht, eingetrocknet und sie wird durch Temperieren in das Material eindiffundiert. Die Lösung mit der radioaktiven Sonde sollte dabei möglichst rein sein, da auch alle anderen Substanzen mit in die Probe eindiffundieren können und dadurch das Messergebnis beeinflusst wird. Die Probe sollte ausreichend in der Probe verdünnt sein. Daher sollte der Diffusionsvorgang sollte so geplant sein, dass eine möglichst gleichmäßige Verteilung oder ausreichende Eindringtiefe erreicht wird.
+
+PAC-Sonden können auch während der Synthese von Probenmaterialien beigegeben werden, um eine möglichst gleichmäßige Verteilung in der Probe zu erreichen. Diese Methode ist besonders gut geeignet, wenn beispielsweise die PAC-Sonde nur schlecht im Material diffundiert und eine höhere Konzentration an Korngrenzen zu erwarten ist. Da bei PAC nur sehr kleine Proben notwendig sind (ca. 5 mm), können Mikro-Ansätze verwendet werden. Ideal wird die Sonde der flüssigen Phase des Sol-Gel-Prozesses beigegeben oder einer der späteren Präkursor-Phasen.
+
+Bei der Neutronenaktivierung wird die Sonde direkt aus dem Probenmaterial hergestellt, indem durch Neutroneneinfang in sehr geringer Teil eines der Elemente des Probenmaterials in die gewünschte PAC-Sonde oder sein Mutterisotop umgewandelt wird. Wie auch bei der Implantation müssen Strahlenschäden ausgeheilt werden. Diese Methode beschränkt sich auf Probenmaterialien, die Elemente enthalten, aus denen durch Neutroneneinfang PAC-Sonden hergestellt werden können. Ferner können Proben mit solchen Elementen gezielt verunreinigt werden, das aktiviert werden soll. Beispielsweise eignet sich Hafnium für die Aktivierung ausgezeichnet wegen seines großen Einfangquerschnitts für Neutronen.
+
+Selten verwendet werden direkte Kernreaktionen, bei denen durch Beschuss durch hochenergetischen Elementarteilchen oder Protonen Kerne in PAC-Sonden umgewandelt werden. Hierbei treten große Strahlenschäden auf, die ausgeheilt werden müssen. Diese Methode wird bei PAD verwendet, die zu den PAC-Methoden gehört.
+
+Das aktuell weltweit größte PAC-Labor befindet sich an der ISOLDE im CERN mit ca. 10 Instrumenten, das wesentlich vom BMBF gefördert wird. An der ISOLDE werden radioaktive Ionenstrahlen hergestellt, indem Protonen aus dem Booster auf Target-Materialien (Urancarbid, flüssiges Zinn usw.) geschossen werden und die Spallationsprodukte bei hohen Temperaturen verdampft (bis zu 2000 °C), dann ionisiert und anschließend beschleunigt werden. Mit der anschließenden Massenseparation können meist sehr reine Isotopenstrahlen hergestellt werden, die in PAC-Proben implantiert werden können. Vom besonderem Interesse für die PAC sind dort kurzlebige Sonden wie: Cd, Hg, Pb, sowie verschiedene Sonden der seltenen Erden.
+
+Das erste formula_3-Quant (formula_4) wird isotop ausgestrahlt. Durch die Detektion dieses Quants in einem Detektor wird aus den vielen möglichen Richtungen eine Teilmenge herausgesucht, die eine gegebene Orientierung hat. Das zweite formula_3-Quant (formula_6) wird anisotop ausgestrahlt und zeigt den Effekt der Winkelkorrelation. Das Ziel ist relative Wahrscheinlichkeit formula_7 mit der Detektion von formula_8 im feststehenden Winkel formula_9 in Bezug zu formula_10 zu bestimmen (Störungstheorie). Die Wahrscheinlichkeit ist gegeben mit der Winkelkorrelation:
+
+Für eine formula_3-formula_3-Kaskade ist formula_14 gerade aufgrund der Konservierung der Parität sowie:
+Dabei ist formula_16 der Spin des Zwischenzustandes und formula_17 mit formula_18 die Multipolarität der zwei Übergänge. Für reine Multipolübergänge ist formula_19.
+
+formula_20 ist der Anisotropiekoeffizient, der abhängig ist vom Drehimpuls des Zwischenzustands und den Multipolaritäten des Überganges.
+
+Der radioaktive Kern ist für Untersuchungen im Probenmaterial eingebaut und sendet beim Zerfall zwei formula_3-Quanten aus. Während der Lebensdauer des Zwischenzustandes, also der Zeit zwischen formula_10 und formula_8, erfährt der Kern aufgrund der Hyperfeinwechselwirkung durch seine elektrische und magnetische Umgebung eine Störung. Durch diese Störung ändert sich die Winkelkorrelation nach:
+
+formula_25 ist der Störfaktor. Aufgrund der elektrischen und magnetischen Wechselwirkung erfährt der Drehimpuls des Zwischenzustandes formula_17 um seine Symmetrieachse ein Drehmoment. Quantenmechanisch bedeutet dies, dass die Wechselwirkung zu Übergängen zwischen dem M-Zuständen führt. Das zweite formula_3-Quant (formula_8) wird dann von einem Niveau mit geänderter Population ausgesandt. Diese Populationsänderung ist der Grund für die Dämpfung der Korrelation.
+
+Die Wechselwirkung findet zwischen dem magnetischen Kerndipolmoment formula_29 und dem Zwischenzustand formula_16 oder/und einem äußeren magnetischen Feld formula_31 statt. Die Wechselwirkung findet auch statt zwischen Kernquadrupolmoment und dem außerkernischen elektrischen Feldgradienten formula_32.
+
+Für die magnetische Dipolwechselwirkung ist die Frequenz der Präzession des Kernspins um die Achse des magnetischen Felds formula_31:
+
+formula_36 ist der Landé-Faktor und formula_37 ist das Kernmagneton.
+
+Mit formula_38 ergibt sich:
+
+Aus der allgemeinen Theorie wird dann erhalten:
+
+Für die magnetische Wechselwirkung ergibt sich dann:
+
+Die Energie der elektrischen Hyperfeinwechselwirkung zwischen der Ladungsverteilung des Kerns und dem extranuklearen statischen elektrischen Feld kann zu Multipolen erweitert werden. Der Monopolterm bewirkt lediglich eine Energieverschiebung und der Dipolterm verschwindet, sodass der erste relevante Expansionsterm der Quadrupolterm ist:
+
+Dieser kann als Produkt des Quadrupolmomentes formula_43 und des elektrischen Feldgradienten formula_44 geschrieben werden. Beide Tensoren sind von zweiter Ordnung. Höhere Ordnungen haben einen zu kleinen Effekt, um mit PAC gemessen werden zu können.
+
+Der elektrische Feldgradient ist die zweite Ableitung des elektrischen Potentials formula_45 am Kern:
+
+formula_44 wird so diagonalisiert, dass:
+
+Die Matrix ist spurenfrei im Hauptachsensystem (Laplace-Gleichung):
+
+Üblicherweise wird der elektrische Feldgradient mit dem größten Anteil formula_32 und formula_51 definiert:
+
+In kubischen Kristallen sind die Achsenparameter der Elementarzelle x,y,z gleich lang. Daher ist auch formula_54 und formula_55 In axialsymmetrischen Systemen ist ebenfalls formula_55.
+
+Für axialsymmetrische elektrische Feldgradienten nimmt die Energie der Unterzustände die Werte an:
+
+Die Energiedifferenz zwischen zwei Unterzuständen, formula_58 und formula_59, ist gegeben nach:
+
+Die Quadrupolfreuquenz formula_61 wird eingeführt.
+Die Formeln in den farbigen Rahmen sind wichtig für die Auswertung:
+
+In den Veröffentlichungen ist überwiegend formula_64 angegeben. formula_65 als Elementarladung und formula_66 als Planck-Konstante sind gut bekannt oder fest definiert. Das Kernquadrupolmoment formula_67 ist häufig nur sehr ungenau bestimmt (oft nur mit 2–3 Stellen). Da formula_64 viel genauer bestimmt werden kann als formula_67 ist aufgrund der Fehlerfortpflanzung es nicht sinnvoll, nur formula_32 anzugeben. Zudem ist formula_64 unabhängig vom Spin! Das Bedeutet, dass Messungen von zwei Isotopen desselben Elements miteinander vergleichen werden können, wie z. B. Hg(5/2−), Hg(5/2−) und Hg(9/2−). Weiterhin kann formula_64 als Fingerprint-Methode eingesetzt werden.
+
+Die Energiedifferenz ergibt sich dann nach:
+
+Wenn formula_55 ist, gilt:
+mit:
+Für ganzzahlige Spins gilt:
+Für halbe Spins gilt:
+
+Für den Störfaktor ergibt sich:
+
+mit dem Faktor für die Gewichtung der beobachteten Frequenzen:
+
+Was die magnetische Dipolwechselwirkung betrifft, induziert auch die elektrische Quadrupolwechselwirkung eine Präzision der Winkelkorrelation in der Zeit und dies moduliert die Quadrupolwechselwirkungsfrequenz. Diese Frequenz ist eine Überlappung der verschiedenen Übergangsfrequenzen formula_83. Die relativen Amplituden der verschiedenen Komponenten hängen von der Ausrichtung des elektrischen Feldgradienten relativ zu den Detektoren (Symmetrieachse) und vom Asymmetrieparameter formula_51 ab. Für eine Untersuchung mit verschiedenen Kernen benötigt man einen Parameter, der einen direkten Vergleich ermöglicht: Daher wird die vom Kernspin formula_85 unabhängige Quadrupolekopplungskonstante formula_64 eingeführt.
+
+Wenn am radioaktiven Kern gleichzeitig eine magnetische und elektrische Wechselwirkung vorliegt, ergeben sich kombinierte Wechselwirkungen, wie oben beschrieben. Dies führt zu Aufspaltung der jeweils beobachteten Frequenzen. Die Analyse ist gegebenenfalls nicht trivial aufgrund der hohen Anzahl von Frequenzen, die zugeordnet werden müssen. Diese hängen dann jeweils von der Richtung des elektrischen und magnetischen Feldes zueinander im Kristall ab. PAC ist eine der wenigen Methoden, mit der diese Richtungen bestimmt werden können.
+
+Fluktuiert während der Lebensdauer formula_87 des Zwischenniveaus das Hyperfeinfeld aufgrund von Sprüngen der Sonde in eine andere Gitterposition oder von Sprüngen eines nahen Atoms in eine andere Gitterposition, so geht die Korrelation verloren. Für den einfachen Fall mit einem ungestörten Gitter kubischer Symmetrie gilt bei einer Sprungrate von formula_88 für formula_89 äquivalente Plätze eine exponentielle Dämpfung des statischen formula_90-Terms:
+
+Hier ist formula_93 eine zu bestimmende Konstante, die nicht mit der Zerfallskonstante formula_94 verwechselt werden darf. Bei großen Werten von formula_95, ist nur noch der reine exponentielle Abfall zu beobachten:
+
+Der Grenzfall nach Abragam-Pound ergibt sich für formula_93, wenn formula_98 ist:
+
+Kerne, die vor der formula_3-formula_3-Kaskade transmutieren, führt dies meist zu einer Ladungsänderung in ionischen Kristallen (In zu Cd). In der Folge muss das Gitter auf diese Änderungen reagieren. Dabei können auch Defekte oder Nachbarionen wandern. Ebenso kann durch den hochenergetischen Zerfallsprozeß durch den Auger-Effekt der Kern in höhere Ionisierungszustände gebracht werden. Die Normalisierung des Ladungszustandes hängt dann von der Leitfähigkeit des Materials ab. In Metallen findet der Prozess sehr schnell statt. In Halbleitern und Isolatoren dauert dies erheblich länger. Bei all diesen Prozessen ändert sich das Hyperfeinfeld. Fällt diese Änderung in die formula_3-formula_3-Kaskade, kann sie als Nacheffekt (engl: ) beobachtet werden.
+
+Die Anzahl der Kerne im Zustand (a) im Bild rechts wird sowohl durch den Zerfall nach Zustand (b) als auch nach Zustand (c) depopuliert:
+
+mit: formula_105
+
+Daraus erhält man den exponentiellen Fall:
+
+Für die Gesamtzahl der Kerne im statischen Zustand (c) folgt dann:
+
+Die Anfangsbesetzungswahrscheinlichkeiten formula_108 ergeben sich für statische und dynamische Umgebung zu:
+
+In der allgemeinen Theorie ist für einen Übergang formula_111 gegeben:
+
+mit:

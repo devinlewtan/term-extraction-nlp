@@ -1,0 +1,7 @@
+Dioptrik
+
+Dioptrik (früher "Anaklastik") ist das Teilgebiet der Optik, das sich mit lichtbrechenden Systemen beschäftigt. Es grenzt sich ab von der Katoptrik, die sich mit spiegelnden Systemen befasst. Die lateinische Form „Dioptrice“ ist der Titel eines bedeutenden Werks von Johannes Kepler über das Fachgebiet. 
+
+In der Lichtmikroskopie werden Kondensoren, die aus Glaslinsen bestehen, als dioptrisch bezeichnet, um sie von katoptrischen abzugrenzen, die aus Spiegeln bestehen. Dioptrische Kondensoren sind also der Normalfall. Allvar Gullstrand erhielt 1911 den Nobelpreis für Physiologie oder Medizin „für seine Arbeiten über die Dioptrik des Auges“.
+
+Ein katadioptrisches System, zum Beispiel ein katadioptrisches Teleskop, hat sowohl reflektierende (katoptrische) als auch brechende (dioptrische) Elemente. Weitere Beispiele sind Spiegellinsenobjektive und Katadioptrische Dialyte.

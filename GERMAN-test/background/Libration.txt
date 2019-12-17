@@ -1,0 +1,11 @@
+Libration
+
+In der Astronomie bezeichnet Libration eine echte oder scheinbare Taumelbewegung eines Mondes, gesehen von seinem Zentralkörper.
+
+Fast alle größeren Monde des Sonnensystems befinden sich in einer gebundenen Rotation um ihren Zentralplaneten, das heißt, sie drehen sich während eines Umlaufs um den Planeten auch einmal um die eigene Achse. Deshalb wenden diese Monde ihrem Planeten im Prinzip immer dieselbe Seite zu. Da die Monde allerdings nicht auf exakten Kreisbahnen mit konstanter Winkelgeschwindigkeit ihre Planeten umkreisen, während die Eigenrotation eine konstante Winkelgeschwindigkeit aufweist, und da sich ein Beobachter auf dem Planeten nicht exakt auf der Verbindungslinie der Massenzentren befinden muss, sieht der Beobachter im Laufe eines „Monats“ nicht immer "exakt" dieselbe Seite des Mondes. Beim Erdmond sind durch die verschiedenen Effekte, die zu dieser Taumelbewegung führen, von der Erdoberfläche aus im Laufe der Zeit insgesamt 59 Prozent der Mondoberfläche zu sehen.
+
+Man unterscheidet folgende Arten der Libration, hier am Beispiel des Erdmondes:
+
+
+Die optische Libration lässt sich in guter Näherung aus den himmelsmechanischen Eigenschaften des Erde-Sonne-Mond-Systems berechnen. Vernachlässigt man in erster Näherung den Einfluss der Sonne, so erhält man aus der Lösung des Zweikörperproblems Erde-Mond folgende Werte:
+Die großen Störungen des Erde-Mond-Systems vornehmlich durch die Sonne bewirken zusätzliche Abweichungen, deren wichtigste die folgenden sind:

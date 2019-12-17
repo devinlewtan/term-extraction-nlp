@@ -1,0 +1,15 @@
+Exzessvolumen
+
+Das Exzessvolumen "V" ist die Differenz zwischen dem realen Volumen eines Gemisches chemischer Stoffe und dem idealen Volumen, das der Summe der Volumina der Komponenten vor dem Mischen (Reinstoffvolumina) entspricht:
+
+Ist das Volumen des realen Gemisches größer als das des idealen, ist das Exzessvolumen positiv (Volumendilatation), im umgekehrten Fall negativ (Volumenkontraktion). Als Differenz zwischen realem und idealem Verhalten einer Mischung ist das Exzessvolumen eine Exzessgröße.
+
+Bezogen auf die Stoffmenge "n" des Gemisches spricht man vom molaren Exzessvolumen:
+
+Das molare Volumen des Gemisches ist gleich der Summe der partiellen molaren Volumina der Komponenten:
+
+Das partielle molare Volumen eines Stoffes A ist das Volumen, das dieser Stoff als Komponente zum Gesamtvolumen einer Mischung mehrerer Stoffe A und B beiträgt. Es ist sowohl von dem anderen Stoff B als auch vom Mischungsverhältnis abhängig und "nicht" immer identisch mit dem molaren Volumen, das der Stoff A als Reinstoff einnimmt: 
+
+mit
+
+Der Volumen-Effekt des Mischens reiner Stoffe ist relativ klein. Zumeist beträgt die Differenz nur um die ein bis zwei Prozent.

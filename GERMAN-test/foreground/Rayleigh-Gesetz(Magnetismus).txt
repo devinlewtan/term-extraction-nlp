@@ -1,0 +1,9 @@
+Rayleigh-Gesetz (Magnetismus)
+
+Das Rayleigh-Gesetz (benannt nach seinem Entdecker John William Strutt, 3. Baron Rayleigh) beschreibt die Änderung der Magnetisierung von ferromagnetischem Material bei magnetischen Feldstärken formula_1 kleiner als die Koerzitivfeldstärke formula_2
+
+Ferromagnetische Materialien bestehen aus weissschen Bezirken, welche durch Bloch-Wände voneinander getrennt sind. Wird nun ein kleines magnetisches Feld formula_3 an das Material angelegt, so wachsen diese weissschen Bezirke, da die Bloch-Wände sich verschieben. Rayleigh leitete daraus die lineare und quadratische Abhängigkeit der Magnetisierung formula_4 von der Feldstärke her:
+
+mit
+
+In analoger Weise kann das Rayleigh-Gesetz auch verwendet werden, um die Änderung der elektrischen Polarisation von ferroelektrischem Material bei kleinen elektrischen Feldern zu beschreiben.

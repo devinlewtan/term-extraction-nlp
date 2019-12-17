@@ -1,0 +1,34 @@
+Hysterese
+
+Hysterese, auch Hysteresis („Nachwirkung“; griech. "hysteros" (ὕστερος) „hinterher, später“), ist eine Änderung der Wirkung, die verzögert gegenüber einer Änderung der Ursache auftritt (z. B. bei der thermostatgesteuerten Heizung die Differenz von Ein- und Ausschalttemperatur). Hysterese charakterisiert ein – bezogen auf die Eingangsgröße (bei der Heizung die Soll-Temperatur) – variant verzögertes Verhalten der bewirkten Ausgangsgröße (bei der Heizung die Ist-Temperatur), welche ihr Maximum bzw. ihr Minimum erreicht hat.
+
+Allgemein formuliert handelt es sich bei Hysterese um ein Systemverhalten, bei dem die Ausgangsgröße nicht allein von der unabhängig veränderlichen Eingangsgröße, sondern auch "vom vorherigen Zustand der Ausgangsgröße" abhängt. Das System kann also – abhängig von der Vorgeschichte – bei gleicher Eingangsgröße einen von mehreren möglichen Zuständen einnehmen. Dieses Verhalten wird auch Pfadabhängigkeit genannt.
+
+Hysterese tritt bei vielen natürlichen und technischen Vorgängen auf, insbesondere bei der Magnetisierung eines Magneten, in der Regelungstechnik und der Kybernetik. 
+
+Typisch für Hystereseverhalten ist das Auftreten einer Hystereseschleife, die entsteht, indem man die verursachende Größe zwischen zwei verschiedenen Werten hin und her bewegt. Das bekannteste Phänomen ist das Hystereseverhalten eines Ferromagneten in einem Magnetfeld: Wird ein nicht magnetisierter Ferromagnet einem externen Feld ausgesetzt und dieses danach ausgeschaltet, so behält der Ferromagnet je nach Polung (d. h. Richtung) des externen Feldes eine positive oder negative Magnetisierung. Diese Restmagnetisierung wird als Remanenz bezeichnet.
+
+Die Physik kennt drei Formen der Dämpfung, d. h. drei verschiedene Vorgänge, die im Werkstoff ablaufen können und zur Ausbildung einer Verlustschleife führen:
+
+Auftreten von Hystereseeffekten in der Technik:
+
+In den Wirtschaftswissenschaften, etwa der Volkswirtschaftslehre, bezeichnet Hysterese etwa die Reaktion eines Marktes auf externe Einflüsse, nach deren Abklingen ein (Preis-)System nicht mehr in seinen Ausgangszustand zurückkehrt.
+
+In dynamischen Systemen bezeichnet die Hysterese ein Phänomen der Rückwärts-Bifurkation.
+
+In der Physiologie ist eine Hysterese u. a. in der Ruhedehnungskurve der Lunge zu finden. Damit bezeichnet man den Umstand, dass das Volumen der Lunge bei einer Abnahme des intrapulmonalen Drucks langsamer abnimmt als es bei einer Druckerhöhung zugenommen hat. Der Grund dafür ist in der Reorganisation der Moleküle des Surfactant-Faktors während des Atemzyklus zu sehen.
+
+Thermische Hystereseproteine (THP) führen bei Tieren, z. B. Fischen, zu einem Gefrierschutz: wenn sie verstärkt in der Körperflüssigkeit vorliegen, kommt es zu einer thermischen oder Wärmehysterese bei der Eisbildung. Die Körperflüssigkeit gefriert dann bspw. erst bei −5 °C, taut allerdings bei 0 °C wieder auf. Dieses geschieht "nicht" durch eine Erhöhung der Molarität in der Extrazellulärflüssigkeit, sondern dadurch, dass die Bindung der THP an die Eiskristalle eine weitere Eisbildung verhindert.
+
+Während des Hochwasserereignisses eines Flusses unterscheidet sich bei gleichem Wasserstand der Durchfluss bzw. die mittlere Fließgeschwindigkeit je nachdem, ob die Hochwasserwelle gerade kommt oder geht:
+Je höher und kürzer die Hochwasserwelle, desto stärker macht sich der Hystereseeffekt bemerkbar.
+
+Der Zweipunktregler ist ein typisches Beispiel. Trägt man die Ursache (Eingangsgröße) auf einer horizontalen Achse auf, sowie die Wirkung (Ausgangsgröße) auf der vertikalen Achse, so weist die Kurve zwei waagerechte Level auf. Der Übergang vom oberen auf den unteren Level findet bei einem niedereren x-Achsen-Punkt statt als der Übergang von unten nach oben, wodurch eine Hysterese erkennbar wird.
+
+Als Beispiel dient das Ausklappen des Heckspoilers bei einem Auto: Diese „Luftklappe“ soll bei geringer Geschwindigkeit eingefahren und oberhalb von 80 km/h ausgefahren sein, um den Anpressdruck der Hinterräder zu erhöhen. Wenn das Auto in einer Kolonne fährt, deren Geschwindigkeit ständig zwischen 78 km/h und 83 km/h schwankt, würde das ständige Ein- und Ausfahren die Spoiler-Mechanik unnötig beanspruchen. Das wird durch ein hysteresebehaftetes Schaltverhalten vermieden:
+
+Der Zustand des Heckspoilers bei den zwischen den Schaltpunkten liegenden Geschwindigkeiten hängt von der Geschwindigkeits-Vorgeschichte ab:
+
+Die harte und die weiche Hysterese werden im Folgenden am Magnetismus erklärt. Die drei Bilder zeigen Hysteresekurven eines Dauermagneten mit harter Hysteresekurve, der eine hohe Koerzitivfeldstärke und eine hohe Remanenz besitzt, sowie zweier Transformator-Eisenkerne (siehe auch: Dynamoblech), die eine kleine Koerzitivfeldstärke und unterschiedliche starke Neigungen, magnetische Scherung und Remanenzen besitzen; die beiden letzteren Diagramme stellen eine harte und eine weiche Hysteresekurve dar, die anders als ein dauermagnetisches Material nur eine kleine Koerzitivfeldstärke haben.
+
+Ein "einzelner" Weiss-Bezirk eines ferromagnetischen Stoffes besitzt eine steile, in der Mitte fast senkrecht verlaufende, harte Hysteresekurve mit bistabilem Verhalten – ein Effekt, der in den jungen Jahren der Computertechnik zum Speichern von Bits in einem Kernspeicher verwendet wurde. Bei Ferromagnetismus in einem rechteckigen, ausgestanzten Trafoblech liegen diese weissschen Bezirke zwar in der Walzrichtung des Ausgangsbleches, aber zum Beispiel bei einem M-Schnitt nur in zwei Schenkeln günstig zur Magnetfeldrichtung. Weil der Magnetfluss jedoch auch durch Schenkel laufen muss, bei denen die Orientierung der Weisschen Bezirke nicht in Magnetflussrichtung liegt und die deshalb eine geneigte Kurve haben, gibt es eine Gesamtsumme von Millionen „Schaltern“ (Weiss-Bezirken), die sich in ihrer Orientierung zur Magnetfeldrichtung voneinander unterscheiden. Die Summe aller dieser fast senkrechten und geneigten Hysteresekurven ist die „weiche“ und geneigte Hysteresekurve im Bild in der Mitte rechts. Bei einem Ringkerntransformator dagegen liegt die Orientierung aller weissschen Bezirke durch das Walzen in Magnetflussrichtung, was eine steil verlaufende, harte (Gesamt-)Hysteresekurve ergibt. Die Ummagnetisierungsenergie ist hierbei am kleinsten, was auch der kleinsten Fläche innerhalb der Hysteresekurve entspricht. Man spricht deshalb dann von harten Rechteckkernen mit einer steil verlaufenden Hysteresekurve, die jedoch ebenfalls wie die Weiche Kurve, kurz vor der Kernsättigung mit einem Bogen, in die fast Waagerechte abbiegt. Dabei gibt es – abhängig von der Anzahl der in Magnetflussrichtung orientierten weissschen Bezirke im Verhältnis zu den quer dazu liegenden – besondere Phänomene:

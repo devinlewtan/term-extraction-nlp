@@ -1,0 +1,23 @@
+Néel-Wand
+
+Als Néel-Wand (nach Louis Néel) bezeichnet man einen Domänenwand-Typ, bei dem die Drehung der Magnetisierung einer dünnen Schicht aus magnetischem Material vollständig "in" der Schichtebene erfolgt. 
+
+Wenn die zwei Domänenen A und C genannt werden, und die Wandmitte zwischen ihnen B, hat man also bei der Néel-Wand bezüglich der Magnetisierungsrichtungen etwa die Sequenz formula_1.
+
+Dagegen hat man bei der Bloch-Wand bezüglich der Magnetisierungsrichtungen etwa die Sequenz formula_2 gilt. Hier bedeutet das Kreissymbol mit Punkt einen vertikal aus der x-y-Ebene herausragenden Richtungspfeil. Der Verlauf rechts und links vom Zentrum ist kompliziert, was durch je zwei Punkte angedeutet ist.
+
+Es gilt formula_3 wobei formula_4 den senkrechten Abstand zur Wandmitte beschreibt und wobei formula_5 eine komplizierte Funktion sehr großer Reichweite ist, die den Verlauf der Magnetisierung vom Wert +π/2 bei x=-∞ zum Gegenwert -π/2 bei x=+∞ angibt. Es genügt, in der linken Wandhälfte zu rechnen, da rechte und linke Wandhälfte sich gegenseitig festlegen.  - 
+
+Dieser vollständig planare Übergang hat eine sehr große Reichweite, umfasst viele Atomabstände und wird numerisch errechnet. 
+
+Der Néelsche Domänenwandtyp ist bei sehr dünnen ferromagnetischen Schichten, die im Wesentlichen durch "zwei" Variable beschrieben werden (durch x und durch die planare Richtung der Magnetisierung) energetisch günstiger als der Bloch-Wand-Typ, bei dem die Drehung senkrecht zur Ebene erfolgt, sodass "drei" Variable ins Spiel kommen (x und die Komponenten M und M). 
+
+Die Mathematik für die Blochwand ist weitgehend analog zum Néel-Fall, mit scheinbar unwichtigen, in Wirklichkeit wesentlichen Unterschieden bezüglich der beteiligten Komponenten, was dazu führt, dass die Bloch-Wand im Unterschied zur Néel-Wand quellfrei ist und deshalb kein magnetisches Streufeld generiert.
+
+Dabei ist formula_6 wobei erneut formula_7 für formula_8 -. Es sind jeweils die x-, y-, und z-Komponenten des Magnetisierungsvektors angegeben, wobei die Funktion formula_9 verglichen mit formula_10 weniger kompliziert ist und viel geringere Reichweite besitzt.
+
+Wenn also die Variable x den Abstand von der Wand beschreibt, ist beim Néel-Wandtyp die Magnetisierungsrichtung nur von den zwei „Dünnschichtvariablen“ x und y abhängig. Bei der Blochwand, die für dreidimensionale Systeme zutreffender ist (drei Koordinaten: x, y und z), ändert sich die Magnetisierungsrichtung zwar ebenfalls mit der Variablen x, aber derart, dass die Magnetisierung mit x richtungsmäßig eine in der Wandebene, der y-z-Ebene, verbleibende Spirale durchläuft. 
+
+Die Wanddicken der Néel- bzw. Blochwände hängen von den Materialparametern ab, bewegen sich aber durchweg im Bereich vieler Atomabstände.
+
+In etwas dickeren Schichten treten anstelle der Néel-Wände Stachelwände auf (englischer Fachbegriff: "Cross-tie wall"), die anstelle der Néel'schen Übergangsbereiche kompliziertere Magnetisierungsstrukturen enthalten.  Die Zahl der „Stacheln“ einer solchen Wand kann gezählt und gezielt verändert werden, was in der Informationstechnologie realisiert worden ist (Racetrack-Speicher).

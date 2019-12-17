@@ -1,0 +1,33 @@
+Spin-Glas
+
+Ein Spin-Glas (auch Spinglas, ) ist ein "bezüglich seiner Spinstruktur und der Position der Spins ungeordnetes" magnetisches System mit einer ungeordneten geometrischen Frustration. Diese ist ein quantifizierbares Maß für die Unfähigkeit des Systems, einen einfachen Spinzustand niedrigster Energie (Grundzustand) zu erreichen und kann auch ohne Verwendung des Energiebegriffs mathematisch präzise gefasst werden.
+
+Spin-Gläser (aber auch gewisse konventionell-geordnete Systeme) haben extrem viele metastabile Zustände, die auf experimentell zugänglichen Zeitskalen niemals alle durchlaufen werden können.
+
+Typische Ursache der Frustration ist bei Spin-Gläsern das "gleichzeitige" Vorliegen von
+
+Das Phänomen der „Frustration“ in dem oben angegebenen Sinn tritt z. B. auf, wenn eine ungerade Zahl von Spins "antiferromagnetisch" miteinander wechselwirken. Der Begriff wurde durch Ausnutzung von Querbeziehungen in modifizierter Form von dem Franzosen Gérard Toulouse aus der Hochenergiephysik übernommen (siehe Quantenchromodynamik und Wilson-Loop, nach dem amerikanischen Nobelpreisträger Kenneth Wilson).
+
+Bringt man ein Spin-Glas in ein (schwaches) äußeres Magnetfeld und zeichnet die Magnetisierung als Funktion der Temperatur auf, so beobachtet man oberhalb der Übergangstemperatur formula_1 ein „typisches“ magnetisch-ungeordnetes Verhalten (wie z. B. beim Paramagnetismus, aber auch andere Arten von Magnetismus sind möglich). Die Magnetisierung folgt dem Curie-Gesetz, gemäß dem die Magnetisierung umgekehrt proportional zur Temperatur ist. Unterschreitet die Temperatur die kritische Temperatur formula_1, so erreicht man die Spin-Glas-Phase, und die Magnetisierung wird praktisch "konstant". Ihr Wert wird als „“ bezeichnet. Wird das äußere Magnetfeld abgeschaltet, so fällt die Magnetisierung des Spin-Glases zunächst schnell auf die remanente Magnetisierung ab und nähert sich dann langsamer der Null (oder einem kleinen Bruchteil der ursprünglichen Magnetisierung, dies ist noch nicht bekannt). Diese Abnahme ist "nicht" exponentiell und zeichnet Spin-Gläser aus. Messungen haben in der Größenordnung von Tagen kontinuierliche Veränderungen der Magnetisierung oberhalb der Rauschgrenze der Messgeräte gezeigt.
+
+Im Gegensatz zum Spin-Glas fällt bei einem Ferromagneten die Magnetisierung nach Abschalten des äußeren Feldes auf einen bestimmten Wert ab (remanente Magnetisierung), der im weiteren Zeitverlauf konstant bleibt. Bei einem Paramagneten fällt die Magnetisierung bei Abschalten des äußeren Feldes schnell auf Null ab. In beiden Fällen erfolgt der Abfall exponentiell mit sehr kleiner Zeitkonstante.
+
+Kühlt man ein Spin-Glas ohne äußeres Feld unter die Übergangstemperatur ab und bringt es danach in ein Magnetfeld, so steigt die Magnetisierung schnell auf die Nullfeld-gekühlte Magnetisierung, die niedriger ist als die oben angegebene „feldgekühlte Magnetisierung“, und nähert sich danach langsamer dem Field-cooled-Wert an.
+
+In der Theorie der Spin-Gläser benutzt man durchweg stark vereinfachte Modelle, die aber das Wesentliche beschreiben sollen (man unterscheidet also "relevante" und "irrelevante" Eigenschaften).
+
+Zum Beispiel beschreibt man im Edwards-Anderson-Modell die Spin-Gläser durch ein Spinmodell mit Ising-Freiheitsgraden und von Ort zu Ort "zufällig" verteilten Wechselwirkungskonstanten formula_3 Als Zufallsverteilung benutzt man dabei Gauß’sche Normalverteilungen, und es werden nur "Nächste-Nachbar-Wechselwirkungen" berücksichtigt.
+
+Gibt man die zuletzt genannte Beschränkung auf, so erhält man das stark untersuchte Sherrington-Kirkpatrick-Modell (nach David Sherrington und Scott Kirkpatrick 1975).
+
+Noch einfacher ist das ±1-Spin-Glas, bei dem man annimmt, dass man es nur mit binären Spin-Freiheitsgraden der Art formula_4 zu tun hat, wobei "positive" und "negative Wechselwirkungen" mit übereinstimmendem Betrag gleich häufig sind.
+
+Ein großer Teil der frühen theoretischen Arbeiten über Spin-Gläser benutzt eine Form der Mean-Field-Theorie, basierend auf einem Satz von "Replikas" der Zustandsfunktion des Systems.
+
+Ein wichtiges, "scheinbar" (!) auf einfache Weise exakt lösbares Modell eines Spin-Glases wurde von Sherrington und Kirkpatrick eingeführt und führte zu beträchtlichen Erweiterungen der Mean-Field-Theorie zur Beschreibung der langsamen Dynamik der Magnetisierung und des komplexen nicht-ergodischen Gleichgewichtszustands.
+
+Anstelle der von Sherrington und Kirkpatrick angegebenen Lösung ihres Modells trat eine von Giorgio Parisi abgeleitetes komplizierteres Resultat, mit einer Ordnungsparameter-"Funktion" formula_5 anstelle des sonst üblichen einfachen Ordnungsparameters formula_6. Parisi fand in diesem Zusammenhang auch ein spezielles hierarchisches Verfahren zur „Replika-Symmetriebrechung“, das über die Spin-Glas-Theorie hinaus auch in anderem Zusammenhang Anwendung gefunden hat (siehe unten).
+
+Das nicht-ergodische Verhalten des Systems unterhalb der Freezing-Temperatur formula_1 besteht darin, dass das System bei diesen Temperaturen in den tiefen Tälern der sich ergebenden hierarchisch-ungeordneten Energielandschaft „hängen bleibt“.
+
+Obwohl Spin-Glas-Magnetismus typischerweise nur unter einer Temperatur von etwa 30 Kelvin (≈ −240 Grad Celsius) auftritt und somit für die Praxis als völlig nutzlos erscheint, hat er in anderem Zusammenhang, z. B. in der Theorie der sog. neuronalen Netze, d. h. in der theoretischen Hirnforschung, Anwendung gefunden. Das Gleiche gilt auch für die mathematisch-wirtschaftswissenschaftliche Optimierungstheorie.

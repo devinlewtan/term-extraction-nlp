@@ -1,0 +1,13 @@
+Zustand (Thermodynamik)
+
+Der Zustand eines Systems in der Thermodynamik wird durch die Angabe aller für die Abgrenzung zu anderen Zuständen notwendigen Zustandsgrößen charakterisiert.
+
+Zustandsgrößen sind unter anderem Druck, Volumen, Temperatur, Stoffmenge. Diese Größen werden unterschieden nach extensiv (mengenabhängig) und intensiv (nicht mengenabhängig).
+
+Die einzelnen Zustände werden häufig in ein Phasendiagramm eingetragen. Dabei entspricht (je nach Auftragung) meist ein einzelner
+Punkt einem Zustand im Zustandsraum, manchmal gehören jedoch auch alle Punkte einer Phasenlinie oder Fläche zu einem einzigen Zustand.
+
+In der statistischen Mechanik (statistische Thermodynamik) gibt es folgende Unterscheidung:
+
+"KZKKZZKK" sei ein spezieller Mikrozustand.
+5x "K" und 3x "Z" ist dann der Makrozustand, zu dem formula_1 Mikrozustände gehören (die Zahl ergibt sich aus der Kombinatorik als Permutation von Objekten zweier Klassen "K" und "Z" unter Beachtung der Reihenfolge).

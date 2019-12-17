@@ -1,0 +1,16 @@
+Magnetohydrodynamischer Dynamo
+
+Ein magnetohydrodynamischer Dynamo (oder auch MHD-Dynamo) erzeugt ein Magnetfeld durch eine Strömung elektrisch leitfähiger Materie. Eine theoretische Beschreibung liefert die Dynamotheorie. Die Magnetfelder der Erde, der Sonne, sowie anderer astronomischer Objekte werden durch Dynamoprozesse erzeugt.
+
+Das Prinzip eines Dynamos besteht darin, dass eine Strömung von elektrisch leitfähiger Materie (z. B. flüssiges Metall oder Plasma) in einem anfänglich vorhandenen Magnetfeld elektrische Ströme induziert. Diese Ströme sind ihrerseits wieder von einem Magnetfeld begleitet, welches – unter günstigen Bedingungen – das ursprüngliche Magnetfeld verstärken kann. Werden durch diese Verstärkung dissipative Verluste des Feldes ausgeglichen, kommt ein Dynamoprozess zustande.
+Hierbei wird Bewegungsenergie aus der Strömung in magnetische Energie transferiert.
+
+Magnetohydrodynamische Dynamos, auch homogene Dynamos genannt, unterscheiden sich von Generatoren (technischen Dynamos) dadurch, dass bei letzteren die Stromführung durch isolierte Leitungen vorgegeben ist und elektrische Leistung abgegeben wird, während bei MHD-Dynamos eine mehr oder weniger homogene elektrisch leitfähige Materie vorliegt und lediglich die im statischen Feld enthaltene Energie erzeugt wird. Das erzeugte statische Feld rotiert jedoch derart (siehe Cowling-Theorem), dass es in leitfähiger Umgebung seinerseits Ströme induzieren kann; die dazu erforderliche Leistung entstammt jedoch der Drehbewegung.
+
+Der grundlegende Mechanismus scheint mittlerweile gut verstanden. In der Regel greifen zwei physikalische Ursachen ineinander ein, um das Magnetfeld zu verstärken. Um im Bild von magnetischen Feldlinien zu sprechen:
+
+1. Durch eine vorhandene Scherströmung (bei einem sphärischen Objekt durch eine differentielle Rotation gegeben) werden die quer zur Strömung verlaufenden Magnetfeldlinien in Richtung der Strömung "gezogen". Dieser Effekt ist aus der Tatsache ersichtlich, dass Magnetfeldlinien in gut leitfähiger Materie als "eingefroren" gedacht werden können. Die Energiedichte des Magnetfeldes wird dadurch erhöht, die Energie stammt aus der Bewegungsenergie. Nach dem gebräuchlichen Symbol für die Winkelgeschwindigkeit wird dieser Effekt Ω-Effekt genannt.
+
+2. Ein zweiter Mechanismus muss nun dafür sorgen, dass die so erzeugte Magnetfeldkomponente, die in Strömungsrichtung zeigt, wieder quer zur Strömung "gebogen" wird. Somit wird das initiale Magnetfeld vor dem Abschwächen bewahrt. In der Sonne ist dies durch den sogenannten α-Effekt gegeben: Dieser beschreibt das Aufsteigen von magnetischen Flussröhren infolge des Auftriebs mit gleichzeitigem Verdrillen infolge der Corioliskraft.
+
+Zusammengenommen beschreiben diese beiden Effekte den αΩ-Dynamo.

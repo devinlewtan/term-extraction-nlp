@@ -1,0 +1,22 @@
+Gibbs-Duhem-Gleichung
+
+Die Gibbs-Duhem-Gleichung (nach Josiah Willard Gibbs und Pierre Duhem) beschreibt in einem thermodynamischen System den Zusammenhang zwischen den Änderungen der chemischen Potentiale der Komponenten.
+
+Hierbei bezeichnet
+
+Oft wird die Gibbs-Duhem-Gleichung bei gleichzeitig isothermer und isobarer Prozessführung verwendet. Dann folgt:
+
+Bei einem solchen Prozess verschwindet also die Summe der Produkte aus der Stoffmenge formula_2 der einzelnen Komponente und der Änderung ihres chemischen Potentials formula_8
+
+Die Gibbs-Duhem-Gleichung ist von großem Interesse für die Thermodynamik, da sie aufzeigt, dass in einem thermodynamischen System nicht alle intensiven Variablen (Variablen wie Temperatur, Druck, chemisches Potential, die "nicht" von der Menge einer Substanz abhängen) unabhängig voneinander veränderlich sind.
+
+Nimmt man z. B. die Temperatur und den Druck als veränderlich an, so können nur noch formula_9 der formula_5 Komponenten voneinander unabhängige chemische Potentiale aufweisen. Hieraus folgt die Gibbs'sche Phasenregel, die die Anzahl der möglichen Freiheitsgrade für dieses System angibt.
+
+Die Gibbs-Energie ist eine positiv homogene Funktion vom Grade formula_11 in den formula_12 Stoffmengen formula_13; das heißt für jedes formula_14 und formula_15 gilt:
+formula_16. Daher gilt für die Gibbs-Energie die Eulersche Homogenitätsrelation:
+
+Somit gilt für das totale Differential
+
+Andrerseits gilt wegen der Definition von formula_19
+
+Aus dem Vergleich der beiden Ausdrücke folgt die Gibbs-Duhem-Gleichung:

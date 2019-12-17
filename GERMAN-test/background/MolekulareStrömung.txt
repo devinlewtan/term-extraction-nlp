@@ -1,0 +1,9 @@
+Molekulare Strömung
+
+Molekulare Strömung herrscht im Gegensatz zur viskosen Strömung, wenn die mittlere freie Weglänge der Gasteilchen deutlich größer ist als der Durchmesser der Strömung, d. h. wenn die Knudsen-Zahl deutlich größer als 1 ist:
+
+Molekulare Strömung ist im Hoch- und Ultrahochvakuumbereich vorherrschend.
+
+Anschaulich bedeutet dies, dass aufgrund des Mangels an Teilchen in einer Vakuumkammer annähernd keine Wechselwirkungen mehr "untereinander" stattfinden, sondern nur noch Stöße mit den begrenzenden Wänden. Bei einfachen Sorptionspumpen wird diese Eigenschaft genutzt, um mittels hochporöser Oberflächen Teilchen zu binden. Mit diesem passiven System kann bereits ein schwaches Hochvakuum erzeugt werden. Ionengetterpumpen basieren auf dem gleichen Prinzip, forcieren die Physisorption von freien Teilchen aber durch Ionisation und elektrische Felder. Hiermit ist auch Ultrahochvakuum erreichbar.
+
+Für Abschätzungen in der Raumfahrt wird gemäß ECSS-E-10-04A mit einer freien Molekularströmung gerechnet, wenn die Knudsen-Zahl größer ist als 3. Für kleine Satelliten trifft dies ab einer Orbithöhe von 150 km zu, für große Objekte (ISS) ab 250 km.

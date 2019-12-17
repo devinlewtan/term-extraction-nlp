@@ -1,0 +1,30 @@
+Entmagnetisierung
+
+Die Entmagnetisierung (auch Abmagnetisierung, im Zusammenhang mit Bildröhren auch engl. "degaussing" – wörtlich "Entgaußung") ist ein Vorgang, durch den ein Dauermagnet bzw. ein dauermagnetisch gewordenes ferromagnetisches Material seine magnetische Polarisierung ganz oder teilweise verliert.
+
+Entmagnetisiert werden Materialien meist durch ein erst starkes Wechsel-Magnetfeld, das dann allmählich abklingt. Dieses muss zunächst so stark sein, dass die Koerzitivfeldstärke des aufmagnetisierten Materials erreicht wird. Durch das abnehmende Wechselfeld erfolgt dann eine Ummagnetisierung der dauermagnetischen Materialien mit abnehmender Amplitude. Damit wird die Hysteresekurve mit abnehmender Amplitude der magnetischen Feldstärke und der Magnetflussdichte durchlaufen, bis das Dauermagnetfeld null ist. Im nebenstehenden Bild beginnt man beispielsweise rechts oben, dann geht es immer entgegengesetzt dem Uhrzeigersinn nach links unten, dann wieder nach rechts oben, aber nicht mehr so weit etc. Wenn nach vielen Umläufen die kleinste Schleife am Schnittpunkt der beiden Achsen erreicht ist, kann man das externe Magnetfeld abschalten, das Eisen ist weitgehend entmagnetisiert.
+
+Für die Abschwächung des Wechselfeldes gibt es zwei Methoden:
+Eine Entmagnetisierung kann auch bewirkt werden durch mechanische Erschütterungen oder durch das Erhitzen ferromagnetischer Materialien über die Curie-Temperatur hinaus.
+
+Entmagnetisierung ist bei Werkzeugen wichtig, um ihre Anziehungskraft auf Späne oder Bauteile zu verringern, oder in Fällen, wo Magnetfelder stören (z. B. Abgleich von Spulen). Hat man keine antimagnetischen Werkzeuge zur Verfügung, so muss man ggf. magnetische Werkzeuge entmagnetisieren. Dazu gibt es mit Netzspannung betriebene Elektromagnete. Auch dauermagnetische, treppenförmige Bauteile sind in Gebrauch, über die man die Werkzeuge zieht und so ein abklingendes Wechselfeld in ihnen erzeugt. Solche Geräte können oft auch eingesetzt werden, um Werkzeuge für bestimmte Montageaufgaben zu magnetisieren.
+
+In analogen Videorecordern und Tonbandgeräten gibt es einen Löschkopf, der ein mit Hochfrequenz betriebener Elektromagnet ist. Mit diesem ist es möglich, die als Magnetisierung vorliegenden Informationen auf dem Band lokal zu löschen, um unmagnetisiertes Band für eine folgende Aufnahme zur Verfügung zu haben. Bei digitalen magnetischen Speichermedien reicht dagegen ein Überschreiben der Informationen.
+
+Durch Entmagnetisierung mit sogenannten Degaussern, die ein großräumiges Wechselfeld erzeugen, können magnetische Speichermedien, wie Disketten, Festplatten und Magnetbänder, schnell in größerer Menge gelöscht werden, um bei deren Entsorgung die Datensicherheit zu gewährleisten.
+
+Auch Geräte und Aufbewahrungssysteme für Magnetbänder, aber auch für Bildröhren und diese selbst, müssen frei von Dauermagnetisierung sein. Daher haben Lautsprecher in Röhren-Fernsehern einen Dauermagnet-Kreis, der – anders als bei gewöhnlichen elektrodynamischen Lautsprechern – kaum ein Magnetfeld um sich herum besitzt oder abgeschirmt ist.
+
+Magnetisierung und Entmagnetisierung spielt auch bei vielen Warensicherungsetiketten eine Rolle.
+
+Farb-Bildröhren in Monitoren und Fernsehern enthalten magnetisierbare Teile (Loch- bzw. Schlitzmaske), die, wenn sie dauermagnetisch geworden sind, die Elektronen ablenken, was zu Farbverfälschungen führt. In den Geräten wird daher bei jedem Einschalten der Netzspannung eine Entmagnetisierung ("degaussing") durchgeführt. Das erfolgt mit einer Spule, die um die Bildröhre geschlungen ist. Sie wird beim Einschalten über einen mit einem Heizelement versehenen Kaltleiter (PTC) direkt an die Netzspannung geschaltet und erzeugt durch Eigenerwärmung des Kaltleiters ein abklingendes magnetisches Wechselfeld. Das Heizelement dient dazu, den PTC noch etwas weiter zu erwärmen, sodass der Strom durch die Entmagnetisierungsspule fast null wird.
+
+Bei militärischen Schiffen muss die z. B. durch das Erdmagnetfeld aufgenommene Magnetisierung reduziert werden, um die Schiffe für Magnetminen und Torpedos mit Magnetzünder schwerer auffindbar zu machen.
+
+Die Entmagnetisierungsanlagen für Schiffe der Deutschen Marine befinden sich in Wilhelmshaven, bei Kiel in Friedrichsort und in Möltenort. Die Volksmarine der DDR nutzte dafür eine östlich von Vilm geschaffene künstliche Insel im Rügischen Bodden. Auch die Peene-Werft in Wolgast (heute Teil der Lürssen-Gruppe), seinerzeit Hauptlieferant der Volksmarine, besaß im Peenestrom eine solche Anlage, die heute noch in Ruinen zu besichtigen ist.
+
+Manche Schiffe besitzen zusätzlich eine eigene magnetische Eigenschutzanlage, mit der nicht nur die dauermagnetischen Eigenschaften des Rumpfes, sondern auch andere magnetische Signaturen, wie die elektromagnetischen Felder von Generatoren, kompensiert werden. Es gab früher auch Versuche, bei denen um den Schiffskörper gelegte Spulen zur Fernzündung von Seeminen eingesetzt werden sollten.
+
+Für einige Anwendungen in der Forschung ist es notwendig, die um viele Größenordnungen stärkeren magnetischen Störfelder der urbanen Umgebung des Messortes und das allgegenwärtige Erdmagnetfeld von ca. 40µT abzuschirmen. Dazu gehören beispielsweise die diagnostische Untersuchung der während der Hirn-, Nerven- oder Herzaktivität auftretenden Magnetfelder mit einer Feldstärke von wenigen pT bis nT, oder die Bestimmung des Elektrischen Dipolmoment des Neutrons. Dazu kommen magnetische Abschirmräume aus hochpermeablem Material (z. B. Mu-Metall) zum Einsatz. Ein prominenter Vertreter ist der BMSR-2, einer der magnetisch bestgeschirmten Räume der Erde, der Physikalisch-Technischen Bundesanstalt in Berlin. Der gegenwärtig magnetisch bestabgeschirmte Raum der Welt befindet sich auf dem Campus der TU München in Garching. Diese Räume müssen regelmäßig entmagnetisiert werden, um das Restfeld innerhalb des Raums möglichst gering zu halten und so Messungen von Feldern bis in den fT-Bereich zu erlauben.
+
+Feinmechanische Konstruktionen, z. B. mechanische Uhrwerke, müssen bei Verwendung ferromagnetischer Materialien ggf. entmagnetisiert werden, um ungewollte Haft- und Störkräfte zu vermeiden.

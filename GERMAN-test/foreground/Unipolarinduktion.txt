@@ -1,0 +1,50 @@
+Unipolarinduktion
+
+Unipolarinduktion bezeichnet die Trennung von elektrischen Ladungen mithilfe des magnetischen Teiles der Lorentzkraft und das damit verbundene Entstehen einer elektrischen Spannung. Obwohl mithilfe von Unipolarinduktion sowohl Gleichspannungen als auch Wechselspannungen erzeugt werden können, besteht die Hauptanwendung in der Erzeugung von Gleichspannungen. Eine typische Anordnung besteht aus einer kreisförmigen elektrisch leitfähigen Scheibe, die in einem zu ihrer Achse parallelen Magnetfeld rotiert (Unipolarmaschine).
+
+Eine besonders einfache Anordnung, bei der Unipolarinduktion auftritt, zeigt die nebenstehende Anordnung. Der Leiterstab bewegt sich mit der Geschwindigkeit formula_1 in einem zeitlich und örtlich konstanten Magnetfeld mit der Flussdichte formula_2. Die Enden des Leiterstabes sind mit metallischen Schienen verbunden, an deren Ende die eingezeichnete Spannung formula_3 gemessen werden kann.
+
+Für die folgende Beschreibung wird angenommen, dass sich der Beobachter im Laborsystem befindet, in dem die metallischen Schienen ruhen:
+
+Im Leiterstab wirkt aufgrund der magnetischen Komponente der Lorentzkraft eine Kraft formula_4 auf die Elektronen (Ladung des Elektrons, formula_5), die aufgrund der negativen Ladung der Elektronen „nach unten“ zeigt. Die Lorentzkraft ermöglicht es, dass beim Schließen des Stromkreises ein elektrischer Strom fließen kann.
+
+Im dargestellten offenen Leiterkreis kann im eingeschwungenen Zustand jedoch kein elektrischer Strom fließen. Somit kann die Lorentzkraft nicht die einzige Kraft sein, die auf die Elektronen wirkt. Der Beobachter im Laborsystem folgert demzufolge, dass im bewegten metallischen Leiter zusätzlich zur Lorentzkraft eine Coulombkraft formula_6 vorhanden sein muss, die im Leiterstab „nach oben“ zeigt und die Lorentzkraft kompensiert. Die Coulombkraft erklärt er sich durch eine vorausgegangene Ladungstrennung der Elektronen.
+
+In einem ohmisch abgeschlossenen Leiterkreis sind die Zusammenhänge etwas komplizierter, da das magnetische Feld aufgrund des Stromflusses und der Bewegung des Leiters zeitveränderlich wird. In vielen praktischen Anordnungen ist jedoch die Induktivität der Anordnung sehr klein, so dass die Flussdichteänderungen vernachlässigt werden können.
+
+Im Folgenden soll die naheliegende Frage geklärt werden, ob die am Voltmeter gemessene Spannung formula_3 durch Wirbelfelder mit geschlossenen elektrischen Feldlinien verursacht wird.
+
+Das Induktionsgesetz
+beschreibt, wie mit der zeitlichen Änderung der magnetischen Flussdichte formula_2 elektrische Wirbelfelder entstehen. Da die magnetische Flussdichte für die beschriebene Anordnung zeitlich konstant ist, gilt im vorliegenden Fall
+Demzufolge entstehen bei der gleichförmigen Bewegung des Leiterstabes keine elektrischen Wirbelfelder.
+
+Obwohl die genannte Argumentation sachlich richtig und rechnerisch leicht nachprüfbar ist, scheint sie dennoch auf den ersten Blick zu einem unüberwindlichen Widerspruch zu führen, der folgendermaßen beschrieben werden kann:
+
+Der scheinbare Widerspruch lässt sich mithilfe der speziellen Relativitätstheorie auflösen.
+Die wesentliche Fehlannahme, die zu dem scheinbaren Widerspruch führt, besteht darin, dass der (als ideal leitfähig angenommene) metallische Leiterstab frei von elektrischen Feldern sei. Tatsächlich ist die elektrische Feldstärke jedoch grundsätzlich von dem Bezugssystem abhängig, in der sie gemessen wird. Metallische Leiter können in Wirklichkeit nur in solchen Bezugssystemen als näherungsweise feldfrei angenommen werden, aus deren Sicht der Leiter ruht. Transformiert man die elektrische Feldstärke formula_15 im bewegten Leiterstab mithilfe der Lorentztransformation formula_16 in das ohne Strich notierte Ruhesystem (Laborsystem), so erkennt man, dass der ruhende Beobachter im Leiterstab ein von null verschiedenes elektrisches Feld misst, das in der einleitenden Erklärung über die Lorentzkraft plausibel gemacht wurde. Der Leiterstab enthält aus Sicht des Laborsystems demzufolge ein elektrisches Feld, das die (ebenfalls im Laborsystem gemessene) Spannung formula_3 kompensiert.
+
+Zur Erzeugung einer Gleichspannung ist die Linearanordnung mit dem bewegten Leiterstab nicht geeignet, da sich der Leiterstab mit der Zeit immer weiter von den Klemmen weg bewegen müsste. Stattdessen bietet sich eine zylindersymmetrische Anordnung ähnlich wie die nebenstehend abgebildete Faradayscheibe an.
+
+Die Klemmenspannung bei der Faradayscheibe beruht – ebenso wie im Beispiel mit dem bewegten Leiterstab – auf der Lorentzkraft auf die Ladungsträger im rotierenden Körper. Es wird angenommen, dass die Scheibe mit der Winkelgeschwindigkeit formula_18 um ihre Achse in einem homogenen achsparallelen Magnetfeld formula_19 rotiert. Dabei wird eine Spannung zwischen der Achse und einem Schleifkontakt im Abstand formula_20 von der Achse gemessen.
+
+Die Lorentzkraft
+
+auf die Leitungselektronen, die mit der Scheibe rotieren, steht im Gleichgewicht mit der Feldkraft in dem durch die Ladungstrennung erzeugten elektrischen Feld
+
+
+Da formula_24 senkrecht auf formula_2 steht, wenn das Magnetfeld die Scheibe senkrecht durchsetzt, gilt das Kräftegleichgewicht formula_28, d. h. formula_29.
+
+Dem Betrage nach ergibt sich somit:
+
+
+Durch Integration von E(r) ergibt sich die Induktionsspannung zwischen Mittelachse und dem Rand der Scheibe mit Radius R:
+
+Es ist klar, dass die auftretende Spannung nicht mithilfe der zweiten maxwellschen Gleichung formula_36 erklärt werden kann. Denn egal, an welchen Ort sich der (ruhende) Beobachter mit seinem Messgerät auch begeben mag: Er misst, sobald er seinen Ruhezustand eingenommen hat, immer eine konstante magnetische Flussdichte mit formula_37! Es existieren somit aus seiner Sicht keine Wirbel des elektrischen Feldes, was gleichbedeutend damit ist, dass keine Induktion vorliegt.
+
+Mit der Flussregel erfolgt die Herleitung ohne Integralrechnung:
+
+Dabei ist formula_40 der Winkel (im Bogenmaß) des Kreissektors der Fläche A, der vom Magnetfeld durchsetzt wird. d/dt symbolisiert die zeitliche Ableitung. Das Vorzeichen in formula_3 ist weggelassen, die Polung ergibt sich aus der Drei-Finger-Regel.
+
+Der besondere Vorzug eines auf Unipolarinduktion beruhenden Generators besteht darin, dass man ohne Verwendung eines Gleichrichters eine Gleichspannung erzeugen kann. Dennoch ist es auch mithilfe der Unipolarinduktion möglich, Wechselspannungen zu erzeugen. Im Falle des sich auf Schienen bewegenden Leiterstabes kann man beispielsweise den Leiterstab periodisch um einen Mittelwert hin und her bewegen bzw. im Falle der Faradayscheibe diese mit wechselndem Umlaufsinn antreiben, so dass sich die Scheibe mal in die eine und mal in die andere Richtung dreht.
+
+Bei falscher Anwendung des Induktionsgesetzes kann es im Rahmen der klassischen Elektrodynamik zu Verständnisproblemen über die Ursachen der Unipolarinduktion kommen. Dieser Umstand wird in dem Faradaysches Paradoxon oder in dem Paradoxon von Hering zum Ausdruck gebracht und wird teilweise historisch durch die Begriffsbildung mitverursacht. Wesentlich für die korrekte Anwendung des Induktionsgesetzes ist es, dass die gedachte Linie, an der entlang die induzierte Umlaufspannung ermittelt werden soll, und das an ihr herrschende elektrische Feld jeweils aus demselben Bezugssystem heraus beobachtet werden. Die richtige Anwendung des Induktionsgesetzes ist im Rahmen der relativistischen Elektrodynamik, einen Teilgebiet der speziellen Relativitätstheorie, möglich und erfordert die Nutzung der Lorentztransformation.

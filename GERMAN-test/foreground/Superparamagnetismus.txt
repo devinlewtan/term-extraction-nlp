@@ -1,0 +1,23 @@
+Superparamagnetismus
+
+Superparamagnetismus, auch superparamagnetischer Effekt, bezeichnet die magnetische Eigenschaft sehr kleiner Teilchen eines ferromagnetischen oder ferrimagnetischen Materials, auch bei Temperaturen "unterhalb" der Curie-Temperatur keine bleibende Magnetisierung zu halten, wenn ein zuvor angelegtes Magnetfeld abgeschaltet wurde.
+
+Grund für dieses Phänomen sind die Brown-Relaxation sowie die Néel-Relaxation (vereinfacht: thermische Anregungen), durch die sich die Richtung der Magnetisierung ändert.
+
+Im Detail erfolgt die Néel-Relaxation durch thermische Anregungen. Hierbei werden magnetische Momente der Teilchen durch thermische Einflüsse ("ohne" Einfluss eines Magnetfeldes) immer wieder verändert. Die Zeit, innerhalb derer sich das magnetische Moment dreht, wird auch als Néel-Relaxations-Zeit bezeichnet. Da die Zeit, in der die Magnetisierung gemessen wird, länger dauert als die Néel-Relaxation und die sich ändernden magnetischen Momente in der Messung gegenseitig kompensieren, scheint die Magnetisierung durchschnittlich den Wert 0 zu haben. Eine Ansammlung solcher Teilchen verhält sich daher makroskopisch wie ein Paramagnet, besitzt aber dennoch die hohe magnetische Sättigung eines Ferromagneten. Im Gegensatz zu einem Paramagneten sind es nicht einzelne Atome, die ihre Magnetisierungsrichtung unabhängig voneinander ändern, sondern kleine magnetische Partikel.
+
+Superparamagnetismus tritt je nach Stoff unterhalb einer bestimmten Partikelgröße auf.
+
+Voraussetzung hierfür ist, dass sich die Magnetisierungsrichtung der Partikel ohne großen Energieaufwand drehen kann. Zur Änderung der Magnetisierungsrichtung ist eine Energiebarriere zu überwinden; diese wird im Wesentlichen durch die magnetische Anisotropie des Materials und die Teilchengröße bestimmt. Wenn diese Energiebarriere ausreichend niedrig ist, tritt Superparamagnetismus auf. Die Partikelgröße, unter der sich die Teilchen nicht mehr ferromagnetisch, sondern superparamagnetisch verhalten, wird auch als "superparamagnetisches Limit" bezeichnet.
+
+Superparamagnetismus tritt unterhalb der Curie-Temperatur, aber oberhalb einer bestimmten, vom Material und der Teilchengröße abhängigen Temperatur auf, welche als (engl.) bezeichnet wird.
+
+Superparamagnetische Teilchen sind so klein, dass sie lediglich eine magnetische Domäne ausbilden.
+
+Bei der magnetischen Datenaufzeichnung, z. B. auf Festplatten, stellt der Superparamagnetismus eine physikalische obere Grenze der möglichen Aufzeichnungsdichte dar, weil dafür sehr kleine magnetische Körner benötigt werden. Die Verkleinerung führt zu höherer Empfindlichkeit gegenüber thermischer Anregung und kann zu spontanem Verlust der Magnetisierung und damit der gespeicherten Informationen führen.
+
+Daher wird versucht, für Festplatten Materialien mit möglichst hoher magnetischer Anisotropie zu verwenden. Allerdings ist das nur soweit möglich, wie diese noch durch den Schreibkopf ummagnetisiert werden können.
+
+Durch kurzzeitiges Erhitzen kann das Ummagnetisieren (Schreiben) solcher Materialien erleichtert werden. Diese Methode ist als HAMR-Technik (engl. ) bekannt und soll eine Steigerung der Aufzeichnungsdichte zukünftiger magnetischer Speichermedien ermöglichen.
+
+Eine andere Möglichkeit zur Erhöhung der Speicherdichten besteht darin, statt vieler magnetischer Körner (einiger hundert) nur eines pro Bit zu verwenden. Dann können trotz Verwendung größerer Körner sehr hohe Aufzeichnungsdichten erreicht werden; diese Körner müssen allerdings so angeordnet sein, dass der Schreib- und Lesekopf der Festplatte den Reihen der Körner folgen kann. Solche Speichermedien lassen sich mit Hilfe von Lithografie-Techniken wie z. B. Elektronenstrahl- oder Ionenstrahllithografie herstellen, existieren allerdings bisher nur im Labor und sind als (engl.) bekannt.

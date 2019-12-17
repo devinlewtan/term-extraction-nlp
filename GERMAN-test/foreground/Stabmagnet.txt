@@ -1,0 +1,6 @@
+Stabmagnet
+
+Als Stabmagnet bezeichnet man im Allgemeinen Magnete mit zylindrischer oder quaderförmiger Form, die genau einen magnetischen Nord- und Südpol besitzen.
+Die magnetischen Pole liegen typischerweise entlang der längsten Symmetrieachse. Der Stabmagnet hat die stärkste Anziehungskraft an den Polen und nur geringe Feldstärken an der Stabmitte.
+
+Ein U-Magnet ist prinzipiell nur ein gebogener "Stabmagnet". Ebenso kann ein Scheibenmagnet als Abwandlung eines (zylindrischen) Stabmagneten angesehen werden, bei dem der Radius größer als die Höhe des Zylinders ist. Die Pole befinden sich hier ebenfalls an den Deckflächen des Zylinders, also an Ober- und Unterseite der Scheibe.

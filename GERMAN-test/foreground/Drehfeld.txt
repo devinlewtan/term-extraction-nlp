@@ -1,0 +1,27 @@
+Drehfeld
+
+Als Drehfeld wird in der Elektrotechnik ein Magnetfeld bezeichnet, das sich fortlaufend um eine Rotationsachse dreht.
+
+Drehfelder werden erzeugt, um die Wellen von Drehstrommotoren und selbstständig anlaufenden Wechselstrommotoren anzutreiben. Das Drehfeld zieht den koaxial auf der Welle des Motors befestigten Rotor magnetisch mit.
+
+Dreiphasenwechselstrom bietet durch den zeitlichen Versatz der drei Wechselströme die Möglichkeit, durch die kreisförmige Anordnung von Spulen ein Drehfeld zu erzeugen. Im einfachsten Fall werden dazu sechs Spulen im Kreis angeordnet und die jeweils gegenüberliegenden Spulen zu einem Polpaar zusammengeschaltet, das die beiden Pole eines Elektromagneten bildet. Das Vertauschen zweier beliebiger Außenleiter des Dreiphasenwechselstroms bewirkt eine Umkehr der Drehrichtung.
+
+Ein Drehfeld kann auch mit Zweiphasenwechselstrom erzeugt werden. Er bildet durch den zeitlichen Versatz zweier Wechselströme um 90° ein Drehfeld. Zweiphasenwechselstrom spielt in der Energieübertragung keine wesentliche Rolle, da die Leiterquerschnitte schlecht ausgenutzt werden, wird aber bei manchen Maschinen wie dem Zweiphasen-Synchronmotor zur Erzeugung eines Drehfeldes verwendet.
+
+Die Polpaare werden reihum zeitversetzt vom Wechselstrom magnetisiert, sodass sich idealisiert ein drehendes Magnetfeld ergibt, dessen Drehzahl formula_1 der Frequenz formula_2 des Wechselstroms entspricht:
+
+Durch Vervielfachung der Polpaaranzahl formula_4 je Außenleiter reduziert sich die Drehzahl:
+
+Die maximale Drehzahl bei der üblichen Frequenz des Stromnetzes von 50 Hz beträgt:
+
+Das ergibt eine Drehfelddrehzahl pro Minute von 3000 min.
+
+Das magnetische Drehfeld einer einpolpaarigen Dreiphasenmaschine kann wie in der Animation (oben) durch Summation von drei 120 Grad räumlich und zeitlich phasenverschobenen Wechselfeldern erzeugt werden. Dementsprechend gilt in Raumzeigerdarstellung:
+
+Die Summe der drei Wechselfelder ergibt nach mathematischer Umformung das Gesamtfeld:
+
+Die magnetische Induktion des dreiphasig erzeugten Drehfeldes hat also den zeitlich konstanten 1,5-fachen Betrag der Induktion der einzelnen Wechselfelder und rotiert mit der Kreisfrequenz formula_12.
+
+Selbstständig anlaufende Wechselstrommotoren erzeugen ein Drehfeld durch eine Phasenverschiebung. Eine Phasenverschiebung des elektrischen Stroms wird durch einen Kondensator, eine Phasenverschiebung des magnetischen Flusses durch Kurzschlussringe am Eisenkern erzielt (siehe Kondensatormotor, Spaltpolmotor).
+
+Um die Orientierung des Feldes zu erkennen werden Drehfeldmessgeräte verwendet. Frühe Exemplare waren mit einem kleinen Elektromotor ausgerüstet, aktuelle Geräte arbeiten auf elektronischer Basis und sind auch in der Lage den Ausfall einer Phase anzuzeigen.

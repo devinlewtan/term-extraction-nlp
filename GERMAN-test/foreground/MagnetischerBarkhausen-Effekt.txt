@@ -1,0 +1,13 @@
+Magnetischer Barkhausen-Effekt
+
+Unter dem magnetischen Barkhausen-Effekt (auch Barkhausensprünge oder Barkhausenrauschen genannt) versteht man diskontinuierliche Änderungen der Magnetisierung von ferromagnetischen Werkstoffen in einem sich stetig ändernden magnetischen Feld.
+
+Legt man ein äußeres magnetisches Feld an einen ferromagnetischen Werkstoff an und erhöht langsam die Feldstärke, so steigt die Magnetisierung nicht stetig, sondern in kleinen Differenzen, den Barkhausen-Sprüngen – dies wies Heinrich Barkhausen 1917 erstmals akustisch in Form eines Rauschens nach.
+
+Die Ursache sind elementare magnetische Momente in kleinen Bereichen einheitlicher Magnetisierungsrichtung, den so genannten Weiss-Bezirken, die von Bloch-Wänden getrennt werden. Zuerst verschieben sich die Bloch-Wände, sie springen dabei von Gitterfehler zu Gitterfehler. Bei größeren Feldstärken klappen dann die magnetischen Momente ganzer Weißscher Bezirke auf einmal um, ohne dass die Feldstärke erhöht wurde. Dadurch ändert sich das Magnetfeld des Werkstoffs sprunghaft.
+
+Die Magnetisierungskurve ist dann einer Treppenkurve vergleichbar. Der Anstieg der Treppenabsätze bildet dann den reversiblen Anteil der magnetischen Suszeptibilität, die Höhe des Treppenabsatzes ist die Magnetisierungsänderung durch den irreversiblen Anteil.
+
+Der experimentelle Nachweis des magnetischen Barkhausen-Effekts erfolgt durch ein sich änderndes Magnetfeld, in dem sich die Probe befindet. Detektiert werden die Sprünge mit einer die Probe ebenfalls umgebenden Induktionsspule, an die ein Kopfhörer oder über einen Verstärker ein Lautsprecher angeschlossen ist. Das Rauschen kann über einen Lautsprecher mit vorgeschaltetem Verstärker hörbar oder auf einem Oszilloskop sichtbar gemacht werden. Die Änderungsgeschwindigkeit des auslösenden Magnetfeldes ist dabei so gering gewählt (Größenordnung Sekunden bis wenige Hertz), dass sich das im Hörbereich zu erwartende Rauschspektrum davon wesentlich unterscheidet. Das Frequenzspektrum wird durch Wirbelströme verändert, da hohe Frequenzen geschwächt werden, je tiefer ihr Entstehungsort im Material ist. Das bedeutet einerseits, dass dünne Proben für den Nachweis besonders gut geeignet sind und andererseits, dass vertikale Strukturen anhand der spektralen Zusammensetzung darstellbar sind.
+
+Der Effekt kann zur zerstörungsfreien Härteprüfung eingesetzt werden. Darüber hinaus wird das Barkhausenrauschen zur Untersuchung oberflächennaher Struktur- und Eigenspannungszustände von Eisenwerkstoffen benutzt.

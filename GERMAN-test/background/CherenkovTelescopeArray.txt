@@ -1,0 +1,11 @@
+Cherenkov Telescope Array
+
+Das Cherenkov Telescope Array (CTA) ist ein 2010 gestartetes Projekt eines internationalen Konsortiums zur erdbasierten Gammastrahlen-Astronomie. Dabei werden durch die Beobachtung von Tscherenkow-Blitzen in der Erdatmosphäre Rückschlüsse auf astronomische Gammastrahlenquellen wie Galaxien und Supernovae gezogen. Das Projekt befindet sich seit 2010 in der Planungs- beziehungsweise Prototypenphase.
+
+Angestrebt wird die Errichtung zweier erweiterbarer Raster aus einigen zehn Tscherenkow-Teleskopen (engl. IACTs, Imaging Atmospheric Cherenkov Telescopes). Für die Einzelteleskope sind standardisierte Modelle mit 6, 12 und 24 Metern Reflektordurchmesser vorgesehen, die sich zurzeit in der Entwicklung bzw. Erprobung befinden. Das erste Raster – in der nördlichen Hemisphäre – soll hauptsächlich der Beobachtung extragalaktischer Objekte geringer Energie dienen, während das zweite Raster – auf der südlichen Hemisphäre – den gesamten Energiebereich abdecken und sich auf Quellen in der Milchstraße konzentrieren soll.
+
+Mit einem Messbereich von einigen zehn GeV bis über 100 TeV soll das CTA die Empfindlichkeit der aktuellen Generation von Tscherenkow-Teleskopen wie MAGIC, HESS und VERITAS um eine Größenordnung übertreffen. Die wissenschaftlichen Anwendungen des CTA reichen von Hochenergie-Astrophysik über Grundlagenphysik bis hin zu Kosmologie.
+
+Das CTA wird in internationaler Zusammenarbeit von Wissenschaftlern geplant und errichtet, mit einer starken Beteiligung europäischer Institutionen wie dem Europäischen Strategieforum für Forschungsinfrastrukturen ESFRI, dem Europäischen Astroteilchenphysik-Netzwerks ASPERA und dem europäischen Astrophysiknetzwerk ASTRONET. Das administrative Projektbüro hat seinen Sitz an der Landessternwarte Heidelberg-Königstuhl. Während der Vorbereitungsphase des CTA ist es ein Schlüsselziel, das Projekt Studenten, Schülern und der Allgemeinheit näherzubringen. Dazu wurden diverse Materialien herausgegeben.
+
+Die Vorbereitungsphase wurde im August 2014 abgeschlossen. Der Baustandort auf der südlichen Hemisphäre – es standen die Atacamawüste in Chile und die Farm Aar in Namibia zur Auswahl – wurde am 15. und 16. Juli 2015 bekanntgegeben. Das CTA-Konsortium entschied sich für Chile.

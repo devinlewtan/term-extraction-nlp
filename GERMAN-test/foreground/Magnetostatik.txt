@@ -1,0 +1,38 @@
+Magnetostatik
+
+Die Magnetostatik ist ein Teilgebiet der Elektrodynamik. Sie behandelt magnetische Gleichfelder, also zeitlich konstante Magnetfelder. 
+
+In der Magnetostatik wird die räumliche Verteilung von Magnetfeldern in der Umgebung von Dauermagneten und von stationären Strömen (Konzept des "Stromfadens") untersucht. Ein stationärer Strom ist beispielsweise Gleichstrom in einem elektrischen Leiter. Hierzu gehören neben den einzelnen magnetischen Eigenschaften der Stoffe wie Ferromagnetismus, Diamagnetismus etc. auch das Erdmagnetfeld. Außerdem beschreibt die Magnetostatik die Kraftwirkung derartig erzeugter Felder auf Magnete und Ströme. Hierzu gehört das Verhalten eines magnetischen Dipols in einem zeitlich konstanten Magnetfeld, beispielsweise das Verhalten einer (frei beweglichen) Magnetnadel im Erdmagnetfeld. 
+
+Die Grundbegriffe sind der Elektrostatik analog. Der positiven und negativen elektrischen Ladung entsprechen Nordpole und Südpole, quantitativ: positive und negative Polstärke. Allerdings können magnetische Pole im Gegensatz zu elektrischen Ladungen nicht isoliert werden, sondern treten in einem Körper immer zusammen auf.
+
+Obwohl es keine isolierten magnetischen Ladungen (magnetische Monopole) gibt, können magnetostatische Effekte mit einer Analogie zur Elektrostatik veranschaulicht werden. Dies wird insbesondere in der Schulphysik benutzt: man betrachtet einen Stabmagneten der Länge "l" als zwei entgegensetzte magnetische Ladungen im Abstand "l". Das Analogon zur elektrischen Ladung ist die "magnetische Polstärke" formula_1. Sie ist von der gleichen Dimension wie der magnetische Fluss und wird somit in der Einheit Weber angegeben. 
+
+Es gilt dann das "magnetische Kraftgesetz" (auch "magnetostatisches Kraftgesetz"): 
+Zwischen zwei Magnetpolen der Polstärke formula_2 und formula_3 im Abstand formula_4 wirkt die magnetische Kraft
+Dabei ist μ die magnetische Feldkonstante. 
+
+Daraus folgt z. B. bei einem homogenen Feld mit bekannter Flussdichte "B" und Fläche "A" für die Kraft: 
+
+Für zeitlich konstante Felder „entkoppeln“ die Gleichungen für elektrische (E) und magnetische (B) Felder: setzt man in den Maxwellgleichungen alle Zeitableitungen gleich 0, so entstehen Gleichungen, die nicht gleichzeitig E und B enthalten. Die Phänomene der Magnetostatik lassen sich mit folgenden zwei reduzierten Maxwellgleichungen beschreiben:
+
+
+Man führt das Vektorpotential formula_9 als Hilfsfeld mit folgender Definition ein: 
+Dadurch wird automatisch die Gleichung formula_7 erfüllt, da die Divergenz eines Rotationsfeldes identisch 0 ist formula_12.
+
+formula_9 ist jedoch nicht eindeutig bestimmt, da formula_14 invariant ist unter einer Eichtransformation formula_15 mit formula_16. D.h. die durch A und A' festgelegten B-Felder sind identisch. Dies ergibt sich aus 
+da die Rotation des Gradienten eines Skalarfeldes verschwindet.
+
+Setzt man formula_10 in die inhomogene Maxwellgleichung (obige Gleichung 2)
+ein, so ergibt sich mit der Coulomb-Eichung formula_20 die besonders einfache Form: 
+
+Dies stellt für jede Komponente eine Poisson-Gleichung dar, die durch
+gelöst wird.
+
+Wendet man die Rotation auf A an so erhält man das Biot-Savart-Gesetz für das physikalisch relevante B-Feld 
+
+Für einen Stromfaden geht formula_24 zu formula_25 über:
+
+Magnetostatische Felder existieren innerhalb gleichstromführender Leiter. Sie sind quellenfrei und es gibt keine magnetischen Ladungen,
+
+Die Ursache magnetostatischer Felder sind bewegte elektrische Ladungen bzw. ihnen äquivalente Gleichströme mit der Wirbeldichte:

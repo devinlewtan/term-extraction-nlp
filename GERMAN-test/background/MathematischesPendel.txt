@@ -1,0 +1,51 @@
+Mathematisches Pendel
+
+Das mathematische Pendel oder ebene Pendel ist ein idealisiertes Fadenpendel. Hierbei kann eine als punktförmig gedachte Masse, die mittels einer masselosen Pendelstange an einem Punkt aufgehängt ist, in einer vertikalen Ebene hin und her schwingen, wobei Reibungseffekte, insbesondere der Luftwiderstand vernachlässigt werden. Das ebene Pendel ist ein Spezialfall des Kugelpendels, das sich auch in andere Raumrichtungen bewegen kann. Da die Bewegung des Pendelkörpers auf einem vertikalen Kreis erfolgt, wird es auch als Kreispendel bezeichnet, obwohl damit häufiger das Kegelpendel gemeint ist.
+
+In der Praxis kann man ein mathematisches Pendel dadurch annähern, dass man einen möglichst langen und dünnen Stab oder (falls die Auslenkung kleiner als 90° ist) einen dünnen Faden und einen möglichst kleinen und schweren Pendelkörper verwendet. Dass bei diesem Aufbau die Schwingungsweite (Amplitude) erst nach einer großen Anzahl Schwingungen spürbar zurückgeht, zeigt, dass hierbei die Reibung nur einen geringen Einfluss hat.
+
+Pendel, welche die genannten Eigenschaften des mathematischen Pendels nicht nähererungsweise erfüllen, lassen sich durch das kompliziertere Modell des physikalischen Pendels beschreiben.
+
+Die Schwingungsdauer ist unabhängig von der Masse des schwingenden Körpers. Bei kleinen Schwingungen ist die Schwingungsdauer auch nahezu unabhängig von der Größe der Amplitude. Hier zeigt das Pendel eine nahezu harmonische Schwingung, deren Schwingungsdauer ausschließlich von der Länge des Pendels und der herrschenden Fallbeschleunigung bestimmt wird. Die Schwingungsdauer verlängert sich bis ins Unendliche, je näher die Amplitude an 180° herankommt. Größere Anregungen führen zu „Überschlägen“, sodass der Pendelkörper sich periodisch im Kreis bewegt.
+
+Anhand der Kräfte wird im Folgenden die Bewegungsgleichung der Pendelschwingung aufgestellt.
+
+Aufgrund der Schwerkraft (formula_1, formula_2 = Schwerebeschleunigung) ergibt sich bei Auslenkung eines Fadenpendels der Masse formula_3 eine Kraft formula_4, die tangential zur kreisförmigen Pendelbahn wirkt. Die radiale Komponente spielt für die Bewegung keine Rolle, da sie in Richtung des Fadens wirkt. Da das mathematische Pendel nur einen Freiheitsgrad besitzt, genügt eine skalare Gleichung. Der Betrag der Rückstellkraft steigt mit dem Auslenkungswinkel formula_5 bezüglich der Ruhelage. Hierbei zeigt der Vektor der Rückstellkraft formula_6 immer in Richtung der Ruheposition, daher ergibt sich ein Minus in folgender Gleichung:
+
+Beim Betrachten eines schwingenden Fadenpendels zeigt sich, dass die Geschwindigkeit mit zunehmender Auslenkung abnimmt und nach Erreichen des Scheitelpunkts die Richtung wechselt. Die Geschwindigkeitsänderung bedeutet, dass die Pendelmasse eine Beschleunigung erfährt, genauer gesagt findet eine Tangentialbeschleunigung statt, da eine kreisförmige Bewegungsbahn vorliegt. Die Bewegungsgleichung lautet nach dem 2. Newtonschen Gesetz:
+
+Die Tangentialbeschleunigung lässt sich durch die Winkelbeschleunigung formula_9 ausdrücken.
+
+Bei der ungestörten Schwingung stellt die Rückstellkraft des Pendels die einzige äußere Kraft dar. Nach Umstellen und Kürzen der Masse entsteht eine nichtlineare Differentialgleichung zweiter Ordnung:
+
+die sich mit Hilfe der Winkelgeschwindigkeit formula_13 auch als System von zwei gekoppelten Differentialgleichungen erster Ordnung schreiben lässt:
+
+Für kleine Winkel gilt die Kleinwinkelnäherung:
+
+Durch Substitution ergibt sich somit eine lineare Differentialgleichung zweiter Ordnung der allgemeinen Form formula_16, deren allgemeine Lösung formula_17 zur Schwingungsgleichung führt.
+
+Hierbei bezeichnen formula_20 die Winkelamplitude und formula_21 den Nullphasenwinkel zum Zeitpunkt formula_22. Darüber hinaus sind die Eigenkreisfrequenz formula_23 und die zugehörige Periodendauer formula_24 ersichtlich.
+
+Da Pendel in der Realität immer mehr als infinitesimal ausgelenkt werden, verhalten sie sich nichtlinear, d. h. Schwingungen mit endlicher Amplitude sind anharmonisch. Die allgemeine Differentialgleichung ist elementar nicht lösbar und erfordert Kenntnisse über elliptische Integrale. Damit lässt sich die allgemeine Lösung für die Periode in eine Reihe entwickeln:
+
+Alternativ lässt sich das auftretende elliptische Integral auch über das arithmetisch-geometrische Mittel formula_28 auswerten:
+
+Außerdem ist die Dämpfung durch Reibungsverluste bei einem echten Pendel größer als Null, so dass die Auslenkungen ungefähr exponentiell mit der Zeit abnehmen.
+
+Dass die Periodendauer nicht von formula_3, sondern nur von dem Verhältnis formula_31 abhängt, lässt sich auch aus einer Dimensionsanalyse, z. B. mit dem Buckinghamschen Π-Theorem, herleiten. Nur der numerische Faktor (formula_32 bei kleinen Amplituden, formula_33 in der exakten Lösung) ist so nicht zu ermitteln.
+
+Der Winkel formula_5 als explizite Funktion der Zeit formula_35 mit Startwinkel formula_36 und (positiver) Startgeschwindigkeit formula_37 lautet:
+
+formula_38
+
+mit formula_39 , wobei formula_40 die Jacobi-Amplitude und formula_41 das elliptische Integral 1. Art ist. Bei einer negativen formula_37 kann die Situation einfach gespiegelt werden indem das Vorzeichen des Startwinkels vertauscht wird.
+
+Beim mathematischen Pendel gilt der Energieerhaltungssatz der Mechanik. Auf dem Weg von der maximalen Auslenkung zur Ruhelage nimmt die potentielle Energie ab. Die mit ihr verbundene Gewichtskraft – genauer: deren tangentiale Komponente – verrichtet Beschleunigungsarbeit, wodurch die kinetische Energie zunimmt. Nach Durchschreiten des Minimums wirkt eine Komponente der Gewichtskraft entgegen der Bewegungsrichtung. Es wird Hubarbeit verrichtet.
+
+Auch hieraus lässt sich die Differentialgleichung herleiten:
+Die Summe ist zeitlich konstant, also
+Diese Gleichung hat zwei Lösungen:
+
+Der Zustand des Systems lässt sich durch ein Tupel formula_49 aus dem Winkel formula_5 und der Winkelgeschwindigkeit formula_13 beschreiben.
+
+Es gibt zwei Positionen formula_52 und formula_53, bei dem sich das System in einem mechanischen Gleichgewicht befindet. In beiden Punkten ist die Winkelgeschwindigkeit und die Summe aller angreifenden Kräfte und Momente Null. Der Gleichgewichtspunkt formula_54 bei einem Winkel von Null ist das stabile Gleichgewicht, wenn das Pendel keine Auslenkung und Geschwindigkeit besitzt. Der zweite Punkt formula_55 ist das instabile Gleichgewicht, wenn das Pendel keine Geschwindigkeit besitzt und „auf dem Kopf“ steht.

@@ -1,0 +1,15 @@
+Versorium
+
+Das Versorium stellt eines der ersten neuzeitlichen elektrischen Messgeräte dar. Es ist eine sehr einfache Bauform eines Elektroskops und dient zur groben Bestimmung der elektrostatischen Feldverteilung. Es ist mechanisch ähnlich aufgebaut wie eine Kompassnadel, besteht aber im Gegensatz dazu nicht aus einer magnetischen Nadel, sondern reagiert durch Auslenkung einer metallischen Nadel auf das statische elektrische Feld. Es ist damit möglich, nahe an einem Körper zu unterscheiden, ob er statisch elektrisch aufgeladen ist oder nicht.
+
+Konstruiert wurde das Versorium um das Jahr 1600 von dem englischen Arzt und Physiker William Gilbert, nachdem er sich mit den Schriften des italienischen Arztes Girolamo Fracastoro beschäftigt hatte.
+
+Das Versorium besteht aus einer dünnen, unmagnetischen Nadel, ähnlich gestaltet wie eine Kompassnadel, welche zentrisch gelagert ist und sich um den Auflagepunkt sehr leicht drehen kann. Durch die Kraftwirkung auf elektrische Ladungen kommt es zu Influenz, also zur Verschiebung der elektrischen Ladungen in der metallischen Nadel. Aufgrund der elektrischen Kräfte, wie sie das Coulombsche Gesetz ausdrückt, kommt es bei Anwesenheit von elektrostatisch aufgeladenen Körpern somit zu einer Drehbewegung der Nadel in Richtung des elektrostatisch geladenen Körpers. Bei elektrisch ungeladenen Körpern in der näheren Umgebung kommt es zu keiner Kraftwirkung auf die Nadel und sie verbleibt in der bestehenden Position.
+
+Die Symmetrie der Ladungsverschiebungen in der Nadel macht beide Nadelenden als Zeiger verwendbar. Eine Unterscheidung zwischen elektrisch positiven oder negativen geladenen Körpern ist mit dieser Anordnung nicht möglich.
+
+Wegen der einfachen und anschaulichen Gestaltung werden Aufbauten ähnlich dem Versorium im schulischen Physikunterricht als Experimentier- und Bastelobjekt verwendet.
+
+William Gilbert beschreibt in seiner Originalarbeit auch ein im Aufbau ähnliches sogenanntes magnetisches Versorium, dessen Nadel aus einem hartmagnetischen Werkstoff besteht und mit der Funktion einer Kompassnadel identisch ist. Die Kompassnadel oder das magnetische Versorium richtet sich nach einem äußeren Magnetfeld aus.
+
+Durch die Verwendung des unmagnetischen und des magnetischen Versoriums unterschied Gilbert in seinem Werk eindeutig und als einer der ersten zwischen den Wirkungen des Magnetismus und den Wirkungen der Elektrostatik.

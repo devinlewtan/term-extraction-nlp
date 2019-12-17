@@ -1,0 +1,6 @@
+Elektropermanentmagnet
+
+Ein Elektropermanentmagnet ist ein spezieller Magnet, dessen äußere Magnetwirkung mit einem Stromimpuls ein- und ausgeschaltet werden kann. 
+
+Er besteht aus einem Elektromagnet mit einem Kern aus magnetisch semihartem Material und einem Permanentmagnet (aus magnetisch hartem Material). Ist der semiharte Kern gegenläufig zum harten Kern magnetisiert, so heben sich deren magnetische Wirkungen nach außen hin auf. Wird der semiharte Kern gleichläufig zum Permanentmagneten magnetisiert, so ist außen eine Magnetwirkung vorhanden. Es handelt sich damit um einen bistabilen Magneten. Elektrische Energie wird nur zur Umschaltung zwischen den beiden Zuständen benötigt.
+Elektropermanentmagneten spielen unter anderem in der Forschung um modulare Kleinstroboter eine große Rolle.

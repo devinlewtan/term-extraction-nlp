@@ -1,0 +1,7 @@
+Bethe-Slater-Kurve
+
+Die Bethe-Slater-Kurve ist eine graphische Darstellung des Integrals der Austauschwechselwirkung für Übergangsmetalle. Das Austauschintegral formula_1 zwischen benachbarten Atomen in Kristallen wird dabei als Funktion des Verhältnisses ihres Abstandes formula_2 zum Durchmesser formula_3 der nichtaufgefüllten Schale aufgetragen.
+
+Bei der Diskussion des magnetischen Verhaltens der Übergangsmetalle hat sich die Bethe-Slater-Kurve bewährt, auch wenn die tieferen theoretischen Gegebenheiten bisher nur unzureichend verstanden sind. Alle Metalle mit positivem formula_1 sind ferromagnetisch (zum Beispiel Eisen, Cobalt, Nickel, Gadolinium), die mit negativem formula_1 sind antiferromagnetisch oder paramagnetisch.
+
+Die Kurve wurde von Hans Bethe und John C. Slater entwickelt.

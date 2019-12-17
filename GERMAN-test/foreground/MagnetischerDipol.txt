@@ -1,0 +1,28 @@
+Magnetischer Dipol
+
+Ein magnetischer Dipol ist die einfachste beobachtete Form, in der Magnetismus auftritt. Alle komplizierteren magnetischen Strukturen lassen sich aus Dipolen zusammensetzen.
+
+Magnetische Feldlinien haben keine Enden. Das magnetische Feld ist immer quellenfrei, d. h. divergenzfrei.
+
+Über magnetische Monopole (analog zu einzelnen positiven oder negativen elektrischen Ladungen) wird spekuliert, es konnten aber bisher keine entdeckt werden. Zwar können bei handelsüblichen Stab- oder Hufeisenmagneten wie auch bei langen Magnetspulen die beiden Enden näherungsweise einzeln als magnetischer Nord- bzw. Südpol angesprochen werden. Beim Versuch, die Pole eines Magneten voneinander zu trennen, indem man ihn in der Mitte auseinanderbricht, ergibt sich aber an der Schnittstelle je ein neuer Nord- und Südpol, sodass jedes Bruchstück wieder einen Dipol bildet.
+
+Nach der klassischen Elektrodynamik kann ein magnetisches Dipolfeld von einem Kreisstrom formula_1 erzeugt werden, der eine Fläche formula_2 umfließt. Sein magnetisches Dipolmoment formula_3 (alternativ auch formula_4) ist:
+
+Außerdem sind alle bisher bekannten Elementarteilchen, sofern sie elektrisch geladen sind und einen von Null verschiedenen Eigendrehimpuls (Spin) haben, auch magnetische Dipole mit einem je nach Teilchenart unterschiedlichen Dipolmoment. Dazu gehören Quarks und Elektronen und damit auch die meisten daraus aufgebauten Atomkerne und Atome. Diese Dipole sind wichtig in der Atom-, Kern- und Elementarteilchenphysik. 
+
+Die Beobachtung der Richtungsquantelung, nach der ein elementares Dipolmoment zu einem äußeren Magnetfeld nur bestimmte Winkel annehmen kann, hat wesentlich zur Aufklärung der Struktur von Teilchen und Atomen beigetragen. Siehe dazu: magnetisches Moment von Teilchen und Kernen, Stern-Gerlach-Versuch, normaler und anomaler Zeeman-Effekt, Kern- und Elektronenspinresonanz.
+
+Ein magnetischer Dipol erzeugt ein Magnetfeld, an einem Ort formula_6 in größerer Entfernung gegeben durch die magnetische Flussdichte
+formula_8 ist dabei der Betrag formula_9 von formula_6, formula_11 ist die magnetische Feldkonstante und formula_12 ist die Kugeloberfläche im Abstand formula_8.
+
+Diese Formel gilt unabhängig von der Form und der Größe der Stromschleife, der Magnetspule, des Stabmagneten oder des Atoms, wenn formula_8 groß gegenüber deren räumlicher Ausdehnung ist.
+
+In einem äußeren magnetischen Feld formula_15 wirkt auf einen magnetischen Dipol das Drehmoment
+
+und er hat eine vom Winkel zur Feldrichtung abhängige potentielle Energie
+
+Ist das Feld inhomogen, wirkt in erster Ordnung die Kraft
+
+mit dem Nabla-Operator formula_19.
+
+Die magnetischen Eigenschaften eines Stücks Materie werden durch die magnetischen Dipole bestimmt, die darin mit konstanter Größe schon vorhanden sind (so bei Ferro-, Antiferro- und Paramagnetismus) oder erst beim Einschalten des Feldes erzeugt werden (Diamagnetismus).

@@ -1,0 +1,13 @@
+Columbia Non-Neutral Torus
+
+Der Columbia Non-neutral Torus (CNT) ist ein kleiner Stellarator am Labor für Plasmaphysik der Columbia University.
+
+Er wurde von Thomas Sunn Pedersen, Wayne Reiersen und Fred Dahlgren vom Princeton Plasma Physics Laboratory entwickelt, um geladene Plasmen, eingeschlossen zwischen magnetischen Flächen, zu untersuchen. Das Experiment lief im November 2004 an und wird von der National Science Foundation und dem United States Department of Energy unter anderem mittels eines „Faculty Early Career Development (CAREER)“-Preises über 800.000 US-Dollar, der an Pedersen verliehen wurde, finanziert.
+
+Zur wissenschaftlichen Leitung gehört auch Allen Boozer.
+
+Der CNT befindet sich innerhalb einer zylindrischen Vakuumkammer aus Edelstahl und hat etwa 1,5 m Durchmesser und 1,9 m Höhe. Die Vakuumkammer erreicht ein Vakuum, das einem Druck von etwa 1,3·10 Pa entspricht. Der CNT nutzt lediglich vier Magnetspulen, zwei parallele Spulen außerhalb und zwei poloidal-Feldspulen innerhalb der Stahlkammer. Sie werden mit bis zu 200 kW elektrischer Leistung versorgt und erzeugen Magnetfelder im Bereich von 0,01 bis 0,2 T. Der Aufbau hat ein Aspektverhältnis von kleiner 1,9.
+
+Die Forschungen am CNT dienen der experimentellen Untersuchung an geladenen Plasmen: Deren Gleichgewicht Transportphänomene, Eindämmung und Ionen-bedingte Instabilitäten.
+
+Die ersten Untersuchungen zeigten, dass magnetische Flächen mit dem einfachen Vier-Spulen-Aufbau erzeugt werden können. Bei ausreichend geringem Druck und hohen Magnetfeld lässt sich ein im Wesentlichen reines Elektronenplasma für bis zu 20 Millisekunden stabil festhalten. Der Transport wird durch Stöße mit neutralen Teilchen angetrieben. Außerdem gibt es einen Drift (Kraft auf elektrische Ladung in Magnetfeld) entlang isolierender Stäbe, die in das Plasma eingeführt werden. Bei einem Druck über 10 Pa wurde eine Instabilität mit einer Frequenz im Bereich von 10 bis 50 kHz und einer poloidalen (in Feldrichtung) Modenzahl "m"=1 beobachtet.

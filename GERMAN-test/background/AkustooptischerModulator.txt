@@ -1,0 +1,28 @@
+Akustooptischer Modulator
+
+Ein akustooptischer Modulator, abgekürzt AOM, ist ein optisches Bauelement, das einfallendes Licht in Frequenz und Ausbreitungsrichtung oder Intensität beeinflusst. Hierzu wird in einem transparenten Festkörper mit Schallwellen ein optisches Gitter erzeugt. An diesem Gitter wird der Lichtstrahl gebeugt und gleichzeitig in seiner Frequenz verschoben. Akustooptische Modulatoren, die zur Ablenkung des Lichts eingesetzt werden, werden auch "Braggzellen" genannt.
+
+Ein akustooptischer Modulator besteht traditionell aus einem durchsichtigen Quader (z. B. Quarzglas oder ein Kristall), in dem mittels eines Piezoschwingers Körperschall (Ultraschall) erzeugt wird. Gegenüber dem Piezoerreger befindet sich ein Schallabsorber, um Reflexionen und stehende Wellen zu vermeiden.
+
+Weiterhin gibt es auch faseroptische akustooptische Modulatoren. Sie bieten geringere Einfügedämpfung, bessere Strahlqualität und eine leichtere Integration in faseroptische Systeme. Solche "All-Fiber AOM's" nutzen entlang der Faser laufende transversale oder longitudinale akustische Wellen. Letztere können z. B. ihrerseits im Faserkern befindliche Faser-Bragg-Gitter modulieren.
+
+Die Ablenkung des Lichts in einem traditionellen akustooptischen Modulator funktioniert nach dem Prinzip der Beugung von Licht an einem optischen Gitter. Das optische Gitter besteht aus den Dichteschwankungen der den Kristall durchlaufenden Schallwelle. 
+
+Die Schallwelle mit Frequenzen formula_1 von typischerweise 10 bis 2000 MHz bewirkt im Kristall eine periodische Änderung der Dichte und damit eine periodische Modulation des Brechungsindex. Der Abstand formula_2 dieser „Gitterlinien“ ist gleich der Wellenlänge formula_3 der Ultraschallwelle und lässt sich aus der Schallgeschwindigkeit formula_4 und der Schallfrequenz formula_1 berechnen zu
+
+Für den Kristall wird meist LiNbO oder PbMoO für sichtbares Licht und nahes Infrarot sowie Ge für mittleres Infrarot verwendet. Typische Schallgeschwindigkeiten in solchen Kristallen liegen zwischen 3700 und 4300 m/s. Eine Frequenz von 195 MHz ergibt eine Gitterkonstante von 19 bis 22 µm. Dies sind typische Werte. Der genaue Wert hängt von der verwendeten Ultraschallfrequenz und der Schallgeschwindigkeit des verwendeten Mediums ab.
+
+Typischerweise ist der Querschnitt des einfallenden Lichtbündels deutlich größer als die räumliche Periode der Brechungsindexmodulation, und da die Lichtgeschwindigkeit sehr viel größer als die Schallgeschwindigkeit ist, kann man näherungsweise annehmen, dass das Licht eine statische Brechungsindexmodulation sieht und eine konstruktive Interferenz des Lichtes für die Braggwinkel formula_7 mit 
+
+erfährt, wobei formula_9 die Wellenlänge des Lichtes im Kristall und formula_2 die Periode der Brechungsindexmodulation sind.
+
+Das gestreute Licht erfährt eine Doppler-Frequenzverschiebung mit der Frequenz formula_11 des Ultraschalls. Der Vorgang ähnelt der Reflexion an einem bewegten Spiegel.
+
+Eine andere, dazu äquivalente Betrachtungsweise betrachtet die Schallwelle im Festkörper als Phononen, die mit den Photonen des Lichts wechselwirken. Die Ablenkung des Lichts kommt dadurch zustande, dass der Impuls der Phononen zum Impuls der Photonen vektoriell addiert wird:
+Hierbei ist formula_13 das durch formula_14 dividierte Plancksche Wirkungsquantum und formula_15 der Wellenvektor der Photonen bzw. Phononen.
+In dieser Betrachtungsweise folgt aus der Energieerhaltung, dass sich durch die Wechselwirkung die Frequenz des Lichts um die Frequenz der Schallwelle ändert:
+Hier ist formula_17 das Plancksche Wirkungsquantum und formula_18 die Frequenz des Lichts, also der Photonen. Der Ausdruck formula_19 bezeichnet die Frequenz der Schallwelle. Die Frequenz des Lichts wird also genau um die Frequenz der Schallwelle verschoben.
+
+Die relative Frequenzverschiebung des Lichtes ist sehr klein, da die Ultraschall-Frequenz (≈ 10 … 10 Hz) wesentlich kleiner als die Frequenz des Lichts (≈ 10 … 10 Hz) ist. Sie ist jedoch für einige Anwendungen wesentlich.
+
+AOM werden zur Manipulation von Laserstrahlung verwendet. Die Anwendungen lassen sich folgendermaßen gliedern:

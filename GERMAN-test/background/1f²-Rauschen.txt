@@ -1,0 +1,26 @@
+1/f²-Rauschen
+
+1/f²-Rauschen (auch „Brownsches-“, „Brown-“ oder „rotes Rauschen“ genannt) bezeichnet ein Rauschen, bei dem sich die Leistungsdichte umgekehrt proportional zum Quadrat der Frequenz (~ 1/f²) verhält. Die Rauschleistungsdichte sinkt also um einen Faktor vier oder 6 dB, wenn sich die Frequenz verdoppelt (Oktave) bzw. um 20 dB pro Dekade.
+Das ähnliche 1/f-Rauschen weist dagegen einen Abfall der Rauschleistungsdichte von 3 dB je Oktave bzw. 10 dB pro Dekade auf.
+
+Die Bezeichnungen "Brown" und "Brownsches" für 1/f²-Rauschen beziehen sich auf den schottischen Botaniker und Namensgeber der Brownschen Molekularbewegung, Robert Brown, nicht auf die Farbe „braun“ (). Die Brownsche Molekularbewegung entspricht zum Beispiel einem 1/f²-Rauschen. Trotzdem ist, da auch andere Arten von Rauschen mit Farben bezeichnet werden („weißes Rauschen“ oder 1/f-Rauschen als „rosa Rauschen“), auch die Bezeichnung braunes Rauschen verbreitet.
+
+Die Brownsche Molekularbewegung kann als stochastischer Prozess formula_1 im Rahmen des Wiener-Prozess als das Integral vom weißen Rauschen formula_2 beschrieben werden:
+
+Weißes Rauschen weist eine konstante Leistungsdichte auf:
+
+mit der Fouriertransformation formula_5. Eine Eigenschaft der Fouriertransformation ist, dass sich die auftretende Ableitung als Produkt ausdrücken lässt als:
+
+mit formula_7 als die imaginäre Einheit und der Kreisfrequenz formula_8.
+
+Daraus ergibt sich der Betrag des Leistungsdichtespektrums für 1/f²-Rauschen aus dem konstanten Betragsleistungsdichtespektrum formula_9 für weißes Rauschen zu:
+
+Anschaulich kann 1/f²-Rauschen durch Filterung von weißem Rauschen mit einem Tiefpassfilter zweiter Ordnung mit einer Grenzfrequenz von 0 Hz erzeugt werden.
+
+"1/f²-Rauschen" kann auch hörbar gemacht werden, allerdings ist der Frequenzanteil durch den starken Abfall des Leistungsdichtespektrums von 20 dB pro Dekade auf niederfrequente Signalanteile beschränkt, so dass primär für den Menschen nicht oder nur schwer wahrnehmbarer Infraschall auftritt.
+
+"1/f²-Rauschen" kann visualisiert werden, indem eine diskrete zweidimensionale komplexe Funktion mit bihyperbolisch abfallender Amplitude und zufälliger Phase invers fourier-transformiert wird. Der Betrag der komplexwertigen Fourier-Rücktransformierten kann sowohl einfarbig (Graustufen) als auch getrennt für die drei Farbkanäle als RGB-Signal ausgegeben werden.
+
+"1/f²-Rauschen" kann theoretisch hörbar gemacht werden, indem eine diskrete eindimensionale komplexe Funktion mit einer mit bihyperbolisch abfallenden Amplitude und zufälliger Phase invers fourier-transformiert wird. Allerdings ist der Frequenzanteil auf sehr niederfrequente Signale beschränkt, so dass der Infraschall für den Menschen nicht hörbar ist.
+
+Der Begriff Rotes Rauschen wurde mit einer vergleichbaren Farbanalogie wie die Begriffe Weißes Rauschen und Rosa Rauschen gebildet. Da im Leistungsdichtespektrum von Rotem Rauschen die niedrigeren Frequenzen noch stärker dominieren als beim Rosa Rauschen, entspricht der daraus – im übertragenen Sinne – entstehende Farbeindruck etwas, das röter ist, als rosa.

@@ -1,0 +1,9 @@
+Piet Hartman
+
+Piet Hartman (* 11. April 1922) ist ein niederländischer Kristallograph.
+
+Hartman studierte Chemie an der Reichsuniversität Groningen und promovierte dort 1953 unter der Betreuung von Pieter Terpstra. Danach wurde er Professor an der geologischen Fakultät in Leiden. Nach dem Zusammenschluss der geologischen Fakultäten von Leiden und Utrecht wurde er 1978 Professor an der Universität Utrecht, wo er bis zu seinem Emeritat 1987 verblieb. 1981 wurde er zum Mitglied der Leopoldina gewählt.
+
+Hartman beschäftigte sich mit der Beziehung von Kristallstruktur und Kristallmorphologie. Erste Theorien dazu gehen auf Auguste Bravais zurück. Nach Bravais bilden sich im Kristall diejenigen Flächen aus, die die größte Dichte an Gitterpunkten besitzen. Danach hängt die Kristallmorphologie also nur von der Gittersymmetrie (Bravais-Gitter) und den Gitterparametern ab. Spätere Theorien gaben an, dass auch Schraubenachsen und Gleitspiegelebenen einen Einfluss haben, also die gesamte Symmetrie der Raumgruppe.
+
+Hartman und Perdok fanden heraus, dass die Kristallmorphologie von den intermolekularen Bindungen zwischen den Kristallbausteinen (Moleküle, Ionen) abhängt. Eine ununterbrochene Kette von starken intermolekularen Bindungen wird als Periodic Bond Chain bezeichnet und hat die größte Wachstumsrate. Kristallrichtungen, die am schnellsten wachsen, wachsen aus dem Kristall und sind somit verschwunden. Fast alle heutigen Programme zur Vorhersage der Kristallmorphologie beruhen auf der Hartman-Perdok-Theorie (Periodic-Bond-Chain-Theorie) oder Abwandlungen davon.

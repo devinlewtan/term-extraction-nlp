@@ -1,0 +1,20 @@
+Longitudinalwelle
+
+Eine Longitudinalwelle, auch Längswelle, ist eine physikalische Welle, die "in Ausbreitungsrichtung" schwingt. Das Standardbeispiel für Longitudinalwellen ist Schall in Gasen oder Flüssigkeiten. Ihr Gegenstück ist die Transversalwelle, deren Amplitude senkrecht zur Ausbreitungsrichtung steht.
+
+Longitudinalwellen sind Druckwellen. Das bedeutet, dass sich in einem Medium Zonen mit Überdruck bzw. Druckspannung (bzw. Unterdruck oder Zugspannung) in der Ausbreitungsrichtung fortpflanzen bzw. verschieben oder ausbreiten.
+
+Die einzelnen Teilchen im Ausbreitungsmedium, Atome oder Moleküle, schwingen hierbei in Richtung der Ausbreitung um den Betrag der Amplitude hin und her. Nach dem Durchlauf der Schwingung bewegen sich die Teilchen wieder an ihre Ruhestellung, die Gleichgewichtslage, zurück. Durch die Ausbreitung der Schwingung geht keine Energie verloren, abgesehen von Reibungsverlusten zwischen den Teilchen.
+
+
+Die Leistung einer Longitudinalwelle ist proportional zum Quadrat der Amplitude der Auslenkung oder der Druckspannung; siehe auch Schalldruck und Schallschnelle.
+
+Mechanische Longitudinalwellen können sich in jedem Medium, ob fest, flüssig oder gasförmig ausbreiten.
+
+Ein typisches Beispiel einer Longitudinalwelle ist Schall, der in Gasen und Flüssigkeiten ausschließlich als Longitudinalwelle auftreten kann.
+
+Longitudinalwellen haben im gleichen festen Medium eine höhere Geschwindigkeit als Transversalwellen des gleichen Typs bei ansonsten gleichen Parametern.
+
+Longitudinale seismische Wellen heißen P-Wellen. Sie treffen immer zuerst ein und haben bei Erdbeben ein geringeres Zerstörungspotential als Transversalwellen. Dagegen können die (transversalen) Wasserwellen „Tsunamis“ verursachen.
+
+In Plasmen und in anderen elektrischen Leitern gibt es elektromagnetische Longitudinalwellen neben den elektromagnetischen Transversalwellen.

@@ -1,0 +1,11 @@
+Pyromagnetismus
+
+Pyromagnetismus (von griech. πῦρ "pȳr": Feuer) ist ein weitestgehend obsoleter Fachbegriff der Physik und Elektrotechnik, der verschiedene Wechselwirkungen von Wärme und Magnetismus beschreibt. Der Begriff wurde bis zu Beginn des 20. Jahrhunderts in wissenschaftlichen Publikationen verwendet. In der modernen Physik ist der Begriff bis auf wenige Ausnahmen ungebräuchlich.
+
+In der modernen wissenschaftlichen Literatur wird der Begriff Pyromagnetismus in folgenden Bedeutungen verwendet.
+
+Sogenannte pyromagnetische Motoren besitzen einen geringen Wirkungsgrad und werden lediglich in physikalischem Spielzeug oder als Demonstrationsobjekte verwendet.
+
+Bis zu Beginn des 20. Jahrhunderts war die Physik des Ferromagnetismus der Festkörper nicht theoretisch erklärbar, die Thermodynamik des Effekts somit nicht berechenbar. Es gab zahlreiche Versuche, so auch durch Nikola Tesla, einen pyromagnetischen Motor oder pyromagnetischen Generator auf der Basis des temperaturabhängigen Ferromagnetismus oder Überschreitung der Curie-Temperatur zu konstruieren. Der Wirkungsgrad und die Leistungsdichte derartiger pyromagnetischer Motoren und Generatoren ist gering, so dass keine praktische Anwendung zustande kam.
+
+Der Begriff Pyromagnetismus wurde niemals exakt definiert und verschwand mit der Entdeckung des Curie-Effekts und der quantenmechanischen Beschreibung des Para- und Diamagnetismus aus der Literatur.

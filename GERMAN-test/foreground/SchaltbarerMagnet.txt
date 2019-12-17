@@ -1,0 +1,17 @@
+Schaltbarer Magnet
+
+Bei schaltbaren Magneten mit Permanentmagneten aus z. B. Neodym-Eisen-Bor handelt es sich um Konstruktionen, die es, ähnlich einem Elektromagnet, ermöglichen, zwischen zwei magnetischen Zustände zu wechseln.
+
+Am bekanntesten sind Magnetfüße und Lasthebemagnete. In beiden Fällen wird über einen Schalter oder einen Hebel ein Magnet gedreht, so dass sich der magnetische Flussverlauf in der Konstruktion ändert. Im Einschaltzustand geht der magnetische Fluss über die Polschuhe. Im ausgeschalteten Zustand wird der Fluss intern so umgeleitet, dass die Feldlinien nicht über die Polschuhe laufen.
+
+Ein typischer Aufbau besteht aus zwei äußeren Magneten und einem mittleren, drehbaren Magneten mit der Drehachse parallel zur Last (siehe Skizze). Im ausgeschalteten Zustand sind an den Polschuhen Nord- und Südpole einander zugewandt, so dass das Magnetfeld dort durch die Magnete geleitet wird und außen nur ein sehr schwaches Magnetfeld besteht. Im eingeschaltetem Zustand mit dem um 180° gedrehten mittlerem Magneten, sind an einem Polschuh sowohl Nordpold des festen als auch des drehbaren Magneten, und am anderen die Südpole angeordnet, so dass zwischen den Polschuhen ein starkes Magnetfeld besteht. 
+
+In einer alternativen Anordnung wird parallel zu einem Magneten ein zweiter drehbar angeordnet, mit der Drehachse senkrecht zur Last. Sind die gleichen Pole auf einer Seite liegt ein starkes Magnetfeld vor, dass über die Polschuhe ausgleitet werden kann. Ist nach einer Drehung um 180° an einer Seite jeweils ein Nord und ein Südpol, ist das äußere Magnetfeld sehr stark verkleinert.
+
+Es gibt auch Anordnungen, bei denen mehrere kleinere Magnetsystemen bewegt werden, zum Beispiel eine Basis mit mehreren Magneten über der eine Scheibe mit mehreren Magneten gedreht wird. Als Vorteile werden geringeres Gewicht des schaltbaren Magnetes, geringere Abnahme der Haltekraft bei dünnen Materialien und geringerer Bedarf an Neodym-Eisen-Bor genannt. 
+
+Zur Verstärkung und Abschwächung durch verschieden orientierte Magnete, siehe auch Halbach-Array.
+
+Eine wichtige Kenngröße ist die Haltekraft, die in Newton (N) angegeben wird. Es hat sich eingebürgert auch eine Kraft in kg anzugeben. Der Umrechnungsfaktor ist dabei die Erdbeschleunigung (9,81 m/s², d. h. 9,81 N entsprechen 1 kg).
+
+Die angegebenen Haftkräfte werden nur erreicht, wenn der Magnetfuß auf einer ebenen oder zylindrischen (V-Fuß) Fläche komplett aufsitzt. Unebenheiten unterbrechen an diesen Stellen den Magnetfluss (Magnetlinien treten aus) und reduzieren die Haftkraft. So kann man z. B. bei einem Riffel- oder Profilblech nicht mehr mit der vollen Haftkraft rechnen.

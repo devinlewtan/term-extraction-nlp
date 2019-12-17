@@ -1,0 +1,12 @@
+Sickerlinie
+
+Eine Sickerlinie ist die Grenze zwischen trockenem und feuchtem Material in einem Staudamm oder Deich, der auf einer Seite mit Wasser eingestaut ist und auf der anderen Seite nicht.
+
+Die Sickerlinie verbindet den Wasserspiegel auf der eingestauten Seite (Wasserseite) mit dem Wasserspiegel, Grundwasserspiegel (wenn vorhanden) oder der Geländeoberkante auf der nicht eingestauten Seite, der Luftseite. Die Sickerlinie kann am luftseitigen Dammfuß austreten und somit in Form von Sickerwasser sichtbar werden. Bei einem homogenen Damm tritt die Sickerlinie an der Luftseite ungefähr auf einem Drittel der Dammhöhe aus, wie auf dem Bild dargestellt ist (nach der Theorie von Arthur Casagrande). Unterhalb dieser Stelle kann Dammbaumaterial ausgespült werden, was die Stabilität des Dammes oder Deiches gefährden kann.
+
+Steigt der Wasserspiegel an, so steigt auch die Sickerlinie im Damm an. Fällt er wieder, sinkt auch die Sickerlinie. Steigen und Fallen der Sickerlinie geschehen meist nicht genauso schnell wie der Wasserspiegel steigt bzw. fällt, sondern allmählich, das heißt, diese Vorgänge sind instationär. Bleibt der Wasserspiegel gleich, so stellt sich nach einiger Zeit auch eine gleich bleibende Sickerlinie ein. Je undurchlässiger der Damm ist, desto länger dauert es, bis auch die Sickerlinie konstant geworden ist, weil das Wasser erst durch das Material sickern muss.
+Je höher die Sickerlinie steigt, desto geringer wird die Standsicherheit. Das geschieht zum Beispiel bei Deichen, wenn Hochwasser ist.
+
+Beim homogenen Damm ist die Sickerlinie nicht von der Durchlässigkeit des verwendeten Materials, sondern allein von der Geometrie abhängig. Die Durchlässigkeit des Dammes bestimmt hier lediglich den Durchfluss.
+
+Im inhomogenen Fall spielt die Durchlässigkeit des Dammes und seiner unterschiedlichen Bereiche jedoch eine Rolle. Bei einem Damm, der an der Wasserseite dichter (undurchlässiger) als im übrigen Teil ist, wird die Sickerlinie in dem dichteren Bereich nach unten gezogen und tritt dann nicht mehr an der Luftseite aus, was die Standsicherheit erheblich vergrößert. Deswegen ist es sinnvoll, Dämme und Deiche an der Wasserseite abzudichten und an der Luftseite durch durchlässigere Filterschichten zu entwässern.

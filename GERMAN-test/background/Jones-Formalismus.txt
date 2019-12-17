@@ -1,0 +1,25 @@
+Jones-Formalismus
+
+Der Jones-Formalismus beschreibt lineare optische Abbildungen unter Berücksichtigung der Polarisation. Er wurde nach R. Clark Jones benannt, der diese Darstellung 1941 einführte. Das Licht wird als ebene elektromagnetische Welle repräsentiert, mit einem komplexwertigen zweidimensionalen Jones-Vektor, der Amplitude der Welle, und kann daher genutzt werden um optische Effekte wie Interferenz zu beschreiben. Damit stellt der Formalismus eine Verbesserung ggü. den Stokes-Parametern dar. Im Gegensatz dazu ist der Jones-Formalismus jedoch auf vollständig polarisiertes, kohärentes Licht begrenzt.
+Die Abbildungen werden durch Jones-Matrizen dargestellt. Mit ihnen ermöglicht der Jones-Formalismus die Modellierung und Analyse optischer Systeme, in denen ein Lichtstrahl eine Kaskade von optischen Bauelementen durchläuft.
+
+In komplexer Schreibweise hat die Elongation einer monochromatischen ebenen Welle in einem kartesischen Koordinatensystem die Orts- und Zeitabhängigkeit
+wobei als Ausbreitungsrichtung die formula_2-Achse gewählt ist. Die reellen Zahlen formula_3 und formula_4 bezeichnen die Kreiswellenzahl bzw. die Kreisfrequenz der Welle. Die komplexen Zahlen formula_5 bzw. formula_6 beschreiben Phase und Amplitude der formula_7- bzw. formula_8-Komponente des Feldes. Der Jones-Vektor dieser Welle ist dann
+
+das heißt, die explizite Raum- und Zeitabhängigkeit der Amplitude wird bei der Beschreibung der Welle unterdrückt. Des Weiteren werden in der Darstellung eines Jones-Vektors üblicherweise dessen Komponenten auf 1 normalisiert und ein Vorfaktor eingeführt, damit die Intensität unverändert bleibt (siehe Beispiele).
+
+Der Effekt eines optischen Bauelements auf die Lichtwelle lässt sich durch die Wirkung einer komplexwertigen 2×2-Matrix formula_10 auf den Jones-Vektor beschreiben, wenn das Element keine nichtlinearen Eigenschaften hat,
+Durchläuft der Lichtstrahl ein System optischer Elemente mit Jones-Matrizen formula_12, so lässt sich der Gesamteffekt des optischen Systems durch eine Jones-Matrix
+beschreiben (sofern Mehrfachreflexionen zwischen den einzelnen Komponenten keine Rolle spielen). Die Eigenpolarisationen eines optischen Systems entsprechen den Eigenvektoren seiner Jones-Matrix. Der Jones-Vektor eignet sich nur für die Beschreibung vollständig polarisierten Lichts, und entsprechend können nur optische Komponenten, die keine depolarisierenden Eigenschaften besitzen, durch Jones-Matrizen charakterisiert werden. Sind Depolarisations-Effekte von Bedeutung, muss auf den aufwändigeren Stokes-Formalismus zurückgegriffen werden.
+
+Jones-Matrizen können z. B. lineare Polarisationen oder zirkulare Polarisationen (Rotation der Polarisationsebene) und Verzögerungsplatten beschreiben. Bei der formula_14-Viertel Platte wird z. B. eine Polarisationsrichtung gegenüber der dazu senkrechten um eine Viertel Wellenlänge verzögert. Bei zirkularer Polarisation und Verzögerung ändert sich der Betrag der Gesamtamplitude nicht, und die Matrizen sind unitär, es gilt formula_15 (dabei bedeutet formula_16 komplex konjugiert und T die Transposition der Matrix) und formula_17. Bei linearer Polarisation kann sich der Betrag der Gesamtamplitude ändern, die zugehörigen Matrizen sind nicht unitär.
+Gemäß der üblichen Sprechweise in der Optik, bezeichnen „H“ wie "horizontal" und „V“ wie "vertikal" die Orientierung in die "x"- und "y"-Richtung.
+Wenn es nicht auf die Interferenz mit anderen Strahlen ankommt, kann ein gemeinsamer (komplexer) Phasen-Vorfaktor ausgeklammert werden, und die Matrizen werden häufig so angegeben, dass die erste Diagonalstelle reell ist.
+
+Wird ein optisches Bauteil gegenüber seiner optischen Achse um den Winkel "θ" gedreht, so ist die Jones-Matrix für das gedrehte Bauteil M("θ"). Diese Matrix erhält man aus der Matrix M für das ungedrehte Bauteil durch folgende Transformation:
+
+Man kann die reine x- und reine y-Polarisation als Orthonormalbasis auffassen und diese in Bra-Ket-Schreibweise darstellen, wie oben in der Tabelle angedeutet. Ein Polarisationsfilter lässt sich dann zum Beispiel als quantenmechanischer Operator auffassen, der auf einen Eigenzustand des Systems (reine x- oder y-Polarisation) projiziert (Kollaps der Wellenfunktion). Der entsprechende Projektor wäre für einen x-Polarisationsfilter: formula_20 Der Eigenwert entspricht dann dem Anteil des einfallenden Lichtes, das die entsprechende Polarisation aufweist. Die Observable ist die Polarisation in x-Richtung. Analog lassen sich die oben angegebenen Filter für zirkular polarisiertes Licht konstruieren.
+
+In der Bra-Ket-Darstellung lässt sich auch ein Basiswechsel leicht ausführen. Die Basiswechselmatrix formula_21, die von der x/y-Basis in die Darstellung durch Superposition von gegensinnig zirkular polarisierten Wellen überführt hat folgende Gestalt.
+
+Solche Überlegungen bieten einen anschaulichen Bezug zu den sonst eher abstrakten Formalismen der Quantenmechanik.

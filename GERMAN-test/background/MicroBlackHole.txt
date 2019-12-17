@@ -1,0 +1,32 @@
+Micro Black Hole
+
+Das Micro Black Hole ( für „Mikro-Schwarzes Loch“) ist ein hypothetisches, sehr kleines und leichtes Schwarzes Loch.
+
+Mitte der 1970er Jahre stellte Roger Penrose die Vermutung auf, Schwarze Löcher könnten auch im Labor erzeugt werden. Es gibt Theorien, nach denen es möglich ist, mit dem Large Hadron Collider (LHC), der am 10. September 2008 in Betrieb genommen wurde, solche Schwarzen Löcher bis zu einmal pro Sekunde zu erzeugen. Dies setzt jedoch die Existenz zusätzlicher kompakter Raumdimensionen voraus, welche u. a. von bestimmten Modellen der Stringtheorie vorhergesagt werden.
+
+Solche Schwarzen Löcher wären nicht vergleichbar mit stellaren Schwarzen Löchern, die kosmologisch beobachtet werden. Ihre Ausmaße lägen in der Größenordnung von Elementarteilchen. Auf Grund von Quanteneffekten (Hawking-Strahlung) würden sie höchstwahrscheinlich sehr kurze Zeit nach ihrer Entstehung schon wieder zerstrahlen. Die dabei entstehenden Elementarteilchen könnten mittels Teilchendetektoren nachgewiesen werden. Gemäß dem aktuellen Stand der Forschung auf diesem Gebiet wären die entstehenden Teilchenschauer () isotroper verteilt als diejenigen, die beim Zusammenstoß hochenergetischer Teilchen entstehen, und daher von ihnen zu unterscheiden.
+
+Alle Größen sind in Natürlichen Einheiten angegeben.
+
+Entsprechend der Theorie Schwarzer Löcher sind Schwarzschild-Radius und Masse eines Schwarzen Lochs proportional zueinander. Da man davon ausgeht, dass unterhalb der Planck-Länge Quanteneffekte dominant werden und keine stabilen Schwarzen Löcher mehr existieren können, gibt es damit auch eine untere Grenze für die Masse eines Schwarzen Loches, welche ca. 1,22 × 10 TeV/c (ca. 22 Mikrogramm) beträgt. Dies lässt die Erzeugung Schwarzer Löcher im Labor erst einmal unmöglich erscheinen, da die maximal erreichbare Energie im größten Teilchenbeschleuniger (dem LHC) nur einige TeV beträgt, also 16 Größenordnungen zu wenig.
+
+Dieses Bild verändert sich allerdings, wenn man die Theorie um so genannte (dt. „große zusätzliche Dimensionen“) erweitert. Darunter versteht man kompakte zusätzliche Raumdimensionen, wobei das „groß“ (deutlich unter einem Millimeter, noch größere sind bereits durch Beobachtungen ausgeschlossen) hier in Relation zu anderen Theorien zu verstehen ist. Solche Zusatzdimensionen ergeben sich natürlicherweise in sehr vielen Modellen der Stringtheorie.
+
+Unter dieser Voraussetzung verändert sich das Gravitationsgesetz, sobald man Energien erreicht, welche dem Radius dieser Extradimensionen entsprechen. Dies verändert auch die Massenskala, oberhalb derer die Existenz Schwarzer Löcher möglich ist:
+wobei formula_2 die Planck-Masse ist, formula_3 die Anzahl der zusätzlichen Dimensionen, formula_4 die neue fundamentale Massenskala und formula_5 der Radius der Extradimensionen.
+
+Nimmt man z. B. an, dass drei Zusatzdimensionen mit einem Radius von ca. 1 eV existieren, ergibt sich eine Masse von ca. 0,16 TeV für die effektive Planckmasse und damit die Möglichkeit, Schwarze Löcher im Labor herzustellen.
+
+Eine weitere Möglichkeit besteht darin, dass Schwarze Löcher bei der Kollision kosmischer Strahlung mit Bestandteilen der Erdatmosphäre entstehen. Dies konnte bislang nicht nachgewiesen werden, Fortschritte lassen sich zukünftig vielleicht durch das 2004 in Betrieb gegangene Pierre-Auger-Observatorium erzielen.
+
+Die Lebenszeit solcher kleinen Schwarzen Löcher wäre vermutlich sehr kurz, weil sie, wie wahrscheinlich alle Schwarzen Löcher, durch die Hawking-Strahlung an Masse verlieren und schließlich verdampfen sollten. Da die Lebenszeit proportional zur dritten Potenz der Masse ist, ergibt sich bei kleinen Schwarzen Löchern eine nicht beobachtbar kurze Lebenszeit. Nachweisbar wären sie potenziell durch die bei ihrem Zerfall entstehenden Elementarteilchen. Allerdings ist nicht eindeutig geklärt, ob der Hawking-Effekt ohne Modifikation auch in diesem Fall anwendbar ist, da seine Herleitung auf einer vernachlässigbaren Krümmung des Ereignishorizontes beruht, d. h. auf „hinreichend“ großer Masse.
+
+Man geht davon aus, dass der Zerfall in mehreren Phasen stattfindet. Wie dies genau vor sich geht und ob es ein „Relikt“ gibt oder der Zerfall vollständig stattfindet, ist Gegenstand aktueller Forschung und nicht abschließend geklärt. So wird zurzeit im LHC die mögliche Entstehung und der Zerfall untersucht.
+
+
+
+Zur Hawkingstrahlung:
+
+Zur möglichen Produktion in Beschleunigern:
+
+Zur möglichen Produktion durch kosmische Strahlung:

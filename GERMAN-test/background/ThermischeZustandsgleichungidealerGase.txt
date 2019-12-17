@@ -1,0 +1,97 @@
+Thermische Zustandsgleichung idealer Gase
+
+Die thermische Zustandsgleichung idealer Gase, oft auch als allgemeine Gasgleichung bezeichnet, beschreibt den Zusammenhang zwischen den thermischen Zustandsgrößen eines idealen Gases. Sie vereint die experimentellen Einzelergebnisse und die hieraus abgeleiteten Gasgesetze zu einer allgemeingültigen Zustandsgleichung.
+
+Die Gleichung beschreibt den Zustand des idealen Gases bezüglich der Zustandsgrößen Druck formula_1, Volumen formula_2, Temperatur formula_3 und Stoffmenge formula_4 bzw. Teilchenzahl formula_5 bzw. Masse formula_6. Sie kann in verschiedenen zueinander äquivalenten Formen dargestellt werden, wobei alle diese Formen den Zustand des betrachteten Systems in gleicher Weise und eindeutig beschreiben. Ihre erste Formulierung stammt von Émile Clapeyron im Jahr 1834.
+
+Extensive Formen:
+
+Intensive Formen:
+
+Hierbei stehen die einzelnen Formelzeichen für folgende Größen:
+
+
+Die Gleichung stellt den Grenzfall aller thermischen Zustandsgleichungen für verschwindende Dichte formula_27 dar, das heißt für verschwindenden Druck bei genügend hoher Temperatur. In diesem Fall kann man das Eigenvolumen der Gasmoleküle und die Kohäsion – die anziehende Kraft zwischen den Molekülen – vernachlässigen. Die Gleichung ist für viele Gase wie zum Beispiel wasserdampfungesättigte Luft auch bei Normalbedingungen eine gute Näherung.
+
+1873 erweiterte Johannes Diderik van der Waals das Gasgesetz zur Van-der-Waals-Gleichung, die das Eigenvolumen der Gasteilchen und die Anziehung zwischen ihnen im Gegensatz zur allgemeinen Gasgleichung mit berücksichtigt und somit auch als Näherung auf deutlich reale Gase angewendet werden kann. Eine andere Näherungslösung für reale Gase stellt die Reihenentwicklung der Virialgleichungen dar, wobei die allgemeine Gasgleichung identisch mit einem Abbruch der Reihenentwicklung nach dem ersten Glied ist. Generell gilt, dass die allgemeine Gasgleichung als Näherungslösung für schwach reale Gase bei geringen intermolekularen Wechselwirkungen, kleinen Drücken und hohen Temperaturen (großen Molvolumina) geeignet ist. Insbesondere weisen ideale Gase hierbei keinen Joule-Thomson-Effekt auf.
+
+Es gibt verschiedene Spezialfälle des allgemeinen Gasgesetzes, die einen Zusammenhang zwischen zwei Größen herstellen, während alle anderen Größen konstant gehalten werden. Erklärt und nicht nur empirisch abgeleitet werden diese Zusammenhänge zwischen den Zustandsgrößen eines Gases durch dessen Teilchencharakter, also durch die kinetische Gastheorie.
+
+Das Gesetz von Boyle-Mariotte, auch Boyle-Mariottesches Gesetz oder Boyle-Mariotte-Gesetz und oft mit Boyle’sches Gesetz abgekürzt, sagt aus, dass der Druck idealer Gase bei gleichbleibender Temperatur (isotherme Zustandsänderung) und gleichbleibender Stoffmenge umgekehrt proportional zum Volumen ist. Erhöht man den Druck auf ein Gaspaket, wird durch den erhöhten Druck das Volumen verkleinert. Verringert man den Druck, so dehnt es sich aus. Dieses Gesetz wurde unabhängig von zwei Physikern entdeckt, dem Iren Robert Boyle (1662) und dem Franzosen Edme Mariotte (1676).
+
+Für formula_28 und formula_29 gilt:
+
+Das erste Gesetz von Gay-Lussac, auch Gay-Lussacsches Gesetz, Gesetz von Charles oder Charlessches Gesetz, besagt, dass das Volumen idealer Gase bei gleichbleibendem Druck (isobare Zustandsänderung) und gleichbleibender Stoffmenge direkt proportional zur Temperatur ist. Ein Gas dehnt sich also bei einer Erwärmung aus und zieht sich bei einer Abkühlung zusammen. Dieser Zusammenhang wurde 1787 von Jacques Charles und 1802 von Joseph Louis Gay-Lussac erkannt.
+
+Für formula_31 und formula_32 gilt:
+
+Das eigentliche Gesetz von Gay-Lussac (obiges ist nur der Teil, den man meist als das "Gesetz von Charles" bezeichnet) lautet:
+
+Hierbei ist formula_35 die Temperatur am Nullpunkt der Celsiusskala, also 273,15 K oder 0 °C. formula_36 ist das Volumen bei formula_35 und formula_38 der Volumenausdehnungskoeffizient bei formula_35, wobei für ideale Gase allgemein formula_40 gilt. Dagegen ist formula_3 die Temperatur, für die das Volumen formula_2 gesucht wird.
+
+Aus dieser Gleichung kann man folgern, dass es einen absoluten Temperaturnullpunkt geben muss, da die Gleichung für diesen ein Volumen von Null voraussagt und das Volumen nicht negativ werden kann. Ihre empirische Basis ist daher auch Grundlage für die absolute Temperaturskala Kelvins, da hierüber durch Extrapolation der Temperaturnullpunkt bestimmt werden konnte.
+
+Das Gesetz von Amontons, oft auch 2. Gesetz von Gay-Lussac, sagt aus, dass der Druck idealer Gase bei gleichbleibendem Volumen (isochore Zustandsänderung) und gleichbleibender Stoffmenge direkt proportional zur Temperatur ist. Bei einer Erwärmung des Gases erhöht sich also der Druck und bei einer Abkühlung wird er geringer. Dieser Zusammenhang wurde von Guillaume Amontons entdeckt.
+
+Für formula_43 und formula_32 gilt:
+
+Analog zum "Gesetz von Gay-Lussac" gilt hierbei auch:
+
+Das Gesetz der Homogenität sagt aus, dass ein ideales Gas durch und durch homogen, das heißt gleichförmig, ist, dass es also überall dieselbe Dichte hat. Wenn in einem großen Behälter mit einem homogenen Stoff, zum Beispiel mit einem Gas, an einer Stelle eine Teilmenge formula_47 eingeschlossen wird, so enthält diese dieselbe Stoffmenge wie eine Teilmenge mit demselben Volumen formula_47 an anderer Stelle. Teilt man die gesamte Stoffmenge auf zwei gleich große Volumina auf, so enthalten sie die gleiche Stoffmenge, nämlich die Hälfte der ursprünglichen. Daraus folgt:
+
+Das Volumen ist bei gleichbleibendem Druck und gleichbleibender Temperatur proportional zur Stoffmenge.
+
+Für formula_49 und formula_31 gilt:
+
+Diese Gesetze gelten für alle homogenen Stoffe, solange Temperatur und Druck unverändert bleiben, und eben auch für ideale Gase.
+
+Das Gesetz von Avogadro sagt aus, dass zwei gleich große Gasvolumina, die unter demselben Druck stehen und dieselbe Temperatur haben, auch die gleiche Teilchenzahl einschließen. Dies gilt sogar dann, wenn die Volumina verschiedene Gase enthalten. Selbstverständlich gilt es auch für den Fall, dass die Zusammensetzung in den beiden Volumina gleich ist; deswegen folgt auch aus dem Gesetz von Avogadro die Beziehung formula_52 für formula_49 und formula_31. Darüber hinaus bedeutet es aber auch, dass ein Gaspaket in einem bestimmten Volumen auch eine bestimmte Anzahl von Teilchen hat, die unabhängig von der Stoffart ist. Allerdings gibt es gewisse Ausnahmen, wenn zum Beispiel weniger oder zu viele Teilchen in einem Gaspaket sind.
+
+Das Gesetz von Avogadro wurde 1811 durch Amedeo Avogadro entdeckt.
+
+Es kann auch so formuliert werden: Das molare Volumen ist bei einer bestimmten Temperatur und bei einem bestimmten Druck für alle idealen Gase identisch. Messungen haben ergeben, dass ein Mol eines idealen Gases bei 0 °C = 273,15 K und 1013,25 hPa Druck ein Volumen von rund 22,4 dm³ einnimmt.
+
+Eine bedeutende Folge des Gesetzes ist: Die Gaskonstante ist für alle idealen Gase identisch.
+
+Die kinetische Gastheorie besagt, dass sich Gase aus vielen einzelnen Atomen bzw. Molekülen zusammensetzen, die jedes für sich eine Masse formula_6 und eine Geschwindigkeit formula_25 haben. Die mittlere kinetische Energie aller Teilchen ist der Temperatur des Gases proportional. Es gilt
+
+wobei formula_58 das mittlere Geschwindigkeitsquadrat der Teilchen ist. Man sieht, dass sich die Moleküle bei höherer Temperatur des Gases mit höheren Geschwindigkeiten bewegen. Dabei besitzen nicht alle Teilchen die gleiche Geschwindigkeit, sondern es tritt eine statistische Verteilung der Geschwindigkeiten auf (Maxwell-Boltzmann-Verteilung).
+
+Ist das Gas in einem Behälter mit dem Volumen formula_2 eingeschlossen, so stoßen immer wieder Gasmoleküle gegen die Wand des Behältnisses und werden reflektiert. Dadurch übertragen die Teilchen pro Zeiteinheit und pro Wandfläche einen bestimmten Impuls auf die Wand. Es wirkt mit den Teilchenstößen auf jeden Teil der Wand eine Kraft, die wir als den Gasdruck formula_1 begreifen.
+
+Dieser Druck formula_1 ist umso größer, je schneller die Teilchen sind. Zum einen steigt bei hohen Teilchengeschwindigkeiten die Rate, mit der die Gasmoleküle auf die Wand treffen, da sie den Behälterraum schneller durchqueren. Zum anderen werden die Stöße gegen die Wand "heftiger" und es wächst der dabei übertragene Impuls. Wird die Teilchendichte formula_62 erhöht, so wächst die Wahrscheinlichkeit, mit der Moleküle an die Wand stoßen. Aus solchen Überlegungen kann man diese Gleichung für den Druck herleiten:
+
+Drückt man die mittlere kinetische Energie der Gasteilchen durch die Temperatur aus, so ergibt sich daraus die thermische Zustandsgleichung idealer Gase:
+
+Diese Gleichung gilt jedoch nur bei Gasen mit geringer Teilchendichte und bei genügend hoher Temperatur. Bei dieser Herleitung wird nämlich vernachlässigt, dass Anziehungskräfte zwischen den Teilchen wirken, die den Teilchendruck gegen die Wand abschwächen. Außerdem besitzen die Moleküle selbst ein Volumen und das Gas kann nicht beliebig komprimiert werden, weil die Teilchen sich gegenseitig verdrängen. Die Beschreibung eines solchen realen Gases bewältigt die Van-der-Waals-Gleichung.
+
+Die Gesetze von Amontons und Gay-Lussac, die beide zeitlich "vor" der Gasgleichung gefunden wurden, lassen sich beispielsweise durch das Gedankenexperiment einer zweistufigen Zustandsänderung zusammenfassen, wobei man hierbei generell von einer gleichbleibenden Stoffmenge ausgeht.
+
+Zunächst betrachtet man eine isochore Zustandsänderung nach dem "Gesetz von Amontons". Der Ausgangspunkt ist hierbei der Zustand 1 mit formula_65 und formula_66. Endpunkt ist Zustand 2 mit formula_67 und formula_68.
+
+Es folgt eine isobare Zustandsänderung nach dem "Gesetz von Gay-Lussac" von Zustand 2 nach Zustand 3 mit formula_70 und formula_71.
+
+Setzt man nun den Ausdruck für formula_68 aus obiger Gleichung in den Ausdruck für formula_68 aus unterer Gleichung ein und stellt um, wobei man formula_75 und formula_76 berücksichtigen muss, so erhält man als Resultat die Beziehung:
+
+und daher
+
+Als letzten Schritt muss man die Konstante im rechten Term des obigen Ausdrucks ermitteln. Geht man davon aus, dass ein Mol bei 273,15 Kelvin und 101,325 Kilopascal genau 22,414 Liter einnimmt, also das Gesetz von Avogadro gültig ist, so kann man auch davon ausgehen, dass formula_4 Mol eines idealen Gases genau formula_80 22,414 Liter einnehmen. Wenn man dies in obige Gleichung einsetzt, erhält man:
+
+Multipliziert man die Gleichung mit formula_71, so erhält man:
+
+Der Bruch auf der linken Seite der Gleichung ist eine konstante Größe, man bezeichnet diese als "universelle Gaskonstante formula_84" (auch formula_20 für "molare Gaskonstante") und berechnet sie so:
+
+Streicht man nun die Indizes, so erhält man die gesuchte allgemeine Gasgleichung:
+
+Grundlage für die Herleitung ist die thermische Zustandsgleichung:
+
+Hierbei stehen die einzelnen Formelzeichen für folgende Größen:
+
+
+Bei einem idealen Gas gilt speziell:
+
+Hierdurch wird die thermische Zustandsgleichung zu folgender Form vereinfacht:
+
+Man kann die Zustandsgleichung nun von einem Zustand 1 bis zu einem Zustand 2 integrieren (bestimmtes Integral) und erhält dadurch:
+
+Gleichen sich zwei der Zustandsgrößen, haben sie sich also vom Zustand 1 zum Zustand 2 nicht geändert, so können diese gekürzt werden und man erhält dadurch die jeweiligen Spezialfälle. Die universelle Gaskonstante formula_84 muss hierbei experimentell bestimmt werden und leitet sich nicht aus der Integrationskonstanten ab. Einen beispielhaften Versuchsaufbau kann man im Artikel „Gaskonstante“ nachlesen.

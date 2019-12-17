@@ -1,0 +1,20 @@
+Rotationstransformation
+
+Die Rotationstransformation oder Verdrillung formula_1 (kleines Iota) ist beim magnetischen Einschluss von Plasmen ein geometrischer Parameter für den Verlauf der Feldlinien einer toroidalen Magnetfeldkonfiguration (Tokamak, Stellarator). 
+Sie ist definiert als Verhältnis der Änderung des poloidalen magnetischen Flusses formula_2 zur Änderung des toroidalen magnetischen Flusses formula_3:
+
+Bei torusförmigen Magnetfeldern geht man hierbei üblicherweise davon aus, dass sogenannte magnetische Flussflächen vorliegen. Dies sind ineinander geschachtelte Torusoberflächen, in denen jeweils Feldlinien für den magnetischen Einschluss verlaufen. Die Rotationstransformation als charakteristische Größe einer Flussfläche ist über eine solche zu mitteln.
+
+Das Konzept der Flussflächen hat Bedeutung für die Magnetohydrodynamik von Fusionsexperimenten, da es die im Allgemeinen notwendige Betrachtung im dreidimensionalen Ortsraum auf Flächen reduziert. Die Bewegung der Plasmateilchen wird durch die Flussflächen geprägt.
+
+Die Integration, die zu den magnetischen Flüssen
+
+führt, erfolgt beim poloidalen/toroidalen Fluss durch eine Fläche, die die poloidale/toroidale Komponente des formula_6-Feldes erfasst. Für den poloidalen Fluss formula_2 ist diese Fläche typischerweise ein endlicher, äquatorialer Ring von der Mitte des Torus mit dem großen Radius formula_8 bis zu einem kleinen Radius formula_9. Für den toroidalen Fluss formula_3 ist die Integrationsfläche ein poloidaler Schnitt beim gleichen Radius. Für den kreisförmigen Torus ist die Integrationsfläche für den toroidalen Fluss also ein Kreis.
+
+Die Größe formula_1 ändert sich folglich mit dem kleinen Torusradius. Für eine reine Torusgeometrie, wie sie beim kreisförmigen Tokamak auftritt, ist die Rotationstransformation
+
+Man erkennt hier, dass die Rotationstransformation den poloidalen (formula_13) Versatz einer Feldlinie nach einem toroidalen (formula_14) Umlauf darstellt.
+
+Die inverse Rotationstransformation ist der Qualitätsfaktor():
+
+Eine wichtige Rolle für die Stabilität von magnetischen Konfigurationen spielt die Verscherung formula_16, die die radiale Änderung der Rotationstransformation darstellt:

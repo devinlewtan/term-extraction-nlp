@@ -1,0 +1,15 @@
+Kristallisation
+
+Als Kristallisation bezeichnet man den physikalischen Vorgang der Verhärtung bei der Bildung und beim Wachstum von Kristallen. Bei diesem Prozess wird Kristallisationswärme freigesetzt. Bei der Züchtung von Kristallen werden künstliche Bedingungen geschaffen, unter denen die Kristallisation beschleunigt ablaufen kann.
+
+Kristalle können in einer Lösung, einer Schmelze, einer Gasphase, einem amorphen Festkörper oder auch durch Umkristallisation aus einem anderen Kristall entstehen. Auf die anfängliche Kristallbildung an einem Kristallisationskeim folgt das weitere Kristallwachstum. Die Entstehung des typischen Gefüges nennt man „Kristalloblastese“.
+
+Damit sich ein Kristall bilden kann, muss der auszukristallisierende Stoff zunächst in Übersättigung gebracht werden. Dies geschieht zum Beispiel durch Abkühlungsprozesse von Lösungen oder von Schmelzen, oder durch Verdampfen des Lösungsmittels. Bei Kristallen, die aus mehreren Komponenten bestehen (zum Beispiel Ionenkristalle), kann die Übersättigung auch durch Mischen von zwei Lösungen hergestellt werden, die jeweils eine der Komponenten enthalten. Außerdem ist es möglich, durch Hinzufügen einer dritten Komponente die Löslichkeit der bereits gelösten Komponenten zu verringern und so die Übersättigung zu erzeugen.
+
+Die zuvor gelösten Moleküle, Ionen oder Atome ordnen sich in einer regelmäßigen, teils stoffspezifischen Form an einen Kristallisationskeim an und bilden einen Keimling, der dann in der übersättigten Lösung weiterwächst. Die Kristallbildung kann daher beschleunigt werden, wenn Impfkristalle als Kristallisationskeime hinzugefügt werden.
+
+Die Kristalle können dann durch Filtration, Flotation, Zentrifugation oder Siebung von der Lösung getrennt werden. Ein Beispiel für die Gewinnung eines Massenproduktes durch Kristallisation ist die Gewinnung von Salz in Salinen.
+
+Die fraktionierende Kristallisation ist ein Verfahren zur Stofftrennung. Dabei wird ein Stoffgemisch (z. B. zwei oder mehr Isomere) in einem geeigneten Lösungsmittel durch Erhitzen gelöst. Anschließend wird durch Abkühlen dieser Lösung oder durch langsames Verdunsten des Lösungsmittels eine übersättigte Lösung hergestellt, aus der ein Stoff bevorzugt auskristallisiert.
+
+In einigen Fällen ist sogar eine Enantiomerentrennung möglich, also die Trennung der beiden Enantiomere eines chiralen Stoffes. Ein weiterer Spezialfall der fraktionierenden Kristallisation ist die Rieselfilmkristallisation.

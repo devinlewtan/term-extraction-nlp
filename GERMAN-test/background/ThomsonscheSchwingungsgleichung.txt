@@ -1,0 +1,27 @@
+Thomsonsche Schwingungsgleichung
+
+Mit der Thomsonschen Schwingungsgleichung lässt sich die Resonanzfrequenz formula_1 eines Schwingkreises (Reihenschwingkreis und idealer Parallelschwingkreis) mit der Kapazität "C" und der Induktivität "L" berechnen. Sie wurde 1853 von dem britischen Physiker William Thomson erstmals formuliert und lautet:
+
+Oder umgeformt für die Periodendauer (Schwingungszeit):
+
+Im Resonanzfall ist der Resonanzwiderstand so groß wie der Serienwiderstand. Der kapazitive Widerstand des Kondensators und induktiver Widerstand der Spule innerhalb des Schwingkreises kompensieren sich auf null:
+
+Betrachten wir den elektrischen Schwingkreis als ein geschlossenes System, so ist die Summe aller Energieformen in diesem System zu jeder Zeit "t" konstant.
+
+Setzt man die entsprechenden Formeln ein, so kommt man auf folgende Differentialgleichung:
+
+Aus
+
+folgt:
+
+Nun leitet man diese Gleichung nach der Zeit ab und erhält:
+
+Um diese Gleichung zu lösen, müssen wir einen Zusammenhang zwischen formula_22 und formula_23 herstellen. Dazu verwenden wir eine Sinusfunktion als Lösungsansatz, da sie sich auf Grund ihrer Periodizität gut zur Beschreibung einer Schwingung eignet.
+
+Durch Einsetzen ergibt sich:
+
+Daraus folgt mit formula_34:
+
+Die thomsonsche Schwingungsgleichung gilt nur für Serienschwingkreise und ideale Parallelschwingkreise. Bei komplexeren Topologien muss, ausgehend von formula_38, die Frequenz abgeleitet werden.
+
+Des Weiteren muss bei der Anwendung der thomsonschen Schwingungsgleichung darauf geachtet werden, dass sich das jeweilige System im Schwingfall befindet – die Dämpfung durch den ohmschen Widerstand also nicht zu groß ist. Bei nicht zu großer Dämpfung kann die beim Parallelschwingkreis veränderte Resonanzfrequenz mit dem Verlustwiderstand "R" von "L" berechnet werden:

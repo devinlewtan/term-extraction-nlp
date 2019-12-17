@@ -97,7 +97,7 @@ while IFS= read -r line; do
 			## calls self recursively on new subcategory if recurs true
 
 			if [[ "$recurs" == "true" ]]; then
-				./get_wiki_corpus_stage123.sh "$wiki_url" "$title" "$final_outfile" "$article_list" "$subcat_list" "$recurs"
+				./get_wiki_corpus_stage123_new.sh "$wiki_url" "$title" "$final_outfile" "$article_list" "$subcat_list" "$recurs"
 			fi
 		fi
 	fi

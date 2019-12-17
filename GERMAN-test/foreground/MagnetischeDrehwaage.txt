@@ -1,0 +1,3 @@
+Magnetische Drehwaage
+
+Die magnetische Drehwaage ist eine dem Prinzip der Coulombdrehwaage sehr ähnliche Konstruktion. Sie besteht aus einem an einem Torsionsfaden befestigten kleinen länglichen Probemagneten; dabei muss der Torsionsfaden, genauso wie bei einer Coulombdrehwaage, an einem Spiegel befestigt und mit einer kalibrierten Mess-Skala versehen werden, mit der man das Drehmoment messen kann. Mit ihrer Hilfe konnte das magnetische Kraftgesetz gefunden werden, dass mathematisch die gleiche Form wie das Coulombgesetz hat.

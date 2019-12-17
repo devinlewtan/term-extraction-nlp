@@ -1,0 +1,25 @@
+Mikrowellenspektroskopie
+
+Die Mikrowellenspektroskopie bzw. (reine) Rotationsspektroskopie ist ein zur Gruppe der Molekül- und Hochfrequenzspektroskopie gehörende Untersuchungsmethode. Sie dient vorzugsweise der Untersuchung von Gasen, Flüssigkeiten und Festkörpern. Grundlage der Methode ist die Absorption von elektromagnetischen Wellen im Frequenzbereich von ca. 0,5–100 GHz (Mikrowellen) durch die Anregung von Molekülrotationen oder zu Übergängen zwischen Hyperfeinstruktur von Atomen. Die Mikrowellenspektroskopie kann sowohl zeit- oder frequenzaufgelöst angewandt werden.
+
+Theoretisch wird das Rotationsspektrum durch den starren Rotator beschrieben. In die Beschreibung des starren Rotators kann die Zentrifugalverzerrung (Verzerrung aufgrund der Zentrifugalkraft) in Form des Zentrifugaldehnungsterms mit der Zentrifugaldehnungskonstante aufgenommen werden.
+Im Hinblick auf die Beschreibung werden Moleküle in lineare Kreisel, sphärische Kreisel, symmetrische Kreisel und asymmetrische Kreisel unterteilt. Rotationsspektren werden meist als Absorptionsspektren beobachtet.
+
+Im einfachsten Fall kann die Rotation eines Moleküles durch einen Starren Rotator mit seiner Rotationsenergie
+beschrieben werden. Dabei ist formula_2 das Trägheitsmoment um die Rotationsachse und formula_3 die Rotationskonstante. Dadurch ergibt sich das nebenstehende Bild. Im Fall des sphärischen Kreisels stimmen die Trägheitsmomente um alle drei Hauptträgheitsachsen überein.
+
+Allgemein eignen sich nur Moleküle zur Mikrowellenspektroskopie, die Dipole bilden oder Schwingungen ausführen, bei denen sich das Dipolmoment verändert. Als Messverfahren kann zum einen bei verschiedenen Frequenzen die Absorption gemessen werden, oder man bedient sich der Fouriertransformation und wertet eine zeitabhängige Absorption nach den darin enthaltenen Frequenzen aus.
+
+Um exakte bzw. möglichst eindeutig zuzuordnende Absorptionsspektren zu erhalten, muss die Wechselwirkung der Moleküle untereinander minimiert werden. Meistens wird deswegen mit geringen Mengen gasförmiger Spezies in großen evakuierten Messbehältern gearbeitet.
+
+Mikrowellenspektren von Gasen zeichnen sich durch scharfe Absorptionslinien aus, deren Ursache meist in der Rotation von dipolbehafteten Molekülen liegt. Die scharfen Linien ergeben sich aus der Energiedifferenz quantenmechanisch festgelegter Energieniveaus von Molekülschwingungen beziehungsweise Rotationen.
+
+Die Mikrowellenspektroskopie kann auch zur Aufklärung von Struktur und Dynamik von Flüssigkeiten genutzt werden. Die Spektren von Flüssigkeiten zeichnen sich gegenüber anderen durch sehr breite Absorptionsbanden aus, die durch mehrere Frequenzbereiche gehen. Im Mikrowellenspektrum liefern Moleküle einen Beitrag, die ein Dipolmoment aufweisen. Die Stärke des Dipolmoments geht vorzugsweise in die Stärke der Absorption ein, wogegen die Geschwindigkeit der Molekülbewegung (Taumelrotation) die Lage der Absorptionsbande auf der Frequenzskala bestimmt. Man findet im Allgemeinen einen Zusammenhang zwischen der Viskosität einer Flüssigkeit und der Bewegungsgeschwindigkeit der Dipole.
+
+Üblicherweise lassen sich Mikrowellenspektren mit einer Überlagerung von Debye-Funktionen (benannt nach Peter Debye) beschreiben, wobei jeder einzelnen Debye-Funktion ein Bewegungsvorgang zugeordnet wird.
+
+Mit Hilfe der Mikrowellenspektroskopie von Gasen können Informationen gewonnen werden, wie z. B.:
+
+Die Mikrowellenspektroskopie wird hauptsächlich in der Physikalischen Chemie zur Erforschung von Moleküleigenschaften eingesetzt, die über andere Methoden gar nicht oder nur schwer zu erlangen sind. Dies ist beispielsweise in Astrophysik und Radioastronomie der Fall, um Moleküle im Weltall zu identifizieren oder die Temperatur von Materie im All zu bestimmen.
+
+Mikrowellenstrahlung wird im Mikrowellenherd angewendet, umgangssprachlich auch „Mikrowelle“ genannt. Die ersten Geräte waren ab den 1950er Jahren kommerziell verfügbar. In einem Mikrowellenherd wird elektromagnetische Strahlung erzeugt, die von Wassermolekülen z. B. in Nahrungsmitteln absorbiert wird. Die Wassermoleküle werden durch die Strahlung zu einer Drehschwingung angeregt, bewegen sich also und erwärmen auf diese Art die Speise bzw. Flüssigkeit. Wasserarme Gerichte wie etwa trockener Zwieback werden jedoch kaum erhitzt, da sie die Energie der Mikrowellenstrahlung nur schlecht aufnehmen können. Da die Strahlung des Mikrowellenofens sämtliche Wassermoleküle anregt, auf die sie trifft, ist es unerlässlich, dass der Türverschluss des Geräts einwandfrei funktioniert, um den Austritt von Strahlung verhindern zu können.

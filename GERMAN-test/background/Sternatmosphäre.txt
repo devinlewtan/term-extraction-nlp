@@ -1,0 +1,24 @@
+Sternatmosphäre
+
+Als Sternatmosphäre bezeichnet man die sichtbaren äußeren Bereiche eines Sterns. Physikalisch exakter umfasst der Begriff die für Licht durchlässigen Schichten von Sternen verschiedener Art.
+
+Geleitet von Beobachtungen der Sonne, des bestuntersuchten Sterns, unterscheidet man von innen nach außen 3–4 heiße Gasschichten:
+Die Photosphäre (griech. "Lichthülle") ist die unterste, dichteste und kühlste Schicht der Sternatmosphäre. Durch sie dringt die vom Sonneninnern kommende Strahlungshitze als sichtbares Licht nach außen.
+
+Sie dominiert das sichtbare Sternenlicht, das die höheren Schichten weitgehend unbeeinflusst durchquert. Die Photosphäre der Sonne hat eine effektive Temperatur von etwa 5800 K. Sie zeigt Phänomene wie Sonnenflecken, helle Sonnenfackeln und die Granulation, eine durch Konvektion verursachte körnige Struktur der Sonnenoberfläche. Das Photosphärische Spektrum wird bestimmt von Eigenschaften wie Temperatur (wesentlich für die Spektralklasse), Schwerebeschleunigung (bestimmend für die Leuchtkraftklasse), und Gehalt an schweren Elementen im Vergleich zu Wasserstoff und Helium (Metallizität). Genaue physikalische Modelle von Sternatmosphären und ihren Spektren sind deshalb ein wichtiges Werkzeug der Astrophysik.
+
+Die Chromosphäre (griech. "Farbhülle") ist die nach oben anschließende Gasschicht. Sie hat ihren Namen vom roten Licht, das bei einer totalen Sonnenfinsternis kurz sichtbar wird.
+
+Sie wird normalerweise von der Photosphäre völlig überstrahlt. Ihre Temperatur steigt nach einem Minimum am Oberrand der Photosphäre wieder an, ihr Spektrum besteht aus schmalen Emissionslinien, insbesondere H-alpha bei der Wellenlänge von 656,3 nm, was einem tiefroten Licht entspricht.
+
+Oberhalb der Chromosphäre wird (bei der Sonne) manchmal eine Übergangsschicht zur Korona definiert.
+
+Die Korona ist der bei Sonnenfinsternissen sichtbare "Strahlenkranz". Er besteht aus sehr dünnem, aber über eine Million Kelvin heißem Gas. Dieses wird durch verschiedene Mechanismen erhitzt und kann mehrere Sonnenradien in den Raum hinausreichen. Die Struktur der "Strahlen" hängt von der momentanen Sonnenaktivität ab. Im Sonnenfleckenminimum hat die Korona einen eher runden Umriss, während sie im Fleckenmaximum in Äquatorrichtung länglich ausgedehnt erscheint. Dies hängt mit dem Verlauf der magnetischen Feldlinien zusammen, die das ionisierte Gas stark beeinflussen.
+
+In den unteren Teil der Sonnenkorona werden von der Chromosphäre und von eruptiven Flares andauernd kleine Spikulen und weit aufsteigende Protuberanzen emporgeschleudert, die oft erst nach mehreren Tagen wieder zur Photosphäre herunter sinken.
+
+Während diese Atmosphärenschichten bei der Sonne bestens erforscht sind, kann man bei anderen Sternen aufgrund ihrer großen Entfernung meist nur die Photosphäre genauer erforschen. Im Regelfall ist nur ihr Spektrum hell genug dafür; jenes der darüber befindlichen Schichten wird fast völlig überstrahlt.
+
+Die Existenz von Stern-Chromosphären und Koronae folgt überwiegend aus theoretischen Modellen des Sternaufbaus -- siehe dort. Bei einigen Sterntypen hat man jedoch ähnliche Phänomene beobachtet, was die aktuelle Theorie des Sternaufbaus stützt. So wurden auf nahen Riesensternen aus Helligkeitsschwankungen sogenannte Sternflecken postuliert, deren Natur unseren Sonnenflecken entsprechen dürfte. 
+
+Einige Veränderliche zeigen Materieausbrüche, die als Korona-Phänomene oder äußerst heftiger Sonnenwind interpretiert werden, und Junge Sterne stoßen regelmäßig Gaswolken aus, die mit dem Mechanismus von Spikulen verglichen werden können.

@@ -1,0 +1,9 @@
+Schawlow-Townes-Limit
+
+Das Schawlow-Townes-Limit (selten auch Schawlow-Townes-Linienbreite) beschreibt in der Physik eines Lasers die minimale spektrale Linienbreite eines Laserstrahls, die nicht unterschritten werden kann. Es ist benannt nach den beiden Physik-Nobelpreisträgern Arthur L. Schawlow und Charles H. Townes, die diesen Grenzwert im Jahr 1958 und somit bereits vor dem Bau des ersten Lasers im Jahr 1960 vorhersagten. Ein Laser kann keine „unendlich schmale“ Linienbreite, also eine "einzige" und "exakt" definierte Lichtfrequenz, haben. Die Ursachen für diese Grenze sind quantenmechanische (besonders die spontane Emission, die im Gegensatz zur stimulierten Emission phasenverschoben stattfindet, und die Heisenbergsche Unschärferelation) und optische Effekte (Wechselwirkung des Lichts mit den Komponenten des Lasers, „Rauschen“).
+
+Die Linienbreite ist gegeben durch die Formel
+
+wobei formula_2 das Plancksche Wirkungsquantum, formula_3 die Bandbreite des Laserresonators und formula_4 die Ausgangsleistung des Lasers sind. In manchen Quellen fehlt in dieser Formel der Faktor 2, dies hängt davon ab, ob die Herleitung der Formel mit der vollen oder nur der halben Halbwertsbreite der Normalverteilung durchgeführt wird. Dies ändert jedoch nichts am Ergebnis, da dann die Bandbreiten formula_5 und formula_3 zur Berechnung ebenfalls halbiert werden müssen.
+
+Es existieren Arbeiten, die diese Grenze unterbieten. Dies bedeutet jedoch weiterhin nicht, dass unendlich schmale Linienformen möglich wären, sondern lediglich, dass die minimale Breite von Schawlow und Townes zu „pessimistisch“ geschätzt wurde.

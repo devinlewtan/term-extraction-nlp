@@ -1,0 +1,6 @@
+Verschiebungssatz von Kossel-Sommerfeld
+
+Der Verschiebungssatz von Sommerfeld und Kossel, benannt nach Arnold Sommerfeld und Walther Kossel, beschreibt Spektren wasserstoffähnlicher Atome. Dabei kommt zu ähnlichen Energieniveaus zwischen aufeinanderfolgenden einfach positiv geladenen Atomen. Sommerfeld und Kossel formulierten dies wie folgt:
+"Beispiel:"
+
+So kommt es zu etwa gleichen Energieniveaus von ca. 13,6 eV bei Wasserstoff mit einer Hauptquantenzahl formula_1, bei He mit formula_2 und Li mit formula_3.

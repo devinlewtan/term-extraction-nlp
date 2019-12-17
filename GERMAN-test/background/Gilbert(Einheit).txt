@@ -1,0 +1,16 @@
+Gilbert (Einheit)
+
+
+Das Gilbert (Einheitenzeichen Gb, nach dem englischen Arzt und Physiker William Gilbert) ist eine veraltete Einheit der magnetischen Spannung "U" (= magnetische Feldstärke formula_3 × Weg formula_4) in einem cgs-System für elektromagnetische Einheiten.
+
+Das Gilbert ist definiert durch die Arbeit, die das magnetische Potenzial eines positiven Einheitspols um 1 erg erhöht:
+
+mit der CGS-Einheit Oe (Oersted) für die magnetische Feldstärke.
+
+Umrechnung in SI-Einheiten:
+
+mit der SI-Einheit A (Ampere) für die magnetische Spannung bzw. die elektrische Stromstärke.
+
+Weitere Konversion:
+
+mit formula_8 für die cgs-Einheit Biot.

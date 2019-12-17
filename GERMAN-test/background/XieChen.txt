@@ -1,0 +1,13 @@
+Xie Chen
+
+Xie Chen (* um 1984) ist eine chinesische theoretische Festkörperphysikerin.
+
+Xie Chen studierte ab 2002 an der Universität Tsinghua mit dem Bachelor-Abschluss 2006 und ging dann an das Massachusetts Institute of Technology (als Whiteman Fellow), an dem sie 2012 in theoretischer promoviert wurde. Als Post-Doktorandin war sie 2012 bis 2014 Miller Research Fellow an der University of California, Berkeley. 2014 wurde sie Assistant Professor und 2017 Associate Professor am Caltech.
+
+Sie befasst sich mit neuartigen (topologischen) Phasen (wie Symmetrie-geschützten topologischen Ordnungen, "symmetry protected topological phases", SPT) und zugehörigen Phänomenen (wie fraktionierte Symmetrien) in Vielteilchensystemen, stark korrelierten Systemen, Dynamik von Quantenvielteilchensystemen, Tensor-Netzwerk-Darstellungen und Anwendungen in der Quanteninformationstheorie.
+
+Tensor-Netzwerk-Darstellungen dienen der effizienten Darstellung von verschränkten Vielteilchenwellenfunktionen mit area law und wurden von Chen und Kollegen insbesondere stark wechselwirkenden Systemen und Systemen mit topologischer Ordnung benutzt. Sie untersuchte auch das Phänomen der Symmetrie-Fraktionierung bei Systemen mit innerer topologischer Ordnung, bei denen sich die fraktionierte Statistik von Anyon-Zuständen auch auf die Darstellung unter globalen Symmetrien überträgt.
+
+SPT besitzen nicht-triviale Kantenzustände ohne Anregungsschwelle (gap) bei ansonsten normal aussehendem Volumenzuständen und werden durch globale Symmetrien wie Ladungserhaltung und Zeitumkehrinvarianz verursacht, die den topologischen "Schutz" bereitstellen. Sie verallgemeinern die in der Theorie topologischer Isolatoren und Supraleiter auftretenden Phänomene auf allgemeinere Fermion-, Boson- und Spin-Systeme. Unter anderem klassifizierte sie mit Kollegen die möglichen SPT-Phasen und konstruierte SPT-Systeme.
+
+2017 wurde sie Sloan Research Fellow und erhielt einen National Science Foundation Early Career Award. Für 2020 erhielt sie den New Horizons in Physics Prize "für einschneidende Beiträge zum Verständnis topologischer Zustände von Materie und ihrer Verbindungen zueinander" (Laudatio).

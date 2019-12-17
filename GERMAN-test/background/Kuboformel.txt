@@ -1,0 +1,34 @@
+Kuboformel
+
+Die Kuboformel (nach Ryōgo Kubo) ist ein Resultat der Quantenstatistik. Sie gibt die Lineare Antwortfunktion einer messbaren Größe (Observable) in zeitabhängiger Störungstheorie bei endlicher Temperatur als thermischen Erwartungswert hermitescher Operatoren im Wechselwirkungsbild an .
+
+Zu den zahlreichen Anwendungen der Kubo-Formel gehört die Berechnung magnetischer und elektrischer Suszeptibilitäten und abstrakter Verallgemeinerungen davon als Folge einer zeitabhängigen Störung des Hamiltonoperators des Systems.
+
+Die Kuboformel führt auf eine Beziehung zwischen
+
+Dabei bezeichnen
+
+Ein Quantensystem habe den zeitunabhängigen Hamiltonoperator formula_12 mit den als diskret angenommenen Energiewerten formula_13. Der quantenmechanische und thermische Erwartungswert einer physikalischen Größe mit dem hermiteschen Operator formula_14 ist dann:
+
+wobei formula_17 die Zustandssumme und formula_18 die reziproke absolute Temperatur formula_19 mit der Boltzmann-Konstanten formula_20 und der Temperatur formula_21 ist. Im letzten Gleichheitszeichen wurde dabei nach den ungestörten Energieeigenzuständen formula_22 mit formula_23 entwickelt und deren Vollständigkeit ausgenutzt.
+
+Wenn zur Zeit formula_24 eine externe Störung eingeschaltet wird, verlässt das System das thermische Gleichgewicht. Die Störung wird durch einen zeitabhängigen Zusatz zum Hamiltonoperator beschrieben:
+Dabei bezeichnet formula_26 die Heaviside-Funktion, die für nichtnegative Werte von formula_27 den Wert Eins annimmt und für alle anderen formula_28 den Wert Null. Damit wird dem instantanen „Einschaltprozess“ zum Zeitpunkt formula_29 Rechnung getragen. formula_30 ist ein für alle formula_31 definierter hermitescher Operator, sodass formula_32 für alle formula_31 ein vollständiges Orthonormalsystem von Eigenfunktionen formula_34 und Eigenwerten formula_35 besitzt.
+
+Aus der Zeitentwicklung der Dichtematrix formula_36
+folgt unter der Annahme, dass zu jedem Zeitpunkt der quantenstatistische Gleichgewichtsformalismus gültig bleibt
+, der thermische Erwartungswert der Operatoren formula_14:
+
+mit der Zustandssumme formula_40.
+
+Hier wird noch das quantenmechanische Schrödingerbild benutzt, allerdings mit zeitabhängigen Hamiltonoperatoren. Es wird aber an dieser Stelle darauf hingewiesen, dass sich im Allgemeinen sowohl die Eigenfunktionen formula_34 als auch die Eigenwerte formula_42 des Hamiltonoperators mit formula_7 ändern werden. Die Zeitabhängigkeit der formula_44 folgt aus der Schrödingergleichung formula_45 Da formula_46 „schwach“ sein soll, liegt es nahe, die niedrigste Ordnung der zeitabhängigen Störungstheorie zu benutzen und zum Wechselwirkungsbild überzugehen (Zustände formula_47). Das Ergebnis ist:
+
+In linearer Ordnung in formula_46 gilt:
+
+Auf diese Weise erhält man für formula_52 in linearer Ordnung das Endresultat (in dieser Ordnung sind ferner alle oben angesprochenen Probleme beseitigt, weil bei Störungsrechnungen erster Ordnung nur die Eigenfunktionen nullter Ordnung benötigt werden):
+
+Hier bedeutet der Ausdruck formula_54 einen mit dem Hamiltonoperator formula_12 berechneten quantenstatistischen Erwartungswert, bei der Temperatur formula_21, während die Ausdrücke darüber, formula_57 gewöhnliche quantenmechanische Erwartungswerte sind, welche die Temperatur nicht berücksichtigen. Ferner sind in formula_58 mit formula_13 die Eigenwerte von formula_60 gemeint.
+
+Da zum Zeitpunkt formula_4 die verschiedenen Bilder identisch sind, gilt dasselbe auch für obiges Endresultat.
+
+Hier wurden bosonische Zustände betrachtet. Für fermionische Zustände ergeben sich zusätzliche Besonderheiten. Die reduzierte Planck'sche Konstante formula_62 wurde Eins gesetzt.

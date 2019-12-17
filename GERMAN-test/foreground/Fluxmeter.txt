@@ -1,0 +1,13 @@
+Fluxmeter
+
+Fluxmeter sind Messgeräte zur Bestimmung des magnetischen Flusses Φ.
+
+Magnetische Messverfahren lassen sich unterscheiden in 
+Fluxmeter wenden hierbei Induktionsmethoden an und beruhen auf dem Grundgesetz der elektromagnetischen Induktion.
+
+Die zeitliche Änderung des magnetischen Flusses Φ, der von einer Messspule umfasst wird, induziert eine Messspannung; das Integral dieser Spannung über der Zeit ergibt die Änderung des magnetischen Flusses.
+Eine Flussänderung wird bewirkt 
+
+Fluxmeter können ausgeführt sein als 
+
+Durch die Messung des magnetischen Flusses Φ lassen sich auch folgende verwandte Größen ermitteln:

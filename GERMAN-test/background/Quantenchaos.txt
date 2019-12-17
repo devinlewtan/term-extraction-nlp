@@ -1,0 +1,11 @@
+Quantenchaos
+
+Der Begriff Quantenchaos bezeichnet ein interdisziplinäres Fachgebiet der Physik. Analog zum Gebiet der klassischen Mechanik, wo es für bestimmte Systeme zu deterministischem Chaos kommen kann, z. B. für die Navier-Stokes-Gleichungen, die für die Wettervorhersage und Klimaprognosen von Bedeutung sind (siehe Schmetterlingseffekt), gibt es auch in der Quantenmechanik Systeme mit chaotischem Verhalten, und zwar auf folgenden Gebieten:
+
+Das Korrespondenzprinzip beschreibt den Übergang von der quantenmechanischen Betrachtung zum klassischen Grenzfall, der Bereich zwischen klassischen und quantenmechanischen Systemen wird als "semiklassisch" bezeichnet.
+
+Das chaotische Verhalten von Quantensystemen wird dabei z. B. durch die Analyse der Spektralverteilungsfunktion festgestellt, die von deterministischen Quantensystemen abweicht. Man stellt in chaotischen Quantensystemen z. B. Niveau-Abstoßung fest oder verstärkte Aufenthaltswahrscheinlichkeiten, wo das klassische System nur instabile Trajektorien besitzt. Eine andere Möglichkeit ist die zeitliche Entwicklung des Quantensystems und seine Reaktion auf äußere Einflüsse (Kräfte) mit irregulären Amplitudenverteilungen.
+
+Zum Beispiel hat der Hamiltonoperator mit stochastischem (random-) Potential "kritische Wellenfunktionen" als Lösung und eine Cantor-Verteilung als Spektrum mit dem Lebesgue-Maß Null. In der Praxis zeigen diese Quantensysteme starke Fluktuationen auf mesoskopischer Ebene.
+
+Als alternativer Name für Quantenchaos wurde von Sir Michael Berry "Quanten-Chaologie" vorgeschlagen. Bedeutende Methoden, die zur Untersuchung des Quantenchaos verwendet werden, sind die Random-Matrix-Theorie von Oriol Bohigas und die Periodic-Orbit-Theorie von Martin Gutzwiller.

@@ -1,0 +1,15 @@
+Magnetische Flasche
+
+Unter einer (idealen) magnetischen Flasche versteht man eine rotationssymmetrische Magnetfeldkonfiguration, die um eine ausgezeichnete Achse liegt und an den Enden eine – im Vergleich zum Zentrum – hohe magnetische Feldstärke aufweist. In einer solchen Konfiguration können geladene Teilchen dauerhaft eingeschlossen werden.
+
+Das Magnetfeld einer magnetischen Flasche muss nicht ideal rotationssymmetrisch sein. Dies ist nur eine Annahme, die es ermöglicht, eine analytische Lösung für die Trajektorien geladener Teilchen zu finden. Ein Beispiel für eine magnetische Flasche mit nicht-rotationssymmetrischem Magnetfeld ist das Erdmagnetfeld, das durch den Sonnenwind deformiert wird (siehe auch Van-Allen-Gürtel). Der Flaschenhals entsteht hier dadurch, dass die Stärke des magnetischen Feldes in Richtung der geomagnetischen Pole ansteigt.
+
+Im Labor werden magnetische Flaschen auch als Spiegelmaschinen bezeichnet, sie dienen dem Einschluss von Plasmen (siehe Fusion mittels magnetischen Einschlusses).
+
+Geladene Teilchen, die sich senkrecht zu einem homogenen Magnetfeld bewegen, führen aufgrund der Lorentzkraft eine Kreisbewegung in der Ebene senkrecht zum Magnetfeld aus. Der Radius der Kreisbewegung wird als Larmor-Radius bezeichnet. Er ist groß für schwache Magnetfelder und klein für starke Magnetfelder.
+
+Haben die Teilchen zusätzlich eine Geschwindigkeitskomponente in Richtung des Magnetfeldes, so ergibt sich aus der Überlagerung von Kreisbewegung (senkrecht zum Magnetfeld) und Driftbewegung (in Richtung des Magnetfeldes) eine schraubenförmige Bewegung um die Magnetfeldlinien.
+
+Steigt im Verlauf der Driftbewegung die Stärke des Magnetfeldes allmählich an, so wird der Larmor-Radius kleiner, und das Teilchen führt zunehmend engere Schraubenbewegungen aus. Gleichzeitig verlaufen die magnetischen Feldlinien nicht mehr parallel zur Driftrichtung, sondern aufeinander zu. Damit wirkt auch die Lorentzkraft nicht mehr senkrecht zur Driftrichtung, sondern sie erhält eine Komponente, die "gegen" die Driftrichtung gerichtet ist. Das Teilchen wird also gegen die Driftrichtung beschleunigt. Infolgedessen wird die Driftbewegung abgebremst, sie kann – je nach kinetischer Energie des Teilchens und Stärke des Magnetfeldes – bis zum Stillstand gebracht und schließlich sogar umgekehrt werden: das Teilchen wird im Hals der magnetischen Flasche 'reflektiert'. Dieser wird auch als magnetischer Spiegel bezeichnet. 
+
+Eine magnetische Flasche entsteht durch die Kombination von zwei magnetischen Spiegeln. Geladene Teilchen werden an den magnetischen Spiegeln an den Enden der magnetischen Flasche reflektiert und können so dauerhaft eingeschlossen werden.

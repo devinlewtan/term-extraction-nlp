@@ -1,0 +1,23 @@
+Fluxgate-Magnetometer
+
+Ein Fluxgate-Magnetometer, auch Saturationskern-Magnetometer oder Förster-Sonde, im Englischen "Fluxgate", ist ein Magnetometer zur vektoriellen Bestimmung des Magnetfeldes. Mit Fluxgate-Sonden lassen sich Magnetfelder von 0,1 nT bis 1 mT messen. Die Sonde wurde 1937 von Friedrich Förster (1908–1999) erfunden.
+
+Zwei weichmagnetische Spulenkerne werden periodisch in die Sättigung getrieben. Die Kerne sind von zwei gegensinnigen Empfängerspulen umwickelt, sodass in beiden Spulen in Abwesenheit eines Feldes sich die induzierten Spannungen aufheben. Eine äußere Magnetfeldkomponente wirkt parallel bzw. antiparallel auf die Felder der beiden Spulen. Dadurch wird, wenn das äußere Feld parallel zum Feld einer Spule ist, in der einen Halbperiode in dieser Spule die Sättigung des Kerns eher erreicht. In der anderen Spule ist während dieser Halbperiode das äußere Feld antiparallel, somit setzt dort die Sättigung des Kerns später ein. Diese Asymmetrie verursacht ein resultierendes Signal in den Empfängerspulen, das proportional zum angelegten Feld ist. Die induzierte Spannung besitzt die doppelte Frequenz der Erreger-Wechselspannung.
+
+Der Aufbau kann mannigfaltig modifiziert werden, zum Beispiel arbeitet das nebenstehend abgebildete Magnetometer mit einem Ringkern (Toroid), der mittels einer aufgebrachten Spule erregt wird. Die Empfängerspulen umgeben den gesamten Kern und daher wird sich auch hier beim Fehlen eines externen Feldes die induzierte Spannung aufheben. Indem Phase und Betrag der in allen vier Spulen induzierten Spannung bestimmt wird, kann Betrag und Richtungssinn der waagerechten Komponente des externen Feldes bestimmt werden.
+
+Es können auch orthogonal angeordnete Kerne und Messspulen verwendet werden, um den Feldvektor im dreidimensionalen Raum zu bestimmen.
+
+Um die Linearität zu verbessern und den Messbereich zu vergrößern, kann man um dem gesamten Aufbau befindliche Kompensationsspulen mit einem geregelten Gleichstrom beaufschlagen, sodass die in der Sensorspule induzierte Spannung Null wird. Der Strom ist dann proportional zum externen Feld und hebt dieses auf. Der Gleichstrom wird mit einer Gegenkopplung erzeugt und ist somit zugleich das Ausgangssignal des Sensors. Auf diese Weise werden auch Stromsensoren gebaut (siehe unten).
+
+Fluxgate-Magnetometer werden zur Messung von Betrag und Richtung schwacher Magnetfelder verwendet.
+Mit einer Fluxgate-Sonde kann ein elektronischer Magnetkompass gebaut werden.
+Es wird neben der genauen Messung schwacher Magnetfelder (Erdmagnetfeld, interplanetarer Raum) auch zum Auffinden und Messen lokaler Anomalien verwendet (z. B. Lokalisieren von geologischen Verwerfungen).
+Fluxgate-Sonden dienen z. B. zu Richtungsmessungen des Erdmagnetfelds mit Raumsonden, beispielsweise bei der Mission CHAMP.
+
+Eine weitere Anwendung finden die Fluxgate-Sonden in der Messtechnik zur zerstörungsfreien Werkstoffprüfung:
+
+Dabei sind die beiden Kerne in einer E-Form zusammengefasst, und die beiden Teilwickel der Sonde beaufschlagen das davor liegende Material mit einem Wechselfeld. Ist das Material homogen, sind beide Einzelsignale gleich groß und löschen sich wegen ihrer Gegensinnigkeit aus. Weist das Material jedoch z. B. einen Riss auf, ergibt sich ein Differenzsignal, welches mit hoher Empfindlichkeit erkannt werden kann.
+Risse an der Oberfläche erzeugen bei Magnetisierung des Werkstoffes ein nach außen dringendes Streufeld. Das Feld kann mit verschiedenen Methoden aufgezeichnet werden. Dazu zählt neben dem Auflegen eines Magnetbandes auch die Abtastung mit einer Magnetsonde.
+
+Die Strommessung anhand des vom Strom erzeugten Magnetfeldes kann mithilfe einer Fluxgate-Sonde in einem Schlitz des den Stromleiter umgebenden Kernes und Nullkompensation mittels einer Kompensationsspule auf diesem Kern erfolgen. Solche Stromsensoren sind anderen Prinzipien (z. B. Messen mit Hallsonde) hinsichtlich Offsetfehler überlegen (z. B. Kompensationsstromwandler der Fa. Vacuumschmelze).

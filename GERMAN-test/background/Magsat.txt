@@ -1,0 +1,11 @@
+Magsat
+
+Magsat („Magnetic Field Satellite“, auch als "AEM-3" oder "Explorer-61" bekannt) war ein Wissenschaftssatellit im Rahmen des Explorer-Programms der NASA.
+
+Der Satellit wurde speziell dafür entwickelt, das nahe Magnetfeld der Erde zu untersuchen. Zusätzlich konnte er Daten zur geologischen Struktur und Zusammensetzung der Erde sammeln.
+
+Magsat hatte eine Masse von 181 Kilogramm. Ausgerüstet war er mit zwei Magnetometern: einem drei-Achsen-Fluxgate-Magnetometer zur Detektierung der Stärke und Richtung des magnetischen Feldes und ein Ionen-Dampf/Vector-Magnetometer zum Messen des durch das Magnetometer selbst erzeugten Feldes. Um das Magnetfeld unbeeinflusst vom Eigenmagnetfeld des Satelliten messen zu können, wurden die Magnetometer an einem langen Ausleger montiert, der im Orbit ausgefahren wurde.
+
+Magsat wurde am 30. Oktober 1979 mit der Trägerrakete Scout G von der Vandenberg Air Force Base aus gestartet und blieb bis zum Frühjahr 1980 in Betrieb.
+
+Nach dem Start wurde der Satellit in eine Umlaufbahn mit 96.8° Bahnneigung gebracht und zur Sonne ausgerichtet. Die Höhe der Bahn schwankte zwischen 352 und 561 Kilometer. Der Satellit blieb in einem erdnahen Orbit, damit die Magnetometer das Erdmagnetfeld besser erfassen konnten. Die gesammelten Daten erlaubten eine noch nie vorher gesehene dreidimensionale Darstellung der magnetischen Feldverteilung der Erde. Zusammen mit seinem Nachfolger Ørsted war er eine wichtige Komponente zur Erklärung des sich verringernden Erdmagnetfeldes.

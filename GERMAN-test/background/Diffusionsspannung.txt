@@ -1,0 +1,11 @@
+Diffusionsspannung
+
+Die Diffusionsspannung formula_1, selten auch Antidiffusionsspannung genannt, ist die Potentialdifferenz (elektrische Spannung) über eine Raumladungszone, die der Diffusion von Ladungsträgern (Elektronen und Defektelektronen) "entgegen"wirkt. Sie ist materialabhängig und beträgt für Silizium ≈ 0,7 V und für Germanium ≈ 0,3 V.
+
+Betrachtet wird eine Halbleiterdiode mit einem p-n-Übergang: An der Grenze zwischen p- und n-dotiertem Halbleiter kommt es aufgrund des Konzentrationsgradienten zur Diffusion von Ladungsträgern, d. h. freie Elektronen aus dem n-Gebiet wandern in das p-Gebiet (Diffusionsstrom), analog dazu wandern die Löcher (Defektelektronen) vom p- in das n-Gebiet.
+
+Durch diese Ladungsträgerbewegung bildet sich zwischen den Raumladungen im Inneren des Kristalls ein elektrisches Gegenfeld. Dieses wirkt der weiteren Diffusion beweglicher Ladungsträger entgegen, da es einen entgegengesetzten "Driftstrom" erzeugt.
+
+Die durch das elektrische "Gegen"feld erzeugte Spannung wird als Diffusionsspannung bezeichnet (daher auch der Name "Anti"diffusionsspannung):
+
+mit

@@ -1,0 +1,42 @@
+Magnon
+
+Als Magnon bzw. Magnon-Quasiteilchen bezeichnet man einen kollektiven Anregungszustand eines magnetischen Systems mit Eigenschaften eines bosonischen Quasiteilchens. Dieser Anregungszustand entspricht in Festkörpern der quantisierten Form einer magnetischen Spinwelle, analog zu den Phononen als quantisierten Schallwellen.
+
+Einfacher ausgedrückt handelt es sich um eine Störung in Form einer Abweichung des Spins einzelner Teilchen, welche sich wie eine Schallwelle durch den Festkörper ausbreitet.
+
+Voraussetzung für die Existenz der Magnonen ist das Vorhandensein einer magnetischen Ordnung, also einer Kopplung zwischen den magnetischen Momenten der Gitteratome, welche zu bevorzugten Ausrichtungen der Momente zueinander führt, z. B. parallel bei Ferro- oder antiparallel bei Antiferromagneten.
+
+Die Energie für wellenartige Anregungen dieser geordneten Momente ist wie bei den elastischen Gitterschwingungen (Phononen) gequantelt. Für die kleinstmögliche Anregung wählt man die zu den Phonon analoge Bezeichnung "Magnon". Dieses Magnon besteht in der üblichen halbklassischen Interpretation (siehe Abbildung) aus einer Kette sich in bestimmter Weise kohärent drehender Spins, da die Energie dadurch geringer wird. Im Grundzustand etwa zeigen "alle" Spins parallel nach "oben":
+
+Dagegen zeigt er beim quantenmechanischen Magnonzustand, der zu diesem Grundzustand passt, an einer einzigen Stelle – mit einer gewissen korrelierten Wahrscheinlichkeit, die dem obigen halbklassischen Bild entspricht – "nach unten":
+
+mit
+Dies entspricht der Anwendung eines Magnon-Erzeugungsoperators formula_6 auf den Grundzustand:
+
+mit der atomaren Spinquantenzahl S=1/2.
+
+Der Spin des Magnons ist dagegen immer 1 – nicht nur, falls es sich um Ferromagneten und um Atome mit halbzahligem Spins handelt –, weil der Gesamtspin des Systems (in Einheiten der Planck'schen Konstante) durch das „fortgetragene Magnon“ von formula_8 auf formula_9 vermindert wird. Wegen dieses ganzzahligen Spins sind die Magnonen bosonische Anregungen.
+
+1999 wurde erstmals Bose-Einstein-Kondensation in einem Festkörper an Magnonen beobachtet, 2006 auch bei Raumtemperatur.
+
+Bei Ferromagneten ergibt sich im einfachen Modell für kleine formula_10 (große Wellenlängen) eine quadratische Dispersionsrelation (Beziehung zwischen Kreisfrequenz und Wellenzahl):
+
+über die Austauschkopplung formula_12 wechselwirkender Spins (Betrag formula_13, Gitterkonstante formula_14).
+
+Die Abhängigkeit von der Wellenzahl ist also (hier in der Näherung kleiner "k") "quadratisch" wie bei „echten“ massiven Teilchen im ganzen nichtrelativistischen Bereich (z. B. bei den Neutronen), obwohl Magnonen wie andere bosonische Quasiteilchen keine Masse haben.
+
+Im Allgemeinen ist die Dispersionsrelation auf jeden Fall richtungsabhängig (anisotrop). Das lässt sich gut durch inelastische Neutronenstreuung beobachten (die Neutronen wechselwirken mit den Spins der Elektronen und Kerne und messen so die Verteilung der magnetischen Momente der Elektronen). Zuerst gelang so Brockhouse 1957 der Nachweis von Magnonen. Für D ergibt sich z. B. nach Shirane u. a. ein Wert von 281 meV Å bei Eisen. Auch in Spinwellenresonanz-Experimenten in dünnen Schichten lassen sich Magnon-Anregungen durch hochfrequente magnetische Wechselfelder beobachten. 
+
+Da man es bei Ferromagneten mit einer spontan gebrochenen Symmetrie zu tun hat (die Drehsymmetrie ist gebrochen, da eine bestimmte Magnetisierungsrichtung ausgezeichnet ist), kann man Magnonen als die dem Spinzustand zugeordneten Goldstone(quasi)teilchen identifizieren, d. h. Anregungen mit geringer Energie bzw. (nach der Dispersionsrelation) sehr großer Wellenlänge.
+
+Magnonen wurden zuerst durch Felix Bloch als theoretisches Konzept eingeführt. Er leitete eine Temperaturabhängigkeit der relativen Magnetisierung mit einem Exponenten 3/2 ab (Blochsches formula_15 Gesetz), was ebenfalls experimentell bestätigt wurde. Durch die wärmebedingte Erzeugung von Magnonen wird die Magnetisierung abgebaut.
+
+Weitergehende theoretische Behandlung erfuhren Spinwellen in Ferromagneten durch Theodore Holstein (1915–1985) und Henry Primakoff sowie Freeman Dyson in den 1940er und 1950er Jahren, die nach ihnen benannte Bosonen-Transformationen einführten.
+
+Im Antiferromagnetismus, wo Magnetisierungen mit "entgegengesetzter Ausrichtung" auf Untergittern existieren, die sich gegenseitig durchdringen, haben die Magnon-Anregungen eine völlig andere Dispersionsrelation als bei Ferromagneten: hier hängt die Energie nicht "quadratisch", sondern – wie bei Phononen – "linear" von der Wellenzahl ab:
+
+Dies hat u. a. konkrete Auswirkungen auf die Thermodynamik der Systeme. So ist z. B. in Antiferromagneten der Beitrag der Magnonen zur spezifischen Wärme eines Festkörpers entsprechend der Debye-Theorie des Phononen-Beitrags proportional zu T (T ist die Kelvin-Temperatur) und kann deswegen nur durch hohe Magnetfelder vom Beitrag der Phononen separiert werden.
+
+Paramagnonen sind Magnonen in der ungeordneten (paramagnetischen) Phase von magnetischen Materialien (Ferromagneten, Antiferromagneten) oberhalb von deren kritischer Temperatur. Dort sind nur noch kleine Bereiche spin-geordnet und erlauben in diesen Bereichen die Bildung von Magnonen. Das Konzept stammt von N. F. Berk und J. R. Schrieffer und S. Doniach und S. Engelsberg, die damit zusätzliche Elektronen-Abstoßung in einigen Supraleitern erklärten, was zu einer Erniedrigung der kritischen Temperatur führte.
+
+Man kann die Magnonen (präziser: das zugrunde liegende Spinwellen-Feld) auch ohne direkten Bezug auf die Quantenmechanik durch ein klassisches nichtlineares Integro-Differentialgleichungssystem beschreiben, siehe dazu die vektorielle Landau-Lifschitz-Gleichung. Die eigentlichen Magnonen werden aber durch die Quantenmechanik beschrieben.

@@ -1,0 +1,41 @@
+Eisenverluste
+
+Als Eisenverluste bezeichnet man den Energieverbrauch, der durch den Aufbau und die fortlaufenden Veränderungen des Magnetfeldes in den ferromagnetischen Bauteilen bzw. Eisenkernen von elektrischen Maschinen auftritt, ohne die diese nicht funktionieren würden. Die Eisenverluste sind stark von der Qualität und der Masse bzw. Menge der verwendeten ferromagnetischen Komponenten abhängig. Die Größe individueller Eisenverluste wird in Leerlaufversuchen ermittelt. Die aufgenommene Verlustenergie wird letztlich in Form von Wärme abgeleitet.
+
+Legt man eine Wechselspannung an eine Spule mit Eisenkern an, dann entstehen Verluste, die man zusammenfassend Ummagnetisierungsverluste nennt. Die Ummagnetisierungsverluste setzen sich zusammen aus den Wirbelstromverlusten, den Hystereseverlusten, Verlusten, die in verschiedenen Veröffentlichungen als Exzessverluste, oder synonym als Zusatzverluste bezeichnet werden, sowie einem weiteren Effekt, der als Nachwirkungsverlust bezeichnet wird. Wirbelstromverluste entstehen im Spulenkern durch Induktionsströme, wenn der Kern aus einem elektrisch leitfähigen Material besteht. Hystereseverluste entstehen durch die Arbeit, die aufgebracht werden muss, um den Spulenkern im Rhythmus der Frequenz umzumagnetisieren.
+
+Als Hystereseverluste bezeichnet man die Verluste, die durch die Arbeit nötig sind, die Weiss-Bezirke zu verschieben. Diese Verlustkomponente ist proportional der Fläche der von der durchlaufenen Hystereseschleife im B-H-Diagramm, gekennzeichnet durch maximale und minimale Induktion formula_1. Sie ist streng proportional zur Ummagnetisierungsfrequenz formula_2 und – in Abwesenheit eines Gleichanteils – näherungsweise proportional zum Produkt des Achsabschnittes der Feldstärke, der Koerzitivfeldstärke formula_3 und der Amplitude der Induktion formula_4:
+
+Hierin ist
+
+In einer weiteren Näherung aus der Annahme, dass formula_8 proportional zu formula_4 ist, sind die Hystereseverluste annähernd proportional zum Quadrat der Induktion formula_4.
+
+Die Verschlechterung der Gefügestruktur durch das Stanzen kann durch die Multiplikation der Hystereseverluste mit einem Faktor formula_11, dem sogenannten Bearbeitungszuschlag, berücksichtigt werden.
+
+Die Wirbelstromverluste sind nach den Maxwell-Gleichungen für parallel zur Blechrichtung durchströmte Eisen berechnet durch
+
+mit
+
+Für höhere Frequenzen muss noch die Stromverdrängung berücksichtigt werden. Der Stromverdrängungseffekt muss bei üblichen Elektroblechen in etwa ab einem Wert
+
+berücksichtigt werden. Die Verluste steigen dann weniger schnell an als proportional formula_16. Bei sehr hohen Frequenzen steigen die Wirbelstromverluste proportional zu formula_17.
+
+Da die Wirbelstromverluste proportional zum Quadrat der Blechdicke sind, werden elektrische Maschinen vorzugsweise mit isolierten Blechen ausgeführt, deren Stärke in Abhängigkeit von der angestrebten Betriebsfrequenz so gewählt ist, dass die Wirbelstromverluste kleiner oder gleich groß sind wie die Hystereseverluste. Für Netzfrequenzen von 50 Hz sind die Wirbelstromverluste bereits bei einer Blechstärke von 0,35 mm gegenüber den Hystereseverlusten vernachlässigbar. Für höhere Frequenzen verwendet man vorzugsweise dünnere Bleche.
+
+Diese Verluste werden von Bertotti auf den Energiebedarf zurückgeführt, der bei der Verschiebung der Bloch-Wände entsteht. Sie werden durch
+
+beschrieben. Hierin ist
+
+Nachwirkungsverluste erfassen das zeitliche Nacheilen der Induktion hinter einer vorangegangenen Feldänderung. Für hohe Flussdichten sind sie gegenüber den vorstehenden Verlusten (Hysterese-, Wirbelstrom- und Exzessverluste) zu vernachlässigen.
+
+Die Verluste werden messtechnisch im sogenannten Epsteinrahmen an genormten Blechproben ermittelt.
+Dabei wird eine sinusförmige Wechselmagnetisierung mit "B"=1,5 T und einer Frequenz von 50 Hz eingeprägt.
+
+Für Bleche bis zu einer Stärke von 0,35 mm, die für den Einsatz bei Frequenzen am Umrichter bei deutlich über 50 Hz gedacht sind, werden die Verluste ebenfalls im Epsteinrahmen an genormten Blechproben ermittelt.
+Dabei wird eine sinusförmige Wechselmagnetisierung mit "B"=1 T und einer Frequenz von 400 Hz eingeprägt.
+
+Zur nicht normativen Spezifizierung der Bleche für verschiedene Arbeitspunkte wird die Messung im Epstein-Rahmen bei verschiedenen Frequenzen und Amplituden gemessen werden.
+
+Identifikation der Parameter aus der Messung
+
+Die Messungen bei tiefen Frequenzen können zur Identifikation der Funktion formula_20 herangezogen werden. Der Faktor formula_19 kann für Blechstärken bis 0,35 mm aus der Messung bei 400 Hz ermittelt werden. Da die Funktion formula_20 wie auch die zur Berechnung der Stromverdrängung herangezogene Permeabilitätsfunktion bereits empirisch abzubildende Funktionen sind, ist es oft einfacher, die Verluste durch eine geeignete Interpolation der Messresultate direkt zu errechnen.

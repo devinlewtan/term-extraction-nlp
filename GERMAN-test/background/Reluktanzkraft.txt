@@ -1,0 +1,33 @@
+Reluktanzkraft
+
+Die Reluktanzkraft formula_1 oder auch Maxwellsche Kraft entsteht aufgrund der Änderung des magnetischen Widerstands, der auch als Reluktanz bezeichnet wird. Die Reluktanzkraft wirkt immer so, dass sich der magnetische Widerstand verringert und die Induktivität steigt und ist der Magnetostatik zuzurechnen. 
+
+Diese Eigenschaft wird bei einigen Typen von elektrischen Maschinen benutzt, zum Beispiel bei geschalteten Reluktanzmaschinen, Transversalflussmaschinen, dem Synchron-Reluktanzmotor oder elektromagnetischen Lagern. 
+
+Eine verwandte Kraft ist die Lorentzkraft, welche die Kraftwirkung auf eine bewegte elektrische Ladung in einem äußeren elektromagnetischen Feld beschreibt.
+
+Die Reluktanzkraft kann hergeleitet werden aus der Änderung der Energie formula_2, die sich bei einer infinitesimalen Verschiebung formula_3 des beweglichen Stücks zur Seite ergibt:
+
+Darin ist
+
+Die Induktivität formula_8 eines magnetischen Kreises mit Luftspalt ist gegeben durch
+
+mit
+
+Die (idealisierte) Fläche, die für den magnetischen Kreis zur Verfügung steht, ergibt sich zu
+
+Dabei ist die Richtung der Auslenkung formula_18 unerheblich, daher die Betragsstriche. Die Größe formula_19 bezeichnet die Tiefe.
+
+Einsetzen liefert
+
+so dass auf den beweglichen Teil des ausgelenkten Kerns eine Kraft 
+
+wirkt, die ihn zur Mitte hin zieht. Diese ist "unabhängig" von der Größe der Auslenkung, außer wenn die obige Ableitung formula_22 ihre Gültigkeit verliert. Dies ist der Fall, wenn formula_23 zu groß wird.
+
+Analog zu oben gilt
+Für die Induktivität gilt auch hier näherungsweise
+Mit der Potenzregel erhält man
+
+Einsetzen in die Formel für formula_1 liefert das Ergebnis:
+
+Da bei einer Verkleinerung des Luftspalts die Induktivität steigt, wirkt die Reluktanzkraft in diese Richtung. Die Kraft nimmt mit der Breite des Luftspalts ab. Das Maximum der Reluktanzkraft ist erreicht, wenn der Luftspalt gegen null geht. Allerdings gilt bei sehr kleinem Luftspalt die Näherungsformel für die Induktivität nicht mehr, da dann der magnetische Widerstand des Kerns nicht mehr vernachlässigt werden kann.

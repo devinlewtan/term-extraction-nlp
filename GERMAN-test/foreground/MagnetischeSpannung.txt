@@ -1,0 +1,27 @@
+Magnetische Spannung
+
+Die magnetische Spannung oder magnetische Quellspannung (Formelzeichen: formula_1 oder auch formula_2) ist in der Elektrodynamik das Wegintegral über die magnetische Feldstärke formula_3. Im Falle eines geschlossenen Weges, auch als Umlauf bezeichnet, spricht man von der magnetischen Durchflutung formula_4, kurz Durchflutung. Die Durchflutung ist gleich dem durch diesen Umlauf eingeschlossenen totalen elektrischen Strom, der sich aus dem Leitungsstrom plus dem Verschiebungsstrom zusammensetzt.
+
+Die magnetische Spannung hat formale Ähnlichkeit mit der elektrischen Spannung formula_5. Sie ist von Bedeutung im magnetischen Kreis.
+
+Die Einheit der magnetischen Spannung im SI ist das Ampere. Früher wurde das Ampere als Einheit der Durchflutung Amperewindung (Einheitenzeichen: Aw, AW) genannt, da der gleiche Strom den Umlauf mehrfach „durchwinden“ kann; bei einer Zylinderspule ist die magnetische Spannung (in guter Näherung) die Stromstärke in der Spule multipliziert mit der Windungszahl.
+
+In dem Gaußschen Einheitensystem und Elektromagnetischen Einheitensystem (EMU) wird für die Durchflutung die Einheit Gilbert (Einheitenzeichen: Gb) verwendet.
+
+Das Durchflutungsgesetz beschreibt den Zusammenhang zwischen der magnetischen Durchflutung und dem eingeschlossenen Strom.
+
+Mit dem magnetischen Fluss formula_7 und dem magnetischen Widerstand formula_8 hängt die magnetische Spannung formula_1 über das hopkinsonsche Gesetz
+
+zusammen. Dieses Gesetz ist das magnetische Äquivalent zum ohmschen Gesetz für elektrische Stromkreise. Im Gegensatz zum elektrischen Stromkreis (unter Abwesenheit veränderlicher Magnetfelder) ist die Summe aller Spannungen in einem Maschenumlauf jedoch nicht Null, sondern die magnetische Durchflutung.
+
+Um einen geraden elektrischen Linienleiter stellt man sich Ebenenfächer vor. Man kann in diesem Fall die magnetische Spannung abhängig vom Winkel formula_11 zwischen zwei Flächen angeben:
+
+Würde man ein Bündel aus formula_13 Leitern, von denen jeder vom Strom formula_14 durchflossen wird, betrachten, wäre formula_15.
+
+Für die magnetische Feldstärke formula_3 gilt der Zusammenhang
+
+wobei formula_18 ein Segment der Feldlänge formula_19 der magnetischen Feldstärke mit formula_20 und formula_21 der Radius des Kreises um den Strom formula_14, auf dem das Feld gemessen wird, ist. In dieser Formel ist formula_1 gleichbedeutend mit formula_4.
+
+Im Falle einer Zylinderspule mit der Windungszahl formula_25, die von einem Strom formula_14 durchflossen wird, gilt in guter Näherung:
+
+Das gilt auch für andere Spulenformen, bei denen kaum Magnetfeldlinien zwischen den Windungen hindurchtreten oder wenn ein Magnetkreis (Eisenkern oder Ferritkern) aus einem Material hoher relativer Permeabilität besteht. In letzterem Falle kann aus dessen Eisenweglänge und der Durchflutung rückwärts auf die magnetische Feldstärke geschlossen werden und – wenn die Permeabilitätszahl bekannt ist – auf die magnetische Flussdichte.

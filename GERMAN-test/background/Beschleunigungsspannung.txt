@@ -1,0 +1,14 @@
+Beschleunigungsspannung
+
+In der Elektronen- und Ionenoptik wird eine Beschleunigungsspannung zwischen Elektroden angelegt, um elektrisch geladenen Teilchen kinetische Energie zu geben. Die elektrische Feldstärke zwischen den Elektroden und damit die Beschleunigung der Teilchen hängen vom Abstand der Elektroden ab, der Energiezuwachs am Ende der Beschleunigungsstrecke aber nicht, siehe Potential und Spannung, daher die Bedeutung der Beschleunigungsspannung und die Angabe von Teilchenenergien in der Einheit Elektronenvolt. Mit leicht handhabbaren Spannungen werden relativistische Geschwindigkeiten erreicht.
+
+Teilchen der Ladung formula_1 erhalten durch eine Beschleunigungsspannung formula_2 die elektrische Energie 
+
+Für nichtrelativistische Geschwindigkeiten (formula_4) beträgt die kinetische Energie eines Teilchens der Masse formula_5 näherungsweise
+
+Gleichsetzen ergibt
+
+
+Für den exakten Zusammenhang zwischen Geschwindigkeit und Energie siehe kinetische Energie in der relativistischen Mechanik.
+
+Die Gründe für die Wahl der Beschleunigungsspannung können sich auf eine Reihe von Parametern beziehen:

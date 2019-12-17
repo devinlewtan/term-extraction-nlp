@@ -1,0 +1,15 @@
+Dilepton
+
+Mit Dilepton bezeichnet man ein korreliertes Paar von einem Lepton und einem Antilepton, seinem Antiteilchen, das in Atomkernkollisionen in Teilchenbeschleuniger-Experimenten erzeugt wird. Dileptonen entstehen aus elektromagnetischen Zerfalls- oder Annihilationsprozessen. Mit Dileptonen sind entweder Dielektronen (Elektron-Antielektron-Paare) oder Dimyonen (Myon-Antimyon-Paare) gemeint. Tau-Leptonen-Paare werden in der Regel nicht als Dilepton bezeichnet, weil sie wegen ihrer hohen Masse und kurzen Lebenszeit nicht gemessen werden.
+
+Da (elektrisch geladene) Leptonen nur der elektromagnetischen und schwachen Wechselwirkung unterliegen, werden sie durch das stark wechselwirkende Medium, das durch die Kollisionen entsteht, nicht abgelenkt. Dileptonen werden daher als Sonden für die Untersuchung von Eigenschaften des Mediums und der, in Dileptonen zerfallenden, Teilchen im Medium verwendet. Besonderes Interesse besteht an der Untersuchung des Quark-Gluon-Plasma und der Wiederherstellung der chiralen Symmetrie.
+
+Es gibt verschiedene Quellen für Dileptonenemission in einer Atomkernkollision.
+
+In initiale Stößen zweier Nukleonen der kollidierenden Kerne anihilieren ein Quark des einen Nukleons mit einem Quark eines anderen Nukleons. Dieser Prozess resultiert in einem virtuellen Photon, das dann in ein Dilepton zerfällt (Drell-Yan-Prozess).
+
+Während der Kollision entstehende Charm- oder Bottom-Quark-Antiquark-Paare, können in der Folge mit leichteren Quarks ein D- oder B-Mesonen-Paar (formula_1, formula_2) bilden. Die Mesonen zerfallen anschließend in einem semileptontischen Zerfall. Die Zerfälle der beiden Mesonpartner produzieren zusammen ein Dilepton.
+
+Eine weitere Quelle ist die Annihilation von Quark-Antiquark-Paaren (formula_3) aus dem Quark-Gluon-Plasma, das während der Kollision entsteht und in dem Quarks nicht in Hadronen gebunden sind. Dieser Beitrag zur Messung ist häufig dominiert von anderen Beiträgen und deswegen experimentell schwer zugänglich. Die Messung dieses Beitrags ist eine der wenigen Messungen, die direkte Rückschlüsse auf die Temperatur des Quark-Gluon-Mediums ermöglicht.
+
+Dilepton werden auch durch hadronische Prozesse produziert. Ein Beispiel stellt die Kollision eines positiven Pi-Mesons mit seinem negativen Antiteilchen dar, bei der ein Leptonenpaar entsteht. Zudem werden Dileptonen in Resonanzzerfällen produziert. Einige Resonanzen (z. B. die Vektormesonen wie ρ-Meson, ω-Meson, φ-Meson oder J/ψ-Meson) zerfallen direkt in ein Leptonpaar. Dieses trägt den gleichen Viererimpuls und erlaubt dadurch direkten Zugriff auf Eigenschaften, wie die Masse, der zerfallenden Resonanz. Die Messung von Resonanzeigenschaften ist von besonderem Interesse, weil diese sich theoretisch mit der Wiederherstellung der chiralen Symmetrie verknüpfen lassen. Diese Änderung der Symmetrie könnte, ähnlich wie der formula_3-Beitrag, das Entstehen des Quark-Gluon-Plasmas anzeigen.
