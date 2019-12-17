@@ -20,7 +20,11 @@ catnamefile=${2// /$rep2}
 catnamefile="${catnamefile//'/'/_}"
 catnamefile="${catnamefile//'&'/_}"
 catnamefile="${catnamefile//'('/_}"
+<<<<<<< HEAD
 catnamefile="${catnamefile//')'/_}" 
+=======
+catnamefile="${catnamefile//")"/_}"
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 depth=${5,,}
 max=${6,,}
 
@@ -47,7 +51,11 @@ else
 	use_depth=true
 	max=0
 fi
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 #echo "ok params: use max: $use_max and use depth: $use_depth"
 
 ##final output file
@@ -86,7 +94,11 @@ echo "$2" >> "$subcat_list"
 echo
 
 ##dict of languages & their Wikipedia code
+<<<<<<< HEAD
 declare -A lang_codes_dict=(["english"]="en" ["german"]="de" ["french"]="fr" ["spanish"]="es" ["russian"]="ru" ["japanese"]="ja" ["dutch"]="nl" ["italian"]="it" ["swedish"]="sv" ["polish"]="pl" ["vietnamese"]="vi" ["portuguese"]="pt" ["arabic"]="ar" ["chinese"]="zh" ["ukrainian"]="uk" ["catalan"]="ca" ["norwegian"]="no" ["finnish"]="fi" ["czech"]="cs") 
+=======
+declare -A lang_codes_dict=(["english"]="en" ["german"]="de" ["french"]="fr" ["spanish"]="es" ["russian"]="ru" ["japanese"]="ja" ["dutch"]="nl" ["italian"]="it" ["swedish"]="sv" ["polish"]="pl" ["vietnamese"]="vi" ["portuguese"]="pt" ["arabic"]="ar" ["chinese"]="zh" ["ukrainian"]="uk" ["catalan"]="ca" ["norwegian"]="no" ["finnish"]="fi" ["czech"]="cs")
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 ##TODO: add more languages later
 
 ##retrieve lang code from dict
@@ -94,7 +106,11 @@ lang_code="${lang_codes_dict[$target_lang]}"
 
 wiki_url="$lang_code.wikipedia.org"
 
+<<<<<<< HEAD
 ##call other script with Stages 1, 2, 3 
+=======
+##call other script with Stages 1, 2, 3
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 #echo "passing params:
 #wikiurl: $wiki_url, 2: $2, final_outdir: $final_outdir, article_list: $article_list, subcat_list: $subcat_list, recurs: $recurs, depth: $depth, 0: 0, max: $max, use_max: $use_max, usedepth: $use_depth"
 
@@ -110,7 +126,11 @@ wiki_url="$lang_code.wikipedia.org"
 if [[ "$use_max" == "true" ]]; then
 	touch "${catnamefile}_maxids.txt"
 	shuf -n $max "$article_list" >> "${catnamefile}_maxids.txt"
+<<<<<<< HEAD
 else 
+=======
+else
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 	cp "$article_list" "${catnamefile}_maxids.txt"
 fi
 
@@ -133,19 +153,31 @@ while IFS= read -r line; do
 	if [[ $count -lt 49 ]]; then
 		#echo "action: added to query"
 		#id=$( echo "$line" | cut -d $'\t' -f1 )
+<<<<<<< HEAD
 		
+=======
+
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 		#echo "id: $id"
 		if [[ -n "$line" ]]; then
 			getarticles2="${getarticles2}|$line"
 		fi
 		##echo "getart2 so far: $getarticles2"
 		((count++))
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 	else
 		getarticlesfull="$wiki_url$getarticles1$getarticles2$getarticles3"
 		arr+=("$getarticlesfull")
 		#echo "added to array: $getarticlesfull"
+<<<<<<< HEAD
 		#echo "action: started new query"		
+=======
+		#echo "action: started new query"
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 		getarticles2="$line"
 		count=0
 	fi
@@ -156,12 +188,20 @@ getarticlesfull="$wiki_url$getarticles1$getarticles2$getarticles3"
 arr+=("$getarticlesfull")
 
 
+<<<<<<< HEAD
 ## ----------- Step 4: get articles 
+=======
+## ----------- Step 4: get articles
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 
 outf="${catnamefile}_xml_all.txt"
 if [ ! -e "$outf" ]; then
         touch "$outf"
+<<<<<<< HEAD
 else 
+=======
+else
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 	echo "${catnamefile}_xml_all.txt already exists. Appending to end of file."
 fi
 
@@ -170,7 +210,11 @@ for query in "${arr[@]}"; do
 	#echo "GETTING QUERY: $query"
 	#	echo "query $count"
 
+<<<<<<< HEAD
 	wget -a "wget_logfile" -O - $query >> "$outf" 
+=======
+	wget -a "wget_logfile" -O - $query >> "$outf"
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 	((count++))
 done
 
@@ -194,7 +238,11 @@ echo
 echo "Final stage: separating docs"
 echo
 
+<<<<<<< HEAD
 python3 separate-wikidocs2.py "${catnamefile}_wikiextractor_output/" "$final_outdir" 
+=======
+python3 separate-wikidocs2.py "${catnamefile}_wikiextractor_output/" "$final_outdir"
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
 
 
 ## ------------ cleanup unwanted files
@@ -203,8 +251,11 @@ rm "$outf" "$article_list" "$subcat_list" "${catnamefile}_maxids.txt"
 echo "Done"
 
 exit
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 30327842a43df3a6074ffe2c7d18f05f69760521
