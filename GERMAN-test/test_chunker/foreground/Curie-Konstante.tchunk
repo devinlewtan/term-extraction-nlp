@@ -1,0 +1,65 @@
+Curie-Konstante	Curie-Konstante	NN	B-NP
+
+Die	Die	DT	B-NP
+Curie-Konstante	Curie-Konstante	JJ	I-NP
+formula_1	formula_1	NN	I-NP
+(	(	(	O
+nach	nach	IN	B-PP
+Pierre	Pierre	NN	B-NP
+Curie	Curie	NN	I-NP
+)	)	)	O
+ist	ist	VB	B-VP
+eine	eine	DT	B-NP
+Größe	Größe	NN	I-NP
+aus	aus	IN	B-PP
+dem	dem	DT	B-NP
+Bereich	Bereich	NN	I-NP
+des	des	DT	B-NP
+Magnetismus	Magnetismus	NN	I-NP
+,	,	,	O
+die	die	WDT	O
+jeweils	jeweils	RB	B-ADVP
+für	für	IN	B-PP
+einen	einen	DT	B-NP
+Stoff	Stoff	NN	I-NP
+konstant	konstant	JJ	B-ADJP
+ist	ist	VB	B-VP
+und	und	CC	O
+die	die	DT	B-NP
+Dimension	Dimension	NN	I-NP
+einer	einer	DT	B-NP
+Temperatur	Temperatur	NN	I-NP
+hat	hat	VB	B-VP
+:	:	:	O
+
+mit	mit	IN	B-PP
+
+Statt	Statt	IN	B-PP
+auf	auf	IN	I-PP
+das	das	DT	B-NP
+Volumen	Volumen	NN	I-NP
+wird	wird	VB	B-VP
+die	die	DT	B-NP
+Curie-Konstante	Curie-Konstante	NN	I-NP
+oft	oft	RB	B-ADVP
+auch	auch	RB	I-ADVP
+auf	auf	IN	B-PP
+die	die	DT	B-NP
+Stoffmenge	Stoffmenge	NN	I-NP
+formula_9	formula_9	NN	I-NP
+bezogen	bezogen	VBN	B-VP
+:	:	:	O
+
+mit	mit	IN	B-PP
+
+Als	Als	IN	B-PP
+Dimension	Dimension	NN	B-NP
+von	von	IN	B-PP
+formula_14	formula_14	NN	B-NP
+ergibt	ergibt	VB	B-VP
+sich	sich	PRP	B-NP
+m	m	NN	I-NP
+K	K	JJ	I-NP
+mol	mol	NN	I-NP
+.	.	.	O
+

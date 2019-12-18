@@ -1,0 +1,37 @@
+Flux-Detektor-Folie	Flux-Detektor-Folie	NN	B-NP
+
+Flux-Detektor-Folie	Flux-Detektor-Folie	RB	B-VP
+ist	ist	VB	I-VP
+eine	eine	DT	B-NP
+spezielle	spezielle	JJ	I-NP
+Folie	Folie	NN	I-NP
+mit	mit	IN	B-PP
+eingeschlossenen	eingeschlossenen	NN	B-NP
+Eisen-	Eisen-	TRUNC	O
+oder	oder	CC	O
+Nickelteilchen	Nickelteilchen	VB	B-VP
+,	,	,	O
+welche	welche	WDT	B-NP
+magnetischen	magnetischen	JJ	I-NP
+Fluss	Fluss	NN	I-NP
+sichtbar	sichtbar	JJ	B-ADJP
+macht	macht	VB	B-VP
+.	.	.	O
+
+Die	Die	DT	B-NP
+Folie	Folie	NN	I-NP
+ist	ist	VB	B-VP
+flexibel	flexibel	JJ	B-ADJP
+,	,	,	O
+so	so	RB	B-ADVP
+dass	dass	IN	B-PP
+die	die	DT	B-NP
+Folie	Folie	NN	I-NP
+um	um	IN	B-PP
+ein	ein	DT	B-NP
+Magnetsystem	Magnetsystem	NN	I-NP
+gewickelt	gewickelt	NN	I-NP
+werden	werden	VB	B-VP
+kann	kann	VBN	I-VP
+.	.	.	O
+

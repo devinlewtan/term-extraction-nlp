@@ -1,0 +1,42 @@
+Magnetische	Magnetische	JJ	B-NP
+Waage	Waage	NN	I-NP
+
+Magnetische	Magnetische	JJ	B-NP
+Waagen	Waagen	NNS	I-NP
+messen	messen	PRP$	I-NP
+Kräfte	Kräfte	NN	I-NP
+oder	oder	RB	B-ADVP
+Gewichte	Gewichte	NNS	B-NP
+mit	mit	IN	B-PP
+Hilfe	Hilfe	NN	B-NP
+eines	eines	DT	I-NP
+Magnetfelds	Magnetfelds	NN	I-NP
+,	,	,	O
+das	das	DT	O
+dabei	dabei	RB	B-ADVP
+meist	meist	RB	I-ADVP
+durch	durch	IN	B-PP
+einen	einen	DT	B-NP
+Elektromagneten	Elektromagneten	NN	I-NP
+erzeugt	erzeugt	VBN	B-VP
+wird	wird	VB	I-VP
+.	.	.	O
+
+Magnetische	Magnetische	JJ	B-NP
+Waagen	Waagen	NNS	I-NP
+nutzen	nutzen	VB	B-VP
+das	das	DT	B-NP
+Prinzip	Prinzip	NN	I-NP
+der	der	DT	B-NP
+magnetischen	magnetischen	JJ	I-NP
+Suszeptibilität	Suszeptibilität	NN	I-NP
+.	.	.	O
+
+Es	Es	PRP	B-NP
+gibt	gibt	VB	B-VP
+sie	sie	PRP	B-NP
+in	in	IN	B-PP
+verschiedenen	verschiedenen	JJ	B-NP
+Ausführungen	Ausführungen	NN	I-NP
+:	:	:	O
+

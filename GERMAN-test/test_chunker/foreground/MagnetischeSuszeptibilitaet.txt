@@ -1,0 +1,33 @@
+Magnetorotationsinstabilität
+
+Magnetorotationsinstabilität (MRI, magnetische Rotationsinstabilität) oder Balbus-Hawley-Instabilität bezeichnet das Phänomen der Entstehung von Instabilität rotierender Fluide in der Umgebung kleiner Magnetfelder unter bestimmten Voraussetzungen mit der Folge, dass Materie ins Zentrum fällt.
+
+Die Instabilität sorgt in astrophysikalischen Akkretionsscheiben unter anderem für die Entstehung von Sternen und von Schwarzen Löchern, ist aber auch im Labor beobachtbar. Sie folgt aus den Grundgleichungen der Magnetohydrodynamik (MHD).
+
+Sowohl bei der Sternentstehung, als auch bei der Entstehung von Schwarzen Löchern sammelt sich Materie in einer Akkretionsscheibe und rotiert um das Zentrum, in dem der Stern entsteht.
+
+Die Materie strömt dabei laminar und aufgrund des Dritten Kepler'schen Gesetzes mit nach außen abnehmender Geschwindigkeit. Da der Zustand der geringsten Energie darin besteht, dass sich sämtliche Masse im Zentrum sammelt, andererseits aber der Drehimpuls des Gesamtsystems erhalten bleiben muss, führt dies dazu, dass sich ein Großteil der Masse nach innen bewegt, was durch einen kleinen Teil, der sich nach weit außen bewegt, kompensiert wird.
+
+Mögliche Ansätze von durch Viskosität erzeugten Turbulenzen erweisen sich nicht als effizient genug, um die Sternentstehung zu verursachen.
+
+Steven A. Balbus und John F. Hawley zeigten 1991 durch Analyse der Gleichungen der Magnetohydrodynamik, dass kleine Magnetfelder zu Instabilitäten in den rotierenden Scheiben führen. Dies führt dazu, dass Drehimpuls von innen nach außen transportiert wird, und dass die inneren Materieschichten damit ins Zentrum fallen können, so dass sich dort Masse anreichert.
+
+Die MRI wird durch Scherung des Magnetfeldes im Plasma verursacht. Die Scherung entsteht, da das Magnetfeld dem Plasma folgt und sich die inneren Schichten schneller bewegen als die äußeren (differenzielle Rotation).
+
+In einem so gescherten Flächenelement wirkt das Magnetfeld wie eine Feder, die die innere Schicht abbremst, ihr dadurch zugunsten der äußeren Schichten Drehimpuls nimmt und die innere Schicht auf eine niedrigere Umlaufbahn bringt. Dadurch kann Masse in Richtung Gravitationszentrum akkretieren.
+
+Die MRI ist also die Ursache für die hohe Akkretionsrate und damit für die hohe Leuchtkraft, die an verschiedenen Objekten (z. B. AGN, Quasare, Mikroquasare) beobachtet wird.
+
+Aus der linearen Stabilitätsanalyse der MHD-Gleichungen mit differenzieller Rotation erhält man die Dispersionsrelation:
+
+formula_2 bezeichnet die Frequenz und formula_3 den Wellenvektor der Störung, formula_4 die Alfvén-Geschwindigkeit, formula_5 die Schallgeschwindigkeit, formula_6 die Epizykelfrequenz und formula_7 die Rotationsfrequenz der Scheibe.
+
+Instabilität tritt ein, wenn formula_2 imaginär wird. Dann erhält man in der Wellengleichung einer Störung formula_9 ein exponentielles Wachstum. Es zeigt sich, dass der langsame Ast der magnetosonischen Welle für genügend schwache Magnetfelder instabil wird, d. h. Störungen wachsen exponentiell. Die charakteristische Wachstumszeit einer Störung ist dabei von der Größenordnung der lokalen Rotationsdauer.
+
+Der Effekt wurde bereits 1959 von Evgeny Velikhov und 1960 von Subrahmanyan Chandrasekhar im Zusammenhang mit Stabilitätsbetrachtungen von Couette-Flüssen beschrieben, daher auch die Bezeichnung "Velikhov-Chandrasekhar-Instabilität".
+
+Steven A. Balbus und John F. Hawley wandten den Effekt auf astrophysikalische Systeme wie differenziell rotierende Akkretionsscheiben an. Sie zeigten die Wirksamkeit der MRI beim Drehimpulstransport theoretisch und in Simulationen. Sie lieferten damit die physikalische Grundlage des 1973 von Nikolai I. Shakura und Rashid Sunyaev entworfenen Modells der Standardscheibe (siehe Akkretionsscheibe).
+
+Heutige Forschung betrachtet z. B. die Wechselwirkung der MRI mit Strahlung, die MRI in resistiven, den Übergang von optisch dichten zu optisch dünnen Scheiben und der Entstehung von Jets aus Akkretionsscheiben.
+
+Experimentell nachgewiesen wurde sie 2006 durch Günther Rüdiger und Frank Stefani.

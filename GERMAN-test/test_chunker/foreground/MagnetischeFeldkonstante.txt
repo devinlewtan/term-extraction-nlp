@@ -1,0 +1,21 @@
+Magnetische Feldkonstante
+
+Die magnetische Feldkonstante formula_5, auch Magnetische Konstante, Vakuumpermeabilität oder Induktionskonstante, ist eine physikalische Konstante, die eine Rolle bei der Beschreibung von Magnetfeldern spielt. Sie gibt das Verhältnis der magnetischen Flussdichte zur magnetischen Feldstärke im Vakuum an. Der Kehrwert der magnetischen Feldkonstanten (mit einem Vorfaktor formula_6) tritt als Proportionalitätskonstante im magnetostatischen Kraftgesetz auf. Im Internationalen Einheitensystem (SI) hat die magnetische Feldkonstante den Wert:
+mit den Einheiten Newton (N) und Ampere (A).
+
+Historisch hatte die Konstante formula_5 verschiedene Namen. Bis 1987 sprach man von der „magnetischen Permeabilität des Vakuums“. Jetzt heißt sie in der Physik und in der Elektrotechnik "magnetische Feldkonstante".
+
+In formula_9 bezeichnet formula_5 die magnetische Feldkonstante und formula_11 die relative Permeabilität.
+
+Aus den Maxwell-Gleichungen ergibt sich im SI ein einfacher Zusammenhang zwischen der magnetischen Feldkonstante, der elektrischen Feldkonstanten formula_12 und der Lichtgeschwindigkeit formula_13:
+
+Der Wert der magnetischen Feldkonstante war bis 2019 durch die Definition der Maßeinheit "Ampere" definiert. Nach dieser Definition übten zwei parallele, unendlich lange Leiter im Vakuum, die beide von einem elektrischen Strom mit einer Stromstärke von 1 Ampere durchflossen werden, eine Kraft von 2 · 10 Newton aufeinander aus. Aus dem Ampèreschen Kraftgesetz folgte damit der exakte Wert der magnetischen Feldkonstanten von
+
+Durch die von der 26. Generalkonferenz für Maß und Gewicht (CGPM) beschlossene Neudefinition der SI-Einheiten ist das Ampere seit dem 20. Mai 2019 auf Basis der Elementarladung formula_17 und der Definition der Sekunde definiert. Dadurch ist die magnetische Feldkonstante nun (wieder) eine experimentell zu bestimmende, mit Messunsicherheit behafteten Größe. 
+
+Es gilt weiterhin exakt die Beziehung formula_18. Daher lässt sich formula_5 aus der (mit Messunsicherheit behafteten) Feinstrukturkonstante formula_20 und drei weiteren, fest definierten Naturkonstanten bestimmen: (formula_21 = Planck-Konstante)
+
+Als die Änderung der SI-Einheiten beschlossen wurde, wurde der Wert formula_23 zunächst fortgeschrieben, mit der relativen Messunsicherheit für α von 2,3 · 10. Zum Zeitpunkt des Inkrafttretens am 20. Mai 2019 wurde der Wert
+angegeben. Mit einer relative Messunsicherheit von 1,5 · 10 ist er derzeit als genauester verfügbarer Wert allgemein anerkannt.
+
+Die Einheit von formula_5 wird je nach Verwendung in verschiedenen SI-Einheiten ausgedrückt, z. B.:
