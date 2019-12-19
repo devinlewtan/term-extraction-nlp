@@ -1,0 +1,36 @@
+Chad	Chad	NN	B-NP
+(	(	(	O
+Einheit	Einheit	NN	B-NP
+)	)	)	O
+
+Chad	Chad	RB	B-VP
+ist	ist	VB	I-VP
+die	die	DT	B-NP
+veraltete	veraltete	NN	I-NP
+Einheit	Einheit	NN	I-NP
+des	des	DT	B-NP
+Neutronenflusses	Neutronenflusses	NN	I-NP
+,	,	,	O
+benannt	benannt	NN	B-NP
+nach	nach	IN	B-PP
+dem	dem	DT	B-NP
+britischen	britischen	JJ	I-NP
+Physiker	Physiker	NN	I-NP
+und	und	CC	O
+Entdecker	Entdecker	NN	B-NP
+des	des	DT	B-NP
+Neutrons	Neutrons	NN	I-NP
+Sir	Sir	NN	I-NP
+James	James	JJ	B-NP
+Chadwick	Chadwick	NN	I-NP
+.	.	.	O
+
+1	1	CD	B-NP
+Chad	Chad	NN	I-NP
+=	=	NN	I-NP
+1	1	CD	B-NP
+Neutron&slash;	Neutron&slash;	NN	I-NP
+(	(	(	O
+cms	cms	NN	B-NP
+)	)	)	O
+

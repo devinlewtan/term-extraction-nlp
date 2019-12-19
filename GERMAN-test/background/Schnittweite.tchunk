@@ -1,0 +1,16 @@
+Schnittweite	Schnittweite	NNP	B-NP
+
+Unter	Unter	IN	B-PP
+der	der	DT	B-NP
+Schnittweite	Schnittweite	NNP	I-NP
+s	s	RP	O
+bzw.	bzw.	CC	O
+s	s	IN	B-PP
+'	'	NN	B-NP
+versteht	versteht	VB	B-VP
+man	man	DT	O
+in	in	IN	B-PP
+der	der	DT	B-NP
+Optik	Optik	NN	I-NP
+:	:	:	O
+

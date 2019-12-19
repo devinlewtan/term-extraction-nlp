@@ -1,0 +1,1682 @@
+Formelsammlung	Formelsammlung	JJ	B-NP
+Tensoralgebra	Tensoralgebra	NN	I-NP
+
+Diese	Diese	DT	B-NP
+Formelsammlung	Formelsammlung	NN	I-NP
+fasst	fasst	VB	B-VP
+Formeln	Formeln	NNS	B-NP
+und	und	CC	I-NP
+Definitionen	Definitionen	NNS	I-NP
+der	der	DT	B-NP
+Tensoralgebra	Tensoralgebra	NN	I-NP
+für	für	IN	B-PP
+Tensoren	Tensoren	NN	B-NP
+zweiter	zweiter	JJ	I-NP
+Stufe	Stufe	NN	I-NP
+in	in	IN	B-PP
+der	der	DT	B-NP
+Kontinuumsmechanik	Kontinuumsmechanik	NN	I-NP
+zusammen	zusammen	RP	O
+.	.	.	O
+
+Für	Für	IN	B-PP
+Summen	Summen	NN	B-NP
+gilt	gilt	VB	B-VP
+dann	dann	IN	B-PP
+z	z	NN	B-NP
+.	.	.	O
+B	B	NN	B-NP
+.	.	.	O
+
+Dies	Dies	DT	O
+gilt	gilt	VB	B-VP
+für	für	IN	B-PP
+die	die	DT	B-NP
+anderen	anderen	JJ	I-NP
+Indexgruppen	Indexgruppen	NN	I-NP
+entsprechend	entsprechend	JJ	B-ADJP
+.	.	.	O
+
+Kreuzprodukt	Kreuzprodukt	NN	B-NP
+:	:	:	O
+
+Die	Die	DT	B-NP
+hier	hier	RB	I-NP
+verwendeten	verwendeten	JJ	I-NP
+Vektoren	Vektoren	NN	I-NP
+sind	sind	VB	B-VP
+Spaltenvektoren	Spaltenvektoren	NN	B-NP
+
+Drei	Drei	CD	B-NP
+Vektoren	Vektoren	NN	I-NP
+formula_36	formula_36	NN	I-NP
+können	können	PRP$	I-NP
+spaltenweise	spaltenweise	NN	I-NP
+in	in	IN	B-PP
+einer	einer	DT	B-NP
+3×3-Matrix	3×3-Matrix	NN	I-NP
+formula_37	formula_37	NN	I-NP
+arrangiert	arrangiert	NN	I-NP
+werden	werden	VB	B-VP
+:	:	:	O
+
+Die	Die	DT	B-NP
+Determinante	Determinante	NN	I-NP
+der	der	DT	B-NP
+Matrix	Matrix	NN	I-NP
+
+ist	ist	VB	B-VP
+
+Also	Also	RB	B-VP
+gewährleistet	gewährleistet	VB	I-VP
+formula_40	formula_40	NN	B-NP
+,	,	,	O
+dass	dass	RB	B-ADVP
+die	die	DT	B-NP
+Vektoren	Vektoren	NN	I-NP
+formula_36	formula_36	NN	I-NP
+eine	eine	DT	B-NP
+rechtshändige	rechtshändige	NN	I-NP
+Basis	Basis	NN	I-NP
+bilden	bilden	VB	B-VP
+.	.	.	O
+
+Die	Die	DT	B-NP
+Spaltenvektoren	Spaltenvektoren	NN	I-NP
+bilden	bilden	VB	B-VP
+eine	eine	DT	B-NP
+Orthonormalbasis	Orthonormalbasis	NN	I-NP
+,	,	,	O
+wenn	wenn	IN	B-PP
+
+worin	worin	IN	B-PP
+formula_43	formula_43	NN	B-NP
+die	die	DT	I-NP
+transponierte	transponierte	NN	I-NP
+Matrix	Matrix	NN	I-NP
+ist	ist	VB	B-VP
+.	.	.	O
+Bei	Bei	IN	B-PP
+der	der	DT	O
+hier	hier	IN	B-PP
+vorausgesetzten	vorausgesetzten	NN	B-NP
+Rechtshändigkeit	Rechtshändigkeit	NN	I-NP
+gilt	gilt	VB	B-VP
+dann	dann	RB	B-NP
+zusätzlich	zusätzlich	JJ	I-NP
+formula_44	formula_44	NN	I-NP
+
+Basisvektoren	Basisvektoren	NNP	B-NP
+formula_15	formula_15	NNP	I-NP
+
+Duale	Duale	NN	B-NP
+Basisvektoren	Basisvektoren	NNP	I-NP
+formula_13	formula_13	NNP	I-NP
+
+Beziehungen	Beziehungen	NN	B-NP
+zwischen	zwischen	IN	B-PP
+den	den	DT	B-NP
+Basisvektoren	Basisvektoren	NNP	I-NP
+
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+Spatprodukt	Spatprodukt	NN	I-NP
+
+Trägt	Trägt	VB	B-VP
+man	man	DT	B-NP
+die	die	DT	I-NP
+Basisvektoren	Basisvektoren	NNP	I-NP
+spaltenweise	spaltenweise	NNP	I-NP
+in	in	IN	B-PP
+eine	eine	DT	B-NP
+Matrix	Matrix	NN	I-NP
+ein	ein	RP	O
+,	,	,	O
+dann	dann	RB	B-VP
+finden	finden	VB	I-VP
+sich	sich	PRP	B-NP
+die	die	DT	I-NP
+dualen	dualen	JJ	I-NP
+Basisvektoren	Basisvektoren	NNP	I-NP
+in	in	IN	B-PP
+den	den	DT	B-NP
+Zeilen	Zeilen	NN	I-NP
+der	der	DT	B-NP
+Inversen	Inversen	NN	I-NP
+oder	oder	RB	B-ADVP
+den	den	DT	B-NP
+Spalten	Spalten	NNS	I-NP
+der	der	DT	B-NP
+transponiert	transponiert	NN	I-NP
+Inversen	Inversen	NN	I-NP
+:	:	:	O
+
+mit	mit	IN	B-PP
+der	der	DT	B-NP
+transponiert	transponiert	NN	I-NP
+inversen	inversen	NN	I-NP
+formula_52	formula_52	NN	I-NP
+
+In	In	IN	B-PP
+der	der	DT	B-NP
+Standardbasis	Standardbasis	NN	I-NP
+formula_53	formula_53	NN	I-NP
+sind	sind	VB	B-VP
+die	die	DT	B-NP
+Basisvektoren	Basisvektoren	NNP	I-NP
+zu	zu	RB	B-ADVP
+sich	sich	PRP	B-NP
+selbst	selbst	JJ	B-NP
+dual	dual	NN	I-NP
+:	:	:	O
+
+Beziehung	Beziehung	NN	B-NP
+zwischen	zwischen	IN	B-PP
+den	den	DT	B-NP
+Skalarprodukten	Skalarprodukten	NN	I-NP
+der	der	DT	B-NP
+Basisvektoren	Basisvektoren	NNP	I-NP
+:	:	:	O
+
+Wechsel	Wechsel	NN	B-NP
+von	von	IN	B-PP
+
+Basis	Basis	JJ	B-NP
+formula_13	formula_13	NN	I-NP
+mit	mit	IN	B-PP
+dualer	dualer	NN	B-NP
+Basis	Basis	NN	I-NP
+formula_15	formula_15	NN	I-NP
+
+nach	nach	IN	B-PP
+
+Basis	Basis	JJ	B-NP
+formula_62	formula_62	NN	I-NP
+mit	mit	IN	B-PP
+dualer	dualer	NN	B-NP
+Basis	Basis	NN	I-NP
+formula_12	formula_12	NN	I-NP
+:	:	:	O
+
+Matrizengleichung	Matrizengleichung	NN	B-NP
+:	:	:	O
+
+Abbildung	Abbildung	JJ	B-NP
+formula_66	formula_66	NN	I-NP
+
+Dyade	Dyade	NN	B-NP
+:	:	:	O
+formula_67	formula_67	NN	B-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_74	formula_74	NN	I-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_76	formula_76	NN	I-NP
+oder	oder	RB	B-ADVP
+formula_77	formula_77	NN	B-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_79	formula_79	NN	I-NP
+oder	oder	RB	B-ADVP
+formula_80	formula_80	NN	B-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_83	formula_83	NN	I-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_85	formula_85	NN	I-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_87	formula_87	NN	I-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_83	formula_83	NN	I-NP
+
+Abbildung	Abbildung	JJ	B-NP
+formula_83	formula_83	NN	I-NP
+
+Durch	Durch	IN	B-PP
+die	die	DT	B-NP
+Eigenschaften	Eigenschaften	NNS	I-NP
+des	des	DT	B-NP
+dyadischen	dyadischen	JJ	I-NP
+Produktes	Produktes	NN	I-NP
+wird	wird	VB	B-VP
+formula_94	formula_94	NN	B-NP
+zu	zu	IN	B-PP
+einem	einem	DT	B-NP
+Vektorraum	Vektorraum	NN	I-NP
+und	und	CC	O
+entsprechend	entsprechend	JJ	B-ADJP
+kann	kann	VB	B-VP
+jeder	jeder	JJ	B-NP
+Tensor	Tensor	JJ	I-NP
+komponentenweise	komponentenweise	NN	I-NP
+bezüglich	bezüglich	IN	B-PP
+einer	einer	DT	B-NP
+Basis	Basis	NN	I-NP
+dargestellt	dargestellt	VBN	B-VP
+werden	werden	VB	I-VP
+.	.	.	O
+
+mit	mit	IN	B-PP
+Komponenten	Komponenten	NN	B-NP
+formula_96	formula_96	NN	I-NP
+
+Meistens	Meistens	RB	B-VP
+ist	ist	VB	I-VP
+aber	aber	RB	B-ADVP
+:	:	:	O
+
+siehe	siehe	VB	B-VP
+auch	auch	IN	B-PP
+#	#	NN	B-NP
+Axialer	Axialer	NN	I-NP
+Tensor	Tensor	NN	I-NP
+oder	oder	RB	I-NP
+Kreuzproduktmatrix	Kreuzproduktmatrix	NN	I-NP
+
+Siehe	Siehe	VB	B-VP
+auch	auch	IN	B-PP
+#	#	NN	B-NP
+Vektorinvariante	Vektorinvariante	NN	I-NP
+
+Das	Das	DT	B-NP
+Skalarkreuzprodukt	Skalarkreuzprodukt	NN	I-NP
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+#	#	NN	I-NP
+Einheitstensor	Einheitstensor	NN	I-NP
+vertauscht	vertauscht	NN	I-NP
+das	das	DT	B-NP
+dyadische	dyadische	JJ	I-NP
+Produkt	Produkt	NN	I-NP
+durch	durch	IN	B-PP
+das	das	DT	B-NP
+Kreuzprodukt	Kreuzprodukt	NN	I-NP
+:	:	:	O
+
+Mit	Mit	IN	B-PP
+der	der	DT	B-NP
+Formel	Formel	NN	I-NP
+für	für	IN	B-PP
+das	das	DT	B-NP
+Produkt	Produkt	NN	I-NP
+zweier	zweier	JJ	B-NP
+#	#	NN	I-NP
+Permutationssymbole	Permutationssymbole	NN	I-NP
+:	:	:	O
+
+Eigenschaften	Eigenschaften	NNS	B-NP
+:	:	:	O
+
+Aber	Aber	CC	O
+meistens	meistens	RB	B-ADVP
+:	:	:	O
+
+Siehe	Siehe	VB	B-VP
+auch	auch	IN	B-PP
+#	#	NN	B-NP
+Hauptinvarianten	Hauptinvarianten	NN	I-NP
+,	,	,	O
+#	#	NN	B-NP
+Kofaktor	Kofaktor	NNP	I-NP
+eines	eines	DT	I-NP
+Tensors	Tensors	NN	I-NP
+.	.	.	O
+
+Determinantenproduktsatz	Determinantenproduktsatz	NN	B-NP
+:	:	:	O
+
+Multiplikation	Multiplikation	NN	B-NP
+mit	mit	IN	B-PP
+Skalaren	Skalaren	NN	B-NP
+formula_135	formula_135	NN	I-NP
+:	:	:	O
+
+Charakteristische	Charakteristische	JJ	B-NP
+Gleichung	Gleichung	NN	I-NP
+:	:	:	O
+
+mit	mit	IN	B-PP
+der	der	DT	B-NP
+Hauptinvariante	Hauptinvariante	JJ	I-NP
+formula_139	formula_139	NN	I-NP
+.	.	.	O
+Spezialfall	Spezialfall	NN	B-NP
+:	:	:	O
+
+Zusammenhang	Zusammenhang	NN	B-NP
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+Spatprodukt	Spatprodukt	NN	I-NP
+:	:	:	O
+
+Zusammenhang	Zusammenhang	NN	B-NP
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+äußeren	äußeren	NN	I-NP
+Tensorprodukt	Tensorprodukt	NN	I-NP
+:	:	:	O
+
+Zusammenhang	Zusammenhang	NN	B-NP
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+Kofaktor	Kofaktor	NN	I-NP
+formula_144	formula_144	NN	I-NP
+:	:	:	O
+
+Spatprodukt	Spatprodukt	NN	B-NP
+und	und	CC	I-NP
+#	#	NN	I-NP
+Determinante	Determinante	NN	I-NP
+eines	eines	DT	B-NP
+Tensors	Tensors	NN	I-NP
+:	:	:	O
+
+Kreuzprodukt	Kreuzprodukt	NN	B-NP
+und	und	CC	I-NP
+#	#	NN	I-NP
+Kofaktor	Kofaktor	NN	I-NP
+eines	eines	DT	B-NP
+Tensors	Tensors	NN	I-NP
+:	:	:	O
+
+Die	Die	DT	B-NP
+Komponenten	Komponenten	NN	I-NP
+formula_162	formula_162	NN	I-NP
+ergeben	ergeben	VB	B-VP
+sich	sich	PRP	B-NP
+durch	durch	IN	B-PP
+Vor-	Vor-	TRUNC	O
+und	und	CC	O
+Nachmultiplikation	Nachmultiplikation	NN	B-NP
+mit	mit	IN	B-PP
+der	der	DT	B-NP
+Transformationsmatrix	Transformationsmatrix	NN	I-NP
+
+die	die	DT	B-NP
+ein	ein	DT	I-NP
+#	#	NN	I-NP
+Einheitstensor	Einheitstensor	NN	I-NP
+ist	ist	VB	B-VP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+für	für	IN	B-PP
+einen	einen	DT	B-NP
+Tensor	Tensor	NN	I-NP
+formula_17	formula_17	NN	I-NP
+:	:	:	O
+
+Zwei	Zwei	CD	B-NP
+Tensoren	Tensoren	NN	I-NP
+formula_17	formula_17	NN	I-NP
+und	und	CC	O
+formula_168	formula_168	NN	B-NP
+sind	sind	VB	B-VP
+identisch	identisch	JJ	B-ADJP
+wenn	wenn	RB	B-VP
+gilt	gilt	VB	I-VP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+
+Wenn	Wenn	IN	B-PP
+λ	λ	NN	B-NP
+die	die	DT	I-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+des	des	DT	B-NP
+Tensors	Tensors	NN	I-NP
+A	A	NN	I-NP
+sind	sind	VB	B-VP
+,	,	,	O
+dann	dann	VBN	B-VP
+hat	hat	VB	I-VP
+cof	cof	NN	B-NP
+(	(	(	O
+A	A	NN	B-NP
+)	)	)	O
+die	die	DT	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+λλ	λλ	NN	I-NP
+,	,	,	O
+λλ	λλ	NN	B-NP
+,	,	,	O
+λλ	λλ	NN	B-NP
+.	.	.	O
+
+Betrag	Betrag	NN	B-NP
+:	:	:	O
+formula_172	formula_172	NN	B-NP
+
+Eigenschaften	Eigenschaften	NNS	B-NP
+:	:	:	O
+
+Kreuzprodukt	Kreuzprodukt	NN	B-NP
+und	und	CC	I-NP
+Kofaktor	Kofaktor	NN	I-NP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+:	:	:	O
+
+Betrag	Betrag	NN	B-NP
+:	:	:	O
+formula_181	formula_181	NN	B-NP
+
+Eigenschaften	Eigenschaften	NNS	B-NP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+
+Die	Die	DT	B-NP
+Inverse	Inverse	NN	I-NP
+ist	ist	VB	B-VP
+nur	nur	RB	I-VP
+definiert	definiert	VBN	I-VP
+,	,	,	O
+wenn	wenn	IN	B-PP
+formula_188	formula_188	NN	B-NP
+
+Zusammenhang	Zusammenhang	NN	B-NP
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+adjungierten	adjungierten	NN	I-NP
+Tensor	Tensor	NN	I-NP
+formula_189	formula_189	NN	I-NP
+:	:	:	O
+
+Werden	Werden	VB	B-VP
+die	die	DT	B-NP
+Spalten	Spalten	NNS	I-NP
+von	von	IN	B-PP
+formula_17	formula_17	NN	B-NP
+mit	mit	IN	B-PP
+Vektoren	Vektoren	NN	B-NP
+bezeichnet	bezeichnet	VBN	B-VP
+
+dann	dann	RB	B-VP
+gilt	gilt	VB	I-VP
+:	:	:	O
+
+Satz	Satz	NN	B-NP
+von	von	IN	B-PP
+Cayley-Hamilton	Cayley-Hamilton	NN	B-NP
+:	:	:	O
+
+worin	worin	IN	B-PP
+formula_195	formula_195	NN	B-NP
+die	die	DT	I-NP
+drei	drei	CD	I-NP
+Hauptinvarianten	Hauptinvarianten	NN	I-NP
+sind	sind	VB	B-VP
+.	.	.	O
+
+Inverse	Inverse	NN	B-NP
+des	des	DT	I-NP
+transponierten	transponierten	NN	I-NP
+Tensors	Tensors	NN	I-NP
+:	:	:	O
+
+Inverse	Inverse	NN	B-NP
+eines	eines	DT	I-NP
+Tensorprodukts	Tensorprodukts	NN	I-NP
+:	:	:	O
+
+Spezialfälle	Spezialfälle	NN	B-NP
+:	:	:	O
+
+mit	mit	IN	B-PP
+Eigenwert	Eigenwert	NN	B-NP
+formula_203	formula_203	NN	I-NP
+und	und	CC	I-NP
+Eigenvektor	Eigenvektor	JJ	I-NP
+formula_204	formula_204	NN	I-NP
+.	.	.	O
+Die	Die	DT	B-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+werden	werden	VB	B-VP
+auf	auf	IN	B-PP
+die	die	DT	B-NP
+Länge	Länge	NN	I-NP
+eins	eins	CD	B-NP
+normiert	normiert	NN	I-NP
+.	.	.	O
+
+Jeder	Jeder	JJ	B-NP
+Tensor	Tensor	NN	I-NP
+hat	hat	VB	B-VP
+drei	drei	CD	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+und	und	CC	O
+drei	drei	CD	B-NP
+dazugehörige	dazugehörige	JJ	I-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+.	.	.	O
+Mindestens	Mindestens	NN	B-NP
+ein	ein	DT	I-NP
+Eigenwert	Eigenwert	NN	I-NP
+und	und	CC	O
+Eigenvektor	Eigenvektor	NN	B-NP
+sind	sind	VB	B-VP
+reell	reell	JJ	B-ADJP
+.	.	.	O
+Die	Die	DT	B-NP
+beiden	beiden	DT	I-NP
+anderen	anderen	JJ	I-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+und	und	CC	O
+-vektoren	-vektoren	NN	B-NP
+können	können	VB	B-VP
+reell	reell	JJ	B-ADJP
+oder	oder	CC	I-ADJP
+komplex	komplex	JJ	I-ADJP
+sein	sein	VB	B-VP
+.	.	.	O
+
+``	``	NN	B-NP
+Charakteristische	Charakteristische	JJ	I-NP
+Gleichung	Gleichung	NN	I-NP
+''	''	NN	I-NP
+
+Die	Die	DT	B-NP
+Koeffizienten	Koeffizienten	NN	I-NP
+sind	sind	VB	B-VP
+die	die	DT	B-NP
+``	``	NN	I-NP
+#	#	NN	I-NP
+Hauptinvarianten	Hauptinvarianten	NN	I-NP
+''	''	NN	I-NP
+:	:	:	O
+
+Satz	Satz	NN	B-NP
+von	von	IN	B-PP
+Cayley-Hamilton	Cayley-Hamilton	NN	B-NP
+:	:	:	O
+
+Sei	Sei	VB	B-VP
+formula_210	formula_210	NN	B-NP
+``	``	NN	I-NP
+symmetrisch	symmetrisch	JJ	I-NP
+''	''	NN	I-NP
+.	.	.	O
+
+Symmetrische	Symmetrische	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+haben	haben	VB	B-VP
+reelle	reelle	NN	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+und	und	CC	I-NP
+paarweise	paarweise	JJ	I-NP
+zueinander	zueinander	RB	I-NP
+senkrechte	senkrechte	JJ	I-NP
+oder	oder	CC	I-NP
+orthogonalisierbare	orthogonalisierbare	JJ	I-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+,	,	,	O
+die	die	WDT	O
+also	also	RB	B-ADVP
+eine	eine	DT	B-NP
+Orthonormalbasis	Orthonormalbasis	NN	I-NP
+aufbauen	aufbauen	VB	B-VP
+.	.	.	O
+Die	Die	DT	B-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+werden	werden	VB	B-VP
+so	so	IN	B-PP
+nummeriert	nummeriert	NN	B-NP
+,	,	,	O
+dass	dass	IN	B-PP
+die	die	DT	B-NP
+ein	ein	DT	I-NP
+Rechtssystem	Rechtssystem	NN	I-NP
+bilden	bilden	VB	B-VP
+.	.	.	O
+
+Hauptachsentransformation	Hauptachsentransformation	NN	B-NP
+mit	mit	IN	B-PP
+Eigenwerten	Eigenwerten	NN	B-NP
+formula_211	formula_211	NN	I-NP
+und	und	CC	I-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+formula_212	formula_212	NN	I-NP
+des	des	DT	B-NP
+symmetrischen	symmetrischen	JJ	I-NP
+Tensors	Tensors	NN	I-NP
+formula_17	formula_17	NN	I-NP
+:	:	:	O
+
+bzw	bzw	NN	B-NP
+.	.	.	O
+
+Sei	Sei	VB	B-VP
+formula_216	formula_216	NN	B-NP
+``	``	NN	I-NP
+schiefsymmetrisch	schiefsymmetrisch	JJ	I-NP
+''	''	NN	I-NP
+.	.	.	O
+
+Schiefsymmetrische	Schiefsymmetrische	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+haben	haben	VB	B-VP
+einen	einen	DT	B-NP
+reellen	reellen	NN	I-NP
+und	und	CC	O
+zwei	zwei	CD	B-NP
+konjugiert	konjugiert	NN	I-NP
+komplexe	komplexe	VB	B-VP
+,	,	,	O
+rein	rein	RB	B-NP
+imaginäre	imaginäre	JJ	I-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+.	.	.	O
+Der	Der	DT	B-NP
+reelle	reelle	JJ	I-NP
+Eigenwert	Eigenwert	NN	I-NP
+von	von	IN	B-PP
+formula_17	formula_17	NN	B-NP
+ist	ist	VB	B-VP
+null	null	CD	O
+zu	zu	IN	B-PP
+dem	dem	DT	B-NP
+ein	ein	DT	I-NP
+Eigenvektor	Eigenvektor	NN	I-NP
+gehört	gehört	VBN	B-VP
+,	,	,	O
+der	der	DT	B-NP
+proportional	proportional	NN	I-NP
+zur	zur	IN	B-PP
+reellen	reellen	NN	B-NP
+``	``	NN	I-NP
+#	#	NN	I-NP
+Vektorinvariante	Vektorinvariante	NN	I-NP
+''	''	NN	I-NP
+formula_218	formula_218	NN	I-NP
+ist	ist	VB	B-VP
+.	.	.	O
+Siehe	Siehe	NN	B-NP
+auch	auch	IN	B-PP
+#	#	NN	B-NP
+Axialer	Axialer	NN	I-NP
+Tensor	Tensor	NN	I-NP
+oder	oder	RB	I-NP
+Kreuzproduktmatrix	Kreuzproduktmatrix	NN	I-NP
+.	.	.	O
+
+Sei	Sei	VB	B-VP
+formula_219	formula_219	NN	B-NP
+und	und	CC	I-NP
+formula_220	formula_220	NN	I-NP
+eine	eine	DT	B-NP
+Basis	Basis	NN	I-NP
+und	und	CC	O
+formula_221	formula_221	NN	B-NP
+die	die	DT	B-NP
+dazu	dazu	RB	I-NP
+duale	duale	JJ	I-NP
+Basis	Basis	NN	I-NP
+.	.	.	O
+
+Der	Der	DT	B-NP
+Tensor	Tensor	NN	I-NP
+
+hat	hat	VB	B-VP
+die	die	DT	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+
+und	und	CC	O
+Eigenvektoren	Eigenvektoren	NN	B-NP
+
+Der	Der	DT	B-NP
+Tensor	Tensor	NN	I-NP
+
+hat	hat	VB	B-VP
+die	die	DT	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+
+und	und	CC	O
+Eigenvektoren	Eigenvektoren	NN	B-NP
+
+Definition	Definition	NN	B-NP
+
+Invarianten	Invarianten	NN	B-NP
+:	:	:	O
+
+Eigensystem	Eigensystem	NN	B-NP
+:	:	:	O
+
+mit	mit	IN	B-PP
+formula_236	formula_236	NN	B-NP
+
+Allgemein	Allgemein	JJ	B-ADJP
+:	:	:	O
+
+Es	Es	PRP	B-NP
+gilt	gilt	VB	B-VP
+:	:	:	O
+
+Vektortransformation	Vektortransformation	NN	B-NP
+
+Tensorprodukt	Tensorprodukt	NN	B-NP
+
+Skalarprodukt	Skalarprodukt	NN	B-NP
+
+Invarianten	Invarianten	NN	B-NP
+:	:	:	O
+
+Eigenwerte	Eigenwerte	NN	B-NP
+:	:	:	O
+
+Jeder	Jeder	JJ	B-NP
+Vektor	Vektor	NN	I-NP
+ist	ist	VB	B-VP
+Eigenvektor	Eigenvektor	NN	B-NP
+.	.	.	O
+
+Definition	Definition	NN	B-NP
+
+Determinantenproduktsatz	Determinantenproduktsatz	NN	B-NP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+
+Invarianten	Invarianten	NN	B-NP
+(	(	(	O
+formula_247	formula_247	NN	B-NP
+ist	ist	NN	I-NP
+der	der	DT	I-NP
+Drehwinkel	Drehwinkel	NN	I-NP
+)	)	)	O
+:	:	:	O
+
+``	``	NN	B-NP
+Eigentlich	Eigentlich	IN	B-PP
+orthogonaler	orthogonaler	NN	B-NP
+''	''	NN	I-NP
+Tensor	Tensor	NN	I-NP
+formula_249	formula_249	NN	I-NP
+,	,	,	O
+entspricht	entspricht	VB	B-VP
+einer	einer	DT	B-NP
+Drehung	Drehung	NN	I-NP
+.	.	.	O
+
+``	``	NN	B-NP
+Uneigentlich	Uneigentlich	JJ	I-NP
+orthogonaler	orthogonaler	NN	I-NP
+''	''	NN	I-NP
+Tensor	Tensor	NN	I-NP
+formula_250	formula_250	NN	I-NP
+,	,	,	O
+entspricht	entspricht	VB	B-VP
+einer	einer	DT	B-NP
+Drehspiegelung	Drehspiegelung	NN	I-NP
+.	.	.	O
+
+Spatprodukt	Spatprodukt	NN	B-NP
+:	:	:	O
+
+Kreuzprodukt	Kreuzprodukt	NN	B-NP
+und	und	CC	I-NP
+#	#	NN	I-NP
+Kofaktor	Kofaktor	NN	I-NP
+eines	eines	DT	B-NP
+Tensors	Tensors	NN	I-NP
+:	:	:	O
+
+Gegeben	Gegeben	VB	B-VP
+ein	ein	DT	B-NP
+Einheitsvektor	Einheitsvektor	NN	I-NP
+formula_253	formula_253	NN	I-NP
+und	und	CC	O
+Drehwinkel	Drehwinkel	JJ	B-NP
+formula_247	formula_247	NN	I-NP
+.	.	.	O
+Dann	Dann	RB	B-VP
+sind	sind	VB	I-VP
+die	die	DT	B-NP
+folgenden	folgenden	JJ	I-NP
+Tensoren	Tensoren	NN	I-NP
+formula_255	formula_255	NN	I-NP
+orthogonal	orthogonal	NN	I-NP
+und	und	CC	O
+drehen	drehen	VB	B-VP
+um	um	IN	B-PP
+die	die	DT	B-NP
+Achse	Achse	JJ	I-NP
+formula_253	formula_253	NN	I-NP
+mit	mit	IN	B-PP
+Winkel	Winkel	NN	B-NP
+formula_247	formula_247	NN	I-NP
+:	:	:	O
+
+Drehung	Drehung	NN	B-NP
+von	von	IN	B-PP
+Vektorraumbasis	Vektorraumbasis	JJ	B-NP
+formula_259	formula_259	NN	I-NP
+mit	mit	IN	B-PP
+Drehachse	Drehachse	NN	B-NP
+formula_253	formula_253	NN	I-NP
+:	:	:	O
+
+Gegeben	Gegeben	VB	B-VP
+Orthonormalbasis	Orthonormalbasis	NN	B-NP
+formula_262	formula_262	NN	I-NP
+,	,	,	O
+Drehwinkel	Drehwinkel	NN	B-NP
+formula_247	formula_247	NNP	I-NP
+und	und	CC	I-NP
+formula_264	formula_264	NNP	I-NP
+sei	sei	VB	B-VP
+die	die	DT	B-NP
+Drehachse	Drehachse	NN	I-NP
+:	:	:	O
+
+formula_266	formula_266	NN	B-NP
+:	:	:	O
+Drehung	Drehung	NN	B-NP
+,	,	,	O
+formula_267	formula_267	NN	B-NP
+:	:	:	O
+Drehspiegelung	Drehspiegelung	NN	B-NP
+um	um	IN	B-PP
+formula_264	formula_264	NN	B-NP
+
+Wenn	Wenn	IN	B-PP
+formula_262	formula_262	NN	B-NP
+ein	ein	DT	I-NP
+Rechtssystem	Rechtssystem	NN	I-NP
+(	(	(	O
+Mathematik	Mathematik	NN	B-NP
+)	)	)	O
+bilden	bilden	NN	B-NP
+,	,	,	O
+dann	dann	RB	B-NP
+dreht	dreht	JJ	I-NP
+Q	Q	NN	I-NP
+gegen	gegen	IN	B-PP
+den	den	DT	B-NP
+Uhrzeigersinn	Uhrzeigersinn	NN	I-NP
+,	,	,	O
+sonst	sonst	RB	B-ADVP
+im	im	IN	B-PP
+Uhrzeigersinn	Uhrzeigersinn	NN	B-NP
+um	um	IN	B-PP
+die	die	DT	B-NP
+Drehachse	Drehachse	NN	I-NP
+.	.	.	O
+
+Eigensystem	Eigensystem	NN	B-NP
+:	:	:	O
+
+Drehwinkel	Drehwinkel	NN	B-NP
+:	:	:	O
+
+Drehachse	Drehachse	JJ	B-NP
+formula_253	formula_253	NN	I-NP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+
+Notwendige	Notwendige	JJ	B-NP
+Bedingungen	Bedingungen	NN	I-NP
+für	für	IN	B-PP
+positive	positive	JJ	B-NP
+Definitheit	Definitheit	NN	I-NP
+:	:	:	O
+
+Notwendige	Notwendige	JJ	B-NP
+und	und	CC	I-NP
+hinreichende	hinreichende	JJ	I-NP
+Bedingung	Bedingung	NN	I-NP
+für	für	IN	B-PP
+positive	positive	JJ	B-NP
+Definitheit	Definitheit	NN	I-NP
+:	:	:	O
+Alle	Alle	JJ	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+von	von	IN	B-PP
+formula_17	formula_17	NN	B-NP
+sind	sind	VB	B-VP
+größer	größer	RB	B-ADVP
+als	als	IN	B-PP
+null	null	CD	O
+.	.	.	O
+
+Immer	Immer	RB	B-NP
+positiv	positiv	JJ	I-NP
+definit	definit	NN	I-NP
+falls	falls	IN	B-PP
+formula_188	formula_188	NN	B-NP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+
+In	In	IN	B-PP
+kartesischen	kartesischen	JJ	B-NP
+Koordinaten	Koordinaten	NN	I-NP
+:	:	:	O
+
+Invarianten	Invarianten	NN	B-NP
+:	:	:	O
+
+Bilinearform	Bilinearform	NN	B-NP
+:	:	:	O
+
+Ein	Ein	DT	B-NP
+Eigenwert	Eigenwert	NN	I-NP
+ist	ist	VB	B-VP
+null	null	CD	O
+,	,	,	O
+zwei	zwei	CD	B-NP
+imaginär	imaginär	JJ	I-NP
+konjugiert	konjugiert	NN	I-NP
+komplex	komplex	JJ	B-ADJP
+,	,	,	O
+siehe	siehe	VB	B-VP
+#	#	NN	B-NP
+Axialer	Axialer	NN	I-NP
+Tensor	Tensor	NN	I-NP
+oder	oder	RB	I-NP
+Kreuzproduktmatrix	Kreuzproduktmatrix	NN	I-NP
+.	.	.	O
+
+Dualer	Dualer	JJ	B-NP
+axialer	axialer	NN	I-NP
+Vektor	Vektor	NN	I-NP
+:	:	:	O
+
+mit	mit	IN	B-PP
+#	#	NN	B-NP
+Vektorinvariante	Vektorinvariante	JJ	I-NP
+formula_218	formula_218	NN	I-NP
+.	.	.	O
+Der	Der	DT	O
+zum	zum	IN	B-PP
+Eigenwert	Eigenwert	NN	B-NP
+null	null	CD	I-NP
+gehörende	gehörende	JJ	I-NP
+Eigenvektor	Eigenvektor	NN	I-NP
+ist	ist	VB	B-VP
+proportional	proportional	RB	B-ADVP
+zum	zum	IN	B-PP
+dualen	dualen	JJ	B-NP
+axialen	axialen	JJ	I-NP
+Vektor	Vektor	NN	I-NP
+formula_293	formula_293	NN	I-NP
+denn	denn	VB	B-VP
+
+Kreuzproduktmatrix	Kreuzproduktmatrix	JJ	B-NP
+formula_297	formula_297	NN	I-NP
+eines	eines	DT	B-NP
+Vektors	Vektors	NN	I-NP
+formula_298	formula_298	NN	I-NP
+:	:	:	O
+
+Invarianten	Invarianten	NN	B-NP
+:	:	:	O
+
+Eigensystem	Eigensystem	NN	B-NP
+:	:	:	O
+
+Eigenschaften	Eigenschaften	NNS	B-NP
+:	:	:	O
+
+Potenzen	Potenzen	NN	B-NP
+von	von	IN	B-PP
+formula_306	formula_306	NN	B-NP
+
+Definition	Definition	NN	B-NP
+
+Alle	Alle	JJ	B-NP
+Eigenwerte	Eigenwerte	NN	I-NP
+sind	sind	VB	B-VP
+reell	reell	JJ	B-ADJP
+.	.	.	O
+
+Alle	Alle	JJ	B-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+sind	sind	VB	B-VP
+reell	reell	JJ	B-NP
+und	und	CC	I-NP
+paarweise	paarweise	JJ	I-NP
+orthogonal	orthogonal	NN	I-NP
+zueinander	zueinander	NNP	I-NP
+oder	oder	CC	O
+orthogonalisierbar	orthogonalisierbar	JJ	B-ADJP
+.	.	.	O
+
+Symmetrische	Symmetrische	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+haben	haben	VB	B-VP
+keine	keine	JJ	B-NP
+#	#	NN	I-NP
+Vektorinvariante	Vektorinvariante	NN	I-NP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+
+Mit	Mit	IN	B-PP
+den	den	DT	B-NP
+Eigenwerten	Eigenwerten	NN	I-NP
+formula_316	formula_316	NN	I-NP
+,	,	,	O
+den	den	DT	B-NP
+Eigenvektoren	Eigenvektoren	NN	I-NP
+formula_317	formula_317	NN	I-NP
+und	und	CC	O
+einer	einer	DT	B-NP
+reellwertigen	reellwertigen	NN	I-NP
+Funktion	Funktion	NN	I-NP
+formula_318	formula_318	NN	I-NP
+eines	eines	DT	B-NP
+reellen	reellen	NN	I-NP
+Argumentes	Argumentes	NN	I-NP
+formula_135	formula_135	NN	I-NP
+definiert	definiert	VBN	B-VP
+man	man	DT	O
+über	über	IN	B-PP
+die	die	DT	B-NP
+Hauptachsentransformation	Hauptachsentransformation	NN	I-NP
+
+den	den	DT	B-NP
+Funktionswert	Funktionswert	NN	I-NP
+des	des	DT	B-NP
+Tensors	Tensors	NN	I-NP
+:	:	:	O
+
+Insbesondere	Insbesondere	RB	B-ADVP
+mit	mit	IN	B-PP
+dem	dem	DT	B-NP
+Deformationsgradienten	Deformationsgradienten	NN	I-NP
+formula_322	formula_322	NN	I-NP
+:	:	:	O
+
+Rechter	Rechter	JJ	B-NP
+Strecktensor	Strecktensor	NN	I-NP
+
+Linker	Linker	JJ	B-NP
+Strecktensor	Strecktensor	NN	I-NP
+
+Henky-Dehnung	Henky-Dehnung	NN	B-NP
+
+Die	Die	DT	B-NP
+Tensoren	Tensoren	NN	I-NP
+
+bilden	bilden	VB	B-VP
+eine	eine	DT	B-NP
+Basis	Basis	NN	I-NP
+im	im	IN	B-PP
+Vektorraum	Vektorraum	NN	B-NP
+formula_327	formula_327	NN	I-NP
+der	der	DT	I-NP
+symmetrischen	symmetrischen	JJ	I-NP
+Tensoren	Tensoren	NN	I-NP
+zweiter	zweiter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+.	.	.	O
+Bezüglich	Bezüglich	IN	B-PP
+dieser	dieser	DT	B-NP
+Basis	Basis	NN	I-NP
+können	können	VB	B-VP
+alle	alle	DT	B-NP
+symmetrischen	symmetrischen	JJ	I-NP
+Tensoren	Tensoren	NN	I-NP
+zweiter	zweiter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+in	in	IN	B-PP
+Voigt'scher	Voigt'scher	NN	B-NP
+Notation	Notation	NN	I-NP
+dargestellt	dargestellt	VBN	B-VP
+werden	werden	VB	I-VP
+:	:	:	O
+
+Diese	Diese	DT	B-NP
+Vektoren	Vektoren	NN	I-NP
+dürfen	dürfen	PRP$	I-NP
+addiert	addiert	NN	I-NP
+,	,	,	O
+subtrahiert	subtrahiert	NN	B-NP
+und	und	CC	O
+mit	mit	IN	B-PP
+einem	einem	DT	B-NP
+Skalar	Skalar	NN	I-NP
+multipliziert	multipliziert	NN	I-NP
+werden	werden	VB	B-VP
+.	.	.	O
+Beim	Beim	IN	B-PP
+Skalarprodukt	Skalarprodukt	NN	B-NP
+muss	muss	VB	B-VP
+
+berücksichtigt	berücksichtigt	VBN	B-VP
+werden	werden	VB	I-VP
+.	.	.	O
+
+Definition	Definition	NN	B-NP
+
+Definition	Definition	NN	B-NP
+
+Gegeben	Gegeben	VB	B-VP
+ein	ein	DT	B-NP
+beliebiger	beliebiger	JJ	I-NP
+Tensor	Tensor	NN	I-NP
+formula_341	formula_341	NN	I-NP
+
+Symmetrische	Symmetrische	JJ	B-NP
+und	und	CC	I-NP
+schiefsymmetrische	schiefsymmetrische	JJ	I-NP
+Tensoren	Tensoren	NN	I-NP
+sind	sind	VB	B-VP
+orthogonal	orthogonal	NN	B-NP
+zueinander	zueinander	RB	B-ADVP
+:	:	:	O
+
+Deviatoren	Deviatoren	NN	B-NP
+und	und	CC	I-NP
+Kugeltensoren	Kugeltensoren	NN	I-NP
+sind	sind	VB	B-VP
+orthogonal	orthogonal	NN	B-NP
+zueinander	zueinander	RB	B-ADVP
+:	:	:	O
+
+Gegeben	Gegeben	VBN	B-VP
+sei	sei	VB	I-VP
+die	die	DT	B-NP
+Gerade	Gerade	NN	I-NP
+durch	durch	IN	B-PP
+den	den	DT	B-NP
+Punkt	Punkt	JJ	I-NP
+formula_369	formula_369	NN	I-NP
+mit	mit	IN	B-PP
+Richtungsvektor	Richtungsvektor	NN	B-NP
+formula_370	formula_370	NN	I-NP
+und	und	CC	I-NP
+ein	ein	DT	I-NP
+beliebiger	beliebiger	JJ	I-NP
+anderer	anderer	JJ	I-NP
+Punkt	Punkt	JJ	I-NP
+formula_371	formula_371	NN	I-NP
+.	.	.	O
+
+Dann	Dann	RB	B-VP
+ist	ist	VB	I-VP
+
+Der	Der	DT	B-NP
+Punkt	Punkt	NN	I-NP
+formula_373	formula_373	NN	I-NP
+ist	ist	VB	B-VP
+die	die	DT	B-NP
+senkrechte	senkrechte	JJ	I-NP
+Projektion	Projektion	NN	I-NP
+von	von	IN	B-PP
+formula_371	formula_371	NN	B-NP
+auf	auf	IN	B-PP
+die	die	DT	B-NP
+Gerade	Gerade	NN	I-NP
+.	.	.	O
+Der	Der	DT	B-NP
+Tensor	Tensor	NN	I-NP
+G	G	NN	I-NP
+extrahiert	extrahiert	NN	I-NP
+den	den	DT	B-NP
+Anteil	Anteil	NN	I-NP
+eines	eines	DT	B-NP
+Vektors	Vektors	NN	I-NP
+in	in	IN	B-PP
+Richtung	Richtung	NN	B-NP
+von	von	IN	B-PP
+formula_370	formula_370	NN	B-NP
+und	und	CC	I-NP
+I-G	I-G	NN	I-NP
+den	den	DT	B-NP
+Anteil	Anteil	NN	I-NP
+senkrecht	senkrecht	JJ	B-ADJP
+dazu	dazu	RB	B-ADVP
+.	.	.	O
+
+Gegeben	Gegeben	VBN	B-VP
+sei	sei	VB	I-VP
+die	die	DT	B-NP
+Ebene	Ebene	NN	I-NP
+durch	durch	IN	B-PP
+den	den	DT	B-NP
+Punkt	Punkt	NN	I-NP
+formula_369	formula_369	NN	I-NP
+und	und	CC	O
+zwei	zwei	CD	B-NP
+die	die	DT	I-NP
+Ebene	Ebene	NN	I-NP
+aufspannende	aufspannende	NN	I-NP
+Vektoren	Vektoren	NN	I-NP
+formula_298	formula_298	NN	I-NP
+und	und	CC	O
+formula_378	formula_378	NN	B-NP
+sowie	sowie	RB	B-ADVP
+ein	ein	DT	B-NP
+beliebiger	beliebiger	JJ	I-NP
+anderer	anderer	JJ	I-NP
+Punkt	Punkt	JJ	I-NP
+formula_371	formula_371	NN	I-NP
+.	.	.	O
+Dann	Dann	RB	B-VP
+verschwindet	verschwindet	VB	I-VP
+die	die	DT	B-NP
+Normale	Normale	NN	I-NP
+
+nicht	nicht	RB	B-ADVP
+.	.	.	O
+Dann	Dann	RB	B-VP
+ist	ist	VB	I-VP
+
+Der	Der	DT	B-NP
+Punkt	Punkt	NN	I-NP
+formula_373	formula_373	NN	I-NP
+ist	ist	VB	B-VP
+die	die	DT	B-NP
+senkrechte	senkrechte	JJ	I-NP
+Projektion	Projektion	NN	I-NP
+von	von	IN	B-PP
+formula_371	formula_371	NN	B-NP
+auf	auf	IN	B-PP
+die	die	DT	B-NP
+Ebene	Ebene	NN	I-NP
+.	.	.	O
+Der	Der	DT	B-NP
+Tensor	Tensor	NN	I-NP
+P	P	NN	I-NP
+extrahiert	extrahiert	NN	I-NP
+den	den	DT	B-NP
+Anteil	Anteil	NN	I-NP
+eines	eines	DT	B-NP
+Vektors	Vektors	NN	I-NP
+in	in	IN	B-PP
+der	der	DT	B-NP
+Ebene	Ebene	NN	I-NP
+und	und	CC	O
+I-P	I-P	NNP	B-NP
+den	den	DT	B-NP
+Anteil	Anteil	NN	I-NP
+senkrecht	senkrecht	JJ	B-ADJP
+dazu	dazu	RB	B-ADVP
+.	.	.	O
+
+Die	Die	DT	B-NP
+Projektion	Projektion	NN	I-NP
+der	der	DT	B-NP
+Geraden	Geraden	NNS	I-NP
+,	,	,	O
+die	die	WDT	O
+durch	durch	IN	B-PP
+die	die	DT	B-NP
+Punkte	Punkte	NN	I-NP
+formula_369	formula_369	NN	I-NP
+und	und	CC	O
+formula_371	formula_371	NN	B-NP
+verläuft	verläuft	NN	I-NP
+,	,	,	O
+liegt	liegt	VB	B-VP
+in	in	IN	B-PP
+der	der	DT	B-NP
+Ebene	Ebene	NN	I-NP
+in	in	IN	B-PP
+Richtung	Richtung	NN	B-NP
+des	des	DT	I-NP
+Vektors	Vektors	JJ	I-NP
+formula_11	formula_11	NN	I-NP
+.	.	.	O
+
+Falls	Falls	IN	B-PP
+formula_387	formula_387	NN	B-NP
+und	und	CC	I-NP
+formula_388	formula_388	NN	I-NP
+folgt	folgt	VB	B-VP
+:	:	:	O
+
+Eigenwerte	Eigenwerte	NN	B-NP
+
+Falls	Falls	IN	B-PP
+formula_341	formula_341	NN	B-NP
+:	:	:	O
+
+Falls	Falls	IN	B-PP
+formula_398	formula_398	NN	B-NP
+:	:	:	O
+
+Falls	Falls	IN	B-PP
+formula_403	formula_403	NN	B-NP
+:	:	:	O
+
+Falls	Falls	IN	B-PP
+formula_405	formula_405	NN	B-NP
+:	:	:	O
+
+Falls	Falls	IN	B-PP
+formula_407	formula_407	NN	B-NP
+:	:	:	O
+
+Falls	Falls	IN	B-PP
+formula_409	formula_409	NN	B-NP
+:	:	:	O
+
+Für	Für	IN	B-PP
+#	#	NN	B-NP
+Orthogonale	Orthogonale	NN	I-NP
+Tensoren	Tensoren	NN	I-NP
+Q	Q	NN	I-NP
+gilt	gilt	VB	B-VP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+:	:	:	O
+
+Kreuzprodukt	Kreuzprodukt	NN	B-NP
+von	von	IN	B-PP
+Vektoren	Vektoren	NN	B-NP
+:	:	:	O
+
+Tensoren	Tensoren	NN	B-NP
+zweiter	zweiter	JJ	I-NP
+Stufe	Stufe	NN	I-NP
+sind	sind	VB	B-VP
+ebenfalls	ebenfalls	IN	B-PP
+Elemente	Elemente	NN	B-NP
+eines	eines	DT	I-NP
+Vektorraums	Vektorraums	NN	I-NP
+formula_94	formula_94	NN	I-NP
+wie	wie	IN	B-PP
+im	im	IN	I-PP
+Abschnitt	Abschnitt	NN	B-NP
+Tensoren	Tensoren	NN	I-NP
+als	als	IN	B-PP
+Elemente	Elemente	NN	B-NP
+eines	eines	DT	I-NP
+Vektorraumes	Vektorraumes	NN	I-NP
+dargestellt	dargestellt	RP	O
+.	.	.	O
+Daher	Daher	RB	B-VP
+kann	kann	VB	I-VP
+man	man	DT	B-NP
+Tensoren	Tensoren	NN	I-NP
+vierter	vierter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+definieren	definieren	VB	B-VP
+,	,	,	O
+indem	indem	RB	B-ADVP
+man	man	DT	O
+in	in	IN	B-PP
+dem	dem	DT	B-NP
+Kapitel	Kapitel	NN	I-NP
+formal	formal	JJ	B-ADJP
+die	die	DT	B-NP
+Tensoren	Tensoren	NN	I-NP
+zweiter	zweiter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+durch	durch	IN	B-PP
+Tensoren	Tensoren	NN	B-NP
+vierter	vierter	JJ	I-NP
+Stufe	Stufe	NN	I-NP
+und	und	CC	O
+die	die	DT	B-NP
+Vektoren	Vektoren	NN	I-NP
+durch	durch	IN	B-PP
+Tensoren	Tensoren	NN	B-NP
+zweiter	zweiter	JJ	I-NP
+Stufe	Stufe	NN	I-NP
+ersetzt	ersetzt	VB	B-VP
+,	,	,	O
+z	z	NN	B-NP
+.	.	.	O
+B.	B.	VB	B-VP
+:	:	:	O
+
+mit	mit	IN	B-PP
+Komponenten	Komponenten	NN	B-NP
+formula_424	formula_424	NN	I-NP
+und	und	CC	I-NP
+die	die	DT	I-NP
+Tensoren	Tensoren	NN	I-NP
+formula_425	formula_425	NN	I-NP
+sowie	sowie	RB	B-ADVP
+formula_426	formula_426	NN	B-NP
+bilden	bilden	VB	B-VP
+eine	eine	DT	B-NP
+Basis	Basis	NN	I-NP
+von	von	IN	B-PP
+formula_94	formula_94	NN	B-NP
+.	.	.	O
+
+Standardbasis	Standardbasis	NN	B-NP
+in	in	IN	B-PP
+formula_94	formula_94	NN	B-NP
+:	:	:	O
+
+Tensortransformation	Tensortransformation	NN	B-NP
+:	:	:	O
+
+Tensorprodukt	Tensorprodukt	NN	B-NP
+:	:	:	O
+
+Übliche	Übliche	JJ	B-NP
+Schreibweisen	Schreibweisen	NN	I-NP
+für	für	IN	B-PP
+Tensoren	Tensoren	NN	B-NP
+vierter	vierter	JJ	I-NP
+Stufe	Stufe	NN	I-NP
+:	:	:	O
+
+Transposition	Transposition	NN	B-NP
+:	:	:	O
+
+Spezielle	Spezielle	JJ	B-NP
+Transposition	Transposition	NN	I-NP
+formula_435	formula_435	NN	I-NP
+vertauscht	vertauscht	JJ	B-NP
+formula_436-tes	formula_436-tes	NN	I-NP
+mit	mit	IN	B-PP
+formula_437-tem	formula_437-tem	NNP	B-NP
+Basissystem	Basissystem	NNP	I-NP
+.	.	.	O
+
+Beispielsweise	Beispielsweise	RB	B-ADVP
+:	:	:	O
+
+Definition	Definition	NN	B-NP
+:	:	:	O
+formula_441	formula_441	NN	B-NP
+
+Dann	Dann	RB	B-VP
+gilt	gilt	VB	I-VP
+:	:	:	O
+formula_442	formula_442	NN	B-NP
+
+Für	Für	IN	B-PP
+beliebige	beliebige	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+zweiter	zweiter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+formula_17	formula_17	NN	I-NP
+gilt	gilt	VB	B-VP
+:	:	:	O
+
+Diese	Diese	DT	B-NP
+fünf	fünf	CD	I-NP
+Tensoren	Tensoren	NN	I-NP
+sind	sind	VB	B-VP
+sämtlich	sämtlich	JJ	B-ADJP
+symmetrisch	symmetrisch	JJ	I-ADJP
+.	.	.	O
+
+Mit	Mit	IN	B-PP
+beliebigen	beliebigen	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+zweiter	zweiter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+formula_446	formula_446	NN	I-NP
+und	und	CC	O
+formula_447	formula_447	NN	B-NP
+gilt	gilt	VB	B-VP
+:	:	:	O
+
+In	In	IN	B-PP
+dem	dem	DT	O
+in	in	IN	B-PP
+diesen	diesen	DT	B-NP
+Formeln	Formeln	NNS	I-NP
+im	im	IN	B-PP
+Tensor	Tensor	NN	B-NP
+vierter	vierter	JJ	I-NP
+Stufe	Stufe	JJ	I-NP
+formula_168	formula_168	NN	I-NP
+durch	durch	IN	B-PP
+formula_450	formula_450	NN	B-NP
+und	und	CC	I-NP
+die	die	DT	I-NP
+Transpositionen	Transpositionen	JJ	I-NP
+formula_451	formula_451	NN	I-NP
+durch	durch	IN	B-PP
+formula_452	formula_452	NN	B-NP
+ersetzt	ersetzt	VBN	B-VP
+werden	werden	VB	I-VP
+,	,	,	O
+entstehen	entstehen	VBN	B-VP
+die	die	DT	B-NP
+Ergebnisse	Ergebnisse	NN	I-NP
+mit	mit	IN	B-PP
+transponiertem	transponiertem	NN	B-NP
+formula_447	formula_447	NN	I-NP
+:	:	:	O
+
+Mit	Mit	IN	B-PP
+den	den	DT	B-NP
+Spannungen	Spannungen	NNS	I-NP
+formula_456	formula_456	NN	I-NP
+und	und	CC	O
+den	den	DT	B-NP
+Dehnungen	Dehnungen	NN	I-NP
+formula_457	formula_457	NN	I-NP
+im	im	IN	B-PP
+Hooke'schen	Hooke'schen	JJ	B-NP
+Gesetz	Gesetz	NN	I-NP
+gilt	gilt	VB	B-VP
+:	:	:	O
+
+mit	mit	IN	B-PP
+den	den	DT	O
+Lamé-Konstanten	Lamé-Konstanten	FW	O
+formula_203	formula_203	FW	O
+und	und	CC	O
+formula_460	formula_460	NN	B-NP
+.	.	.	O
+Dieser	Dieser	DT	B-NP
+Elastizitätstensor	Elastizitätstensor	NN	I-NP
+ist	ist	VB	B-VP
+symmetrisch	symmetrisch	JJ	B-ADJP
+.	.	.	O
+
+Invertierungsformel	Invertierungsformel	NN	B-NP
+mit	mit	IN	B-PP
+formula_461	formula_461	NN	B-NP
+,	,	,	O
+formula_462	formula_462	NN	B-NP
+und	und	CC	I-NP
+formula_463	formula_463	NN	I-NP
+:	:	:	O
+
+mit	mit	IN	B-PP
+der	der	DT	B-NP
+Querdehnzahl	Querdehnzahl	NN	I-NP
+formula_465	formula_465	NN	I-NP
+und	und	CC	O
+dem	dem	DT	B-NP
+Elastizitätsmodul	Elastizitätsmodul	JJ	I-NP
+formula_466	formula_466	NN	I-NP
+.	.	.	O
+
+Aus	Aus	IN	B-PP
+der	der	DT	B-NP
+Basis	Basis	NN	I-NP
+formula_467	formula_467	NN	I-NP
+des	des	DT	B-NP
+Vektorraums	Vektorraums	NN	I-NP
+formula_468	formula_468	NN	I-NP
+der	der	DT	B-NP
+symmetrischen	symmetrischen	JJ	I-NP
+Tensoren	Tensoren	NN	I-NP
+zweiter	zweiter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+kann	kann	VB	B-VP
+eine	eine	DT	B-NP
+Basis	Basis	NN	I-NP
+des	des	DT	B-NP
+Vektorraums	Vektorraums	NN	I-NP
+formula_469	formula_469	NN	I-NP
+der	der	DT	B-NP
+linearen	linearen	NN	I-NP
+Abbildungen	Abbildungen	NNS	I-NP
+von	von	IN	B-PP
+symmetrischen	symmetrischen	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+auf	auf	IN	B-PP
+symmetrische	symmetrische	JJ	B-NP
+Tensoren	Tensoren	NN	I-NP
+konstruiert	konstruiert	NN	I-NP
+werden	werden	VB	B-VP
+.	.	.	O
+Die	Die	DT	B-NP
+36	36	CD	I-NP
+Komponenten	Komponenten	NN	I-NP
+der	der	DT	B-NP
+Tensoren	Tensoren	NN	I-NP
+vierter	vierter	JJ	B-NP
+Stufe	Stufe	NN	I-NP
+aus	aus	IN	B-PP
+formula_470	formula_470	NN	B-NP
+können	können	VB	B-VP
+als	als	IN	B-PP
+Voigt'scher	Voigt'scher	JJ	B-NP
+Notation	Notation	NN	I-NP
+in	in	IN	B-PP
+eine	eine	DT	B-NP
+6×6-Matrix	6×6-Matrix	NN	I-NP
+einsortiert	einsortiert	NN	I-NP
+werden	werden	VB	B-VP
+:	:	:	O
+
+Die	Die	DT	B-NP
+Vektoren	Vektoren	NN	I-NP
+und	und	CC	O
+Matrizen	Matrizen	NN	B-NP
+in	in	IN	B-PP
+Voigt'scher	Voigt'scher	NN	B-NP
+Notation	Notation	NN	I-NP
+können	können	PRP$	I-NP
+addiert	addiert	NN	I-NP
+,	,	,	O
+subtrahiert	subtrahiert	NN	B-NP
+und	und	CC	O
+mit	mit	IN	B-PP
+einem	einem	DT	B-NP
+Skalar	Skalar	NN	I-NP
+multipliziert	multipliziert	NN	I-NP
+werden	werden	VB	B-VP
+.	.	.	O
+Das	Das	DT	B-NP
+Matrizenprodukt	Matrizenprodukt	NN	I-NP
+von	von	IN	B-PP
+Matrix	Matrix	NN	B-NP
+und	und	CC	I-NP
+Vektor	Vektor	NN	I-NP
+ist	ist	VB	B-VP
+ebenfalls	ebenfalls	RB	B-ADJP
+möglich	möglich	JJ	I-ADJP
+.	.	.	O
+Beim	Beim	IN	B-PP
+Skalarprodukt	Skalarprodukt	NN	B-NP
+muss	muss	VB	B-VP
+
+berücksichtigt	berücksichtigt	VBN	B-VP
+werden	werden	VB	I-VP
+.	.	.	O
+

@@ -1,0 +1,32 @@
+Clo	Clo	NN	B-NP
+(	(	(	O
+Einheit	Einheit	NN	B-NP
+)	)	)	O
+
+Das	Das	DT	B-NP
+Clo	Clo	NN	I-NP
+ist	ist	VB	B-VP
+die	die	DT	B-NP
+veraltete	veraltete	JJ	I-NP
+Maßeinheit	Maßeinheit	NN	I-NP
+für	für	IN	B-PP
+den	den	DT	B-NP
+Kehrwert	Kehrwert	NN	I-NP
+des	des	DT	B-NP
+Wärmeübergangskoeffizienten	Wärmeübergangskoeffizienten	NN	I-NP
+und	und	CC	O
+wurde	wurde	VB	B-VP
+vor	vor	IN	B-PP
+allem	allem	DT	O
+in	in	IN	B-PP
+der	der	DT	B-NP
+Textilindustrie	Textilindustrie	NN	I-NP
+verwendet	verwendet	VB	B-VP
+.	.	.	O
+
+1	1	CD	B-NP
+Clo	Clo	NN	I-NP
+=	=	NN	I-NP
+0,155	0,155	CD	B-NP
+K·Meter²&slash;Watt	K·Meter²&slash;Watt	NN	I-NP
+

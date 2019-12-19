@@ -1,0 +1,37 @@
+Elementarisierungsstufe	Elementarisierungsstufe	NN	B-NP
+
+Als	Als	IN	B-PP
+Elementarisierungsstufen	Elementarisierungsstufen	NN	B-NP
+bezeichnet	bezeichnet	VBN	B-VP
+man	man	DT	B-NP
+die	die	DT	I-NP
+Arten	Arten	NN	I-NP
+der	der	DT	B-NP
+Vereinfachung	Vereinfachung	NN	I-NP
+eines	eines	DT	B-NP
+Sachverhaltes	Sachverhaltes	NN	I-NP
+,	,	,	O
+die	die	WDT	O
+in	in	IN	B-PP
+der	der	DT	B-NP
+Physikdidaktik	Physikdidaktik	NN	I-NP
+erlaubt	erlaubt	VBN	B-VP
+sind	sind	VB	I-VP
+.	.	.	O
+
+Es	Es	PRP	B-NP
+gibt	gibt	VB	B-VP
+drei	drei	CD	B-NP
+Elementarisierungsstufen	Elementarisierungsstufen	NN	I-NP
+:	:	:	O
+
+Beispiel	Beispiel	NN	B-NP
+für	für	IN	B-PP
+Elementarisierungsstufen	Elementarisierungsstufen	NN	B-NP
+am	am	IN	B-PP
+Beispiel	Beispiel	NN	B-NP
+der	der	DT	I-NP
+Physikalischen	Physikalischen	JJ	I-NP
+Arbeit	Arbeit	NN	I-NP
+:	:	:	O
+

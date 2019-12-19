@@ -1,0 +1,26 @@
+Poynting-Effekt	Poynting-Effekt	NN	B-NP
+
+Als	Als	IN	B-PP
+Poynting-Effekt	Poynting-Effekt	NN	B-NP
+werden	werden	VB	B-VP
+zwei	zwei	CD	O
+nach	nach	IN	B-PP
+John	John	NNP	B-NP
+Henry	Henry	NNP	I-NP
+Poynting	Poynting	FW	O
+benannte	benannte	VB	B-VP
+Phänomene	Phänomene	NN	B-NP
+der	der	DT	I-NP
+Physik	Physik	NN	I-NP
+bezeichnet	bezeichnet	VBN	B-VP
+:	:	:	O
+
+Diese	Diese	DT	B-NP
+Poynting-Effekte	Poynting-Effekte	NN	I-NP
+sind	sind	VB	B-VP
+vom	vom	IN	B-PP
+Poynting-Robertson-Effekt	Poynting-Robertson-Effekt	NN	B-NP
+zu	zu	TO	B-VP
+unterscheiden	unterscheiden	VB	I-VP
+.	.	.	O
+
