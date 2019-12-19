@@ -1,0 +1,18 @@
+﻿Degaußer
+
+Ein Degaußer, Degausser (von Gauß (Einheit) bzw. der englischen Schreibweise Gauss) oder Entmagnetisierer ist ein Gerät, mit dessen Hilfe magnetische Datenträger durch Entmagnetisierung nach Herstelleraussagen zuverlässig gelöscht werden können.
+
+In einem Degaußer wird der Datenträger einem starken Magnetfeld ausgesetzt, eine übliche Feldstärke kann dabei zwischen 2.800 und 11.000 Oersted betragen. Üblicherweise werden mehrere Löschvorgänge durchgeführt.
+Der Name Degaußer geht auf die Einheit der magnetischen Flussdichte, das Gauß, zurück.
+
+Der Degaußer sollte für das Löschen von Festplatten eine magnetische Flussdichte von 8000 Gauß oder 0,8 Tesla generieren. Damit liefert er mehr als die doppelte Feldstärke verglichen mit der, die Festplatten intern zum Schreiben nutzen (0,15 bis 0,3 T).
+
+Da bei der Löschung nicht nur der eigentliche Datenspeicher, sondern beispielsweise bei Festplatten auch Servo- und Wartungs-Informationen gelöscht werden, ist auch eine intakte Festplatte nach dem Löschvorgang im Degaußer zerstört. Neben Festplatten können jegliche magnetische Datenträger wie Magnetbänder (Audio, Video, Daten), Disketten und Magnetkarten gelöscht werden.
+
+Im Handel sind Geräte als Handgerät – ähnlich einem Barcode-Scanner – bis hin zu Standgeräten in Schränken erhältlich.
+
+Ergänzend zu den Degaußern gibt es auch Apparaturen, die eine Festplatte mechanisch unbrauchbar machen. Es gibt große Schredder, die Festplatten in kleine Partikel zerteilen oder manuelle Tischgeräte wie den HDT1 des deutschen Herstellers ADR AG. Mit diesem Gerät kann man Löcher in Festplatten stanzen oder eine Festplatte auch komplett zerlegen.
+
+Durch Kombination eines Degaußers und eines physischen Zerstörers kann man davon ausgehen, dass die Daten sicher zerstört sind.
+
+

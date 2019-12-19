@@ -1,0 +1,25 @@
+﻿Washburn-Gleichung
+
+Die Washburn-Gleichung (nach Edward W. Washburn, der sie 1921 herleitete) beschreibt in der Physik die kapillare Strömung in porösen Materialien vereinfacht als:
+
+mit
+in ein vollständig benetzbares Material
+
+Popularität erlangte diese Gleichung in England durch den Physiker Len Fisher der Universität Bristol. Er demonstrierte die Anwendung der Gleichung anhand eines Kekstauchexperiments, um die Wissenschaft der Physik durch die Beschreibung alltäglicher Probleme zugänglicher zu machen.
+
+Das Gesetz von Hagen-Poiseuille
+wird angewendet auf die Kapillarströmung einer Flüssigkeit in einem zylindrischen Rohr ohne Einwirkung eines äußeren Gravitationsfeldes.
+
+Nach Einsetzen des Ausdrucks
+für ein differentielles Volumen, welches über die differentielle Länge formula_10 einer Flüssigkeit in einem Rohr definiert wird, erhält man folgende Gleichung:
+
+Darin ist
+
+Die einzelnen Druckkomponenten können folgendermaßen ausgedrückt werden:
+
+mit
+
+Das Einsetzen dieser Gleichungen für die einzelnen Drücke führt zu einer Differentialgleichung erster Ordnung, die die Eindringtiefe formula_22 der Flüssigkeit in das Rohr beschreibt:
+
+
+

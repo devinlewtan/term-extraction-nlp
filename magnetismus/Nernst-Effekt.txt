@@ -1,0 +1,19 @@
+﻿Nernst-Effekt
+
+Der Nernst-Effekt bezeichnet zwei Effekte im Zusammenspiel zwischen elektrischer Spannung bzw. elektrischem Strom und Wärmestrom bzw. Temperaturdifferenz in einem äußeren Magnetfeld. Beide wurden nach Walther Nernst benannt, der sie teilweise in Zusammenarbeit mit Albert von Ettingshausen entdeckte. Wenn in internationaler wissenschaftlicher 
+Literatur vom "Nernst effect" die Rede ist, ist damit immer der thermomagnetische (transversale) Nernst-Effekt gemeint.
+
+Bei einem Wärmefluss im senkrecht dazu ausgerichteten Magnetfeld tritt in transversaler Richtung eine elektrische Spannung auf. Dies ist ein thermomagnetischer Effekt, den man Nernst-Effekt nennt. In neuerer Literatur wird er auch als "erster Ettingshausen-Nernst-Effekt" bezeichnet. Die Umkehrung dieses Effekts ist der Ettingshausen-Effekt.
+
+Es gilt:
+d. h. die Komponente des elektrischen Feldes formula_2 in transversaler Richtung "(y)" ist proportional zum Temperaturgradienten formula_3 in longitudinaler Richtung "(x)" und zur magnetischen Flussdichte formula_4 senkrecht dazu "(z)". Dabei ist formula_5 der "Nernst-Koeffizient"; alternativ wird er auch mit dem griechischen Buchstaben formula_6 bezeichnet.
+
+Der Nernst-Effekt ist das thermische Analogon zum Hall-Effekt. Beim Hall-Effekt bewirkt eine von außen angelegte elektrische Spannung, dass ein elektrischer Strom fließt. Die beweglichen Ladungsträger (i. A. Elektronen) werden äußeren Magnetfeld werden durch die Lorentzkraft transversal (senkrecht zur Stromrichtung und senkrecht zum Magnetfeld) abgelenkt, wodurch sich in dieser Richtung eine Spannung aufbaut.Beim Nernst-Effekt bewirkt die Temperaturdifferenz, dass die beweglichen Ladungsträger vom wärmeren Ende zum kühleren Ende fließen. Auch hier bewirkt die Lorentzkraft den Aufbau einer Spannung in transversaler Richtung. Das Vorzeichen der Spannung ist dabei andersherum: Wenn das Magnetfeld von unten nach oben verläuft und elektrischer Strom von links nach rechts fließt, entsteht durch den Hall-Effekt ein negatives Potential vorne und ein positives hinten. Wenn bei gleichem Magnetfeld ein Wärmestrom von links nach rechts fließt, entsteht durch den Nernst-Effekt ein positives Potential vorne und ein negatives hinten. Der Unterschied liegt daran, dass Elektronen konventionsgemäß negative Ladung tragen, ihre Bewegungsrichtung daher dem elektrischer Strom entgegengesetzt ist.
+
+Der Nernst-Effekt wurde 1886 entdeckt, sieben Jahre nach dem Hall-Effekt.
+
+Ähnlich wie es zum Hall-Effekt mit dem Spin-Hall-Effekt ein quantenmechanisches Analogon gibt, wurde 2017 auch zum (thermomagnetischen) Nernst-Effekt ein Analogon nachgewiesen: der Spin-Nernst-Effekt. Auch hier ist die Ablenkung „andersherum“ als beim Spin-Hall-Effekt.
+
+Bei einem elektrischen Strom in einem senkrecht dazu ausgerichteten Magnetfeld tritt in transversaler Richtung eine Temperaturdifferenz auf. Dies ist ein galvanomagnetischer Effekt, der als "Ettingshausen-Effekt" bezeichnet wird. Zusätzlich tritt auch in longitudinaler Richtung eine Temperaturdifferenz auf. Dieses Phänomen wird ebenfalls als „Nernst-Effekt“ bezeichnet.
+
+

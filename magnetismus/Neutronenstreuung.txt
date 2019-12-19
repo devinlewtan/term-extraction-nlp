@@ -1,0 +1,20 @@
+﻿Neutronenstreuung
+
+Die Neutronenstreuung ist ein Hauptgebiet in der Forschung mit Neutronen. Es umfasst verschiedene experimentelle Methoden zur Untersuchung kondensierter Materie bezeichnet, die auf der Streuung von langsamen oder thermischen Neutronen an einem Probekörper (engl.: Target) basieren. Neutronen wechselwirken mit Atomkernen und mit den magnetischen Momenten von Elektronen, weshalb sie zur Untersuchung der Struktur, der Dynamik sowie der magnetischen Ordnung kondensierter Materie auf atomarem Maßstab geeignet sind. Bei der Neutronenstreuung wird zwischen inelastischer, elastischer und quasielastischer Streuung unterschieden. Die inelastische Streuung ist mit der An- oder Abregung eines Phonons, eines Magnons oder eines anderen internen Freiheitsgrades des Targets verbunden. Durch Messung der Änderung der kinetischen Energie des Neutrons lässt sich die Energie der Anregung ermitteln. Bei elastischer Streuung ist die Wechselwirkung mit keiner Energieübertragung verbunden. Da die De-Broglie-Wellenlänge thermischer Neutronen in der Größenordnung eines Atomdurchmessers liegt, treten bei der elastischen Streuung von Neutronen an kondensierter Materie Interferenzeffekte auf, die für Strukturuntersuchungen ausgenutzt werden können. Diese Untersuchungsmethode wird häufig auch als Neutronenbeugung (oder -diffraktometrie) bezeichnet. Eine dritte Methode ist die quasielastische Streuung, die zur Untersuchung von Diffusionsmechanismen auf atomarer Ebene verwendet wird.
+
+Da Neutronen keine elektrische Ladung besitzen, dringen sie recht tief in Materie ein: die freie Weglänge thermischer Neutronen in kondensierter Materie ist von der Größenordnung Millimeter (der genaue Wert hängt von der Dichte und Zusammensetzung der Probe ab). Deshalb ist Neutronenstreuung geeignet, "Volumeneigenschaften" von Materie zu untersuchen – im Gegensatz etwa zur Elektronenbeugung, die auf oberflächennahe Bereiche beschränkt ist.
+
+Wie alle Teilchen haben Neutronen nicht nur Teilchen-, sondern auch Welleneigenschaften. Die Wellenlänge langsamer Neutronen beträgt ungefähr 0,1 bis 1 nm und ist somit von der gleichen Größenordnung wie Atomabstände in Molekülen und Festkörpern. Ähnlich wie bei der Beugung von Licht an einem Gitter kommt es auch bei der Streuung von Neutronen an einer regelmäßig aufgebauten Probe zu wellenmechanischen Interferenzen; die Winkelverteilung der gestreuten Neutronen besitzt die Regelmäßigkeit eines Beugungsbildes, aus dem auf die atomare Struktur der untersuchten Probe zurückgeschlossen werden kann.
+
+Die bis hierhin genannten Eigenschaften – elektrische Neutralität und Wellenlänge im nm-Bereich – haben Neutronen mit der Röntgenstrahlung gemeinsam. Für Strukturuntersuchungen setzt man daher in erster Linie die grundsätzlich ähnliche, praktisch aber einfachere und billigere Röntgenbeugung ein. Neutronenstreuung ist jedoch von Vorteil, wenn man die folgenden weiteren Eigenschaften des Neutrons ausnutzen kann:
+
+
+
+
+
+Neutronenstreuung wird an Forschungsreaktoren und Spallationsneutronenquellen betrieben.
+
+Die Neutronenstreuung wurde in den 1950er Jahren als physikalische Untersuchungsmethode etabliert. Für ihre Pionierleistungen erhielten Clifford Shull und Bertram Brockhouse 1994 den Physiknobelpreis. Sie reihen sich damit in die Reihe der Nobelpreisträger mit der längsten Lücke zwischen Entdeckung (1946) und Verleihung des Nobelpreises (1994) ein. Unter Heinz Maier-Leibnitz wurde am kleinen Forschungsreaktor München in Garching bei München der Neutronenleiter erfunden. Maier-Leibnitz leitete auch den Bau des Hochflussreaktors in Grenoble. Spätestens seit den 1990er Jahren wurden weltweit viele kleine Forschungsreaktoren stillgelegt; die Neutronenstreuung konzentriert sich auf einige wenige große Institute.
+
+
+

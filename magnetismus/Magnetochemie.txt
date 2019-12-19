@@ -1,0 +1,62 @@
+﻿Magnetochemie
+
+Die Magnetochemie ist ein Teilgebiet der physikalischen Chemie, das sich mit den magnetischen Eigenschaften von Werkstoffen oder Substanzen beschäftigt. Es wurde um 1905 vom französischen Physiker Paul Langevin begründet und durch den deutschen Chemiker Wilhelm Klemm ausgebaut.
+
+Die Messung der magnetischen Suszeptibilität bzw. des magnetischen Moments ermöglicht Rückschlüsse auf die Elektronenkonfigurationen von Metallionen oder nichtmetallischen Molekülen. In einfacher Weise können magnetochemische Effekte über die magnetische Suszeptibilität mit einer Gouyschen Waage bestimmt werden. Auch andere ähnliche Bestimmungsverfahren der Suszeptibilität nach Quincke oder nach Faraday-Curie basieren auf der Gewichts- und Magnetfeldänderung.
+
+Viele chemische Stoffe zeigen durch den Einfluss eines Magnetfeldes eine Ausrichtung, die als Gewichtsänderung direkt messbar ist. Anschaulich stellt man sich die einzelnen Atome wie kleine elementare Magneten vor, die sich – ähnlich wie viele kleine Eisenspäne – in einem Magnetfeld ausrichten.
+Je nach Stoffklasse zeigt sich eine geringe messbare Wechselwirkung mit dem Magnetfeld (Diamagnetismus), eine stärkere Wechselwirkung (Paramagnetismus) oder eine sehr starke Wechselwirkung (Ferromagnetismus).
+Als Vorstellung kann eine kleine kreisende elektrische Bewegung eines Elektrons um die eigene Achse angenommen werden, die durch einen Magneten induziert wird.
+Durch Einfluss eines Magneten auf einen Kreisstrom, auf eine stromdurchflossene Spule wird auch ein magnetisches Dipolmoment erzeugt, dessen Vektor senkrecht auf der Ebene des fließenden Kreisstromes steht (Rechte-Hand-Regel). Ganz analog wird bei jedem Magnetfeld auf eine magnetisch aktive Substanz auf jedes Elementarelektron eine Drehbewegung erzeugt. Wenn der Vektor des magnetischen Dipolmomentes nicht mit dem Richtungsvektor des Magnetfeldes übereinstimmt, kommt es zu Kreiselbewegungen der Elementarmagnete.
+
+Mathematisch wird das Drehmoment von Elementarmagneten beschrieben durch das Vektorprodukt aus magnetischem Dipolmoment und Magnetfeld.
+Das Vektorprodukt gibt in der Mathematik den senkrecht auf einer Ebene von zwei Vektoren an und entspricht von der Länge seines Vektors dem projizierten Flächeninhalt beider Vektoren.
+
+Die Stärke der Beeinflussung von Substanzen durch ein Magnetfeld kann durch Wägung bestimmt werden.
+Als eine sehr wichtige magnetochemische Kenngröße gilt die magnetische Suszeptibilität. Mittels eines Neodymmagneten und einer Feinwaage kann die magnetische Suszeptibilität nach der Methode von Cortel grob bestimmt werden.
+
+Die Gewichtsänderung ist dabei der Kraftänderung direkt proportional. Die Kraftänderung durch einzelne magnetochemische Stoffe wird mit der stoffspezifischen Suszeptibilität (formula_1) angegeben.
+Dies ist eine Proportionalitätsfaktor ohne Einheit. Häufig wird die Suszeptibilität jedoch auf die Stoffdichte der Substanz (Molzahl Substanz pro Kubikmeter, molare Suszeptibilität formula_2) bezogen, erst durch den Bezug auf die Dichte, können Stoffe verglichen werden.
+
+Magnetische Flussdichte und magnetische Feldstärke sind über die folgende Beziehung verknüpft:
+
+formula_4 = magnetische Flussdichte (kg ⋅ s ⋅ A)
+
+formula_5 = magnetische Feldstärke (A ⋅ m)
+
+formula_6= Permeabilitätskonstante des Vakuums (1,256 ⋅ 10 m ⋅ kg ⋅ C)
+
+Ist formula_2 negativ, handelt es sich um eine diamagnetische Substanz; ist formula_2 positiv, handelt es sich um eine paramagnetische Substanz. Bei sehr hohen Werten für formula_2 handelt es sich um ferromagnetische Substanzen. Diese Substanzen besitzen sogar eine Magnetisierung ohne Vorhandensein eines Magnetfeldes.
+
+Nach dem gouyschen Prinzip führt man eine paramagnetische Probe zwischen die Pole zweier starker Permanentmagnete ein. Dabei wird durch die Elementarmagnete der Probe ein, dem angelegten Magnetfeld entgegengesetztes Magnetfeld induziert. Da die Kraft rechtwinklig zum angelegten Magnetfeld gerichtet ist, wird die Probe leicht nach oben gedrückt. Die Kraftwirkung ist mittels einer Waage messbar.
+Bei korrekter Ermittlung der Feldstärke an der Probenoberfläche bei Eintritt und Austritt kann die Suszeptibilität der Substanz durch die Gewichtskraft mit der Gleichung:
+
+formula_10
+
+formula_11: Feldstärke bei Probeneintritt
+
+formula_12: Feldstärke bei Probenaustritt
+
+formula_13: Flächeninhalt eines gleichmäßig dicken Probekörpers
+
+ermittelt werden.
+
+Die gleiche Gleichung ist auch gültig für die Untersuchung von Substanzen mittels eines Neodymmagneten.
+
+Im optischen Bereich lässt sich Para- und Diamagnetismus ebenfalls nachweisen.
+Man füllt ein Uhrglas (siehe auch: Newtonsche Ringe) mit einer Lösung einer paramagnetischen Substanz und stellt das Uhrglas zwischen die spitzwinklig zugehenden Polschuhe zweier sich anziehenden Permanentmagnete.
+Strahlt man einen Lichtstrahl parallel zu den Polschuhen auf die Probe, so werden die auf die Substanz auftreffenden Strahlen in zwei Strahlenbündel getrennt und werden auf der zum einfallenden Licht entgegengesetzten Wandseite sichtbar.
+Bei diamagnetischen Substanzen wird das Strahlenbündel zusammengedrückt.
+
+Anhand der magnetischen Feldstärke des Magneten, der spezifischen Dichte der eingefüllten Substanz und der Gewichtsänderung lässt sich die Magnetisierbarkeit bestimmen. Paramagnetische Substanzen haben das Bestreben, in das Gebiet hoher Feldstärken (beispielsweise bei zwei Rundmagneten in den Kreismittelpunkt) zu wandern, diamagnetische Stoffe wandern in das Gebiet niedriger Feldstärken (beispielsweise bei zwei Rundmagneten zu den Rändern des Kreises). Der Paramagnetismus ist temperaturabhängig, der Diamagnetismus ist es nicht.
+
+Die Ursache der Suszeptibilität liegt in den Einzelelektronen um den Atomkern. Um den Effekt zu verstehen, kann man modellmäßig annehmen, dass sich ungepaarte Elektronen auf einer Kreisbahn um den Atomkernen drehen, ähnlich wie bei einer stromdurchflossenen Spule, und dabei ein Magnetfeld erzeugen. Heben sich die Einzelspins auf, d. h. sind die Elektronenorbitale des Moleküls oder Atoms mit jeweils zwei Elektronen gegensinnig aufgefüllt (z. B. bei Edelgasen oder edelgasähnlichen Ionen Na, Ca, Cl), so hat die Substanz keinen Elektronenspin und ist diamagnetisch. Die diamagnetische Suszeptibilität ist stets negativ und deutlich kleiner (Faktor: 0,01–0,1) als die paramagnetische Suszeptibilität.
+Bei paramagnetischen Stoffen gibt es ungepaarte Elektronen. Anhand von Tabellenwerken über die Elektronenkonfigurationen von Elementen oder über die Orbitaltheorie von Molekülen lässt sich die Zahl der ungepaarten Elektronen bestimmen (z. B. beim Wasserstoffatom ein, beim Fe vier und bei Cu zwei ungepaarte Elektronen) und das magnetische Moment (beispielsweise bei der Eisenmetallgruppe oder bei den Lanthanoiden) über die Spin-Beziehung 
+
+berechnen.
+
+Durch magnetochemische Messungen können Strukturfragen wie die Oxidationszahl oder die Art der Bindung geklärt werden. So haben FeSO und [Fe(HO)]Cl ein magnetisches Moment von ca. 5,2 µ, hingegen K[Fe(CN)] und Fe(CO) ein magnetisches Moment von Null. Während bei den ersteren eine ionische Struktur zwischen Kation und Liganden vorliegt, ist bei den letzteren eine stark polarisierte Bindung vorhanden.
+
+
+
+

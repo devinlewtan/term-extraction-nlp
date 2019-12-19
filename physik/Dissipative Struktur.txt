@@ -1,0 +1,25 @@
+﻿Dissipative Struktur
+
+Eine dissipative Struktur (engl. "dissipative structure" ‚zerstreuende Struktur‘) bezeichnet das Phänomen sich selbstorganisierender, dynamischer, geordneter Strukturen in nichtlinearen Systemen fern dem thermodynamischen Gleichgewicht. Dissipative Strukturen bilden sich nur in offenen Nichtgleichgewichtssystemen, die Energie, Materie oder beides mit ihrer Umgebung austauschen. Beim Aufbau geordneter Strukturen nimmt die Entropie lokal ab; diese Entropieminderung des Systems muss durch einen entsprechenden Austausch mit der Umgebung ausgeglichen werden.
+
+Die Ausprägung geordneter Strukturen hängt entscheidend von den Systemparametern ab, wobei der Übergang vom ungeordneten zum geordneten Zustand sprunghaft erfolgt. Dissipative Strukturen zeigen eine gewisse Stabilität (Nichtgleichsgewichtsstabilität) gegenüber Störungen von außen, zerfallen jedoch, sobald der Austausch mit der Umgebung unterbrochen wird oder allgemein bei größeren Störungen der Systemparameter.
+
+Bereits ab 1950 arbeitete Alan Turing an einer neuen mathematischen Theorie der Morphogenese, welche die Auswirkungen nichtlinearer chemischer Reaktions- und Diffusionsfunktionen auf spontane Strukturbildungen zeigt. Die Ergebnisse dieser Arbeit hat er 1952 unter dem Titel "The chemical basis of morphogenesis" veröffentlicht. Diese Arbeit ("Turing-Mechanismus") wird als wegweisend für die spätere Entdeckung dissipativer Strukturen angesehen.
+
+Der Begriff selbst wurde 1967 vom Physikochemiker Ilya Prigogine vorgeschlagen, der ab den 1940er Jahren an der Entwicklung der Theorie der Nichtgleichgewichtsthermodynamik beteiligt war. Prigogine untersuchte mit Grégoire Nicolis und später mit R. Lefever die Kinetik von offenen Systemen, die durch Energie- und Stoffdurchsatz fern vom thermodynamischen Gleichgewicht gehalten wurden. Basierend auf den Arbeiten Alan Turings und Lars Onsagers zeigte er, dass in offenen Systemen, in welchen autokatalytische chemische Reaktionen ablaufen, in der Nähe des thermodynamischen Gleichgewichts zunächst Inhomogenitäten auftreten, die durch Diffusion oder Strömungsprozesse aufrechterhalten werden können. Bei Erreichen eines Übergangspunkts fern vom Gleichgewicht kann das System Symmetriebrüche zeigen, indem es zur Ausbildung einer stationären, geordneten dissipativen Struktur kommt.
+
+Ilya Prigogine erhielt 1977 den Nobelpreis für Chemie "für seinen Beitrag zur irreversiblen Thermodynamik, insbesondere zur Theorie der „dissipativen Strukturen“".
+
+Beim Aufbau geordneter Strukturen nimmt die Entropie lokal ab, was nur in offenen Systemen möglich (bzw. wahrscheinlich) ist. Die Änderung der Entropie in einem Zeitintervall 
+
+teilt sich in einen inneren (formula_2) und äußeren (formula_3, Austausch mit der Umgebung) Anteil auf. In abgeschlossenen Systemen findet kein Austausch statt (formula_4) und nach dem zweiten Hauptsatz ist immer formula_5 (gleich Null im Gleichgewicht), also formula_6. In offenen Systemen dagegen kann Entropie mit der Umgebung ausgetauscht werden, und es können geordnete stationäre (in der Zeit konstante) Strukturen entstehen, vorausgesetzt (es gilt formula_7 bei einem stationären Zustand; nach dem zweiten Hauptsatz gilt hier ebenso formula_5) 
+
+Beispiele für dissipative Strukturen sind die Ausbildung von wabenförmigen Zellstrukturen in einer von unten erhitzten Flüssigkeit ("Bénard-Effekt") oder an Phasengrenzen bei Strömungsvorgängen, Fließgleichgewichte in der Biochemie, Hurrikane, chemische Uhren und Kerzenflammen. Dissipative Strukturen besitzen viele Gemeinsamkeiten mit biologischen Organismen, weshalb Lebewesen auch meist zu diesen gezählt werden.
+
+Die Erdoberfläche inklusive der Atmosphäre bildet ein gleichgewichtsfernes energieumsetzendes (dissipatives) System, das durch die Sonneneinstrahlung Energie aufnimmt und durch Wärmeabstrahlung in den Weltraum abgibt. Innerhalb dieses Systems kann sich eine Vielzahl dissipativer Strukturen bilden, wie zum Beispiel Wolken, Flüsse oder Wirbelstürme.
+
+Auch eine Volkswirtschaft bildet ein dissipatives System, bei dem die Erhöhung des Komplexitätsgrades den Durchsatz von Energie sowie die Entropieproduktion steigert. Der sogenannte technische Fortschritt im Sinne des Solow-Residuums kann somit durch eine Komplexitätserhöhung zur Steigerung der Leistungsfähigkeit erklärt werden, Primärenergie in nützliche Arbeit für den volkswirtschaftlichen Produktionsprozess umzuwandeln. Dissipative Strukturen sind hierbei Kapitalgüter (Maschinen) und Organisationsformen (Unternehmen).
+
+
+
+

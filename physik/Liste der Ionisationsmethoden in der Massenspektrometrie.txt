@@ -1,0 +1,9 @@
+﻿Liste der Ionisationsmethoden in der Massenspektrometrie
+
+Diese Liste der Ionisationsmethoden in der Massenspektrometrie listet alle gebräuchlichen Methoden der Ionisation von Molekülen in der Massenspektrometrie auf. Gebräuchlich sind hier die in Klammer angegebenen Abkürzungen zu benutzen. Dabei wird diese häufig mit dem dazugehörigen Gerätetyp kombiniert (z. B. MALDI-TOF).
+
+Atmosphärendruck-Methoden: 
+
+Niederdruck-Methoden: 
+
+

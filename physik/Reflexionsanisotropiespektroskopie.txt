@@ -1,0 +1,11 @@
+﻿Reflexionsanisotropiespektroskopie
+
+Die Reflexionsanisotropiespektroskopie (RAS) ist eine optische Spektroskopie ähnlich der Ellipsometrie, mit der die Anisotropie von Festkörpern und deren Oberflächen untersucht wird. Hierbei wird linear polarisiertes Licht im fast senkrechten Einfall auf eine Oberfläche eingestrahlt und dessen Reflektanz gemessen:
+
+formula_2 und formula_3 bezeichnen die komplexen Reflektanzen bezüglich zweier orthogonaler Achsen.
+
+Besteht bei der gemessenen Probe eine optische Anisotropie, so wird das reflektierte Licht elliptisch polarisiert. Diese Polarisation wird dann in Abhängigkeit von der Photonenenergie analysiert. Wird die Anisotropie, welche zum Beispiel durch Dimere auf der Oberfläche entstehen kann, um 90° gedreht, bedeutet das einen Wechsel im Vorzeichen des Signals (siehe Bild 1). 
+
+Die Methode wurde 1985 zur Untersuchung der optischen Eigenschaften der kubischen Halbleiter Silicium und Germanium eingeführt. Wegen ihrer Unabhängigkeit von Ultrahochvakuum-Bedingungen wurde die Anwendung der Methode auf die in situ Überwachung des epitaktischen Wachstums von Halbleitern ausgedehnt. Ist das Kristallvolumen optisch isotrop, wird RAS sehr oberflächenempfindlich und kann beispielsweise auch zur Untersuchung von Adsorbaten auf Oberflächen eingesetzt werden. Die Signale sind jedoch in der Regel sehr komplex und bedürfen theoretischer Modellierung, um die einzelnen spektralen Merkmale bestimmten elektronischen Übergängen oder Oberflächenrekonstruktionen zuordnen zu können.
+
+

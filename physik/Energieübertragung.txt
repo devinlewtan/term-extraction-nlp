@@ -1,0 +1,11 @@
+﻿Energieübertragung
+
+Unter einer Energieübertragung versteht man allgemein den Austausch von Energie über eine Systemgrenze hinweg. Hierbei unterscheidet man zwischen Wärmeenergie und Arbeit. Arbeit wird von einem System „geleistet“, am anderen „verrichtet“, so der Sprachgebrauch in der Thermodynamik. In der Energiewirtschaft wird Energie bzw. Wärme „geliefert“ und kann durch Übertragungsverluste „verloren gehen“.
+
+Die Übertragung von Wärme kann auf verschiedene Weisen erfolgen, für große Entfernungen ist die Verwendung eines Wärmeträgers sinnvoll.
+
+Das Verrichten von Arbeit setzt eine „Kraft“ voraus. Das kann die mechanische Kraft sein (Beispiel Keilriemen), das Drehmoment einer Welle, der Druck in einem Hydraulikschlauch, die elektrische Spannung beim Stromnetz oder das chemische Potential eines Energieträgers.
+
+Ob man beim Strahlungstransport von Arbeit oder Wärme sprechen sollte, hängt von den Umständen ab, Beispiele: Laserschneiden (Wärme), optisches Pumpen (Arbeit).
+
+

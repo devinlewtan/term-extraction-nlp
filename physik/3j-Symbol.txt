@@ -1,0 +1,52 @@
+﻿3j-Symbol
+
+3j-Symbole sind eine Notation zur Kopplung von zwei Drehimpulsen in der Quantenmechanik und wurden von Eugene Wigner eingeführt. Mit ihnen lassen sich Zustände zwischen der gekoppelten und ungekoppelten Basis transformieren. Die 3j-Symbole sind eine Alternative zu den Clebsch-Gordan-Koeffizienten.
+
+Es gibt auch 6j-Symbole nach Wigner entsprechend der Kopplung von drei Drehimpulsen und 9j-Symbole bei Kopplung von vier Drehimpulsen.
+
+Um den Zustand eines aus zwei Bestandteilen mit Drehimpuls formula_1 und formula_2 bestehenden Gesamtsystems zu schreiben, sind in der Quantenmechanik zwei Orthonormalbasen gebräuchlich, die jeweils Eigenbasis einer vollständigen Menge kommutierender Observablen sind. Zum einen die Eigenbasis der Operatoren der beiden Teilsysteme: das Betragsquadrat der beiden Drehimpulsvektoren formula_3 und die jeweiligen formula_4-Komponenten formula_5 (formula_6); die jeweiligen Eigenwerte werden mit formula_7 bezeichnet und die entsprechenden Basiszustände werden als formula_8 geschrieben. Zum anderen der Drehimpuls des Gesamtsystems, d. h., formula_9 und formula_10 (die entsprechenden Quantenzahlen werden mit formula_11 und formula_12 bezeichnet) zusätzlich zu den Drehimpulsen der Teilsysteme formula_3 (aber "nicht" den formula_5); hier schreibt man die Eigenzustände als formula_15.
+
+Dann lässt sich die formula_16-Komponente des Zustands formula_15 mit dem 3j-Symbol wie folgt schreiben:
+
+Die linke Seite der Gleichung wird auch als "Clebsch-Gordan-Koeffizient" bezeichnet. Verglichen mit diesen ist die Kopplung mit 3j-Symbolen symmetrischer formuliert und die Symmetrieeigenschaften der 3j-Symbole lassen sich daher einfacher formulieren.
+
+Als Funktion der Clebsch-Gordan-Koeffizienten ergibt sich für die 3j-Symbole der folgende Ausdruck:
+Dabei stehen j und m für die Drehimpulsquantenzahlen.
+
+Der Addition zweier Drehimpulse mit Clebsch-Gordan-Koeffizienten
+entspricht bei den 3j-Symbolen die Formulierung als Addition dreier Drehimpulse zu Null:
+Der Zustand formula_22 entspricht verschwindenden Drehimpulsquantenzahlen(formula_23). Da die 3j-Symbole alle Drehimpulse auf gleicher Stufe behandeln ist die Formulierung symmetrischer als mit Clebsch-Gordan-Koeffizienten und manifest rotationsinvariant.
+
+Die 3j-Symbole verschwinden außer für:
+
+Das 3j-Symbol ist invariant unter gerader Permutation der Spalten:
+Bei ungerader Permutation gibt es einen Phasenfaktor:
+Änderung des Vorzeichens der Quantenzahlen formula_12 (entsprechend einer Zeitumkehr) gibt ebenfalls einen Phasenfaktor:
+Weiter gibt es sogenannte Regge-Symmetrien:
+Insgesamt gibt es 72 Symmetrien, die durch ein "Regge-Symbol" dargestellt werden können:
+
+Die 72 Symmetrien entsprechen der Vertauschung von Reihen und Spalten untereinander und der Transposition der Matrix.
+
+Die Orthogonalitätsrelationen folgen daraus, dass die 3j-Symbol eine unitäre Transformation der verschiedenen Drehimpulsbasen sind (der Basen zu den Drehimpulsen j1, j2 und der des gekoppelten Systems mit Drehimpuls j3).
+
+Dabei ist das "trianguläre Delta" formula_34 gleich 1 falls die Dreiecksbedingung erfüllt ist und 0 sonst. Die Dreiecksbedingung lautet, dass formula_35 einen der Werte formula_36 annimmt.
+
+Die 3j-Symbole sind das Integral des Produkts von drei Kugelflächenfunktionen:
+wobei formula_38, formula_39 and formula_40 ganze Zahlen sind.
+
+Analog gilt mit spin-gewichteten Kugelflächenfunktionen und bei halbzahligem Drehimpuls für formula_41:
+
+Für formula_44 gilt für ein nicht-verschwindendes 3j-Symbol (A. R. Edmonds):
+mit formula_46 und der Wignerschen kleine D-Matrix formula_47. Eine bessere Näherung, die die Regge-Symmetrie erfüllt, ist:
+mit formula_49.
+
+Die folgende Größe spielt die Rolle eines metrischen Tensors in der Theorie und wird auch "Wigner 1-jm symbol" genannt:
+Es dient dazu Zeitumkehr bei Drehimpulsen auszudrücken.
+
+mit der Legendrefunktion formula_53.
+
+Die Beziehung zu den Racah-V-Koeffizienten ist ein einfacher Phasenfaktor:
+
+
+
+

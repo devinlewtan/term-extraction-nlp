@@ -1,0 +1,12 @@
+﻿Magnetische Ordnung
+
+Mit der magnetischen Ordnung meint man die Auszeichnung einer bevorzugten Ausrichtung der atomaren magnetischen Momente zueinander. 
+
+Das Zustandekommen einer bevorzugten Ausrichtung liegt in der Austauschwechselwirkung der atomaren Gesamtdrehmomente. Eine bestimmte Anordnung ist energetisch vorteilhafter und führt damit zu einer Kopplung. Diese lässt sich anschaulich durch ein einfaches Modell verstehen, wenn man sich einen Festkörper aus kleinen Stabmagneten aufgebaut vorstellt: Legt man zwei solche Magnete nebeneinander, so werden sie sich antiparallel ausrichten. Hat man jedoch sehr viele Magnete in einer dreidimensionalen Anordnung, so kann die energetisch günstigere Möglichkeit auch eine andere Ausrichtung sein.
+
+Man unterscheidet verschiedene Klassen der magnetischen Ordnung:
+In allen Klassen gibt es verschiedene Erscheinungsformen. Elementare wellenartige Anregungen der magnetischen Ordnung werden als Magnonen bezeichnet. Die nötige Energie, um ein solches Magnon anzuregen, liegt weit unterhalb der Energie, die nötig wäre, um einen Spin gegen seine bevorzugte Richtung umzuklappen.
+
+Die magnetische Ordnung wird oberhalb einer kritischen Temperatur zerstört. Bei Ferromagneten heißt diese Curie-Temperatur, bei Antiferromagneten Néel-Temperatur. Oberhalb ihrer jeweiligen Grenze verhalten sich die Stoffe paramagnetisch. Unterschiede zwischen den verschiedenen Klassen gibt es bei allen Phänomenen, welche mit der magnetischen Ordnung zusammenhängen. So ist die magnetische Suszeptibilität unterhalb ihrer jeweiligen Schwellentemperatur wie auch die Dispersionsrelation für Magnonen grundverschieden. 
+
+

@@ -1,0 +1,8 @@
+﻿Bindungskoeffizient
+
+Der Bindungskoeffizient (synonym "Koeffizient bevorzugter Wechselwirkung", ) bezeichnet in der physikalischen Chemie und Biochemie das Ausmaß der Bindung zwischen einem Makromolekül wie einem Protein und den kleinen Molekülen einer Mischung von Lösungsmitteln (Solvens und Cosolvens) nach der Kirkwood-Buff-Theorie.
+
+Der Bindungskoeffizient kann aus der Kirkwood-Buff-Theorie abgeleitet werden. Die bevorzugte Wechselwirkung ist als thermodynamischer Ausdruck definiert, der die Bindung des zweier Lösungsmittel (Solvens und Cosolvens) beschreibt. Der Bindungskoeffizient ist ein Maß für die Wechselwirkungen zwischen gelösten Bestandteilen.
+
+
+

@@ -1,0 +1,46 @@
+﻿Majorisierungskriterium
+
+Das Majorisierungskriterium ist in der Quantenmechanik ein Merkmal, das der Unterscheidung verschränkter von separablen Zuständen anhand ihrer Dichtematrix dient. Es ist für separable Zustände erfüllt, aus seiner Erfüllung folgt aber nicht die Separabilität. Es ist somit das schwächste der drei Operatoren-Separationskriterien in der Quantenmechanik, zu denen auch das Reduzierungskriterium und das Peres-Horodecki-Kriterium zählen.
+
+Das Kriterium wurde im Jahr 1999 von Michael Nielsen und 2001 zusammen mit Julia Kempe veröffentlicht, und wird daher auch oder genannt. Anschaulich gesprochen besagt das Majorisierungskriterium, dass separable Zustände global eine größere Unordnung zeigen als lokal.
+
+Das Majorisierungskriterium ist erfüllt, wenn die Eigenwerte formula_1 der Dichtematrix formula_2 eines quantenmechanischen Zustands durch die Eigenwerte ihrer partiellen Spuren formula_3 und formula_4 bezüglich der Hilberträume formula_5 und formula_6 majorisiert sind:
+
+Hierin steht:
+
+Der Operator formula_14 wird als "„… wird majorisiert durch …“" (siehe Majorisierung) gesprochen und formula_15 bedeutet für zwei Eigenwertvektoren formula_16 und formula_17 der Dimension formula_18:
+
+Die Markierung formula_20 deutet dabei an, dass die Eigenwerte im jeweiligen Eigenwertvektor formula_21 absteigend nach ihrer Größe sortiert sind. Wenn die Dimension eines Eigenwertvektors kleiner als der andere ist, so wird sie durch Anfügen von Nullen an den Größeren angeglichen.
+
+Für separable Dichtematrizen ist das Kriterium erfüllt.
+Wenn das Kriterium nicht erfüllt ist, ist die Dichtematrix nicht separabel.
+Der Umkehrschluss, dass aus der Erfüllung des Majorisierungskriteriums die Separabilität der Dichtematrix folgt, bzw. dass für eine nicht-separable Dichtematrix das Majorisierungskriterium nicht erfüllt ist, gilt nicht.
+
+Es gibt beispielsweise isospektrale Zustände, die zwar das Majorisierungskriterium erfüllen, aber nicht separabel sind (siehe unten).
+
+Das Majorisierungskriterium ist schwächer als das Reduzierungskriterium oder das Peres-Horodecki-Kriterium, weil aus einem erfüllten Peres-Horodecki-Kriterium in 2x2 bzw. 2x3 Dimensionen (d. h. einem Zustand, der aus zwei Qubits oder einem Qubit und einem Qutrit, also einem Teilchen mit drei möglichen Zuständen, zusammengesetzt ist) die Separabilität von formula_22 folgt, während die Rückrichtung beim Majorisierungskriterium im Allgemeinen nicht erfüllt ist.
+
+Inhaltlich orientiert sich der Beweis an einschlägiger Literatur. Um das Kriterium zu beweisen, ist es notwendig, eine bistochastische Matrix formula_6 zu finden, sodass die Eigenwerte der Dichtematrix (in beliebiger Reihenfolge) aus den Eigenwerten der reduzierten Dichtematrix folgen: formula_24. Mithilfe dieser Gleichung lässt sich zeigen, dass alle Schur-konvexen Funktionen oben gezeigte Ungleichung
+
+erfüllen, für Schur-konkave Funktion folgt dieselbe Ungleichung, in der sich die Richtung des Ungleichheitszeichens ändert. Damit lässt sich das Majorisierungskriterium auf das Entropie-Kriterium zurückführen, bei dem aus der von-Neumann-Entropie Rückschlüsse auf die Separabilität gezogen werden können: Bei einem reinem Zustand verschwindet die von-Neumann-Entropie, wenn sie aber für ihre partiellen Spuren nicht verschwindet, ist der Zustand verschränkt.
+
+Sei
+
+mit den Eigenwerten der Dichtematrix formula_27 ein (nach PPT-Kriterium) verschränkter Zustand, dann sind dessen partielle Spuren gegeben als
+
+mit den Eigenwerten formula_29. Hier ist das Majorisierungskriterium also offensichtlich erfüllt, da die Summen über die Eigenwerte identisch sind. Wäre die Rückrichtung des Majorisierungskriteriums erfüllt, unterläge man hier dem Trugschluss, dass formula_2 separabel wäre, obwohl es ein verschränkter Zustand ist.
+
+Betrachte die Zustände der Qubit-Familie der Werner-Zustände,
+formula_31 mit der Einheitsmatrix formula_32.
+
+Die Dichtematrix lautet
+
+Die Eigenwerte dieser Dichtematrix sind gegeben als
+
+Die partielle Spur über formula_5 und formula_6 ist gegeben als formula_37, also sind die Eigenwerte gegeben als formula_38. Fülle diese jetzt mit Nullen auf, bis dieselbe Dimension wie für formula_39 erreicht ist und erhalte
+
+Rechne nun das Majorisierungskriterium nach:
+
+Daraus folgt also, dass der Werner-Zustand für formula_42 verschränkt ist, was das gleiche Ergebnis ist, was auch aus dem Peres-Horodecki-Kriterium hervorgeht.
+
+

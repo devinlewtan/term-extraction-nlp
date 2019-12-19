@@ -1,0 +1,8 @@
+﻿Prädissoziation
+
+Der Begriff Prädissoziation bezeichnet die Zersetzung (Dissoziation) eines Moleküls in meist zwei Bausteine, wobei nicht die volle Dissoziationsenergie aufgebracht werden muss, da es einen elektronisch angeregten Zustand B gibt, dessen Dissoziationsenergie unterhalb der des aktuellen bindenden Molekülzustandes A liegt.
+Regt man im bindenden Ausgangszustand A ein vibronisches Niveau an, von dem ein Übergang zu B möglich ist, und liegt dessen Energie oberhalb der Dissoziationsenergie von B, so kann das Molekül spontan aufspalten.
+
+
+
+

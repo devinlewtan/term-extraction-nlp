@@ -1,0 +1,16 @@
+﻿Gasgesetze
+
+Als Gasgesetze bezeichnet man physikalische Gesetze, die unter anderem zwischen den Zustandsgrößen Druck formula_1, Volumen formula_2, Temperatur formula_3 und Stoffmenge formula_4 beziehungsweise Masse formula_5 oder Teilchenzahl formula_6 eine Beziehung herstellen und über diese die Eigenschaften beziehungsweise das Verhalten idealer und realer Gase beschreiben. Hierbei bilden die allgemeine Gasgleichung (ideales Gas) und die Van-der-Waals-Gleichung (reales Gas) die wichtigsten hieraus abgeleiteten Gasgesetze.
+
+"Gasgesetze für ideales Gas:"
+
+
+"Gasgesetze für reale Gase:"
+
+
+"Weitere Gesetze und wichtige Zusammenhänge:"
+
+
+"Siehe auch:" Zustand, Zustandsänderung,
+
+

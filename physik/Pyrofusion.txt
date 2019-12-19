@@ -1,0 +1,14 @@
+﻿Pyrofusion
+
+Unter Pyrofusion versteht man die Möglichkeit, Kernfusion mit Hilfe eines pyroelektrischen Kristalls zu erreichen. 
+
+Seth Putterman von der Universität von Kalifornien (UCLA) und seine Mitarbeiter Brian Naranjo und Jim Gimzewski veröffentlichten in Nature im Jahr 2005 einen Artikel über pyroelektrisch induzierte Kernverschmelzungen. Die Arbeitsgruppe stellt darin eine einfach zu handhabende, kleine Apparatur vor, die Verschmelzungen von Deuteriumkernen ermöglicht.
+
+Um Deuteriumatome zu ionisieren und anschließend auf die für die Fusion benötigte Geschwindigkeit zu beschleunigen, benutzten die Forscher einen pyroelektrischen Kristall als Spannungsquelle. Pyroelektrische Kristalle besitzen elektrische Dipolmomente, die sich bei Änderungen der Temperatur umorientieren und so eine elektrische Spannung zwischen den beiden Grundflächen des Kristalls aufbauen. Dass mit einem solchen Kristall eine Art Minibeschleuniger für Elektronen realisiert werden kann, ist bereits bekannt. 
+
+Putterman und seine Mitarbeiter wandten das Beschleunigungsprinzip nun auf Deuterium an. Der im Experiment genutzte, zentimetergroße Kristall aus Lithiumtantalat (LiTaO) erreichte beim Erwärmen Spannungen von mehr als 100 kV. An der auf der positiven Seite des Kristalls angebrachten, winzigen Wolframspitze konzentrierte sich dann eine elektrische Feldstärke von über 25 GV/m. Befindet sich die Spitze in einem mit Deuteriumgas gefüllten Behälter, werden die vor der Spitze befindlichen Atome ionisiert (Feldionisation). Die Deuterium-Ionen werden dann von der Wolframspitze abgestoßen und zu einem 10 cm entfernten, deuteriumhaltigen Target (Erbiumdeuterid ErD) hin beschleunigt. Beim Aufprall kommt es zu Kernverschmelzungen. Es lassen sich Neutronen mit einer Energie von 2,45 MeV sowie Röntgenstrahlung nachweisen.
+
+Mit einer Ausbeute von knapp 1.000 Neutronen pro Sekunde und einer Energieausbeute von nur etwa formula_1 Joule pro Erhitzungszyklus kann die Apparatur zwar nicht zur Energieerzeugung genutzt werden, als handliche Neutronenquelle beispielsweise für Sicherheits- oder Materialuntersuchungen ist das Gerät jedoch geeignet. Eine wesentlich höhere Ausbeute an Neutronen mit einer Energie von 14 MeV wäre beim Beschuss von Tritium zu erwarten. 
+
+
+

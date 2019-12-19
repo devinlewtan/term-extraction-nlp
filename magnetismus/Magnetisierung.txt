@@ -1,0 +1,23 @@
+﻿Magnetisierung
+
+Die Magnetisierung formula_1 ist eine physikalische Größe zur Charakterisierung des magnetischen Zustands eines Materials. Sie berechnet sich als das magnetische Moment formula_2 pro Volumen formula_3:
+
+Die Magnetisierung beschreibt den Zusammenhang zwischen der magnetischen Flussdichte formula_5 und der magnetischen Feldstärke formula_6:
+
+Dabei ist formula_8 die magnetische Feldkonstante und formula_9 die Permeabilität. In diamagnetischen Materialien ist formula_10, die Magnetisierung ist dem erzeugenden Feld entgegengerichtet; in paramagnetischem Material ist formula_11, Magnetisierung und Feld sind gleich gerichtet.
+
+Auch die – praktisch wichtigste – ferromagnetische Magnetisierung ist gleich gerichtet wie das Feld, aber wesentlich größer als paramagnetische Magnetisierung und nicht proportional der Feldstärke formula_12 (vgl. Skizze rechts), d. h. formula_9 ist hier keine Konstante, sondern selbst von formula_12 abhängig. Ein ferromagnetischer Körper kann permanentmagnetisch sein.
+
+Jede Magnetisierung kommt durch die Ausrichtung von Elementarmagneten zustande. Da ein Körper nur endliche viele Elementarmagnete enthält, gibt es eine "Sättigungsmagnetisierung", die auch in einem beliebig starken äußeren Feld nicht überschritten werden kann. Große praktische Bedeutung hat dies beim Ferromagnetismus (siehe Sättigung).
+
+Die Magnetisierung kann auch durch die magnetische Feldstärke und die magnetische Suszeptibilität formula_15 beschrieben werden:
+
+Die Suszeptibilität ist dimensionslos und kann Werte von −1 bis nahezu unendlich annehmen. Die Magnetisierung kann also der magnetischen Flussdichte entgegengerichtet sein.
+
+Ein Nagel aus Eisen, dessen magnetische Domänen anfänglich zufällige Richtungen haben, kann durch ein äußeres Feld magnetisiert werden. Dabei ändern Domänen ihre Richtung und manche Domänen vergrößern sich auf Kosten benachbarter Domänen. Insgesamt ergibt dies eine Magnetisierung, die ungefähr parallel zum äußeren Feld verläuft. Diese Umlagerung der magnetischen Domänen kann z. B. durch externe Stöße oder Vibrationen erleichtert werden. Aufgrund der ferromagnetischen Eigenschaften behält der Nagel seine Magnetisierung teilweise auch noch nach Entfernen des äußeren Feldes bei.
+
+Mineralien und Gesteine können bei ihrer Entstehung auf verschiedene Arten eine bleibende Magnetisierung erhalten, wobei das Magnetfeld der Erde jeweils die Polarisierung vorgibt:
+
+
+
+

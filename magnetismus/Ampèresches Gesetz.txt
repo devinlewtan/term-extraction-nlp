@@ -1,0 +1,46 @@
+﻿Ampèresches Gesetz
+
+Das Ampèresche Gesetz (Durchflutungssatz, Durchflutungsgesetz) ist ein Gesetz der Elektrodynamik und eine der maxwellschen Gleichungen.
+Es wurde von André-Marie Ampère entdeckt und bildet für den Magnetismus die Analogie zum Induktionsgesetz.
+
+Das Gesetz setzt das Kurvenintegral des magnetischen Feldes entlang einer geschlossenen Kurve in Beziehung zum Strom, der durch die von dieser Kurve eingeschlossene Fläche fließt.
+
+Die integrale Form des Gesetzes lautet (Annahme konstanter Stromdichte ist nicht erforderlich):
+bzw.
+
+wobei
+
+Äquivalent dazu ist die differentielle Form
+bzw.
+
+formula_4 ist die magnetische Feldstärke, das ist die magnetische Flussdichte formula_3 "ohne" Berücksichtigung von paramagnetischen und diamagnetischen Beiträgen durch das Medium (im Vakuum gilt formula_16).
+Analog ist formula_17 die Stromdichte (Strom pro Fläche) und formula_18 dieselbe Größe ohne Berücksichtigung des durch para- und diamagnetische Effekte induzierten Stroms.
+formula_19 ist der Rotationsoperator.
+
+Die Äquivalenz von integraler und differentieller Form wird durch den Satz von Stokes bewiesen.
+
+James Clerk Maxwell bemerkte, dass das so formulierte ampèresche Gesetz beim Aufladen eines Kondensators zunächst nicht zutrifft, und folgerte die Unvollständigkeit des Gesetzes. Zur Lösung des Problems entwickelte er das Konzept des Verschiebungsstroms und stellte eine allgemeingültige Form auf, die so eine der vier maxwellschen Gleichungen ist. Sie ist in integraler Form gegeben durch
+
+und in differentieller Form
+
+Dabei sind alle Größen wie oben. formula_22 ist die elektrische Flussdichte, nämlich die elektrische Feldstärke formula_23 plus die durch Polarisation erzeugten Felder.
+
+Einfach formuliert sagt das ampèresche Gesetz folgendes:
+Ein elektrischer Strom ruft ein ihm proportionales Magnetfeld hervor, dessen Richtung mit der des Stromes eine rechtsdrehende Schraube bildet. Siehe auch: Rechte-Hand-Regel.
+
+Die integrale Formulierung
+lässt sich folgendermaßen interpretieren:
+
+Um einen beliebig geformten Leiter – sei es ein Draht, eine Metallplatte, eine Spule, oder auch nur ein sehr kleines Stück eines größeren Leiters – legt man gedanklich einen (Mess-)Rahmen. Dieser "Rahmen" kann von beliebiger Form sein, z. B. ein Rechteck oder ein Kreis von beliebiger Größe. Wenn durch den Leiter ein Strom fließt, verursacht dies ein Magnetfeld. Wenn man am Rahmen entlang geht und für jedes kleine Stück des Rahmens die Komponente des Magnetfelds in Richtung des kleinen Rahmenstücks addiert, dann erhält man, wenn der Rahmen umrundet ist, eine Summe, die dem Strom durch den Leiter proportional ist.
+
+Bei direkter Anwendung des ampèreschen Gesetzes zur Bestimmung eines Magnetfelds erhält man meistens nur Lösungen für vereinfachte Fälle, zum Beispiel wenn man annimmt, dass das Magnetfeld einer Spule überall entlang oder entgegen der Achse der Spule und innen homogen ist, was aber nur für die unendlich lange Spule zutrifft.
+
+Man habe eine solche Spule mit formula_25 Windungen pro Strecke formula_26. Man legt einen rechteckigen Rahmen durch die Spule, dessen obere Seite mit der Länge formula_27 in der Spule liegt, und dessen rechte und linke Seite unendlich lang sind. Zu diesen Seiten steht nach Annahme das Magnetfeld senkrecht, die Komponente in Richtung des Rahmens ist also Null. Die untere Seite ist unendlich weit weg, wo das Magnetfeld Null sein muss. Es bleibt also vom Integral nur die obere Seite, wo die Komponente des Magnetfelds genau parallel ist. Also gilt:
+
+womit man den Betrag des Magnetfelds in der Spule bestimmt hat.
+
+Einfache Fälle wie oben reichen nicht immer aus, um von Strömen induzierte Magnetfelder beschreiben zu können. Um beliebige Stromverteilungen behandeln zu können, liefert das Biot-Savart-Gesetz weitergehende Aussagen.
+Es lässt sich aus den maxwellschen Gleichungen herleiten, d. h. auch, dass für den nicht offensichtlichen Beweis Maxwells Erweiterung des Ampèreschen Gesetzes um den Verschiebungsstrom nötig ist.
+
+
+

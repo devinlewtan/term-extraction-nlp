@@ -1,0 +1,15 @@
+﻿Curie-Konstante
+
+Die Curie-Konstante formula_1 (nach Pierre Curie) ist eine Größe aus dem Bereich des Magnetismus, die jeweils für einen Stoff konstant ist und die Dimension einer Temperatur hat:
+
+mit
+
+Statt auf das Volumen wird die Curie-Konstante oft auch auf die Stoffmenge formula_9 bezogen:
+
+mit
+Als Dimension von formula_14 ergibt sich m K mol.
+
+
+
+
+

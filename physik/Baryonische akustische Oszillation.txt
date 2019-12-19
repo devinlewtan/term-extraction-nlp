@@ -1,0 +1,10 @@
+﻿Baryonische akustische Oszillation
+
+Baryonische akustische Oszillationen () sind Dichtewellen, die sich im frühen Universum durch das Wechselspiel von Gravitation und Strahlungsdruck ausbildeten. Ihre Auswirkungen sind heute im Anisotropiespektrum der kosmischen Hintergrundstrahlung und in der Verteilung der Galaxien beobachtbar. Ihre genaue Vermessung spielt eine wichtige Rolle in der modernen Kosmologie.
+
+Nach der gängigen Theorie besteht Materie aus baryonischer und aus dunkler Materie. Nach der Inflation ist die Materie nicht absolut homogen verteilt, es gibt Anfangsfluktuationen. Durch Gravitation wird die baryonische Materie in Gebiete mit höherer Dichte an dunkler Materie hineingezogen, die Dichte der Baryonen nimmt zu. Dadurch steigt der Photonendruck, drängt die baryonische Materie wieder auseinander und bewirkt so eine Abnahme der Baryonendichte. Durch dieses Wechselspiel aus Anziehung aufgrund Gravitation und Abstoßung aufgrund Photonendruck beginnt die baryonische Materie zu oszillieren.
+
+Dieser Mechanismus bricht bei der Entkopplung von Strahlung und Materie ca. 380.000 Jahre nach dem Urknall zusammen. Die baryonische Materie unterliegt fortan nur noch der Gravitation, die Photonen aber „speichern“ die Information über die Dichte der Baryonen an ihrem Entstehungsort zum Zeitpunkt der Entkopplung in Form einer Temperatur.
+
+
+

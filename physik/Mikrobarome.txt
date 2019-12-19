@@ -1,0 +1,10 @@
+﻿Mikrobarome
+
+Mikrobarome (englisch "microbaroms") sind schwache niederfrequente Überlagerungen des Luftdrucks. Sie können sowohl als einzelne Druckschwankungen auftreten oder aber auch als kohärente Druckwellen über einen längeren Zeitraum. Sie sind ein Bestandteil des Hintergrundrauschens, das den Luftdruck begleitet.
+
+Als Ursache der Mikrobarome sind sowohl das Wettergeschehen verantwortlich als auch eine Koppelung von hohem Seegang (bei Stürmen) mit der Atmosphäre. Als Infraschallereignisse haben sie aufgrund der geringen Dämpfung der Atmosphäre in diesem Frequenzbereich eine große Reichweite von tausenden Kilometern und können mit empfindlichen Mikrobarometern registriert werden. Die Hauptenergie der Mikrobarome liegt im Bereich von 0,1 bis 0,5 Hz, mit einem Maximum bei 0,2 Hz. Die Druckschwankungen liegen bei unter einem Pascal (andere Angaben: 0,1–1 Mikrobar).
+
+Zurzeit lassen sich Daten zu Mikrobaromereignissen noch nicht praktisch anwenden. Es gibt keine Möglichkeit, diese Daten, z. B. für eine Wetterprognose, einzusetzen. Allerdings ist die Kenntnis dieses Phänomens wichtig, um Infraschallereignisse richtig deuten zu können. Mit Hilfe von Infraschallaufzeichnungen wird weltweit die Einhaltung des Verbotes von Atombombentests, im Rahmen des Vertrages zum Verbot von Nuklearwaffentests in der Atmosphäre, im Weltraum und unter Wasser, überwacht. Mikrobarome erzeugen manchmal Signale, die mit den Druckwellen von Atombombenexplosionen verwechselt werden können.
+
+
+

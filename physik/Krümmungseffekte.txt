@@ -1,0 +1,10 @@
+﻿Krümmungseffekte
+
+An stark gekrümmten Oberflächen können aufgrund der speziellen Bedingungen an solchen Flächen besondere physikalische Effekte auftreten. Insbesondere haben kleinste Flüssigkeitströpfchen oder Nanoteilchen im Verhältnis zu ihrem Volumen eine relativ große Oberfläche, so dass sich die Oberflächenenergie bzw. die Oberflächenspannung auf die Eigenschaften auswirken kann. Wichtige Beispiele für solche Effekte, die Krümmungseffekte genannt werden, sind für die Oberfläche von Flüssigkeiten:
+
+Solche Effekte treten nicht nur bei Flüssigkeiten auf, sondern auch bei Festkörpern. Die Zusammenhänge sind bei ihnen allerdings komplizierter, nicht nur weil unterschiedlich orientierte Flächen eines Kristalls verschiedene Oberflächenenergien haben. Außerdem muss zwischen der Oberflächenenergie bzw. Oberflächenerzeugungsarbeit und der elastischen Grenzflächenspannung (englisch: "surface stress") unterschieden werden. Dennoch gibt es entsprechende Effekte auch bei Festkörpern:
+
+Die genannten Effekte führen auch zur Ostwaldreifung, das heißt, dass bei unterschiedlich großen Teilchen die kleinsten kleiner werden und verschwinden, weil sie verdampfen oder sich auflösen, während die größeren wachsen.
+
+
+

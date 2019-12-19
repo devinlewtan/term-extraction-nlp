@@ -1,0 +1,29 @@
+﻿Meißner-Ochsenfeld-Effekt
+
+Unter dem Meißner-Ochsenfeld-Effekt versteht man die Eigenschaft von Supraleitern, in der Meißner-Phase (Supraleiter 1. Art) ein von außen angelegtes magnetisches Feld vollständig aus ihrem Inneren zu verdrängen. Der Supraleiter zeigt sich also nicht nur als idealer Leiter, sondern darüber hinaus auch als idealer Diamagnet. Dieser Effekt wurde 1933 von Walther Meißner und Robert Ochsenfeld entdeckt und ist durch klassische Physik nicht erklärbar. Die makroskopisch-theoretische Erklärung des Meißner-Ochsenfeld-Effekts liefern die London-Gleichungen.
+Der Meißner-Ochsenfeld-Effekt ist eine für Supraleiter sehr charakteristische Eigenschaft. Das externe Magnetfeld dringt etwa 100 nm weit in das Material ein, tiefere Schichten sind feldfrei. Dieses „Herausdrängen“ des Magnetfeldes ist unabhängig davon, ob die Probe bereits "vor" dem Einschalten des Magnetfeldes supraleitend war oder erst supraleitend gemacht wird, "nachdem" das Magnetfeld eingeschaltet wurde (siehe Abschnitt Unterschied zum idealen Leiter).
+
+Gabriel Lippmann hat bereits im klassischen Elektromagnetismus nachgewiesen, dass der magnetische Fluss durch einen idealen Leiter konstant ist, was erklärt, dass wenn vor dem Erzeugen des Zustands idealer Leitung kein Magnetfeld im Leiter war, dieser im Zustand idealer Leitung immer noch magnetfeldfrei sein muss. Das „Herausdrängen“ des Magnetfeldes wenn das Material supraleitend wird, wird klassisch nicht erklärt.
+
+Der supraleitende Zustand wird oft über den Meißner-Ochsenfeld-Effekt nachgewiesen und nicht über das Verschwinden des elektrischen Widerstands. Bemerkenswert ist zudem, dass der Effekt nicht von der Vorgeschichte des Materials abhängt, er ist damit in der Sprache der Thermodynamik reversibel. Meißner und Ochsenfeld haben so indirekt nachgewiesen, dass der supraleitende Zustand ein echter thermodynamischer Zustand ist.
+
+Alle Supraleiter zeigen einen vollständigen Meißner-Ochsenfeld-Effekt, solange die Temperatur die "kritische Temperatur" formula_1 nicht überschreitet und das von außen angelegte Magnetfeld unterhalb einer "kritischen Feldstärke" formula_2 bleibt. Wegen der vollständigen Feldverdrängung spricht man auch von perfekten Diamagneten. Supraleiter zweiter Art zeigen oberhalb einer kritischen Feldstärke formula_3 nur noch einen unvollständigen Meißner-Ochsenfeld-Effekt: in dieser sogenannten Schubnikow-Phase durchdringt das Magnetfeld den Supraleiter innerhalb dünner Röhren, sogenannter Flussschläuche, die sich in einem gleichseitigen Dreiecksgitter anordnen. In dieser Phase ist der Supraleiter kein perfekter Diamagnet mehr; supraleitend ist er aber nach wie vor.
+
+Bei nicht zu dünnen Werkstücken hängt der Meißner-Ochsenfeld-Effekt von der Reinheit und von der Homogenität des Supraleiters ab. Ein vollständiger Meißner-Ochsenfeld-Effekt kommt nur zustande, wenn die gesamte Probe supraleitend geworden ist. Ansonsten können sich Mischungszustände aus normal- und supraleitenden Bereichen bilden. Der Meißner-Ochsenfeld-Effekt eignet sich somit dafür, die "Qualität" eines Supraleiters zu beurteilen. Der elektrische Widerstand wird dagegen praktisch bereits Null, sobald die "kritische Temperatur" formula_1 unterschritten wird.
+
+Eine wesentlich vereinfachte Erklärung lautet:
+
+Die Grenzfläche sei durch die Ebene x = 0 approximiert. Links von der Grenzfläche, d. h. für x < 0, befinde sich normalleitendes Material und ein homogenes, vertikales Magnetfeld B. Rechts von der Grenzfläche, d. h. für x > 0, sei das Material supraleitend. Dann fließen entlang der Grenzfläche, in einer sehr dünnen Oberflächenschicht der Breite λ („Eindringtiefe“), deren genaue Ausdehnung ebenfalls berechnet werden kann, von vorn nach hinten gerichtete Supraströme j. Diese erzeugen nach der „Rechte-Hand-Regel“ ein vertikal nach unten gerichtetes Magnetfeld, welches das vertikal nach oben gerichtete externe Magnetfeld B zwecks Minimierung der Feldenergie genau kompensiert. 
+
+Im Supraleiter ist also - abgesehen von der erwähnten Oberflächenschicht der Breite λ - überall B = 0.
+
+Senkt man ein Plättchen eines idealen Leiters (eines Materials ohne elektrischen Widerstand) auf einen Dauermagneten ab, so werden im Plättchen gemäß der Lenzschen Regel Ströme induziert, die dem Magnetfeld entgegenwirken und dadurch das Plättchen über dem Magneten schweben lassen. Da es keinen Widerstand gibt, werden die Ströme nicht abgeschwächt und das Plättchen schwebt dauerhaft. Bei einem Supraleiter verschwindet unterhalb der kritischen Temperatur sein elektrischer Widerstand und er wird zum idealen Leiter. Deshalb schwebt ein Supraleiter-Plättchen über einem Magneten, wenn es vorher unter seine kritische Temperatur abgekühlt worden ist.
+
+Doch die Eigenschaften eines Supraleiters gehen über die eines idealen Leiters hinaus. Das kann gezeigt werden, indem man die Reihenfolge des Experiments umkehrt: Legt man das (warme) Supraleiter-Plättchen auf den Magneten und kühlt es erst anschließend ab, so beginnt es unterhalb der kritischen Temperatur zu schweben. Bei einem klassischen idealen Leiter würde nichts passieren, das heißt dieser sogenannte Meißner-Ochsenfeld-Effekt ist eine spezielle Eigenschaft von Supraleitern. Erklärt werden kann der Effekt dadurch, dass sich beim Phasenübergang in den supraleitenden Zustand Abschirmströme ausbilden, die das Magnetfeld aus dem Inneren des Supraleiters verdrängen.
+
+Der Meißner-Ochsenfeld-Effekt wird zum Beispiel in supraleitenden Magnetlagern oder in supraleitenden Schaltern, sogenannten Kryotronen genutzt.
+
+Die Erklärung des Meißner-Ochsenfeld-Effekts in Form der Ginsburg-Landau-Theorie dient als Vorbild für den sogenannten Higgs-Mechanismus, durch den in der Hochenergiephysik die Masse der Austauschteilchen der elektroschwachen Wechselwirkung generiert wird.
+
+
+

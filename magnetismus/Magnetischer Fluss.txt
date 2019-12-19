@@ -1,0 +1,45 @@
+﻿Magnetischer Fluss
+
+Der Magnetische Fluss (Formelzeichen formula_1) ist eine skalare physikalische Größe zur Beschreibung des magnetischen Feldes. Er ist – analog zum elektrischen Strom – die Folge einer magnetischen Spannung und fließt durch einen magnetischen Widerstand. Da selbst das Vakuum einen solchen magnetischen Widerstand darstellt, ist der magnetische Fluss nicht an ein bestimmtes „Medium“ gebunden und wird über Feldgrößen beschrieben.
+
+Betrachtet man beispielsweise einen kleinen Zylinder aus einem Material mit gegebener magnetischer Leitfähigkeit, an dem eine magnetische Spannung formula_2 (bestimmt durch seine Länge und die magnetische Feldstärke formula_3) anliegt, so stellt sich ein Strom proportional zu seiner Querschnittsfläche ein. Analog zum elektrischen Widerstand definiert man so den magnetischen Widerstand formula_4 und kommt zu dem Zusammenhang:
+
+Herrscht beispielsweise im einfachsten linearen, homogenen Fall zwischen den mit dem Abstand formula_6 zueinander befindlichen Polschuhen eines Magneten die magnetische Feldstärke formula_3, so herrscht entlang der Strecke formula_6 die magnetische Spannung:
+
+Durch diese magnetische Spannung bildet sich zwischen den Polschuhen der magnetische Fluss aus. Seine Größe hängt ab vom magnetischen Widerstand des zwischen den Polschuhen befindlichen Materials (bzw. des leeren Raumes). Der magnetische Widerstand ist dabei gebunden an die magnetische Leitfähigkeit des Materials als Stoffkonstante bzw. an die magnetische Leitfähigkeit des leeren Raums als Naturkonstante, so wie ein ohmscher Widerstand an die Stoffkonstante der elektrischen Leitfähigkeit des Widerstandsmaterials gebunden ist.
+
+Im Regelfall arbeitet man in der Feldtheorie "nicht" mit dem magnetischen Fluss, den man nur einer bestimmten Fläche im Raum zuordnen kann, nicht aber diskreten Feldpunkten: Es existiert keine Funktion formula_10, wobei formula_11, formula_12, formula_13 Ortskoordinaten bezeichnen; d. h. der magnetische Fluss ist "kein" Skalarfeld. Zeichnerisch wird der magnetische Fluss daher als eine Art „Röhre“ (Flussröhre) dargestellt.
+
+Um diese Schwierigkeiten zu vermeiden, wird statt mit dem magnetischen Fluss meist mit der vektoriellen Größe der magnetischen Flussdichte formula_14 gearbeitet. Sie ist mit dem magnetischen Fluss durch eine orientierte Fläche formula_15 wie folgt verknüpft:
+
+
+Als verketteter Fluss (Verkettungsfluss, Induktionsfluss oder auch Spulenfluss) wird der gesamte magnetische Fluss einer Induktivität bzw. Spule bezeichnet, der sich bei der Integration der magnetischen Flussdichte formula_21 über die Fläche formula_22 ergibt, die durch die Spule samt ihren Zuleitungen gebildet wird:
+
+Als Integrationsfläche formula_22 kann eine beliebige orientierte Fläche verwendet werden, die von der kurzgeschlossenen Spule berandet wird. Denn da es keine magnetischen Monopolladungen gibt, kommt es bei der Berechnung des Flusses ausschließlich auf die Randlinie, nicht aber auf die genaue Form der Fläche an. Das nebenstehende Bild zeigt eine mögliche Spulenfläche am Beispiel einer Spule mit drei Windungen. Bei einer üblichen Spulenanordnung wird die Fläche von den magnetischen Feldlinien im Spulenkern formula_25-mal durchstoßen, wenn das Feld im Kern näherungsweise homogen ist. Dann ergibt sich:
+
+wobei formula_27 der magnetische Fluss durch eine Windung bzw. die Querschnittsfläche des magnetischen Kerns ist.
+
+Anschaulich kann der verkettete Fluss in der folgenden Form beschrieben werden: Die induzierte Spannung in einer einzelnen Windung ergibt sich aus der Änderung des von der einzelnen Windung umschlossenen magnetischen Flusses formula_27. Wird, wie bei einer Spule, eine weitere Windung in Reihe zur ersten geschaltet, so ergibt sich auch in dieser Windung eine gleich große induzierte Spannung, soweit beide Windungen den gleichen Fluss umfassen. Beide induzierte Spannungen addieren sich aufgrund der Reihenschaltung der Windungen. Bei formula_25 Windungen für die gesamte Spule ergibt sich somit eine induzierte Spannung proportional zur Änderung von formula_30. Diese Gesamtspannung liegt an den Klemmen der Spule an; somit ist der verkettete magnetische Fluss formula_30 und nicht der einfache magnetische Fluss formula_27 für die Strom-Spannungs-Beziehung und die Induktivität der Spule zu berücksichtigen.
+
+In der elektrotechnischen Literatur hat es sich weitgehend durchgesetzt, den magnetischen Fluss im Magnetkern mit formula_1 und den magnetischen Fluss durch die von der Spule aufgespannten Fläche mit formula_30 zu bezeichnen. Die Wahl des unterschiedlichen Buchstabens sollte dabei nicht zu dem naheliegenden Irrtum verleiten, dass es sich beim verketteten Fluss um eine vom gewöhnlichen magnetischen Fluss verschiedene neue physikalische Größe handelt. Denn der verkettete Fluss einer Spule ist physikalisch betrachtet nichts anderes als der gewöhnliche magnetische Fluss, der sich für den Spezialfall einer Spulenfläche ergibt. Die Wahl des neuen Buchstabens ist jedoch dabei nützlich, den Spulenfluss von dem magnetischen Fluss zu unterscheiden, der den Querschnitt des Spulenkerns durchdringt.
+
+Die Maßeinheit des magnetischen Flusses im SI-Einheitensystem ist Weber, das Einheitenzeichen Wb:
+
+mit
+
+Während es für den elektrischen Fluss und die dahinterstehende elektrische Ladung formula_38 in C (bzw. As) verhältnismäßig leicht fällt, eine anschauliche Vorstellung von ihr zu entwickeln, nämlich die einer entsprechend großen Zahl von Elektronen, fähig, z. B. eine Sekunde lang einen Strom von 1 A aufrechtzuerhalten, fällt das beim magnetischen Fluss, gemessen in Wb (bzw. Vs), weitaus schwerer.
+
+Eine der Möglichkeiten ist es, dazu auf den in manchen (älteren) Lehrbüchern der Physik zu findenden Begriff der "Zeitsumme der Spannung" bzw. "Spannungszeitsumme", in Anlehnung an den Begriff des "Kraftstoßes" auch "Spannungsstoß" genannt, zurückzugreifen:
+
+Zeichnet man nämlich die Induktionsspannung in einer Leiterschleife als Funktion der Zeit auf, zeigt sich, dass die Fläche unterhalb der Spannungskurve bei gleichbleibender Stärke des Erregerfelds stets dieselbe bleibt, egal, wie schnell oder langsam die Flussänderung vonstattengeht. Dementsprechend lautet eine der auf dem Begriff der Spannungszeitsumme fußenden Definitionen des magnetischen Kraftflusses formula_1 wie folgt:
+
+Umgangssprachlicher formuliert: Ein magnetischer Kraftfluss von 1 Weber (bzw. 1 Vs) ist diejenige „Menge an Magnetismus“, die bei ihrem Verschwinden in dem sie umgebenden Stromkreis eine Sekunde lang eine Spannung von 1 V aufrechtzuerhalten vermag. (Vgl. auch Spannungszeitfläche)
+
+Bei der Betrachtung von Quantenphänomenen (z. B. Aharonov-Bohm-Effekt, Quanten-Hall-Effekt) ist das magnetische Flussquantum
+also der Quotient aus dem planckschen Wirkungsquantum formula_42 und der Elementarladung formula_43, eine zweckmäßige Größe. 
+
+Experimente an Supraleitern ergaben, dass der magnetische Fluss durch einen supraleitenden Ring ein Vielfaches von
+ist "(→ siehe Flussquantisierung)", was impliziert, dass die beteiligten Ladungsträger zwei Elementarladungen tragen. Dies ist eine deutliche Bestätigung der BCS-Theorie, nach der Supraleitung durch Elektronenpaare (Cooper-Paare) vermittelt wird.
+
+
+

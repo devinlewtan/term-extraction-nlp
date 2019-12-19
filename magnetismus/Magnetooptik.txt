@@ -1,0 +1,38 @@
+﻿Magnetooptik
+
+Die Magnetooptik ist ein Teilgebiet der Optik, das sich mit der Wechselwirkung von Licht mit Materie im magnetischen Feld beschäftigt. In Kurzform besteht die Wechselwirkung darin, dass durch ein extern angelegtes Magnetfeld ein Material doppelbrechend gemacht wird.
+
+Die Geschichte der Magnetooptik begann 1845, als Michael Faraday eine Drehung der Polarisationsebene von linear polarisiertem Licht nach Durchstrahlung eines durchsichtigen Mediums parallel zu einem von außen angelegten Magnetfeld beobachtete (Faraday-Effekt).
+
+1876 entdeckte John Kerr eine Drehung der Polarisationsebene von Licht, das an ferromagnetischen Metalloberflächen reflektiert wird (magnetooptischer Kerr-Effekt).
+
+Eine weitere wichtige Entdeckung für die Magnetooptik ist der Zeeman-Effekt (1896), der aber erst mit der Entwicklung der Quantenmechanik erklärt werden konnte.
+
+1908 stellte Woldemar Voigt eine umfassende Theorie der Magnetooptik im Rahmen der klassischen Elektrodynamik auf.
+
+Optische Effekte, die sich auf Reflexion und Absorption beschränken, werden im Rahmen der klassischen Elektrodynamik mit Hilfe des komplexwertigen Dielektrizitätstensors ε beschrieben.
+
+Im Fall eines isotropen Mediums in Abwesenheit äußerer Felder hat ε identische Diagonalterme (formula_1), die Nichtdiagonalelemente sind alle Null. Diese spezielle Form des Tensors erlaubt es, ε wie einen Skalar zu behandeln.
+
+In Anwesenheit eines äußeren Magnetfelds verändern sich die Diagonalelemente so, dass sie nicht mehr alle untereinander identisch sind, und es tauchen Nichtdiagonalelemente auf, die noch dazu asymmetrisch sind. Für die magnetooptischen Effekte sind dabei diese Nichtdiagonalterme des Tensors, die auch "magnetooptische Konstanten" genannt werden, von großer Wichtigkeit.
+
+In einem Magnetfeld in z-Richtung hat der Dielektrizitätstensor eines in Abwesenheit eines magnetischen Felds isotropen Körpers folgendes Aussehen:
+
+wobei aufgrund der Annahme der Isotropie formula_3 gilt. formula_4 hat den Wert der skalaren Dielektrizitätskonstante, die der Körper in Abwesenheit eines Magnetfeldes hat. Die Nichtdiagonalelemente formula_5 sind im Allgemeinen klein gegen die Diagonalelemente und linear vom Magnetfeld abhängig. formula_6 ist quadratisch vom Magnetfeld abhängig und klein gegen formula_4.
+
+Mit Hilfe des in der Kristalloptik beschriebenen mathematischen Formalismus erhält man durch Lösung der Wellengleichung für anisotrope Festkörper die Brechungsindizes und den Polarisationscharakter in diesem Medium:
+
+Beim zirkularen magnetischen Dichroismus (MCD) liegt die Magnetisierung parallel zur Ausbreitungsrichtung des Lichts, das zirkular polarisiert ist. Man unterscheidet zwischen einer polaren und einer longitudinalen Geometrie. Bei der polaren Geometrie liegt die Magnetisierung senkrecht zur Oberfläche, bei der longitudinalen liegt die Magnetisierung parallel zur Oberfläche in der Einfallsebene. Hier wird die unterschiedliche Absorption für die beiden Polarisationsrichtungen ausgenutzt. Diese ist proportional zum Imaginärteil des Brechungsindex. Der gemessene Effekt entspricht somit:
+
+Beim 1898 entdeckten Voigt-Effekt, dem linearen magnetischen Dichroismus (, MLD) und dem Cotton-Mouton-Effekt, liegt die Magnetfeldrichtung parallel zu der Oberfläche, die von der einfallenden Welle senkrecht getroffen wird. Der Cotton-Mouton-Effekt, der vor allem in Flüssigkeiten auftritt, beruht auf der elektrischen und magnetischen Anisotropie der Moleküle. Durch das angelegte Feld werden die Moleküle ausgerichtet und bewirken eine quadratisch vom Feld abhängige Änderung der Diagonalterme des formula_13-Tensors, formula_14. Der Voigt-Effekt, der in Metalldampf gemessen wird, und der MLD, der am Festkörper gemessen wird, werden durch die Ausrichtung der Elektronenhüllen verursacht.
+
+
+Der wichtigste Effekt ist der magnetooptische Kerr-Effekt (MOKE), der in drei unterschiedlichen Geometrien existiert:
+
+zusätzlich gibt es noch den Oberflächen-magnetooptischen Kerr-Effekt (SMOKE)
+
+Der magnetooptische Kerr-Effekt ist nicht mit dem elektrooptischen Kerr-Effekt zu verwechseln, bei dem die Polarisationsebene durch Anlegen elektrischer Felder gedreht wird.
+
+Die bekannteste Anwendung der Magnetooptik findet man in der Magneto Optical Disk (MOD). Diese wird mit Hilfe des magnetooptischen Kerr-Effekts ausgelesen.
+
+

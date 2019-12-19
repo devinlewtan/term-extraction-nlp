@@ -1,0 +1,7 @@
+﻿Keplerparabel
+
+Eine Punktmasse (z. B. der Schwerpunkt eines Kometen) bewegt sich auf einer Parabel, der so genannten Keplerparabel, wenn sie bei der Bewegung um die Sonne gerade genügend kinetische Energie hat, um sich beliebig weit entfernen zu können. Die Geschwindigkeit die dazu nötig ist um von einer gebundenen Bahn auf eine Parabelbahn zu wechseln wird als zweite kosmische Geschwindigkeit bezeichnet.
+
+Die Bewegung von Körpern auf Keplerparabeln wird durch die Keplerschen Gesetze beschrieben.
+
+

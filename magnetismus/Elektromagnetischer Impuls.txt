@@ -1,0 +1,59 @@
+﻿Elektromagnetischer Impuls
+
+Der elektromagnetische Impuls oder auch elektromagnetische Puls (, abgekürzt EMP) bezeichnet eine kurzzeitige breitbandige elektromagnetische Strahlung, die bei einem einmaligen, hochenergetischen Ausgleichsvorgang abgegeben wird. 
+
+Ein energetisch hoch angeregtes System klingt unter Aussendung des elektromagnetischen Impulses in den Grundzustand ab. Ursache sind meist elektrostatische Aufladungsprozesse etwa durch Gewitter oder Kernwaffenexplosionen, aber auch in speziellen elektrischen Schaltungen. Im sichtbaren Spektrum kann dieser Prozess als Lichtblitz wahrgenommen werden.
+
+Durch die Wechselwirkung der niederfrequenten elektromagnetischen Strahlungsanteile mit freien Ladungsträgern in Metallen und Halbleitern werden dort starke, kurzzeitig schwankende Ströme induziert. In nicht oder unzureichend abgeschirmten elektrischen Geräten kann dies zu Fehlfunktionen bis hin zum Totalausfall oder sogar zur Zerstörung einzelner elektronischer Bauteile führen. Für technische Anwendungen wird der Begriff meist auf das hier relevante Frequenzspektrum mit Wellenlängen zwischen 10 mm und 10 km beschränkt.
+
+Der Begriff "Impuls" ist in diesem Kontext nicht mit dem Begriff des "mechanischen Impulses" aus dem Bereich der Physik zu verwechseln. 
+
+Mathematisch ist ein Impuls als eine einmalige Zeitfunktion "f(t)" (vgl. Impulsfunktion) einer physikalischen Größe wie Feldstärke, Spannung oder Druck darstellbar. Wird ein Impuls mit der Periode "T" laufend wiederholt, spricht man von einem Puls mit der Pulsfrequenz "f" = 1/"T". Diese Begriffsdefinition folgt der deutschsprachigen Fachliteratur; insbesondere sei dazu auf "Theoretische Elektrotechnik" von Karl Küpfmüller sowie die Normung verwiesen.
+
+In der englischsprachigen Literatur wird hingegen meist kein Unterschied zwischen den Begriffen "Impuls" und "Puls" gemacht. Die im Deutschen übliche begriffliche Trennung hat jedoch Vorteile für das Verständnis. Insbesondere kann ein Puls durch eine Überlagerung einer diskreten Reihe harmonischer Schwingungen dargestellt werden. Für einen Impuls benötigt man eine kontinuierliche Überlagerung von harmonischen Schwingungen. Ein einzelner Impuls weist somit ein kontinuierliches Spektrum auf, während die periodisch wiederholte Impulsfolge ein diskretes Linienspektrum aufweist.
+
+Blitze sind natürliche Entladungsvorgänge in der Atmosphäre, welche zu einer massiven elektromagnetischen Beeinflussung vor allem im Bereich des Blitzkanals und des Einschlagpunktes führen. Diese Wirkung kann durch metallische Leitungen weitergeleitet werden und somit weitreichende Schäden bewirken. Dieser elektromagnetische Impuls wird auch , abgekürzt "LEMP", genannt.
+
+Magnetisiertes Plasma aus einer Sonneneruption kann über Minuten bis Stunden niederfrequente Ströme in räumlich weitflächig ausgedehnten Energieversorgungsnetzen induzieren, welche beispielsweise zu Sättigungserscheinungen in Leistungstransformatoren führen kann. Die Folge können Stromausfälle sein.
+
+Durch hohe Stromimpulse in Spulen lassen sich starke magnetische Impulse erzeugen. Sie werden zur Untersuchung der Wirkung von hohen Magnetfeldern auf Materie oder zum Beispiel zur Magnetumformung benutzt. Solche Spulen können Feldern bis etwa 100 Tesla widerstehen, bei höheren Feldern werden sie jedoch zerstört. Zum mechanischen Schutz und zur magnetischen Abschirmung sind entsprechende Labore in massiven Stahlbetongebäuden untergebracht. Die durch Kondensatorentladung erzeugten Stromimpulse erreichen einige 100 Kiloampere, die Dauer liegt im Bereich von Millisekunden.
+
+In Railguns und Wirbelstrombeschleunigern liegen ähnliche Verhältnisse vor.
+
+Durch Impuls-Teslatransformatoren werden starke elektromagnetische Felder im Mittelwellenbereich erzeugt.
+
+Auch das Abschalten von Induktivitäten führt zu elektromagnetischen Impulsen. Durch das Bestreben des elektrischen Stromes, beim Ausschaltvorgang weiter durch die Induktivität fließen zu wollen, entstehen an der Spule sehr hohe Spannungen, welche zu Funkenbildung führen können. Die Störimpulse breiten sich auf Leitungen aus, verursachen Signalstörungen und haben unter Umständen ähnliche Auswirkungen wie elektrostatische Entladungen. Solche Impulse treten beispielsweise beim Abschalten von Elektromotoren, Schützen und anderen induktiven Bauteilen auf. Eine häufige Störquelle dieser Art ist die Zündanlage von Otto-Motoren, in welcher der Effekt des Spannungsanstieges jedoch wie bei einem Funkeninduktor ausgenutzt wird.
+
+Zu erwähnen ist auch und besonders der Flusskompressionsgenerator, der zusammen mit einem Vircator EMP im zweistelligen Gigawattbereich im Zeitbereich 0,1…1 µs erzeugt.
+
+Auch starke Laserpulse lösen bei der Wechselwirkung mit Materie einen EMP aus. Laboratorien zu Forschungszwecken mit Laser-Strahlungsleistungen bis in den Petawattbereich weisen daher einen Strahlenschutz und entsprechende weitere Maßnahmen zum Schutz der Kommunikationsnetze auf.
+
+Ein nuklearer elektromagnetischer Impuls, abgekürzt "NEMP" (engl. nuclear electromagnetic pulse) oder auch "HEMP" (high altitude nuclear electromagnetic pulse) wird indirekt als Folge von intensiver Gammastrahlung in einigen 100 km Höhe über der Erdatmosphäre im Zusammenhang mit dem Erdmagnetfeld in der Atmosphäre durch den Compton-Effekt ausgelöst. Eine solch starke transiente Gammastrahlungsquelle ist derzeit nur durch eine Kernwaffenexplosion zu erzeugen.
+
+Bis zum Verbot oberirdischer Kernwaffentests fanden solche Explosionen tatsächlich statt und beschädigten oder zerstörten in den betroffenen Gebieten Versorgungsnetze und Schiffe, so beim Kernwaffentest Starfish Prime über dem Pazifik am 9. Juli 1962.
+
+Durch hochenergetische Gammaquanten im Energiebereich von einigen MeV aufwärts, die bei einer solchen Nuklearexplosion emittiert werden, kommt es an den Molekülen der obersten Schichten der Erdatmosphäre zu einer als Stoßionisation bezeichneten schlagartigen Ionisierung. Dabei werden aus den Molekülen Elektronen "herausgeschlagen", von denen ein großer Anteil die ursprüngliche Bewegungsrichtung des aufgetroffenen Gammaquants erhält und sich somit in Richtung dichterer Atmosphärenschichten bewegt. Ein Teil dieser freien Primärelektronen verursacht wegen ihrer hohen Energie weitere Stoßionisationen und setzt dabei weitere Sekundärelektronen frei. Die auf die Erde zufliegenden negativen Elektronen und die zurückgebliebenen positiven Luftionen bilden einen transienten elektrischen Dipol. Aufgrund der Ablenkung der bewegten Ladungsträger im Erdmagnetfeld als Folge der Lorentzkraft entsteht dabei ein transienter magnetischer Dipol.
+
+Diese zeitlich und räumlich schnell veränderliche Ladungs- und Stromverteilung der Dipole in oberen Atmosphärenschichten erzeugt ein breitbandiges, transientes Wellenfeld, welches erst den eigentlichen elektromagnetischen Impuls ergibt, der für Beeinträchtigungen von elektronischen Geräten und elektrischen Anlagen verantwortlich ist.
+
+Ein NEMP ist im Unterschied zum LEMP durch die besonders steile Anstiegsgeschwindigkeit und somit Breitbandigkeit gekennzeichnet. Bereits nach 4 ns werden 90 % des Maximalwerts erreicht.
+
+Der genormte NEMP, wie er in Prüflaboratorien zum Prüfen von Abschirmungen verwendet wird, weist als Maximalwert eine elektrische Feldstärke von 50 kV/m und eine magnetische Feldstärke von 133 A/m auf.
+
+Ähnliche Effekte treten auch bei nuklearen Explosionen in Bodennähe auf. Dort ist die Wirkung des NEMP allerdings auf einen kleineren räumlichen Bereich beschränkt und wird durch die thermischen und mechanischen Effekte der Nuklearexplosion überlagert.
+
+Elektromagnetische Impulse können elektrische und vor allem elektronische Bauteile im Wirkungsbereich zerstören und werden daher vom Militär auch in Form bodengebundener EMP-Waffen eingesetzt (siehe auch: elektronische Kampfführung). Als Strahlungsquelle dient hierfür z. B. die gerichtete Mikrowellenstrahlung von relativistischen Magnetrons, die, aus Kondensatoren gespeist, Spitzenleistungen im Terawattbereich liefern.
+
+Die Schutzkommission beim Bundesminister des Innern schreibt 2011: Zu einem vergleichbaren Ergebnis kam eine amerikanische Kommission 2008.
+
+Der Schutz vor EMP wird auch als EMP-Härtung bezeichnet. Vor allem räumlich weit ausgedehnte elektrische Leiter, wie Energieversorgungs- und Kupfer-Telekommunikationsnetze, sind durch LEMP bzw. NEMP gefährdet. NEMP gefährden auch metallene Rohrleitungen. Während Energieversorgungsnetze kaum geschützt werden können, kann man in Kommunikationsleitungen Trennübertrager oder -verstärker einbauen oder sie durch Glasfasernetze ersetzen.
+
+Rohrleitungen kann man zum Schutz stellenweise oder ganz aus isolierenden Werkstoffen herstellen. Anlagen können durch einen Faradayschen Käfig und Schutzschaltungen (Galvanische Trennung, Überspannungsableiter) auf allen elektrischen Zuleitungen geschützt werden. Bei Funkanlagen lässt sich die Abschirmung allerdings nur teilweise erreichen, da deren Antennen nicht abgeschirmt werden dürfen, damit sie die elektromagnetischen Felder zum Detektor leiten können, was ihre primäre Aufgabe ist.
+
+Flugzeuge sind durch ihre exponierte Lage während des Fluges in bestimmten Situationen, wie in der Nähe von starken Radaranlagen, auch in regulären und zivilen Anwendungsfällen stärkeren elektromagnetischen Impulsen ausgesetzt. Die zum Schutz nötigen Maßnahmen und Grenzwerte sind unter dem Begriff HIRF für zusammengefasst.
+
+In diversen Film- und Fernsehproduktionen sowie Videospielen kommen immer wieder EMPs, üblicherweise in fiktiver Form vor. Beispiele dafür sind die Kinofilme James Bond 007 – Goldeneye und Matrix, die Fernsehserien "24", in deren vierter und achter Staffel ein EMP schwere Schäden verursacht, und "Dark Angel", wo ein EMP im Pilotfilm dafür sorgt, dass die USA entwicklungstechnisch zurückgeworfen werden, sowie in der deutschen Serie "Einstein", in deren Finale der ersten Staffel zwei elektromagnetische Impulse ausgelöst werden.
+
+
+
+

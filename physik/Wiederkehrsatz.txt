@@ -1,0 +1,28 @@
+﻿Wiederkehrsatz
+
+Der poincarésche Wiederkehrsatz ist ein mathematischer Satz über dynamische Systeme. Er besagt, dass es bei autonomen hamiltonschen Systemen, deren Phasenraum ein endliches Volumen hat, in jeder offenen Menge formula_1 im Phasenraum Zustände gibt, deren Trajektorien beliebig oft wieder nach formula_1 zurückkehren. Insbesondere ist der poincarésche Wiederkehrsatz ein Satz der Ergodentheorie und kann auch als das erste Resultat der Chaostheorie angesehen werden.
+
+Der poincarésche Wiederkehrsatz wurde 1890 in der schwedischen Zeitschrift "Acta Mathematica" in einer Arbeit von Henri Poincaré über das Dreikörperproblem zum ersten Mal veröffentlicht. Die erste Formulierung des Wiederkehrsatzes findet sich darin auf Seite 69:
+
+Poincaré beweist diesen Satz auf den beiden folgenden Seiten seiner Arbeit; aus seinem Beweis wird klar, dass die Dimension des Volumens keine Rolle spielt. In der Tat formuliert Poincaré auf Seite 72f. diesen Satz auch für beliebige Dimension formula_8.
+Der Kontext bei Poincaré ist der Hamilton-Formalismus der klassischen Mechanik, wobei der Punkt formula_3 den zeitlich veränderlichen Zustand des mechanischen Systems beschreibt und die Hamilton-Funktion autonom, also nicht explizit von der Zeit abhängig, ist. Z.B. beim Dreikörperproblem hat formula_3 insgesamt 18 Komponenten, nämlich für jeden Körper drei (generalisierte) Orts- und drei (generalisierte) Impulskoordinaten; in diesem Fall ist der Phasenraum also 18-dimensional.
+Bei autonomen Hamiltonschen Systemen ergibt sich aus dem Satz von Liouville, dass das Volumen im Phasenraum unter der Bewegung erhalten bleibt.
+
+Unter Hinzunahme des ursprünglichen Kontextes ergibt sich folgende Formulierung des poincaréschen Wiederkehrsatzes:
+
+Die wichtigsten Schritte des poincaréschen Beweis sind (in heutiger Notation):
+
+Die Schritte 1 und 2 dieser Argumentation waren bereits vor Poincaré wohl bekannt. Die restlichen Beweisideen finden sich wohl erstmals in Poincarés Arbeit.
+
+Bei Poincarés Beweis spielt der Begriff "Volumen" eine wichtige Rolle. Mit Hilfe der Maßtheorie und der damit verbundenen Begriffe lässt sich der Beweis klarer strukturieren. Man beginnt mit einem Maßraum formula_36 und nennt eine messbare Abbildung
+"maßerhaltend", wenn für jede messbare Menge formula_13 die Gleichung formula_39 gilt, also wenn das Maß formula_40 und sein Bildmaß unter formula_41 übereinstimmen. Des Weiteren muss man die "Endlichkeit" des Maßraums voraussetzen, also formula_42. So gelangt man zur maßtheoretischen Variante, wobei formula_43 die formula_44-fache Iteration von formula_41 bezeichnet:
+
+Eine genaue Analyse des poincaréschen Beweises mit Hilfe der Maßtheorie führt zu folgender maßtheoretischen Verschärfung:
+
+Die maßtheoretischen Varianten lassen sich leicht auf diskrete dynamische Systeme anwenden, bringen dort aber nichts Neues: Als Maß nimmt man hier einfach das Zählmaß. Die Forderung formula_42 bedeutet dann, dass die zugrundeliegende Menge endlich ist. Damit wird "maßerhaltend" gleichbedeutend mit bijektiv, und die Aussage des poincaréschen Wiederkehrsatzes wird zu der einfachen Tatsache, dass jede Permutation einer endlichen Menge in Zykel zerfällt.
+
+Physikalisch bedeutet der poincarésche Wiederkehrsatz, dass ein mechanisches System, dessen Bahnen beschränkt bleiben (also z. B. das Sonnensystem), die Eigenschaft hat, dass es in jeder Umgebung des Anfangszustands Systemzustände gibt, deren Bahnen beliebig oft in besagte Umgebung des Anfangszustands zurückkehren. Daraus folgt etwa das folgende Resultat: Verbindet man zwei Behälter, die unterschiedliche Gase beinhalten, so vermischen sich diese zunächst. Nach dem Wiederkehrsatz gibt es jedoch eine beliebig kleine Änderung des Anfangszustands mit der Konsequenz, dass sich die Gase zu einem späteren Zeitpunkt von selbst trennen und entmischt sind. Die Entmischung widerspricht einer deterministischen Formulierung des zweiten Hauptsatzes der Thermodynamik, die eine Abnahme der Entropie ausschließt. Darüber entspann sich eine Auseinandersetzung zwischen Ernst Zermelo und Ludwig Boltzmann, in deren Verlauf Boltzmann einige Artikel über die Zusammenhänge zwischen dem poincaréschen Wiederkehrsatz und dem zweiten Hauptsatz der Thermodynamik verfasste. Danach verschwindet der Widerspruch, wenn man den zweiten Hauptsatz statistisch interpretiert:
+
+Demgemäß ist eine Abnahme der Entropie nicht prinzipiell unmöglich, aber innerhalb einer „kurzen“ Zeitspanne sehr unwahrscheinlich. Betrachtet man jedoch das Verhalten eines hamiltonschen Systems mit beschränktem Phasenraum für beliebig große Zeiten, so ist die Wiederkehr fast sicher – wie aus der maßtheoretischen Verschärfung des poincaréschen Wiederkehrsatzes folgt. Im Anhang der zitierten Abhandlung gibt Boltzmann eine Schätzung der Wiederkehrzeit für die Moleküle von Luft gewöhnlicher Dichte in einem Gefäß von einem cm³ Volumen. Nach etwa einer Seite kombinatorischer Überlegungen kommt er zu einer Zahl formula_62 (wobei formula_63 eine Abschätzung für die Zahl der Kombinationen diskretisierter Teilchenimpulse ist und formula_64 die Zahl der Gasteilchenkollisionen pro Sekunde beschreibt), die noch „mit einer zweiten von ähnlicher Größenordnung multipliziert werden“ müsse, und von der er schreibt:
+
+

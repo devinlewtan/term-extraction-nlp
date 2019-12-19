@@ -1,0 +1,10 @@
+﻿Anströmgeschwindigkeit
+
+Die Anströmgeschwindigkeit ist die Geschwindigkeit, mit der ein Gas oder eine Flüssigkeit auf einen festen Körper zuströmt, bevor dieser die Strömung beeinflusst.
+
+Der dynamische Auftrieb und der Strömungswiderstand sind über einen weiten Geschwindigkeitsbereich proportional zum Quadrat der Anströmgeschwindigkeit. Richtungsangaben der Anströmung (Anströmwinkel) beziehen sich auf eine ausgezeichnete Achse bzw. Ebene des Körpers, beim Tragflügel z. B. auf die Sehne eines Profils:
+Bei PKW bezieht sich der Schiebewinkel, der z. B. durch Seitenwind entsteht, auf die Mittelebene des Fahrzeugs. Im Windkanal werden in Abhängigkeit vom Anströmwinkel sechs Komponenten gemessen:
+Aus den Kräften und Momenten werden jeweils dimensionslose Beiwerte gebildet. Bezugsgröße für die Kräfte ist die Stirnfläche, für die Momente das Produkt aus Stirnfläche und Radstand. Der Bezugspunkt für die Momente liegt auf der Fahrbahn und mittig bezüglich Radstand und Spurweite. 
+
+
+

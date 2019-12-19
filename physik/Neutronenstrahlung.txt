@@ -1,0 +1,28 @@
+﻿Neutronenstrahlung
+
+Neutronenstrahlung ist eine ionisierende Strahlung, die aus freien Neutronen (mit u. U. verschiedenen kinetischen Energien) besteht.
+
+Da Neutronen elektrisch neutral sind, haben die Ladungen von Atomkernen und Elektronen auf ihre Bewegung keinen Einfluss. Neutronenstrahlung durchdringt Materie deshalb relativ leicht. Der ionisierende Effekt entsteht indirekt, meist durch Anstoßen leichter Atomkerne bzw. deren Bestandteile (z. B. Protonen), die dann ihrerseits ionisierend wirken. Durch derartige Stöße werden die Neutronen energieärmer (langsamer).
+
+Die Hauptwirkung von langsamen, vor allem thermischen Neutronen beruht auf ihrer Fähigkeit, sich an Atomkerne anzulagern (Neutroneneinfang). Dabei bildet sich ein Isotop des einfangenden Atoms mit einer um 1 erhöhten Massenzahl. Viele dieser so entstandenen Isotope sind radioaktiv, so dass noch sehr lange nach einer Neutronenbestrahlung (je nach Halbwertszeit des Isotops) durch den Zerfall ionisierende Strahlung auftreten kann. 
+
+Der freie Zustand des Neutrons endet nach kürzester Zeit immer mit einem Neutroneneinfang oder einer anderen Kernreaktion. Nur im Hochvakuum hat ein freies Neutron eine „Chance“, seinen radioaktiven Zerfall zu „erleben“.
+
+Die kosmische Strahlung setzt in der Atmosphäre oder am Boden durch Wechselwirkung mit Molekülen natürliche Neutronenstrahlung frei. Durch natürlichen Zerfall von Atomkernen entsteht Neutronenstrahlung selten; man stellt sie künstlich mit Hilfe von Neutronenquellen her. Im Kernreaktor werden bei der Kernspaltung Neutronen freigesetzt, ebenso bei der Kernfusion.
+
+Eine weitere starke Quelle sind Neutronenbomben. Sie kann mit Hilfe von Neutronenstrahlung Personen im Zielgebiet töten, aber Gebäude und Infrastruktur relativ unbeschädigt lassen.
+
+In der Materialforschung werden Neutronenstrahlen eingesetzt, um die atomare oder molekulare Struktur von Festkörpern zu bestimmen (Neutronenstreuung). Zur Überwachung der Unterkritikalität eines Kernreaktors kann die Neutronenstrahlung z. B. einer Radium-Beryllium-Neutronenquelle verwendet werden. Bei der Strahlentherapie wurde versucht, Krebszellen mit Neutronenstrahlen abzutöten; wegen der Nebenwirkungen im gesunden Gewebe wird dies nur noch selten angewandt.
+
+Die wichtigste Schadwirkung "schneller" Neutronen in lebendem Gewebe ist die elastische Streuung an Wasserstoff. Sie erzeugt Rückstoßprotonen, die ihrerseits stark ionisierend und damit im Gewebe schädlich wirken. Eine indirekte Schädigung durch "thermische" Neutronenstrahlung kommt durch die Gammastrahlung zustande, die beim Einfang des Neutrons an Wasserstoff entsteht: H + n → H + 2,2 MeV.
+
+Die Schädlichkeit von Neutronenstrahlung wird durch die hohen Strahlungswichtungsfaktoren formula_1 der deutschen Strahlenschutzverordnung mit Werten von 5 bis 20 berücksichtigt.
+
+Schnelle wie auch thermische Neutronenstrahlung kann stabile Atomkerne durch Kernreaktionen in radioaktive Atomkerne umwandeln – dies ist die sogenannte Aktivierung.
+
+Neutronenstrahlung hat im Allgemeinen einen negativen Einfluss auf strukturelle Materialien wie Stahl (siehe Strahlenschaden). Neutronen erzeugen durch Streuung an Atomkernen Defekte im Kristallgitter, die meist zur Versprödung des Materials führen. Auch die Aktivierung und die damit verbundene Umwandlung von Legierungsbestandteilen können sich (meist negativ) auf die Materialeigenschaften auswirken. Diese Prozesse treten besonders an Orten mit sehr hoher Neutronenfluenz auf wie etwa Reaktordruckbehältern, deren Einbauten und den Brennstabhüllen. In Fusionsreaktoren treten ähnlich große Neutronenfluenzen auf, wobei hier auch noch die Energie der Neutronen besonders hoch ist. Daher ist die Werkstoffentwicklung für künftige Fusionskraftwerke eine große Herausforderung.
+
+Eine Abschirmung gegen Neutronenstrahlung nutzt meist eine Kombination physikalischer Effekte und ist aus mehreren Materialien in Schichten aufgebaut. Ein Moderator, zum Beispiel Wasser, Paraffin, Graphit oder Kunststoff, bremst schnelle freie Neutronen ab. Thermische Neutronen werden beispielsweise von Cadmium oder Bor absorbiert. Die begleitende Gammastrahlung wird insbesondere durch entsprechend starke Beton-, Stahl- und Bleischichten reduziert.
+
+
+

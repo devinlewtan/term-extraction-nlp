@@ -1,0 +1,38 @@
+﻿Chiralität (Physik)
+
+Chiralität ("Händigkeit", Kunstwort, abgeleitet von griechisch "χειρ~, ch[e]ir~ - hand~"), bezeichnet in der Physik ein abstraktes Konzept im Rahmen der relativistischen Quantenmechanik und der Quantenfeldtheorie.
+
+Die Chiralität eines Teilchens ist entscheidend bei Prozessen der schwachen Wechselwirkung, da W-Bosonen nur an Teilchen mit negativer (linkshändiger) Chiralität und an Antiteilchen mit positiver (rechtshändiger) Chiralität koppeln.
+
+Die Chiralität ist zu unterscheiden von der Helizität. Die Chiralität physikalischer Größen lässt sich im Gegensatz zur Chiralität in der Chemie auch "nicht" durch eine Spiegelung am ebenen Spiegel veranschaulichen. Stattdessen beschreibt sie die Zerlegung von Dirac-Spinoren in orthogonale Zustände, die unter Paritätsoperationen ineinander übergehen.
+
+Die fünfte Gamma-Matrix formula_1 heißt "Chiralitätsoperator"; er ist hermitesch und selbstinvers. Seine Eigenwerte sind daher formula_2:
+
+Aus der Dirac-Gleichung lässt sich im Grenzfall masseloser Fermionen wie Neutrinos die Weyl-Gleichung formula_3 erhalten. Im Rahmen der Weyl-Gleichung bietet es sich an, die Dirac-Matrizen nicht in Dirac-, sondern in Weyl-Darstellung zu notieren, sodass auf der Nichtdiagonalen nur Blockmatrizen auftreten. Durch das Fehlen des Masseterms entkoppeln somit die vier Komponenten der Dirac-Spinoren zu zwei unabhängigen Zweierspinoren:
+
+Der Chiralitätsoperator kommutiert mit dem Weyl-Hamiltonoperator, sodass ein Satz gemeinsamer Energie- und Chiralitäts-Eigenzustände gefunden werden kann. Aufgrund der Diagonalität des Chiralitätsoperators in Weyl-Darstellung
+
+folgt direkt, dass der obere Zweierspinor formula_6 als linkshändiger und der untere Spinor formula_7 als rechtshändiger Anteil gedeutet werden kann. Da Neutrinos nur schwach wechselwirken, sind rechtshändige Neutrinos bzw. linkshändige Antineutrinos hypothetische sterile Teilchen. Im Rahmen des Standardmodells dagegen sind alle Neutrinos negativer Chiralität und Antineutrinos positiver Chiralität.
+
+Da der Dirac-Hamiltonoperator einen Masseterm besitzt, kommutiert er "nicht" mit dem Chiralitätsoperator; es lassen sich daher keine gemeinsamen Eigenzustände konstruieren. Insbesondere folgt daraus auch, dass die Chiralität eines massiven Objektes "keine" Erhaltungsgröße darstellt, da der Chiralitätsoperator auch nicht mit dem Zeitentwicklungsoperator als Exponential des Hamiltonoperators kommutiert.
+
+Aus der Eigenschaft des Chiralitätsoperators bzw. der fünften Gamma-Matrix, ihr Selbstinverses zu sein, folgt jedoch, dass die Operatoren formula_8 und formula_9 einen vollständigen Satz von Projektionsoperatoren bilden. Sie projizieren die Anteile positiver bzw. negativer Chiralität aus dem Dirac-Spinor hinaus:
+
+Auf diese Weise kann jeder Dirac-Spinor in einen Anteil rechts- beziehungsweise linkshändiger Chiralität zerlegt werden.
+
+In der schwachen Wechselwirkung spielt das Konzept der Chiralität eine entscheidende Rolle. Im Rahmen der historischen V-A-Theorie projizieren die geladenen Ströme der schwachen Wechselwirkung nur den linkshändigen Anteil der Fermionen heraus, sodass nur dieser an der Wechselwirkung teilhat.
+
+In der Glashow-Salam-Weinberg-Theorie der elektroschwachen Vereinigung werden die linkshändigen Anteile einer Teilchengeneration zu Dubletts unter dem schwachen Isospin zusammengefasst (z. B. formula_11 bzw. formula_12), während die rechtshändigen Anteile als Singuletts betrachtet werden (formula_13). Dadurch wirkt die kovariante Ableitung unterschiedlich auf die links- bzw. rechtshändigen Komponenten, sodass
+
+Der Helizitätsoperator betrachtet die Projektion des Spins in Bewegungsrichtung eines Teilchens und ist daher im Gegensatz zum Chiralitätsoperator "nicht" lorentzinvariant. Im Gegensatz zum Chiralitätsoperator kommutiert der Helizitätsoperator jedoch mit dem Dirac-Hamiltonoperator, sodass die Helizität eine Erhaltungsgröße darstellt.
+
+Im Falle masseloser Fermionen stimmen Helizität und Chiralität bis auf einen (Spin-)Faktor überein.
+
+Die Chiralität von Teilchen ist aufgrund der Tatsache, dass der Chiralitätsoperator mit den Gamma-Matrizen antikommutiert, "nicht" invariant unter Paritätsoperationen formula_14 (Paritätsverletzung):
+
+Ebenso ändert die Ladungskonjugation (Charge conjugation) formula_16 die Chiralität, da der Chiralitätsoperator zudem gleich seines komplex Konjugierten ist:
+
+Da somit Paritätsoperation und Ladungskonjugation gleichermaßen die Chiralität umkehren, bleibt die Chiralität unter einer Nacheinanderausführung beider Operationen erhalten. Diesen Fakt bezeichnet man als CP-Invarianz.
+
+
+

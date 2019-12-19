@@ -1,0 +1,24 @@
+﻿Inklination (Magnetismus)
+
+Die Inklination (von lateinisch "inclinare" = (hin)neigen, sich neigen) beschreibt zusammen mit der Deklination die Richtung der magnetischen Feldlinien des Erdmagnetfeldes in Bezug auf das lokale Koordinatensystem. Sie ist der Neigungswinkel zur Horizontalen, welche durch die lokale Lotrichtung oder durch ein Referenzellipsoid gegeben ist. Das Vorzeichen der Inklination ist positiv, wo die (gerichteten) Feldlinien nach unten geneigt sind, zurzeit im Norden, negative Inklination wird auch als „südlich“ bezeichnet.
+
+Die Inklination ist nahe 0° in Äquatornähe, beträgt im deutschsprachigen Raum etwa 62° bis 70° und an den geomagnetischen Polen exakt ±90°. Wie die Deklination variiert auch die Inklination nicht nur großräumig. Vor allem in der Nähe von Anomalien gibt es lokale Abweichungen von globalen Modellen bis über 50°, sonst in der Größenordnung von 2°, über den Ozeanen weniger.
+
+Viele Zugvögel nehmen die Feldrichtung wahr und werten auch deren Inklinationskomponente aus, siehe Magnetsinn.
+
+Eine Magnetnadel zeigt die Inklination an, wenn ihre "horizontal" gelagerte Achse quer zur magnetischen Nordrichtung orientiert ist. Zur genaueren Messung diente früher ein Erdinduktor. Dieser enthielt eine drehbar gelagerte Spule, die so orientiert wurde, dass ihre Achse parallel zum Erdmagnetfeld steht, erkennbar am Verschwinden der induzierten Wechselspannung. Moderne Magnetometer messen die Vektorkomponenten des Feldes mit hoher auch zeitlicher Auflösung. Kurzfristige Änderungen beruhen auf Strömen in der Magnetosphäre, langfristige auf der Dynamik des Geodynamos. Im deutschsprachigen Raum bleibt sie gegenwärtig fast konstant. Die stärkste Änderung findet sich mit −20 Bogenminuten pro Jahr im östlichen Brasilien.
+
+Da für die Bestimmung der Nordrichtung mit einem Magnetkompass nur die horizontale Komponente der Magnetfeldlinien von Bedeutung ist und die Nadel außerdem in horizontaler Lage bleiben soll, um eine flache Bauweise der Kompassdose zu ermöglichen, muss die Inklination bei der Konstruktion eines solchen Kompasses berücksichtigt oder individuell kompensiert werden. Geschieht das nicht oder nicht ausreichend, zeigt die Kompassnadel nach unten (auf der Nordhalbkugel) oder nach oben (auf der Südhalbkugel). Bei zu starker Neigung kann sich die Magnetnadel nicht mehr frei drehen und verklemmt, was eine falsche Anzeige zur Folge haben kann. Bei Kugelkompassen kann dies zu einer schräg in der Kugel liegenden Rose führen, wobei diese jedoch immer noch die korrekte Richtung anzeigt.
+
+Zur Vermeidung dieses Effektes werden üblicherweise die beiden Nadelhälften durch unterschiedliches Gewicht ausbalanciert. Solche Kompasse können nur in einem begrenzten Inklinationsbereich benutzt werden. Manche Hersteller bieten für ihre Kompassmodelle eine Auswahl unterschiedlicher Dosen an, die für jeweils eine bestimmte Inklinationszone der Erde ausgelegt sind. Es werden bis zu fünf solcher Zonen unterschieden.
+
+Eine andere konstruktive Möglichkeit ist die mechanische Entkoppelung von kippbarem Magnetelement und horizontal gehaltenem Richtungszeiger. Kompasse mit solchen „globalen Nadeln“ sind in allen Inklinationszonen verwendbar.
+
+Die Inklination wurde erstmals von Georg Hartmann beobachtet. Er beschrieb in einem Brief vom 4. März 1544 an Herzog Albrecht von Preußen nicht nur eine etwa 9° Ost betragende Missweisung, sondern auch die Auswirkung der Inklination:
+
+Die erste Inklinationsbussole konstruierte etwa 1580 Robert Norman.
+
+Johan Carl Wilcke veröffentlichte 1768 in Stockholm die erste weltumspannende Inklinationskarte.
+
+
+

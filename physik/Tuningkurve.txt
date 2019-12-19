@@ -1,0 +1,7 @@
+﻿Tuningkurve
+
+In der Neurowissenschaft ist die Tuningkurve (englisch "tuning curve") eine mathematische Beschreibung zur Charakterisierung des Antwortverhaltens einer sensorischen Nervenzelle auf einen bestimmten externen Reiz. In Abhängigkeit eines bestimmten Reizparameters (Stimulus) antwortet die Nervenzelle mit einer durchschnittlichen Feuerrate (Response).
+
+Sensorische Nervenzellen haben typischerweise die Eigenschaft, auf verschiedene Reizarten zu reagieren, indem sie Aktionspotentiale (auch "Spikes" genannt) erzeugen. Die Tuningkurve formula_1 beschreibt die durchschnittliche Anzahl an Aktionspotentialen (also die Feuerrate formula_2) einer Nervenzelle als Funktion genau eines bestimmten Reizparameters (formula_3). Aus dieser Definition ergibt sich, dass eine Nervenzelle in der Regel mehrere Tuningkurven besitzen kann, und dass eine Tuningkurve allein nur unzureichend dafür geeignet ist, das Verhalten einer Nervenzelle zu charakterisieren.
+
+

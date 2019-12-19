@@ -1,0 +1,29 @@
+﻿Wiegand-Sensor
+
+Wiegand-Sensoren oder Impulsdrahtsensoren enthalten als wesentliches Bauelement "Wiegand-Drähte", die durch parallele weich- und hartmagnetische Bereiche eine Hysteresekurve mit (meist zwei) ausgeprägten Sprungstellen aufweisen, eine Art makroskopischer Barkhausen-Effekt, gemeinhin bekannt als Wiegand-Effekt. Die plötzliche Änderung der Magnetisierung verursacht in einer nahen Spule einen Spannungsimpuls, dessen Größe und Form nicht davon abhängt, wie schnell das äußere Magnetfeld sich ändert. Die Bezeichnung geht auf John Richard Wiegand zurück, der sich 1972 mit metallischen Legierungen beschäftigte und in der Folge die genannten Drähte patentierte.
+
+Wiegand-Sensoren werden vorwiegend zur Bewegungserfassung mittels (Dreh-)Impulsgebern und zur Kodierung von Identmitteln von Zutrittskontrollsystemen eingesetzt.
+
+Wichtigster Teil eines Wiegand-Sensors ist der Wiegand-Draht. Er besteht aus einer speziellen Legierung mit einem hartmagnetischen Metall als Mantel und einem weichmagnetischen Metall als Kern. Der typische Durchmesser solcher Drähte beträgt 0,25 mm.
+
+In diesen beiden Bereichen kann nun eine unterschiedliche Magnetisierbarkeit (Mantel und Kernbereich) beobachtet werden. Betrachtet man die Möglichkeiten der Magnetisierung, gibt es insgesamt drei Fälle: einer, in denen Kern und Außenhaut gleich magnetisiert ist, und zwei mit gegenläufiger Magnetisierung.
+
+Die beiden Bereiche reagieren in Gegenwart eines Magnetfeldes unterschiedlich. So ändert der hartmagnetische Mantel seine magnetische Polarisierung erst in Gegenwart stärkerer Magnetfelder als der weichmagnetische Kern. Nun sei der gesamte Draht in Längsrichtung von einem externen Magnetfeld umgeben, wobei Mantel und Kern gleich polarisiert sind. Die Feldlinien des weichmagnetischen Metalls richten sich nach denen des äußeren Felds, das zudem vom Magnetfeld des hartmagnetischen Mantels überlagert wird.
+
+Überschreitet das äußere Magnetfeld zusammen mit dem Magnetfeld des Mantel die Koerzitivfeldstärke des Kerns, kommt es zur sprunghaften Ummagnetisierung des gesamten Kerns. Der Ummagnetisierungssprung ist mit einer Änderung des magnetischen Flusses verbunden und kann mit Hilfe einer Spule, die den Wiegand-Draht umgibt, als Spannungsimpuls nachgewiesen werden. Nun muss der Wiegand-Draht soweit magnetisiert werden, dass wieder Kern und Mantel in die gleiche Richtung polarisiert sind. Hierzu ist ein starkes Magnetfeld notwendig.
+
+Werden beide Pole eines Magneten am Wiegand-Sensor vorbeigeführt, so entstehen vier Signale, da zuerst der Kern und dann die Außenhaut des Drahtes ummagnetisiert wird. Ebenso ist es möglich, den Wiegand-Sensor auch durch ein fremderzeugtes Feld jeweils wieder zurückzusetzen.
+
+Auf Grund der Formanisotropie hat der Werkstoff nur einen weissschen Bezirk und es existieren somit fast rechteckige Hysteresekurven.
+
+Durch Kaltumformung und anschließendes Tempern wird ein dünner Draht erzeugt (Durchmesser ca. 300 µm). Der Kern des Drahtes ist durch das besondere Herstellungsverfahren weichmagnetisch, während die Außenhaut hartmagnetisch ist. Die Herstellung bedingt auch, dass die magnetischen Momente in der Achsrichtung orientiert sind.
+
+Verwendung findet der Wiegand-Sensor unter anderem in Zugangskarten, Drehgebern sowie Weg- und Näherungssensoren.
+
+In eine Zugangskarte (Türkarte) werden eine Reihe von kurzen Wiegand-Drähten eingebettet. Ein Lesegerät erkennt beim Durchziehen die Impulse der Wiegand-Drähte und vergleicht sie mit dem vorher gespeicherten Referenzmuster. Weitere Sicherheitsmerkmale wie ein Magnetstreifen können zusätzlich aufgebracht und abgefragt werden. Durch die komplizierte Herstellung des Wiegand-Drahtes gelten die Wiegand-Karten als relativ fälschungssicher.
+
+Eine Reihe von Wiegand-Drähten wird entlang des äußeren Umfangs eines Polrades eingebettet. Ein extern angebrachter Lesekopf erfasst die Pulse der Wiegand-Drähte.
+
+Hierbei werden Wiegand-Sensoren genutzt, um bei magnetischen Multiturn-Absolutwertgebern die Erfassung der Umdrehungen im spannungslosen Zustand zu realisieren. Wird die Welle des Drehgebers gedreht, erzeugt ein darauf angebrachter Magnet ein veränderliches Magnetfeld am ortsfest angebrachten Wiegand-Sensor. Die dadurch erzeugten Spannungspulse werden dazu verwendet, die Umdrehungen in einem nichtflüchtigen Speicher zu speichern. Dieser Mechanismus arbeitet auch bei sehr langsamen Drehzahlen, er löst das sonst zur Speicherung der Umdrehungen verwendete Getriebe / Batterie ab.
+
+

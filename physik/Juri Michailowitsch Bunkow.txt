@@ -1,0 +1,15 @@
+﻿Juri Michailowitsch Bunkow
+
+Juri Michailowitsch Bunkow (, englische Transkription "Yuri Bunkov"; * 29. August 1950 in Stawropol) ist ein russischer experimenteller Festkörperphysiker, der für die Entdeckung von Spin-Suprafluidität bekannt ist.
+
+Bunkow stammte aus einer Geologen-Familie, besuchte eine Spezialschule für Physik und Mathematik in Moskau (Schule Nr. 2) und studierte am Moskauer Institut für Physik und Technologie. 1974 wurde er promoviert und 1985 habilitierte er sich (russischer Doktortitel, mit einer Dissertation über NMR-Studien an suprafluidem Helium-3). 1974 bis 1995 war er am Kapiza-Institut, ab 1986 als leitender Wissenschaftler. Er war dort in der Gruppe von Wiktor-Andrei Stanislawowitsch Borowik-Romanow. Dort entdeckte er mit Wladimir Dmitrijew und Juri Mucharski (die als Studenten dort arbeiteten) die Spin-Suprafluidität. Sie äußerte sich bei NMR-Untersuchungen an Helium-3 B als Gebiet kohärenter Larmorpräzession (HPD, Homogeneously Precessing Domains), wobei Inhomogenitäten in der Präzession durch Superströme im Spin (Magnetisierung) ähnlich denen bei Supraleitung (Ladung) und Supraflüssigkeit oder Bose-Einstein-Kondensaten (Masse) ausgeglichen wurden. Sie ist auch ein Bose-Einstein-Kondensat (BEC) von Magnonen. Eine theoretische Erklärung gab in den 1980er Jahren der Theoretiker Igor Fomin. Zuvor hatte er die erste Magnetische Kühlung mit adiabatischer Kernentmagnetisierung in der Sowjetunion installiert. 1989 bis 1995 nahm er an Experimenten an der University of Lancaster teil. Er forscht seit 1995 für das CNRS am Institut Néel in Grenoble, wo er Forschungsdirektor ist. Zuvor war er ab 1992 Gastprofessor in Grenoble. Er ist auch Professor an der Universität Kasan.
+
+In der He 3 B Phase (die eine komplexe Phasenstruktur aufweist) entdeckte er auch experimentell Analoga zu kosmologischen und quantenfeldtheoretischen Phänomenen, so von kosmologischen Strings (als Wirbel im Spin-Superstrom) und Majorana-Quasiteilchen. Schon in den 1980er Jahren wurden Goldstone-Moden nachgewiesen (Phononen im HPD analog dem zweiten Schall bei Supraflüssigkeiten). In den 2000er Jahren entdeckte er Q-Bälle, nichttopologische Solitonen, die auch ursprünglich in der QFT eingeführt wurden.
+
+Er entdeckte mit japanischen Kollegen 2008 auch kohärente Präzession in der Helium-3-A Phase die in von Außen deformierte Aerogele eingelagert war.
+
+2008 erhielt er mit Wladimir Dmitrijew und Igor A. Fomin den Fritz London Memorial Prize. Außer mit dem Theoretiker Fomin arbeitete er auch mit dem Theoretiker Grigori Jefimowitsch Wolowik (Volovik) zusammen. Seit 2010 ist er ordentliches Mitglied der Academia Europaea.
+
+
+
+

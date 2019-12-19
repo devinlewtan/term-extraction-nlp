@@ -1,0 +1,18 @@
+﻿Akustischer Kurzschluss
+
+Akustischer Kurzschluss ist die Verminderung der Schallabstrahlung von schwingenden Flächen (Lautsprechermembran) durch direkten Druckausgleich zwischen gegenphasig schwingenden Bereichen. Bei Verminderung der Schallaufnahme durch eine schwingende Membran (Mikrofon) durch diesen Effekt, spricht man ebenfalls von akustischem Kurzschluss.
+
+Eine erste Art des Kurzschlusses ist die gegenseitige teilweise Auslöschung der von beiden Membranseiten abgestrahlten Schallwellen. Beim Betrieb werden aufgrund der Schwingungen der Lautsprechermembran Schallwellen vor und hinter der Membran erzeugt. Die entstehenden Druckschwankungen sind dabei vor und hinter der Membran fast genau gegenphasig (also verpolt), was deutlich stärker für tiefe Frequenzen zutrifft. 
+
+Anschaulich gesprochen: Die gleiche Luftmenge, die an der Vorderseite weggedrückt wird, saugt die Rückseite ein. Diese Luftmenge muss eigentlich nur „um die Ecke laufen“.
+
+Wenn ein Lautsprecher ohne große Schalltrennwand oder ohne Gehäuse betrieben wird, können die von beiden Membranseiten abgestrahlten Schallwellen sich so überlagern, dass sich Druck und Unterdruck gegenseitig fast auslöschen. Dadurch fällt der Schalldruck stark ab. Dieser akustische Kurzschluss ist umso ausgeprägter, je kleiner die Dipol-Membran im Vergleich zur Wellenlänge ist: also bei tiefen Tönen.
+Die einfachste Abhilfe stellt eine "Schallwand" dar, die den Schallwellen einen Umweg aufzwingt, so dass kein direkter Kurzschluss mehr stattfinden kann. Der Durchmesser der Schallwand muss dazu der Größenordnung der tiefsten wiederzugebenden Wellenlänge des Schalls entsprechen.
+
+Eine weitere Art des akustischen Kurzschlusses kann nicht durch eine ausreichend ausgedehnte Schallwand verhindert werden: Es handelt sich um den Kurzschluss zwischen benachbarten Flächenstücken "auf der gleichen Seite" der Membran, die – bei ausreichend hohen Frequenzen – gegenphasig schwingen. Es dauert einige Mikrosekunden, bis sich der Antriebsimpuls der Tauchspule bis zum Rand ausgebreitet hat. Daher kann es vorkommen, dass sich der Außenbereich der Membran noch nach hinten bewegt, während der Zentralbereich bereits wieder nach vorn schiebt. Auf diese Weise bilden sich Partialschwingungen, die bei manchen Frequenzen besonders ausgeprägt sind. In diesem Fall muss die Luft nicht „um die Ecke laufen“, sondern nur einige Zentimeter weiter. Dann wird kaum Schall abgestrahlt und man hat bei dieser Frequenz einen Einbruch des Wirkungsgrades.
+
+Im Prinzip kann der akustische Kurzschluss nicht nur bei Lautsprechern ohne Trennwand auftreten, sondern auch bei Druckgradientenmikrofonen. Hier ist er für die schwache Aufnahme der tiefen Töne verantwortlich. Eine lange Wellenlänge, also ein tiefer Ton, trifft beinahe mit gleichem Druck auf die Vorder- und auf die Rückseite der Mikrofonmembran, die sich deshalb kaum bewegt und deshalb tiefe Töne nur schwach aufzeichnet.
+
+
+
+

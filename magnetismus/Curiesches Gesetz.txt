@@ -1,0 +1,66 @@
+﻿Curiesches Gesetz
+
+Das curiesche Gesetz (auch Curie-Gesetz genannt) beschreibt die Abhängigkeit der magnetischen Suszeptibilität formula_1 einer Substanz von der absoluten Temperatur formula_2, sofern idealer Spin-Paramagnetismus vorliegt. Es wurde von Pierre Curie im Jahre 1896 erstmals in dieser Form aufgestellt. 1907 entwickelte der französische Physiker Pierre-Ernest Weiss Curies Gesetz zum Curie-Weiss-Gesetz weiter, indem er kooperative Effekte in die Gleichung mit einbezog.
+
+Man erhält das Gesetz, wenn man ein ideales System aus formula_3 Teilchen mit Spin ½ betrachtet (formula_3: Teilchenzahl). Ideal bedeutet, dass 
+
+Als Modell nimmt man die Ausrichtung eines Spin-½-Teilchens in einem äußeren Magnetfeld. Das Elektron hat ein magnetisches Moment und verhält sich als magnetischer Dipol. Legt man ein äußeres Magnetfeld an, so übt dieses eine richtende Kraft auf den Spin des Elektrons aus. Es ist eine Ausrichtung des Spins in Richtung des Magnetfeldes möglich, die energetisch günstig ist, und eine zum Magnetfeld entgegengesetzte Ausrichtung, die energetisch ungünstig ist. Zunächst würde man erwarten, dass sich in einer Substanz alle Spins parallel zum äußeren Magnetfeld ausrichten. Tatsächlich besteht jedoch eine Temperaturabhängigkeit, die zurückzuführen ist auf:
+Die magnetische Suszeptibilität formula_1 ist eine physikalische Größe, die davon abhängt, wie viele Spins im Magnetfeld in Feldrichtung ausgerichtet und wie viele entgegengerichtet sind. Zur Berechnung der Suszeptibilität müssen daher der richtende Effekt des äußeren Magnetfelds und die entgegenwirkenden thermischen Effekte berücksichtigt werden. Die quantenmechanisch korrekte Funktion für diese Aufgabe ist die Brillouin-Funktion. Das curiesches Gesetz ist ein Spezialfall dieser Funktion für schwache Magnetfelder und nicht zu tiefe Temperaturen:
+
+mit der Curie-Konstanten formula_7
+
+Darin ist
+
+Oft werden magnetische Suszeptibilität und Curie-Konstante statt auf das Volumen formula_13 auf die Stoffmenge formula_14 bezogen:
+
+mit formula_16
+
+wobei formula_17 die Avogadro-Konstante bezeichnet.
+
+Das magnetische Moment formula_18 eines Elektrons hängt direkt ab von seinem Spin formula_19 und damit von der Spinquantenzahl formula_20
+
+Hierin ist
+
+Im äußeren Magnetfeld formula_24 (Betrag der magnetischen Flussdichte) gibt es für ein Teilchen mit formula_25 nur zwei Ausrichtungsmöglichkeiten (vgl. Zeeman-Effekt):
+Die jeweils zugehörige Energie ist gegeben durch:
+
+Die Energiedifferenz zwischen den beiden Zuständen beträgt:
+
+Im kanonischen Ensemble, d. h. bei konstanter Temperatur und konstanter Teilchenzahl, ergibt sich aus der Boltzmann-Statistik die Besetzungswahrscheinlichkeit formula_30 des jeweiligen Zustandes:
+
+mit der Energienormierung formula_32, d. h. dem Kehrwert der thermischen Energie. formula_33 bezeichnet die Boltzmannkonstante und formula_2 die Temperatur.
+
+Aus den Besetzungswahrscheinlichkeiten ergibt sich die Formel für die Magnetisierung formula_35 bei reinem Spin-1/2-Paramagnetismus:
+
+Dabei bezeichnet formula_37 die Komponente des elektronischen (spin-)magnetischen Moments in Feldrichtung:
+
+Die magnetische Suszeptibilität hängt mit der Magnetisierung wie folgt zusammen:
+
+Das curiesche Gesetz erhält man als Näherung unter der Annahme, dass der magnetische Einfluss klein gegenüber dem Temperatureinfluss ist, also bei relativ schwachen Magnetfeldern und relativ hohen Temperaturen:
+
+Hierin ist formula_42 die stoffspezifische Curie-Konstante.
+
+Für Mehrelektronen-Systeme kann das Curie-Gesetz nur begrenzt angewendet werden, da interelektronische Wechselwirkung und Spin-Bahn-Kopplung zu Komplikationen führen. Für den Fall einer reinen LS-Kopplung, bei der der elektronische Grundzustand thermisch isoliert ist, kann die Curie-Konstante wie folgt formuliert werden:
+
+mit
+
+Die Quantenzahlen formula_48 und formula_47 gehören zum Grundzustand der LS-Kopplung.
+
+Die Quantenzahlen formula_47, formula_48 und formula_44 können mit Hilfe der Hundschen Regeln bestimmt werden.
+
+Bei Mehrelektronen-Systemen, die zusätzlich zur LS-Kopplung und thermischen Isolierung des Grundzustandes auch eine Halbbesetzung einer Unterschale aufweisen, spricht man von Spin-Only-Systemen. Der Name stammt daher, dass bei Halbbesetzung die Gesamtbahndrehimpuls-Quantenzahl formula_54 ist. Dadurch wird das magnetische Verhalten des Atoms allein von seinem Gesamt-Spin bestimmt.
+
+Der Landé-Faktor lautet dann bei formula_55:
+
+Die Curie-Konstante ergibt sich zu:
+
+Das ideale Curie-paramagnetische Verhalten tritt relativ selten auf, da zahlreiche Faktoren (Interelektronische Wechselwirkung, Spin-Bahn-Kopplung, Anisotropie, Ligandenfeld-Effekte, kollektive Effekte) das magnetische Verhalten eines Stoffes stark beeinflussen. Bei den Hauptgruppenelementen zeigen Radikale spin-paramagnetisches Verhalten, z. B. das Sauerstoff-Molekül mit zwei ungepaarten Elektronen. Bei den Nebengruppenelementen findet man Curie-Paramagnetismus nur bei Atomen mit LS-Kopplung und thermisch isoliertem Grundzustand.
+
+Spin-Only-Paramagnetismus findet man bei einigen Verbindungen mit schwachem Ligandenfeld von Mnformula_58 oder Feformula_59 (beide: 3dformula_60-Elektronenkonfiguration) oder Gdformula_59 (4fformula_62-Elektronenkonfiguration). Der Ligandenfeld-Effekt muss schwach genug sein, dass eine high-spin-Konfiguration vorliegt.
+
+Bei Auftreten kollektiver magnetischer Effekte, also bei Ferromagnetismus, Antiferromagnetismus oder Ferrimagnetismus, gilt statt des curieschen Gesetzes das Curie-Weiss-Gesetz:
+
+Hierin ist
+
+
+

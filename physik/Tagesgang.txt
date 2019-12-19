@@ -1,0 +1,7 @@
+﻿Tagesgang
+
+Der Tagesgang stellt die Entwicklung eines Parameters im Verlauf eines Tages dar. 
+
+Bei den Parametern kann es sich z. B. um Temperaturen, Niederschläge, Windstärken, Verkehrsstärken, aber auch Produktionsmengen etc. handeln. Es kann nach verschiedenen den Tag beschreibenden Zeiträumen ausgewertet werden, z. B. stundenweise oder beschränkt auf die Morgen- oder Abendstunden. Der Tagesgang wird in vielen Bereichen der Wirtschaft und Wissenschaft verwendet, um Entwicklungen über den Tag, etwa als Ganglinie, darzustellen. Einen Überblick über längere Zeiträume bietet der Jahresgang.
+
+

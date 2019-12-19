@@ -1,0 +1,29 @@
+﻿Energiedosis
+
+Die Energiedosis formula_1 ist eine physikalische Größe und gibt die mittlere, von ionisierender Strahlung an einen spezifischen Absorber mit der Dichte formula_2, abgegebene Energie formula_3 bezogen auf die Masse formula_4 des bestrahlten Volumenelements formula_5 an.
+
+formula_6
+
+Das Absorbermaterial muss daher bei Bestimmung und Angabe von Energiedosen beachtet werden.
+Dies hat den Grund darin, dass die Ionisierungsenergien für unterschiedliche Atome beziehungsweise Moleküle variieren.
+
+Die Energiedosis wird aus praktischen Gründen nicht direkt gemessen, sondern über die Größen Ionendosis oder Kerma bestimmt.
+
+Aus der gemessenen Ionendosis kann man leicht die entsprechende Energiedosis in Luft ableiten. Da zur Bildung eines Ionenpaares in Luft im Mittel die Energie 34 eV nötig ist, muss in Luft für die Erzeugung der Ladungsmenge 1 Coulomb in Form von freien Ionen die Energie (33,97 ± 0,05) J aufgebracht werden. Damit entspricht einer Ionendosis von formula_7 ungefähr eine Energiedosis von formula_8. Es gilt die Beziehung:
+
+mit "f" := Korrekturfaktor, zur Bestimmung von Energiedosen in unterschiedlichen Absorptionsmaterialien.
+
+Die SI-Einheit der Energiedosis ist das Gray. 
+
+formula_10
+
+Veraltet ist die Einheit Rad ("rd").
+
+formula_11
+
+Die SI-Einheit ist Watt/kg.
+
+Der physikalisch korrekte Ausdruck "Leistungsdosis" ist nicht gebräuchlich.
+
+
+

@@ -1,0 +1,43 @@
+﻿SQUID
+
+SQUID ist die Abkürzung für (dt. "supraleitende Quanteninterferenzeinheit"). Ein SQUID ist ein Sensor zur sehr präzisen Messung extrem geringer Magnetfeldänderungen. Basierend auf den theoretischen Arbeiten von Brian D. Josephson, wurde die experimentelle Realisierung 1964 erfolgreich in den Ford Research Labs durch Robert Jaklevic, John J. Lambe, James Mercereau und Arnold Silver umgesetzt.
+
+Ein SQUID besteht aus einem supraleitenden Ring, der an einer Stelle (rf-SQUID, gelegentlich auch ac-SQUID genannt) oder zwei Stellen (dc-SQUID) durch ein normalleitendes oder elektrisch isolierendes Material unterbrochen wird. Diese Unterbrechung muss so dünn sein, dass die supraleitenden Elektronenpaare (die Cooper-Paare) durch diese Spalte hindurchtunneln können. Derartige Tunnelkontakte nennt man Josephson-Kontakte.
+
+Die Funktionsweise eines SQUID basiert auf dem Effekt der Flussquantisierung in supraleitenden Ringen und dem Josephson-Effekt.
+Aus quantenmechanischen Gründen kann durch einen supraleitenden Ring nur ein magnetischer Fluss fließen, dessen Größe ein ganzzahliges Vielfaches des elementaren magnetischen Flussquantums Φ = 2,07×10 Vs beträgt. Ändert sich das äußere Magnetfeld, so wird im Ring ein elektrischer Kreisstrom angeregt, der genau groß genug ist, um den magnetischen Fluss im supraleitenden Ring auf das nächstgelegene Vielfache des Flussquantums zu erhöhen oder zu verringern. Diese magnetfeldabhängige Änderung des Stromes lässt sich in einem einfachen supraleitenden Ring schwer detektieren, deshalb macht man sich den Josephson-Effekt zunutze. In den supraleitenden Ring werden (beim dc-SQUID) zwei Josephson-Kontakte eingebracht, wodurch der Ring in zwei Teile geteilt wird. Nun werden die beiden Ringteile kontaktiert und ein Gleichstrom durch das SQUID geleitet. Dadurch fällt am SQUID eine messbare elektrische Spannung ab. Diese ist abhängig vom außen angelegten Gleichstrom, aber auch von den Kompensationströmen, die aufgrund der Flussquantisierung im supraleitenden Ring fließen.
+
+Ändert sich nun das äußere magnetische Feld, so ändert sich auch der Strom im Ring und damit die Spannung am dc-SQUID. Die Fluss-Spannungs-Kennlinie des SQUID ist periodisch (näherungsweise Sinusförmig) und die Periode ist genau ein magnetisches Flussquantum.
+
+Die Funktionsweise eines rf-SQUID basiert auf denselben Effekten, nur dass als Vorstrom kein Gleichstrom, sondern ein Wechselstrom im Frequenzbereich von einigen 10 Megahertz benutzt wird. Dieser wird nicht direkt an das SQUID angelegt, sondern induktiv über eine Spule eingekoppelt. Über diese Spule wird es auch ausgelesen.
+
+Die meisten SQUIDs werden heute in Dünnfilmtechnik (Sputtern oder Laser-Ablation) hergestellt.
+
+Bei der Herstellung von SQUIDs kommen unterschiedliche Materialien zur Anwendung, die bei unterschiedlichen Temperaturen supraleitend werden.
+Bei konventionellen SQUIDs kommen klassische Supraleiter, die aus Metallen oder Metallverbindungen mit Sprungtemperaturen bis 40 K (−233,15 °C), zum Einsatz. Ein sehr verbreitetes Material für konventionelle SQUID ist Niob, welches eine Sprungtemperatur von 9,5 K (−263,65 °C) aufweist und für dessen Kühlung auf Betriebstemperatur üblicherweise flüssiges Helium mit einer Temperatur von ca. 4 K (−269,15 °C) eingesetzt wird.
+
+Eine weitere Gruppe sind SQUIDs, die aus Hochtemperatursupraleitern gefertigt werden: sie bestehen aus keramischen Metalloxiden, welche Sprungtemperaturen bis ca. 140 K (−133,15 °C) aufweisen. Durch den Einsatz von Hochtemperatursupraleitern kann auf ein aufwändiges und kostenintensives Kühlen mittels flüssigem Helium verzichtet werden, vielmehr kommt dabei der leichter zu gewinnende flüssige Stickstoff, 77 K (−196,15 °C), zum Einsatz.
+
+Obwohl sich durch den Einsatz von Hochtemperatursupraleitern Betriebskosten einsparen lassen, ist zu beachten, dass durch das kristalline Material ein aufwändiger, fehleranfälliger und entsprechend teurer Produktionsprozess gegenübersteht.
+
+Aus Hochtemperatursupraleitern hergestellte SQUIDs weisen auf Grund innerer Effekte ein deutlich höheres 1/f-Rauschen im Vergleich zu konventionellen SQUIDs auf. In den letzten Jahren konnten jedoch durch gezielte Änderungen im Fertigungsprozess erhebliche Fortschritte auf diesem Gebiet erzielt werden.
+
+Aufgrund der Periodizität der Fluss-Spannungs-Kennlinie lassen sich mit einem SQUID keine absoluten Werte magnetischer Feldstärken messen, sondern nur Feldstärke"änderungen". Möchte man Flussänderungen messen, die größer als ein Flussquantum sind, muss dem SQUID eine Elektronik nachgeschaltet werden, die, über eine Induktionsspule, die jeweilige Flussänderung im SQUID-Ring kompensiert und es so auf einem festen Arbeitspunkt betreibt. Eine derartige Elektronik nennt man "Flussregelschleife".
+
+Durch allgegenwärtige magnetische Hintergrundfelder (zum Beispiel das Erdmagnetfeld, aber auch Störungen durch Stromleitungen und elektrische Geräte in der Umgebung) ist ein SQUID an sich ständig starken Störungen ausgesetzt. Um diese einigermaßen zu unterdrücken, kann man die Messung entweder in einer magnetisch abgeschirmten Umgebung vornehmen oder zum Beispiel zwei SQUIDs eng nebeneinander und entgegengesetzt koppeln (SQUID-Gradiometer), um nur Felder wahrzunehmen, die ihren Ursprung in unmittelbarer Nähe des SQUIDs haben.
+
+SQUIDs erlauben die hochgenaue Messung des magnetischen Flusses. SQUID-Suszeptometer werden eingesetzt, um die magnetischen Eigenschaften von Materie zu messen.
+
+In der Medizin werden SQUIDs benutzt, um die Magnetfelder zu messen, die von Strömen im menschlichen Körper, z. B. Gehirnströmen (Magnetoenzephalographie [MEG]) oder Herzströmen (Magnetokardiographie [MKG]) herrühren. Außerdem werden sie zur Detektion von Kernspinresonanzen in schwachen Magnetfeldern benutzt, wodurch sich ein weiteres Anwendungsgebiet in der Medizin erschließt, nämlich das Erstellen von Magnetresonanztomographien.
+
+In der Geologie und der Archäologie werden SQUIDs eingesetzt, um sehr feine Änderungen des Erdmagnetfeldes an der Oberfläche zu ermitteln. Dadurch kann man unterirdische Strukturen (geologische Schichten, Erzvorkommen oder Strukturen von Gebäudeüberresten) entdecken, die mit anderen Methoden nicht feststellbar sind. SQUIDs werden auch zur zerstörungsfreien Materialprüfung eingesetzt. Hierbei sind insbesondere Raster-SQUID-Mikroskope und SQUID-detektierte Wirbelstromprüfverfahren zu nennen. Daneben werden SQUIDs als hochempfindliche Messverstärker eingesetzt (SQUID-Verstärker).
+
+Derzeit verwenden viele Kryo-Detektoren SQUIDs als Basis ihrer Ausleseelektronik. Ein Beispiel dafür ist das CRESST-Experiment zur Suche nach WIMPs (einem möglichen Konstituenten der Dunklen Materie). 
+
+In neuerer Zeit gibt es Forschungsprojekte mit dem Ziel, rf-SQUIDS als Qubits für Quantencomputer einzusetzen.
+
+Das elektrostatische Analogon zum SQUID ist der Einzelelektronentransistor (Single-Electron-Transistor [SET]).
+
+
+
+

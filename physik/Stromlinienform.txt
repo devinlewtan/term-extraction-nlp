@@ -1,0 +1,20 @@
+﻿Stromlinienform
+
+Stromlinienform heißt die Form eines Körpers, die sich durch einen geringen Strömungswiderstand gegenüber dem umströmenden Medium, zumeist Luft oder Wasser, auszeichnet. Ein quantitatives Maß für die Stromlinienförmigkeit ist der Strömungswiderstandskoeffizient formula_1; dieser ist in erster Näherung nur von der Form, nicht der Größe des umströmten Körpers abhängig. Je niedriger sein formula_1-Wert, umso stromlinienförmiger der Körper. Qualitativ ablesbar ist Stromlinienform an einem glatten, weitestgehend wirbelfreien Verlauf der Stromlinien, die in numerischen Simulationen oder Windkanalexperimenten sichtbar gemacht werden können.
+
+Fahr- und Flugzeuge, Schiffe und U-Boote werden meist nach den Regeln der Fluiddynamik entworfen, um möglichst stromlinienförmig zu sein.
+
+Auch die Natur zeigt bei einigen Tieren eine besondere Stromlinienform. So sind speziell Fische, Wale und Pinguine besonders stromlinienförmig. Vögel haben eine besonders gute Anpassung an die Regeln der Aerodynamik.
+
+Ziel ist es sowohl in der Technik wie in der Natur, sich mit möglichst wenig Energieaufwand durch ein Medium zu bewegen.
+
+Der Begriff Stromlinienform wurde Anfang des 20. Jahrhunderts im Zuge der immer höheren Geschwindigkeiten motorisierter Luft- und Landfahrzeuge und der aufkommenden Problematik des Luftwiderstandes geprägt. Nicht zuletzt Luftschiffe, allen voran Zeppeline, wurden zu einem Synonym für die Stromlinienform und des technischen Fortschritts, obwohl der Zeppelin-Konkurrent Schütte-Lanz diese Form bei Luftschiffen eingeführt hatte. Viele wissenschaftliche aerodynamische Grundlagen stammen aus dieser Zeit.
+
+Berühmt sind z. B. die Stromlinienformen älterer Autos, die sich durch besonders geschwungene Linien darstellten. Da sich die Stromlinienform aber meist auf Andeutungen beschränkte und kaum im Windkanal geforscht wurde, war der tatsächliche Widerstandsbeiwert sehr schlecht. Strömungsgünstige Fahrzeuge wie der Tropfenwagen von Edmund Rumpler vom Herbst 1921 mit einem formula_1 von nur 0,28 und der Chrysler Airflow von 1934 scheiterten am Markt. In Europa in den dreißiger Jahren am erfolgreichsten waren der Tatra 77 und seine Nachfolger. Forschungen von Paul Jaray und Wunibald Kamm wurden wenig beachtet und später vom Zweiten Weltkrieg unterbrochen.
+
+Erwähnenswert sind auch die Stromlinienlokomotiven. Beispielhaft dafür ist z. B. die deutsche DR-Baureihe 03.10 oder die DR-Baureihe 05 (Weltrekord 1935 mit 200,4 km/h), die Stromlinienausführungen der US-amerikanischen Hudson-Lokomotiven und die englische Lokomotive "Mallard" (bis heute bestehender Weltrekord für Dampflokomotiven mit 201,2 km/h). Parallel dazu wurden ganze Stromlinienzüge entwickelt, beginnend mit dem dieselelektrischen Fliegenden Hamburger und dem dampfbetriebenen Henschel-Wegmann-Zug. Seit den 1930er Jahren stellten diese Züge den Premium-Service des Eisenbahnverkehrs. Sie bildeten auch die Grundlage für die heutigen Hochgeschwindigkeitszüge.
+
+Bedeutenden Pioniere des auch nur kurz als "Streamlining" bezeichneten Stromliniendesigns waren Raymond Loewy, Norman Bel Geddes, Henry Dreyfuss und Otto Kuhler.
+
+
+

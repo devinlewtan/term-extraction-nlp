@@ -1,0 +1,22 @@
+﻿Zerfallsreihe
+
+Eine Zerfallsreihe im allgemeinen Sinn ist die Abfolge der nacheinander entstehenden Produkte eines radioaktiven Zerfalls. Sie bildet sich, indem ein Radionuklid sich in ein anderes, dieses in ein drittes umwandelt usw. („zerfällt“). Das zuerst entstehende Nuklid wird Tochternuklid genannt, das dem Tochternuklid folgende Enkelnuklid, das dem Enkelnuklid folgende Urenkelnuklid usw.
+
+Aus einer vorhandenen Menge eines instabilen Nuklids bildet sich durch Zerfall ein Gemisch der Nuklide, die ihm in der Zerfallsreihe folgen, bevor irgendwann alle Atomkerne die Reihe bis zum Endnuklid durchlaufen haben. In dem Gemisch sind Nuklide mit kurzer Halbwertszeit nur in geringer Menge vorhanden, während solche mit längerer Halbwertszeit sich entsprechend stärker ansammeln.
+
+Praktisch und historisch wichtig sind die Zerfallsreihen der drei primordialen Radionuklide Uran-238, Uran-235 und Thorium-232, auch "Natürlich radioaktive Familien" genannt. Sie entstehen durch Alpha- und Beta-Zerfälle, die mehr oder weniger regelmäßig abwechselnd aufeinander folgen. Manche der beteiligten Nuklide haben auch die alternativ mögliche, aber seltene Zerfallsart Spontanspaltung; sie führt aus der jeweiligen Zerfallsreihe hinaus und wird hier nicht beachtet.
+
+Ein Alphazerfall verringert die Massenzahl des Atomkerns um 4 Einheiten, ein Betazerfall lässt sie unverändert. Schreibt man die Massenzahl "A" als "A" = 4"n"+"m" (dabei ist "n" irgendeine natürliche Zahl und "m" eine der Zahlen 0, 1, 2 oder 3), bleibt deshalb "m" innerhalb einer solchen Zerfallsreihe stets konstant. Die drei genannten Anfangsnuklide haben verschiedene Werte von "m". Daher erzeugt
+
+Thorium-232 ist zwar primordial, aber nach heutiger Kenntnis sind auch seine Vorgängernuklide bis zum Plutonium-244 auf der Erde vorhanden.
+
+In der obigen (4"n"+"m")-Systematik „fehlt“ eine Reihe mit "m" = 1. Da es im Massenzahlbereich von Uran und Thorium kein primordiales Nuklid mit "A" = 4"n"+1 gibt, kommt eine solche Zerfallsreihe in der Natur nicht (mehr) vor. Der Systematik zuliebe wird aber die Zerfallsreihe der künstlich erzeugbaren Nuklide Plutonium-241 oder Neptunium-237, die Neptunium-Reihe, als diese fehlende vierte Reihe betrachtet. Nur das letzte Radionuklid dieser Reihe, Bismut-209, ist wegen seiner extrem langen Halbwertszeit noch vorhanden. Es wurde lange für das Endnuklid gehalten, bis 2003 entdeckt wurde, dass es ein Alphastrahler mit 19 Trillionen Jahren Halbwertszeit ist. Das Endnuklid ist daher Thallium-205.
+
+In der klassischen Zeit der Erforschung der radioaktiven Zerfallsreihen – also im frühen 20. Jahrhundert – wurden die verschiedenen Nuklide mit anderen Namen bezeichnet, an denen sich die Zugehörigkeit zu einer natürlichen Zerfallsreihe und die Ähnlichkeit in den Eigenschaften erkennen ließ (z. B. sind Radon, Thoron und Actinon allesamt Edelgase):
+
+Die drei natürlichen Zerfallsreihen sähen in dieser alten Bezeichnungsweise folgendermaßen aus:
+
+Nuklide zerfallen nach einer Kinetik erster Ordnung (vgl. Zerfallsgesetz), so dass die zeitabhängige Konzentration eines einzelnen Nuklids recht einfach zu berechnen ist. Die Fragestellung wird deutlich komplizierter, wenn das Nuklid als Glied einer Zerfallsreihe aus Vorläufernukliden laufend nachgebildet wird. Ein kurzer und übersichtlicher Weg zur Berechnung seiner Konzentration unter dieser Voraussetzung findet sich bei Jens Christoffers (1986); der Autor gibt auch einen Algorithmus zur Programmierung der Berechnung an. 
+
+
+

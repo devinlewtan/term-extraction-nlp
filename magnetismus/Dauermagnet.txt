@@ -1,0 +1,40 @@
+﻿Dauermagnet
+
+Ein Dauermagnet (auch Permanentmagnet) ist ein Magnet aus einem Stück eines hartmagnetischen Materials, zum Beispiel Legierungen aus Eisen, Cobalt, Nickel oder bestimmten Ferriten. Er hat und behält ein gleichbleibendes Magnetfeld, ohne dass man wie bei Elektromagneten elektrische Leistung aufwenden muss. Dauermagnete besitzen an ihrer Oberfläche je einen oder mehrere Nord- und Südpol(e).
+
+Erste künstliche Dauermagnetmaterialien wurden um 1750 von John Canton hergestellt.
+
+Ein Dauermagnet kann durch die Einwirkung eines Magnetfeldes auf ein ferrimagnetisches oder ferromagnetisches Material mit einer großflächigen Hysteresekurve (sogenanntes hartmagnetisches Material) erzeugt werden. Frühe Magnetwerkstoffe auf Basis von Eisen haben zu den Begriffen "hartmagnetisch" und "weichmagnetisch" geführt: harter, kohlenstoffreicher Stahl lässt sich dauermagnetisch machen, während sich kohlenstoffärmeres weiches Eisen (Weicheisen) kaum dauermagnetisieren lässt und sich daher besser zur Herstellung von Eisenkernen für Elektromagnete eignet. Durch ein abklingendes magnetisches Wechselfeld, Erwärmung oder Stoßeinwirkung kann ein Dauermagnet entmagnetisiert werden.
+
+Die im Alltag bekannteste Form sind Ferritmagnete, z. B. als Haftmagnet oder – mit Eisen-Polschuhen versehen – als Schranktür-Verschluss.
+
+
+Entlang des Umfangs magnetisierte Ringe besitzen keine Pole (siehe z. B. Kernspeicher) und üben keine Kräfte aus – sie sind zwar magnetisiert, werden aber nicht als Dauermagnete bezeichnet. Magnetisierte Schichten von Magnetbändern, Magnetstreifen oder Festplatten besitzen zwar Pole, werden aber ebenfalls nicht als Dauermagnet bezeichnet.
+
+Die Hysteresekurven von magnetisierbaren, hartmagnetischen Materialien sind im Gegensatz zur dargestellten Grafik besonders breit und ähneln einem Rechteck, bei dem die fast senkrechten Kurven die Feldstärkeachse bei großen Feldstärken bei Hc schneiden. Die dargestellte Grafik zeigt eher die Hysteresekurve eines weichmagnetischen Werkstoffes, der sich zum Beispiel bei der Aufnahme der Hysteresekurve in einem Transformator mit einem nur kleinen Luftspalt oder in einem Epsteinrahmen befindet.
+
+Bei weichmagnetischen Werkstoffen, wie zum Beispiel Blechen oder Ferriten für Transformator-Kerne, ist die Hysteresekurve sehr schmal und schneidet die Feldstärkeachse bei kleinen Feldstärkewerten.
+
+
+
+
+
+
+Dauermagnete wurden früher aus Stahl erzeugt. Sie sind aber sehr schwach und lassen sich sehr leicht entmagnetisieren. Die bekannteste Form sind Hufeisenmagnete. In Stahlwerkzeugen können sich Dauermagnetisierungen auch durch plastische mechanische Verformung bilden. Das ist ein Hinweis auf deren mechanische Überlastung.
+
+AlNiCo-Magnete bestehen aus Eisenlegierungen mit Aluminium, Nickel und Cobalt als Hauptlegierungselemente. Diese Materialien sind bis 500 °C einsetzbar, haben aber eine relativ geringe Energiedichte und Koerzitivfeldstärke. Die Remanenz ist höher als bei den Ferritmagneten. Die Herstellung erfolgt durch Gießen oder pulvermetallurgische Verfahren. Sie haben eine gute Korrosionsbeständigkeit, sind aber zerbrechlich und hart.
+
+Bismanol, eine Legierung aus Bismut, Mangan und Eisen, bilden als Legierung ein starkes, aber nicht mehr gängiges Permanentmagnetmaterial.
+
+Magnete aus hartmagnetischen Ferriten sind kostengünstig, aber relativ schwach und haben eine maximale Gebrauchstemperatur von 250 °C. Typische Anwendung sind Haftmagnete und Feldmagnete von Gleichstrommotoren und elektrodynamischen Lautsprechern.
+
+
+
+Eine Sonderform unter den Magnetmaterialen stellen nichtmetallische, organische Kunststoffe mit permanentmagnetischen Eigenschaften dar, wie das Kunststoffmagnetmaterial "PANiCNQ", welches bei Raumtemperatur ferrimagnetische Eigenschaften aufweist.
+
+Permanentmagnete werden zumeist aus kristallinem Pulver in Gegenwart eines starken Magnetfelds in eine Form gepresst. Dabei richten sich die Kristalle mit ihrer bevorzugten Magnetisierungsachse in Richtung des Magnetfelds aus. Die Presslinge werden anschließend gesintert. Bei der oberhalb von 1000 °C liegenden Sintertemperatur geht die nach außen hin wirksame Magnetisierung verloren, weil die thermische Bewegung der Atome zur weitestgehend antiparallelen Ausrichtung der Elementarmagnete in den Kristallen führt. Da die Orientierung der Körner im Sinterverbund nicht verloren geht, kann die Parallelausrichtung der Elementarströme nach dem Abkühlen der Magnete durch einen ausreichend starken Magnetisierungsimpuls wiederhergestellt werden.
+
+
+
+
+

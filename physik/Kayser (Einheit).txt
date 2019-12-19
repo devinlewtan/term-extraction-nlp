@@ -1,0 +1,10 @@
+﻿Kayser (Einheit)
+
+</math>
+Das Kayser (Einheitenzeichen: kayser) ist eine nach dem deutschen Physiker Heinrich Kayser benannte veraltete Einheit der Wellenzahl. Sie wurde vor 1952 aufgrund eines Vorschlags von William Frederick Meggers von der Joint Commission for Spectroscopy empfohlen, wurde in das Internationale Einheitensystem allerdings nicht aufgenommen. Dennoch wurde die Einheit in der Spektroskopie lange benutzt.
+
+Ursprünglich sollte die Einheit, vorgeschlagen von Albert Christopher Candler, den Namen Rydberg (Einheitenzeichen: R), nach dem schwedischen Physiker Johannes Rydberg tragen. Ein weiterer 1951 vorgeschlagener Name war Balmer, nach dem Schweizer Physiker Johann Jakob Balmer. Nach teilweise heftiger Diskussion, wurde schließlich keine eigene Einheit eingeführt, sondern weiter cm verwendet. 
+
+1 kayser = 1 cm = 100 m
+
+

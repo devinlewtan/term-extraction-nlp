@@ -1,0 +1,19 @@
+﻿Spannungsoptik
+
+Als Spannungsoptik wird ein Teilgebiet der Optik beziehungsweise der Konstruktionslehre bezeichnet, in dem durch die Verwendung von polarisiertem Licht die Spannungsverteilung in lichtdurchlässigen Körpern untersucht wird. An transparenten, zweidimensionalen Werkstückmodellen werden bei mechanischer Belastung Stellen besonders hoher Beanspruchung sichtbar. Grundlage bildet die Eigenschaft vieler optisch isotroper Materialien, bei mechanischen Spannungen doppelbrechend zu werden. Dadurch wird die Polarisationsebene einfallenden Lichts gedreht beziehungsweise es entsteht elliptisch oder zirkular polarisiertes Licht. Das kann mit einem Polarimeter sichtbar gemacht werden.
+
+Durch Verwendung von monochromatischem Licht entsteht ein System aus dunklen und hellen Streifen, deren Anordnung zuverlässige Rückschlüsse auf Verteilung und Größe der mechanischen Spannung an allen Stellen des Körpers erlaubt.
+
+Im Bild rechts entstehen an einem durch Kräfte belasteten Prüfkörper zwei Arten von dunklen Streifen: die "Isochromaten" sind Linien mit konstanter Hauptspannungs-Differenz, an den "Isoklinen" fällt die Richtung einer Hauptspannung mit der Polarisationsrichtung des einfallenden Lichts zusammen, sie repräsentieren somit die Spannungstrajektorien des Körpers unter der gegebenen Belastung.
+
+Zur Unterscheidung zwischen Isochromaten und Isoklinen kann die belastete Probe (oder die Polarisationsrichtung des Lichts) gedreht werden – im spannungsoptischen Bild verändern sich dadurch die Isoklinen, nicht aber die Isochromaten. Eine andere Möglichkeit ist die Verwendung von zirkular-polarisiertem Licht – in diesem Fall sind keine Isoklinen sichtbar (untere zwei Bilder).
+
+Wird weißes Licht verwendet, entstehen für jede Farbe unterschiedliche Hell-Dunkel-Muster – dies ergibt die Farbmuster, wie sie links im Bild gezeigt sind. Einzig bei der 0ten Ordnung der Streifen fallen alle Farben zusammen. Dies ergibt schwarze Streifen an den unbelasteten Stellen in der Probe (untere Ecke des Winkels).
+
+Bei der quantitativen Auswertung geht man von einem ebenen Spannungszustand aus. Die beiden Hauptspannungen in der Probenebene beeinflussen den Brechungsindex des Materials, die dritte Hauptspannung in Dickenrichtung hat keine Wirkung.
+
+Dieses Verfahren wird noch vereinzelt in der Werkstoffprüfung angewandt, indem durchsichtige Kunstharzmodelle (mit optischer Aktivität) auf Belastungen, die in der praktischen Anwendung auftreten können, untersucht werden. Die Spannungsverteilung im Modell stimmt mit derjenigen im realen Bauteil überein, auch wenn die Deformation sich unterscheidet.
+
+Durch die verbesserten Rechenverfahren mit der Finite-Elemente-Methode werden diese Untersuchungen heute vorwiegend am Computer durchgeführt.
+
+

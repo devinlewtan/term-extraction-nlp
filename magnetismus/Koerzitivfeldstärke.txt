@@ -1,0 +1,23 @@
+﻿Koerzitivfeldstärke
+
+Als magnetische Koerzitivfeldstärke formula_1 ("H" für die magnetische Feldstärke und "c" für "coercivity" von lateinisch "coercere" = bändigen, zusammenhalten) bezeichnet man die magnetische Feldstärke, die notwendig ist, um eine zuvor bis zur Sättigungsflussdichte aufgeladene, ferromagnetische Substanz vollständig zu entmagnetisieren, so dass der resultierende Gesamtfluss bzw. die lokale Flussdichte gleich null ist. Je höher die Koerzitivfeldstärke ist, desto besser behält ein Magnet seine Magnetisierung, wenn er einem Gegenfeld ausgesetzt wird.
+Die SI-Einheit ist wie bei allen magnetischen Feldstärken A/m. Gelegentlich wird noch die veraltete Einheit Oe (Oersted: 1 Oe entspricht knapp 80 A/m) verwendet.
+
+Werden ferromagnetische oder ferrimagnetische Werkstoffe einem Magnetfeld ausgesetzt, so bleibt auch nach Entfernen des Feldes ein Restmagnetismus, die Remanenz. Dies gilt auch für Spingläser, wenn auch in abgeschwächter Form.
+
+Analog dazu nennt man die elektrische Feldstärke, die nötig ist, um die remanente dielektrische Verschiebung (Polarisation) eines Ferroelektrikums oder Elektrets aufzuheben, elektrische Koerzitivfeldstärke. Je höher sie ist, desto besser behält der Stoff seine Polarisation. Sie hat Einfluss auf die piezoelektrischen Eigenschaften (Piezoelektrizität).
+
+Man unterscheidet zwischen der Koerzitivfeldstärke ("H") der magnetischen Flussdichte und der Koerzitivfeldstärke ("H") der magnetischen Polarisation. Wird ein Permanentmagnet einer Feldstärke "H" ausgesetzt, verschwindet die magnetische Flussdichte im Magneten. Er ist jedoch nach dem Entfernen aus dem Feld immer noch magnetisch. Erst bei einer entmagnetisierenden Feldstärke H verliert der Permanentmagnet seine magnetische Polarisation und somit seine Magnetisierung vollständig, das heißt die angelegte Feldstärke H verursacht eine magnetische Flussdichte der Größe "µ" · "H" ohne Offset.
+
+In derselben Weise kann man auch die elektrische Koerzitivfeldstärke definieren.
+
+Zu beachten ist die starke Temperaturabhängigkeit dieser Feldstärken, die nicht zuletzt auch in der Temperaturabhängigkeit des Ferromagnetismus bzw. der Ferroelektrizität zu suchen ist.
+
+Gemessen wird die magnetische Koerzitivfeldstärke mit einem sogenannten Koerzimeter, welches in Abhängigkeit einer angelegten äußeren magnetischen Feldstärke die Polarisation über Induktion in einer bewegten Spule misst. Da die Magnetisierbarkeit und damit auch die Remanenz bzw. die Koerzitivfeldstärke vom Gefüge des Werkstoffes abhängt, lassen sich aus den magnetischen Eigenschaften Erkenntnisse über das Werkstoffgefüge (z. B. Verformungsgrad) ableiten.
+
+Um die elektrische Koerzitivfeldstärke zu messen, werden auf den zu untersuchenden Stoff feste Elektroden aufgedampft oder flüssige aufgebracht. Die Anordnung entspricht dann der eines Plattenkondensators. Aus dem Umladestrom und der gemessenen Spannung kann die Plattenladung und zusammen mit den Abmessungen die elektrische Feldstärke und die dielektrische Verschiebung bestimmt werden. Mit Aufnahme der kompletten Hysteresekurve lässt sich die elektrische Koerzitivfeldstärke bestimmen.
+
+Die Werte der magnetischen Koerzitivfeldstärke ferro- und ferrimagnetischer Werkstoffe schwanken bei ähnlicher oder gleicher Zusammensetzung zum Teil erheblich. Sie ist außer vom Stoff oder dem Stoffgemisch unter anderem von folgenden weiteren Parametern abhängig:
+Die Messung der Koerzitivfeldstärke dient daher insbesondere auch zur zerstörungsfreien Werkstoffprüfung von ferromagnetischen Werkstoffen (insbesondere Eisen und Stahl als Konstruktionswerkstoff) hinsichtlich ihrer Gefügeeigenschaften, ihrer thermischen Vorbehandlung und eventuell vorausgegangener plastischer Verformungen. Die mechanische Härte korrespondiert mit der magnetischen Härte, also der Koerzitivkraft.
+
+

@@ -1,0 +1,13 @@
+﻿Joaquín Drut
+
+Joaquín Emiliano Drut (* 1978 in La Plata) ist ein argentinischer theoretischer Physiker, der sich mit quantenmechanischer Vielteilchentheorie in der Festkörperphysik und Kernphysik befasst.
+
+Drut wuchs in La Plata auf und studierte 2003 bis zur Promotion 2008 an der University of Washington Physik. Als Post-Doktorand war er in der Gruppe für theoretische Kernphysik der Ohio State University und 2010 bis 2012 in der Theorieabteilung des Los Alamos National Laboratory. 2012 wurde er Assistant Professor und Melchor Fellow an der University of North Carolina at Chapel Hill.
+
+Er entwickelte Quanten-Monte-Carlo-Simulationsverfahren auf dem Gitter für Vielteilchensysteme in der Festkörperphysik, unter anderem für Graphen (wobei sie sich für einen Isolator als Grundzustand aussprechen) und einen Übergang von BCS-Supraleiter zu Bose-Einstein-Kondensat in einem Fermionengas bei tiefen Temperaturen, den sie als Supraflüssigkeit neuer Art einstuften.
+
+2009 erhielt er den Hermann Kümmel Award in Vielteilchentheorie, für "die Bestimmung der thermodynamischen und Pairing-Eigenschaften eines verdünnten wechselwirkenden Spin 1/2 Fermigases (drei Dimensionen) im unitären Regime unter Verwendung von Quanten-Monte-Carlo- und feldtheoretischen Methoden".
+
+
+
+

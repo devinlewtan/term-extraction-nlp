@@ -1,0 +1,13 @@
+﻿Boolesches Netzwerk
+
+Boolesche Netzwerke bezeichnen ein Modell aus der Statistischen Physik. Sie können als Generalisierung des Ising-Modells verstanden werden, nämlich als eine Spin-Dynamik auf einem Digraph formula_1. Jedem Knoten formula_2 sind dabei sowohl ein boolescher Zustand (oder Spin) als auch eine Boolesche Funktion über die Zustände der eingehenden Knoten zugeordnet. 
+
+Diese Aktualisierungsregeln definieren die Systemdynamik, die trotz einfacher Regeln nicht trivial ist. Der Arzt Stuart Kauffman war 1969 der erste Wissenschaftler, der Boolesche Netzwerke als Modell für genetische Netzwerke vorschlug und zwar für den Spezialfall, dass es formula_3 Knoten (oder Gene) gibt die jeweils exakt von formula_4 anderen Knoten abhängen, deswegen wird diese Variation auch formula_3-formula_4-Modell genannt. Obwohl Boolesche Netzwerke durch einfache Regeln definiert sind, wurde die Systemdynamik erst nach 2000 mathematisch verstanden.
+
+Obwohl Boolesche Netzwerke eine starke Vereinfachung darstellen (Gene sind nie einfach nur "an" oder "aus"), gibt es viele Beispiele, in denen ein Boolesches Modell die richtige Abfolge der Schaltereignisse in einem genetischen Netzwerk vorhersagt.
+
+Netzwerke sind eine Möglichkeit, die Eigenschaften komplexer Systeme zu untersuchen. Die Topologie eines Graphen spiegelt dabei wider, wie die verschiedenen Einheiten des Systems miteinander wechselwirken. Eine zusätzlich zu der Topologie definierte Dynamik kann dabei entweder die Kanten des Graphen im Laufe der Zeit verändern (Dynamik "vom" Netzwerk) oder nur die Werte der Knoten (Dynamik "auf dem" Netzwerk). Bei Booleschen Netzwerken handelt es sich um die zweite Variante.
+
+Eine wichtige Fragestellung bei der Untersuchung Boolescher Netzwerke ist, die globalen Eigenschaften eines gegebenen Ensembles zu analysieren. Die Zahl und die Länge der Attraktoren sind eine Möglichkeit, die globalen Eigenschaften zu quantifizieren. Die Herausforderung ist dabei, dass der Zustandsraum extrem schnell wächst, nämlich mit formula_7. Auch mit modernen Computern sind die Speichergrenzen schnell erreicht. Das einfachste Ensemble sind die zufälligen Booleschen Netzwerke (englisch: , RBN). Hier ist die Graph-Topologie ein Erdős-Rényi-Zufallsgraph. Für RBNS gab es viele Versuche, die Verteilung der Attraktoren mittels Mittelwerte in Abhängigkeit von der Anzahl formula_3 der Knoten zu charakterisieren.
+
+

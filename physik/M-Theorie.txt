@@ -1,0 +1,23 @@
+﻿M-Theorie
+
+Die M-Theorie ist der Versuch einer Erweiterung und Verallgemeinerung der Stringtheorie in der Theoretischen Physik. Diese Theorie ist ein Gebiet intensiver Forschung, da man hofft, mit ihr alle bekannten Naturkräfte einheitlich beschreiben zu können.
+
+Die M-Theorie wurde während der so genannten "zweiten Superstringrevolution" geboren, wobei wesentliche Beiträge von Edward Witten stammen, der darüber 1995 auf einer Konferenz an der University of Southern California einen vielbeachteten Vortrag hielt. Hierbei werden die fünf bekannten Superstringtheorien (Type I, Type IIA und IIB sowie die beiden Heterotischen Stringtheorien, im Bild mit E8 und SO(32) bezeichnet) und die elfdimensionale Supergravitation als Grenzfälle einer fundamentaleren Theorie betrachtet.
+
+Die Verbindungen zwischen den verschiedenen Theorien sind durch Dualitäten gegeben, wie S-Dualität und T-Dualität. Mit ihrer Hilfe kann man zeigen, dass die unterschiedlichen Theorien die gleichen Ergebnisse berechnen, allerdings in unterschiedlichen Bereichen ihres Parameterraumes. Damit ist es möglich, Aussagen über die zugrundeliegende Theorie in verschiedenen Grenzbereichen zu machen, obwohl eine explizite Formulierung nicht bekannt ist.
+
+Die elfdimensionale Supergravitation nimmt in gewisser Weise eine Sonderstellung ein, da sie die maximale Anzahl von Dimensionen für eine Supergravitationstheorie besitzt, im Gegensatz zu den Stringtheorien, welche in zehn Dimensionen formuliert sind. Elfdimensionale Supergravitation ist außerdem eine klassische (d. h. nicht quantisierte) Theorie, wohingegen die Stringtheorien Quantentheorien sind. Die Verbindung der Supergravitation mit der heterotischen E8×E8-Stringtheorie bzw. Type IIA wird durch eine Kompaktifizierung der elften Dimension auf einem Intervall (in der Abbildung mit formula_1 bezeichnet) bzw. auf einem Kreis (formula_2) erreicht. Außerdem betrachtet man auf der Stringseite den Supergravitations-Limes der Theorie.
+
+Nichtperturbative Aussagen zur M-Theorie lassen sich mit Hilfe von D-Branen bzw. M-Branen machen. Allerdings gibt es zurzeit noch keine vollständige nichtperturbative Formulierung der M-Theorie, was auch damit zusammenhängt, dass sich für mehr-als-ein-dimensionale Objekte keine konforme Feldtheorie konstruieren lässt (siehe Polyakov-Wirkung).
+
+Die angegebene Bedeutung für den Buchstaben M in der Bezeichnung der Theorie ist nicht einheitlich. Edward Witten schlug den Begriff 1995 mit Hinblick auf die Membranstruktur der Theorie vor. Zugleich war er selbst skeptisch, ob die noch junge Theorie tatsächlich auf eine solche hinauslaufen würde und bemerkte schon sehr früh eher scherzhaft, das 'M' könne „wahlweise für magisch, rätselhaft (Original: mystery) oder Membran stehen“. Weitere Kandidaten, die genannt wurden, waren Matrix (nach einem Vorschlag für die M-Theorie von Tom Banks und anderen), "Mutter aller Stringtheorien" und es wurde sogar vermutet, es stehe für ein umgedrehtes „W“ als Synonym für „Witten“ oder dass der Buchstabe „M“ als einziger Buchstabe neben dem „W“ fünf Punkte harmonisch verbindet, wobei die fünf Punkte für die fünf zuvor widersprüchlichen Stringtheorien stehen. In einem 2013 veröffentlichten Interview stellte er klar: „Manche Kollegen dachten, es gäbe eine elfdimensionale Theorie, die auf Membranen basiert. Doch ich war nicht davon überzeugt, dass sie vollständig funktioniert. Ich wusste aber auch nicht, ob sie falsch ist, und ich wollte ihr nicht widersprechen. Daher behielt ich das M von „Membran“ und meinte, dass es sich mit der Zeit schon zeigen würde, ob das M für „Magie“, „Mysterium“ oder „Membran“ steht. Später wurden die Membranen dann von Matrizen abgeleitet, und zufällig fängt die Matrix-Theorie auch mit „M“ an.“
+
+Als eine mögliche Darstellung der M-Theorie schlugen Tom Banks, Willy Fischler, Stephen Shenker und Leonard Susskind Ende 1996 das BFSS-Matrix-Modell vor. Sie stellten dabei heraus, dass der formula_3 Limes einer supersymmetrischen Matrix-Theorie äquivalent zur elfdimensionalen, nicht kompaktifizierten M-Theorie ist. Die Membranen der M-Theorie sind dabei Anregungen in der Matrix-Theorie, wobei das Weltvolumen der Membranen eine nichtkommutative Geometrie aufweist, die in eine nichtkommutative Raumzeit eingebettet ist.
+
+Ein einfacher Fall des BFSS Modells ist dabei eine 0+0 dimensionale Theorie, deren Wirkung als dimensionale Reduktion einer 9+1 dimensionalen Super-Yang-Mills-Theorie geschrieben wird
+
+wobei formula_5 hermitesche N×N-Matrizen sind, formula_6 SO(9) Pauli-Matrizen in ihrer Darstellung in 16 Dimensionen und formula_7 ein Spinor mit spin(9,1) mit 16 Komponenten. Grob gesagt beschreibt diese Wirkung eine Quantenmechanik mit Matrix-Freiheitsgraden.
+
+
+
+

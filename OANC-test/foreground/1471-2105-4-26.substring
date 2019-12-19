@@ -290,39 +290,34 @@ MICROARRAY
 AFFYMETRIX OLIGONUCLEOTIDE
 AFFYMETRIX
 OLIGONUCLEOTIDE GENECHIP
-oligonucleotide
+OLIGONUCLEOTIDE
 AFFYMETRIX OLIGONUCLEOTIDE DATA
 EFFECT
 EFFECT
 FIGURE
-languages
+LANGUAGE
 MICROARRAY DATA
-studies
+STUDY
 STATISTICAL GROUP
-solution
-baseline
-baseline
-baseline
+SOLUTION
+BASELINE
+BASELINE
+BASELINE
 SUBJECT
 SUBJECT
-variance
-variations
-changes
+VARIANCE
+VARIATION
 P-VALUE
-changes
 P-VALUE
-changes
 P-VALUE
 IMPAIRMENT
-comparisons
-analyses
-controls
-relationships
+COMPARISON
+ANALYSIS
+CONTROL
+RELATIONSHIP
 RNA
-expressions
-differential genes
+EXPRESSION
 GENE EXPRESSION
-differential genes
 GENE EXPRESSION
 EFFECT
 EFFECT
@@ -331,76 +326,71 @@ EFFECT
 EFFECT
 EFFECT
 EFFECT
-errors
-errors
-errors
-errors
-errors
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
 RATE CONTROL
-errors
-experiments
-costs
-errors
-expressions
-expressions
-expressions
-genes
+ERROR
+EXPERIMENT
+COST
+ERROR
+EXPRESSION
+EXPRESSION
+EXPRESSION
+GENE
 BASIS
-genes
-genes
-genes
-expressions
-genes
-expressions
-genes
-expressions
+GENE
+GENE
+GENE
+EXPRESSION
+GENE
+EXPRESSION
+GENE
+EXPRESSION
 GENE EXPRESSION
-genes
-genes
-variables
-variables
-variance
-genes
-measurements
-measurements
-analyses
-distribution
+GENE
+GENE
+VARIABLE
+VARIABLE
+VARIANCE
+GENE
+MEASUREMENT
+MEASUREMENT
+ANALYSIS
+DISTRIBUTION
 POOLING RNA
 RNA
 POOLING RNA
 RNA
-losses
-probes
-probes
-probes
-probes
-probes
-probes
-probes
-variance
+LOSS
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
+VARIANCE
 RESEARCH
 RESEARCH
 INDIVIDUAL VARIANCE
-analyses
-analyses
+ANALYSIS
+ANALYSIS
 CONFIDENCE
-controls
-controls
+CONTROL
+CONTROL
 EVIDENCE
-issues
+ISSUE
 JUSTIFICATION
-tests
+TEST
 RNA
 TESTING CORRECTION
-time course
-times
-costs
-costs
-costs
-costs
-costs
-exposures
-treatments
-treatments
-treatments
-treatments
+TIME COURSE
+COST
+COST
+COST
+COST
+COST
+EXPOSURE

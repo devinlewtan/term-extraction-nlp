@@ -1,0 +1,49 @@
+﻿Strömungswiderstand
+
+Der Strömungswiderstand ist die physikalische Größe, die in der Fluiddynamik die Kraft bezeichnet, die das Fluid als Medium einer Bewegung entgegensetzt.
+Ein Körper, der sich relativ zu einem gasförmigen oder flüssigen Medium bewegt, erfährt einen Strömungswiderstand, eine der Relativgeschwindigkeit entgegengesetzt wirkende Kraft.
+Bewegt sich ein Objekt wie ein Flugzeug durch die Luft, so spricht man auch vom Luftwiderstand oder von der Luftreibung, siehe auch Aerodynamik. Bei Bewegungen im Wasser von spricht man von Wasserwiderstand, siehe auch Hydrodynamik. 
+
+Auf die Oberfläche eines umströmten Körpers übt die Strömung örtlich verschiedene Schubspannung und Druck (Normalspannung) aus. Werden Druck und Schubspannung über die gesamte Oberfläche integriert, erhält man die resultierende Kraft, die die Strömung auf den Körper ausübt.
+Diese Kraft hat eine bestimmte Richtung im Raum. Die Kraftkomponente, die in Richtung der Anströmrichtung liegt, ist die Widerstandskraft. Neben der Widerstandskraft sind andere Kraftkomponenten die Auftriebskraft und die Seitenkraft. Oft werden diese Kräfte im Windkanal gemessen.
+
+Bei Kraftfahrzeugen ist es üblich, die Kraftkomponenten bezüglich eines fahrzeugfesten Koordinatensystems anzugeben.
+
+Es sind die physikalischen Größen Druck und Schubspannung, die an der Oberfläche eines Körpers wirken und damit zum Strömungswiderstand beitragen können. Dementsprechend kann der Strömungswiderstand in einen Druckwiderstand und einen Schubspannungswiderstand aufgeteilt werden. In Abhängigkeit von der Form des umströmten Körpers und der Anströmrichtung kann der Druckwiderstand oder der Schubspannungswiderstand überwiegen.
+
+Je nach vorliegendem Fall erweist es sich für die Betrachtung und Berechnung als günstig, bestimmte Effekte, die bei der Umströmung des Körpers auftreten, separat zu behandeln. Dies ist der Hintergrund für den Interferenzwiderstand, induzierte Widerstände und den Wellenwiderstand.
+
+Der Druckwiderstand folgt aus der Druckverteilung (Normalspannung) um einen Körper. Der Druck im Ablösegebiet am Heck von Körpern ist geringer als der im Staupunkt. Die wirksame Fläche dieses Widerstandes ist die projizierte Fläche in Richtung der Anströmung.
+
+Der Schubspannungswiderstand ist Ergebnis der Reibung, also des viskosen Impulsaustausches. Er beruht auf den Schubspannungen, die auf der Oberfläche des Körpers auftreten, indem die Strömung über die Oberfläche streicht.
+
+Der Interferenzwiderstand beschreibt die strömungstechnische Widerstandsgröße, die auftritt, wenn vormals völlig unabhängige Strömungskörper zu beieinander liegenden Strömungskörpern werden. Er ist definiert als die Differenz zwischen dem Gesamtwiderstand des Bauteils und der Summe des Widerstands der Einzelbauteile oder Bauteilgruppen nach dem Zusammenbau. Konstruktiv wird man immer einen negativen Interferenzwiderstand anstreben.
+Ein Beispiel ist ein Flugzeugrumpf und die Flugzeugtragflächen vor dem Zusammenbau und nach erfolgter Montage. Die Summe der Einzelwiderstände der Bauteile Flügel und Rumpf ist höher als der Gesamtwiderstand nach dem Zusammenbau. Qualitativ betrachtet ist der Interferenzwiderstand die gegen die Anströmrichtung wirkende Komponente der Luftkraft an einem Strömungskörper, die durch die gegenseitige Beeinflussung der von verschiedenen Teilen des Flugzeuges ausgelösten Wirbel oder durch Überlagerung der Grenzschichten in den Ecken entsteht.
+
+Der induzierte Widerstand entsteht immer, wenn ein Objekt in einem Fluid Strömungen im Fluid erzeugt. Das ist zum Beispiel bei der Auftriebserzeugung durch Tragflächen eines Flugzeugs der Fall, bei der zum einen Luft nach unten beschleunigt wird (downwash) und zum anderen durch Wirbelbildung (Randwirbel) dabei entstehende Druckunterschiede ausgeglichen werden. Die Bewegungsenergie, die dabei der Luft zugeführt wird, geht dem Flugzeug verloren.
+
+Der Wellenwiderstand tritt bei umströmten Körpern auf, die sich mit Überschall- oder transsonischer Geschwindigkeit bewegen. An Körperkanten, die der Anströmung entgegen geneigt sind, tritt eine Druckerhöhung auf, während an den Kanten, die der Anströmung abgeneigt sind, eine Druckverminderung auftritt. Dieser Druck führt zu einer entgegen der Bewegung gerichteten Kraft.
+
+Die Strömungswiderstandskraft formula_1 eines Körpers in einer bestimmten Lage ist abhängig von der Anströmgeschwindigkeit formula_2, der Dichte formula_3 und der Viskosität (Zähigkeit) formula_4 des Fluids sowie der geometrischen Abmessung (einer charakteristischen Länge) formula_5 des Körpers.
+Dieser Zusammenhang, der fünf Variablen umfasst, kann mit Hilfe einer Dimensionsanalyse nach dem Buckinghamschen Π-Theorem auch mittels zwei dimensionsloser Ähnlichkeitskennzahlen formuliert werden. Diese Ähnlichkeitskennzahlen sind der Strömungswiderstandskoeffizient formula_7 und die Reynolds-Zahl formula_8, die definiert sind als
+
+Dabei ist die Größe formula_11 eine Bezugsfläche, welche definiert sein muss. Üblicherweise wird die Stirnfläche des Körpers als Bezugsfläche verwendet, bei Tragflügeln aber die Flügelfläche.
+
+Der physikalische Zusammenhang kann damit beschrieben werden in der Form
+Die Widerstandskraft formula_1 ist proportional zum Produkt aus formula_7-Wert und Bezugsfläche, welches als "Widerstandsfläche" bezeichnet wird. Man erhält die Strömungswiderstandkraft aus
+
+Der Faktor formula_16 wird als Staudruck bezeichnet.
+
+Für praktische Anwendungen, z. B. dem Luftwiderstand von Kraftfahrzeugen, kann die Abhängigkeit von der Reynolds-Zahl häufig vernachlässigt werden. Dann wird der formula_7-Wert als konstanter Wert angesetzt, so dass der Widerstand quadratisch mit der Geschwindigkeit zunimmt. Für einen Vergleich des Strömungswiderstands verschiedener Fahrzeuge ist die Widerstandsfläche das maßgebliche Kriterium.
+
+Bei laminarer Strömung wird der Strömungswiderstand nur durch die innere Reibung des Mediums verursacht. Ist formula_4 die dynamische Viskosität des Mediums, so gilt für kugelförmige Körper vom Radius formula_19 das Stokessche Gesetz
+
+In einer turbulenten Strömung lässt sich der Strömungswiderstand nur durch Experimente bestimmen, bzw. durch aufwendige numerische Rechnung, z. B. mittels Finite-Volumen-Verfahren, annähern.
+
+Bei Kraftfahrzeugen, aber auch z. B. Fahrradfahrern und Läufern, kann im relevanten Geschwindigkeitsbereich von turbulenter Strömung ausgegangen werden.
+
+Im modernen Automobilbau ist der formula_7-Wert, der Luftwiderstandsbeiwert, von großer Bedeutung. Er kann im optimalen Falle 0,07 betragen (TERA Fennek 2013), beim Ford Model T war er 0,9.
+
+
+
+

@@ -1,0 +1,12 @@
+﻿Righi-Leduc-Effekt
+
+Der Righi-Leduc-Effekt, auch Thermischer Hall-Effekt genannt, benannt nach Augusto Righi und Sylvestre Anatole Leduc, beschreibt das Auftreten einer Temperaturdiffenz in einem elektrischen Leiter, der von einem Wärmestrom durchflossen wird und sich in einem stationären Magnetfeld befindet. Die Temperaturdifferenz tritt dabei senkrecht sowohl zur Wärmestrom- als auch zur Magnetfeldrichtung auf. Er ist ein thermomagnetischer Effekt analog zum Hall-Effekt. 
+
+Wenn an einem Leiter oder Halbleiter in longitudinaler Richtung "(x)" eine Temperaturdifferenz anliegt und senkrecht dazu "(z)" ein magnetisches Feld der 
+Flussdichte formula_1, dann tritt in transversaler Richtung "(y)" eine Temperaturdifferenz auf. Es gilt
+
+Der thermische Hall-Koeffizient (Righi-Leduc-Koeffizient) formula_3 ist material- und temperaturabhängig. Er hat die Maßeinheit 1/T (T=Tesla) und ist mit dem Hall-Koeffizienten formula_4 durch die Beziehung
+verknüpft, wobei formula_6 die elektrische Leitfähigkeit des Materials ist.
+Der Righi-Leduc-Effekt ein thermisches Analogon zum Hall-Effekt. Beim Hall-Effekt bewirkt eine von außen angelegte elektrische Spannung, dass ein elektrischer Strom fließt. Die beweglichen Ladungsträger (i. A. Elektronen) werden äußeren Magnetfeld werden durch die Lorentzkraft transversal (senkrecht zur Stromrichtung und senkrecht zum Magnetfeld) abgelenkt, wodurch sich in dieser Richtung eine Spannung aufbaut. Beim Righi-Leduc-Effekt bewirkt die Temperaturdifferenz, dass die beweglichen Ladungsträger vom wärmeren Ende zum kühleren Ende fließen. Auch hier bewirkt die Lorentzkraft eine transversale Ablenkung. Da die Elektronen Wärme transportieren, wird die eine Seite stärker erwärmt als die andere. (Zusätzlich tritt auch eine elektrische Spannung in transversaler Richtung auf; das ist der Nernst-Effekt.)
+
+

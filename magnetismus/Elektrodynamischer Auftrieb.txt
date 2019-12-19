@@ -1,0 +1,13 @@
+﻿Elektrodynamischer Auftrieb
+
+Elektrodynamischer Auftrieb (, EDS) ist eine Ausprägung der magnetischen Levitation, in der sich eine abstoßende Kraft aus der Wechselwirkung induzierter Ströme mit einem magnetischen Wechselfeld ergibt.
+
+Das magnetische Wechselfeld, welches die induzierten Ströme verursacht, kann z. B. durch eine Relativbewegung eines Dauermagneten über einer elektrisch leitfähigen Platte, beispielsweise eine Aluminiumplatte, oder durch das Anlegen von Wechselspannung an ein Spulensystem, z. B. eines Linearstators, erzeugt werden.
+
+Der einfachste Fall einer elektrodynamischen Lagerung ist, wenn sich ein Permanentmagnet über einer leitfähigen Metallplatte bewegt. In der Platte werden Wirbelströme erzeugt, und diese erzeugen wiederum eine abstoßende Lorentzkraft mit dem Magnetfeld des Permanentmagneten. Außerdem ergibt sich eine abbremsende Kraft entgegen der Bewegungsrichtung der Magnete. Eine solche Anordnung mit Permanentmagneten kommt in dem experimentellen Magnetschwebebahn-System Inductrack zum Einsatz. In einem Halbach-Array könnte es weiters für zukünftigen Hochgeschwindigkeitsverkehr wie der Hyperloop zur Anwendung kommen.
+
+Eine Linearasynchronmaschine besteht aus einem Linearstator und einer Sekundärseite, in der Ströme induziert werden. Im einfachsten Fall besteht die Sekundärseite nur aus einer leitfähigen Platte. Das sich bewegende Magnetfeld des Linearstators erzeugt Wirbelströme in der Platte und es ergibt sich eine Schub-, sowie Auftriebskraft. Damit kann diese Anordnung zum Elektrodynamischen Schweben sowie zum Antrieb eingesetzt werden.
+
+Elektrodynamische Lagerungen ("electrodynamic bearings", EDB) sind mechanische Lagerungen, welche nicht nur eine Auftriebskraft, sondern eine Rückstellkraft erzeugen können. Damit können auch z. B. Radiallager realisiert werden. Elektrodynamische Lagerungen sind typischerweise von selbst dynamisch stabil und eine Regelung ist nicht erforderlich.
+
+

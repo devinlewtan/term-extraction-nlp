@@ -550,24 +550,24 @@ RT-PCR
 ADI
 AFFYMETRIX
 AFFYMETRIX
-experiments
+EXPERIMENT
 HYBRIDIZATION
 AUTHOR
 DNA MICROARRAY
 MICROARRAY
 VALIDATION
-approaches
-equations
-functions
-functions
+APPROACH
+EQUATION
+FUNCTION
+FUNCTION
 GENE FILTER
 NACL
 MEASUREMENT
-variance
+VARIANCE
 QIAGEN RNEASY
 RNEASY
-oncogenes
-aids
+ONCOGENE
+AID
 RNASE PROTECTION
 RNA
 QUANTIFICATION
@@ -575,41 +575,40 @@ HYBRIDIZATION BUFFER
 HYBRIDIZATION
 CONFIRMATION
 RNA
-synthase
-agarose gel
-concepts
+SYNTHASE
+AGAROSE GEL
+CONCEPT
 ADI
-noise
+NOISE
 BINNED ABSOLUTE EXPRESSION
-interpretation
+INTERPRETATION
 CRNA
-synthesis
+SYNTHESIS
 CRNA
 PREPARATION TOTAL RNA
 TOTAL RNA
-restrictions
-candidates
-schemes
+RESTRICTION
+CANDIDATE
+SCHEME
 COMPLEMENTARY MEASUREMENT
-concepts
+CONCEPT
 CONFIDENCE
 CONFIDENCE
 CONFIDENCE
-limits
+LIMIT
 CONFIDENCE
-limits
+LIMIT
 CONFIDENCE
-controls
-diets
-controls
-diets
-controls
-diets
-controls
-diets
+CONTROL
+DIET
+CONTROL
+DIET
+CONTROL
+DIET
+CONTROL
+DIET
 B
-diets
-differences
+DIET
 DIFFERENTIAL GENE
 DIFFERENTIAL GENE
 GENE EXPRESSION
@@ -622,121 +621,119 @@ GENE SELECTION
 DIFFERENTIAL GENE
 GENE SELECTION
 DISCUSSING GENE
-ranges
-ranges
-ranges
-ranges
-ends
-products
-comparisons
-conditions
-genes
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-ranges
-expressions
-expressions
-expressions
-expressions
-expressions
-expressions
-fold changes
-fold changes
+RANGE
+RANGE
+RANGE
+RANGE
+END
+PRODUCT
+COMPARISON
+CONDITION
+GENE
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+RANGE
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+FOLD CHANGE
+FOLD CHANGE
 CHANGE/ABSOLUTE EXPRESSION CALCULATION
 EXPRESSION CALCULATION
 FOLLOW-UP
 LFC
-genes
-genes
-genes
-expressions
-genes
-expressions
-genes
-expressions
-genes
-expressions
-genes
-expressions
+GENE
+GENE
+GENE
+EXPRESSION
+GENE
+EXPRESSION
+GENE
+EXPRESSION
+GENE
+EXPRESSION
+GENE
+EXPRESSION
 GENE EXPRESSION
-genes
-expression analysis
+GENE
+EXPRESSION ANALYSIS
 GENE EXPRESSION ANALYSIS
 GENE EXPRESSION
-genes
+GENE
 EXPRESSION ANALYSIS EXPERIMENT
 ANALYSIS EXPERIMENT
 GENE EXPRESSION
-genes
+GENE
 GENE EXPRESSION
-genes
+GENE
 GENE EXPRESSION
-genes
-genes
-genes
-ranks
-genes
-ranks
-genes
-selections
-genes
-selections
-genes
-selections
-genes
-selections
+GENE
+GENE
+GENE
+RANK
+GENE
+RANK
+GENE
+SELECTION
+GENE
+SELECTION
+GENE
+SELECTION
+GENE
+SELECTION
 GENE SELECTION
-genes
+GENE
 GENE SELECTION
-genes
-genes
-transcripts
-genes
-genes
-protocols
+GENE
+GENE
+TRANSCRIPT
+GENE
+GENE
+PROTOCOL
 DNA CONTAMINATION
 DNA
-variance
+VARIANCE
 RNA
-works
+WORK
 CONFIDENCE
-genes
+GENE
 INDIVIDUAL GENE
-interests
-choices
-limits
-fold changes
+CHOICE
+LIMIT
+FOLD CHANGE
 LIMIT FOLD CHANGE
-limits
-limits
-functions
+LIMIT
+LIMIT
+FUNCTION
 RNA
 TRIS PH
 TRIS
 KOAC
 MGOAC
 TRIS-ACETATE PH
-max
 ADI
-max
+MAX
 ADI/MIN ADI
 MEASUREMENT
 MEASUREMENT
 MEASUREMENT
 MEASUREMENT
-analyses
+ANALYSIS
 MICROARRAY DATA
 MICROARRAY FOLD
 MIN
@@ -755,39 +752,37 @@ MIN
 ADI
 MIN
 ADI
-mismatch probe
+MISMATCH PROBE
 MODEL SELECTION
 LFC
-approaches
+APPROACH
 NON-REGULATED
-non-specific
-experiments
-studies
-primer
-selections
+EXPERIMENT
+STUDY
+PRIMER
+SELECTION
 CHAIN REACTION
-probes
-probes
-probes
-probes
+PROBE
+PROBE
+PROBE
+PROBE
 RNA
-reactions
-outcomes
+REACTION
+OUTCOME
 AD
-weights
-reverse transcription
+WEIGHT
 TRANSCRIPTION STEP
-selections
-selections
-selections
-selections
-criteria
-selections
-selections
-selections
-tests
-transcripts
-treatments
-variance
+SELECTION
+SELECTION
+SELECTION
+SELECTION
+CRITERION
+SELECTION
+SELECTION
+SELECTION
+TEST
+TRANSCRIPT
+TREATMENT
+VARIANCE
 VERSA
 TOTAL RNA

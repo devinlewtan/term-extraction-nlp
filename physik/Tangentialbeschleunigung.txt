@@ -1,0 +1,18 @@
+﻿Tangentialbeschleunigung
+
+Die Tangentialbeschleunigung (auch Bahnbeschleunigung genannt) bezeichnet die Geschwindigkeitsänderung pro Zeit, die ein Massepunkt auf einer gekrümmten Bahn, tangential zu dieser, erfährt. Sie ist das Produkt aus der Winkelbeschleunigung und dem Krümmungsradius am betreffenden Bahnpunkt. Wir betrachten hier als Beispiel eine Kreisbahn.
+
+Betrachtet man nur den Betrag der Tangentialbeschleunigung, so gilt:
+
+formula_1
+
+Dabei ist formula_2 der Betrag der Tangentialbeschleunigung, v die Bahngeschwindigkeit, formula_3 die Winkelgeschwindigkeit, r der Radius der Kreisbahn und formula_4 die Winkelbeschleunigung.
+
+Die Tangentialbeschleunigung wirkt senkrecht zur Zentripetalbeschleunigung, welche zum Kreismittelpunkt hin gerichtet ist. Die Gesamtbeschleunigung ist die Summe der Vektoren von Tangentialbeschleunigung und Zentripetalbeschleunigung.
+
+Die Möglichkeit zur Aufteilung des Beschleunigungsvektors in Tangential- und Normalbeschleunigung entdeckte erstmals Huygens.
+
+Ein Karussell fängt an, sich zu drehen. Es erfährt also eine Beschleunigung. Bei gleicher Winkelbeschleunigung erfährt eine Person, die nahe an der Drehachse steht, eine geringere Tangentialbeschleunigung (kleiner Abstand zur Drehachse), als eine Person, die am äußeren Rand des Karussells steht (großer Abstand zur Drehachse).
+Die Tangentialbeschleunigung formula_5 verhält sich also proportional zum Radius formula_6 des Karussells:
+
+

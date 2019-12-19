@@ -1,0 +1,11 @@
+﻿Zugriffsindex für die Isotopenlisten einzelner Elemente und für die Perioden des Periodensystems
+
+Diese Liste enthält ein Periodensystem der Elemente mit Zugriffsindex für die Isotopenlisten einzelner Elemente und für alle Elemente einer Periode.
+
+Klicken Sie links in das PSE-Diagramm auf das Element, um zu diesem Element zu gelangen, oder rechts in die Perioden, um zu einer ganzen Periode zu gelangen.
+Die Einträge zu den Elementen selbst sind in der deutschsprachigen Wikipedia periodenweise organisiert, so dass Sie innerhalb einer Periode durch Scrollen navigieren können.
+
+Für jedes Isotop enthält die Tabelle
+Nuclide: <math>\mathrm
+
+

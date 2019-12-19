@@ -1,0 +1,32 @@
+﻿Mikrozustand
+
+Ein Mikrozustand ist in der statistischen Physik die vollständige mikroskopische Beschreibung eines thermodynamischen Systems. Ein Mikrozustand entspricht damit einem Punkt im Phasenraum des Systems. Für ein klassisches ideales Gas sind damit Ort und Impuls jedes Teilchens festgelegt.
+
+Im Gegensatz zum Mikrozustand beschreibt der Makrozustand das System durch seine gemittelten Parameter, wie etwa Temperatur, Druck oder Magnetisierung. Ein thermodynamisches System mit gegebenem Makrozustand besetzt nun verschiedene Mikrozustände der Energie formula_1 mit einer gewissen Wahrscheinlichkeit formula_2. Aus diesen Mikrozuständen zusammen mit ihren Wahrscheinlichkeiten lassen sich viele Parameter des Systems berechnen.
+
+Oft sind einige Mikrozustände eines abgeschlossenen Systems nach außen hin nicht unterscheidbar (z. B. weil sie die gleiche Gesamtenergie und den gleichen Gesamtimpuls oder die gleiche Gesamtmagnetisierung haben). Gemäß dem Postulat der gleichen a-priori-Wahrscheinlichkeiten tritt im thermischen Gleichgewicht jeder dieser Mikrozustände mit gleicher Wahrscheinlichkeit auf. Es kann nicht belegt werden, ist aber die einzig plausible Annahme, da jede Auszeichnung eines dieser Zustände durch eine veränderte Wahrscheinlichkeit eine gewisse Willkür bedeuten würde.
+
+Die statistische Physik definiert die thermodynamischen Eigenschaften eines Systems über ein Ensemble von formula_3 Mikrozuständen. Jedem Mikrozustand formula_4 kann eine Energie formula_1 und eine Besetzungswahrscheinlichkeit formula_2 zugeordnet werden, die sich aus den Eigenschaften des Mikrozustandes ergeben. Mit diesen Definitionen können dann Kennzahlen des Systems als Mittelwert der Mikrozustände (Ensemblemittelwert) berechnet werden (siehe auch Ergodenhypothese). Beispiele:
+
+Weitere thermodynamische Größen können über den Formalismus der Zustandssummen berechnet werden. Dabei wird die Anzahl der Mikrozustände für gewisse Randbedingungen gezählt. Die Verteilung der Mikrozustände im Phasenraum wird von der Zustandsdichte angegeben.
+
+In der klassischen Physik wird ein Gas als Menge von formula_3 punktförmigen Teilchen der Masse formula_15 angenommen. Die Teilchen haben die Positionen formula_16 und die Geschwindigkeiten formula_17. Der Index formula_18 nummeriert die Teilchen durch, der Index formula_4 ist die Nummer eines möglichen Mikrozustands; ein Mikrozustand ist dabei die Angabe der Positionen und momentanen Geschwindigkeiten aller Teilchen zu einem bestimmten Zeitpunkt.
+
+Die mittlere Energie des Mikrozustands lässt sich dann aus den kinetischen Energien der Gasteilchen berechnen:
+
+Es gibt viele Zustände mit der Energie formula_1, da nur die Geschwindigkeiten, nicht aber die Positionen der Teilchen zu dieser Größe beitragen. Gemäß dem Postulat der gleichen A-priori-Wahrscheinlichkeiten hat jeder dieser Zustände die gleiche Wahrscheinlichkeit. 
+
+Die Teilchen stoßen elastisch aneinander und an die Wände des Gefäßes. Dadurch stellt sich nach einiger Zeit ein thermisches Gleichgewicht ein, in dem die Verteilung der Geschwindigkeiten der Einzelteilchen der Maxwell-Boltzmann-Verteilung folgt.
+
+Die Wahrscheinlichkeit für einen Zustand mit der Energie formula_1 ist:
+
+Dabei ist
+
+Ein weiteres Beispiel der statistischen Physik ist das Ising-Modell. Bei diesem eindimensionalen System von Spins sind formula_3 Teilchen in einer Reihe angeordnet. Dabei zeigt der Spin jedes Teilchens entweder nach oben formula_28 oder nach unten formula_29. Liegt zusätzlich ein externes Magnetfeld mit der Feldstärke formula_30 an, so lässt sich die Energie eines Mikrozustandes berechnen als:
+
+Dabei ist formula_32 das Bohrsche Magneton. Für den Fall formula_33 kann man die möglichen Mikrozustände und ihre Energie direkt aufschreiben:
+Auch in diesem Beispiel kann ein Makrozustand gegebener Energie durch verschiedene Mikrozustände dargestellt werden.
+
+Die meisten Lehrbücher der statistischen Physik, wie etwa:
+
+

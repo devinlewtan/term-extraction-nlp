@@ -1,0 +1,13 @@
+﻿Paraxiale Optik
+
+Die paraxiale Optik, auch gaußsche Optik oder Optik erster Ordnung, ist eine Vereinfachung der geometrischen Optik, bei der nur Lichtstrahlen betrachtet werden, die mit der optischen Achse kleine Winkel bilden und kleine Abstände von ihr haben (sog. paraxiale Strahlen).
+
+Durch den Grenzübergang zu unendlich kleinen Achsabständen und Winkeln ergeben sich lineare Formeln für die Berechnung der durch das System gehenden Lichtstrahlen und der Abbildungen. Paraxiale Strahlen verursachen außer der chromatischen Aberration keine Abbildungsfehler; bei Verwendung monochromatischen Lichts (d. h. von Licht mit nur einer Wellenlänge) scheidet auch dieser Fehler aus.
+
+Dann gilt: Strahlen, die von demselben Objektpunkt ausgehen, sind im Bildraum (nach Durchgang durch das System) entweder parallel oder schneiden sich alle in demselben Bildpunkt; Ebenen werden auf Ebenen abgebildet und Geraden auf Geraden, auch dann, wenn sie "nicht" senkrecht zur optischen Achse sind (Scheimpflugsche Regel).
+
+Die paraxiale Optik kann man auf drei Weisen beschreiben und benutzen:
+
+Für die wichtigen Größen, die das Abbildungsverhalten eines optischen Systems bestimmen, liegen in der paraxialen Optik Definitionen vor, u. a.:
+
+

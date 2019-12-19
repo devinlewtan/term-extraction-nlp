@@ -164,82 +164,74 @@ MICROARRAY
 MICROARRAY
 MICROARRAY
 NORMALIZATION
-probes
+PROBE
 SIGNAL
 SIGNIFICANCE
 ANALYSIS
-filters
-filters
+FILTER
+FILTER
 ANALYSIS
-bases
+BASE
 OLIGONUCLEOTIDE
 BASELINE
 BASELINE
 RESEARCH
 ANALYSIS
 COMPARATIVE ANALYSIS
-expressions
-expressions
-expressions
-expressions
-expressions
-genes
-expressions
-genes
-expressions
-genes
-expressions
-genes
-expressions
-genes
-expressions
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
+EXPRESSION
 GENE EXPRESSION
-genes
 GENE EXPRESSION
-genes
 EXPRESSION SCORE
 GENE EXPRESSION
-genes
-conditions
+CONDITION
 SIGNAL
 INDIVIDUAL PROBE
 INDIVIDUAL PROBE
-variance
-variance
+VARIANCE
+VARIANCE
 P
-bases
+BASE
 RANK SUM TEST
 SUM TEST
-hybridization
+HYBRIDIZATION
 NORMALIZATION
 NORMALIZATION
 NORMALIZATION
-probes
-probes
-probes
-probes
-probes
-probes
-probes
-probes
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
+PROBE
 RNA
 RNA
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-ratios
-relative expression
-relative expression
-relative expression
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RATIO
+RELATIVE EXPRESSION
+RELATIVE EXPRESSION
+RELATIVE EXPRESSION
 EXPRESSION SCORE
 SIGNAL
 SIGNAL
@@ -254,6 +246,5 @@ SIGNIFICANCE
 SIGNIFICANCE
 SIGNIFICANCE
 SIGNIFICANCE
-targets
-concentration
-variance
+CONCENTRATION
+VARIANCE

@@ -1,0 +1,14 @@
+﻿Detached-Eddy Simulation
+
+Die Detached-Eddy Simulation (DES) ist ein Verfahren zur Berechnung von turbulenten Strömungen mit Hilfe von Computern. Da Turbulenz sowohl räumlich als auch zeitlich auf sehr unterschiedlichen und vor allem auch sehr kleinen Skalen stattfindet, werden zur korrekten Auflösung aller Phänomene extrem feine Rechengitter und Zeitschritte benötigt (Direkte Numerische Simulation). In der Praxis sind diese Bedingungen oft durch begrenzte Rechenleistung nicht zu erfüllen. Turbulenzmodelle wie DES dienen der Reduktion des Rechenaufwandes.
+
+Bei DES handelt es sich um eine Kombination der gängigen Large Eddy (LES) und Reynolds Averaged Navier Stokes (RANS) Modelle, wobei je nach Gitterauflösung und Abstand von Wänden dynamisch zwischen beiden Modellen gewechselt wird. Die Motivation hierzu liegt im geringeren Rechenaufwand von RANS und der höheren Genauigkeit von LES. Wänden, das heißt Oberflächen an denen die Strömungsgeschwindigkeit durch die Haftbedingung null wird, kommt eine besondere Rolle zu, da hier sehr dünne Grenzschichten auftreten die einen großen Einfluss auf die turbulente Strömung ausüben.
+
+Die Detached Eddy Simulation (DES) wurde erstmals 1997 von Philippe Spalart veröffentlicht. Sie basiert in ihrer ursprünglichen Form auf dem Turbulenzmodell von Spalart-Allmaras (eine Transportgleichung), es wird aber auch an der Anwendung in Verbindung mit anderen Modellen geforscht.
+
+Die DES ersetzt den Wandabstand, der als Variable im Spalart-Allmaras-Modell vorkommt, in wandfernen Bereichen durch die größte Weite einer Gitterzelle. Durch diese Formulierung lässt sich in den wandfernen Bereichen ein LES-ähnliches Verhalten der Rechnung erreichen. De facto erhält man so also eine RANS-Formulierung in der Grenzschicht an Wänden und eine LES Formulierung in der freien Strömung, also das im jeweiligen Bereich am besten geeignete Verfahren (bez. Genauigkeit und Rechenaufwand).
+
+Da RANS und LES unterschiedliche Anforderungen an das Gitter stellen, hat das Erstellen eines geeigneten, in entsprechende Zonen unterteilten Gitters einen großen Einfluss auf den Erfolg der Rechnung. Dasselbe gilt für die verwendeten numerischen Methoden. Diese sind aber meist gezwungenermaßen im gesamten Rechengebiet dieselben, was teilweise zu Kompromissen bezüglich der Genauigkeit führt.
+
+
+

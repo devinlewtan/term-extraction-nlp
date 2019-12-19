@@ -1,0 +1,13 @@
+foreground.list
+background.list
+.txt
+GERMAN_test_output.txt
+True
+False
+30000
+5000
+$TERMOLATOR
+False
+False
+False
+False

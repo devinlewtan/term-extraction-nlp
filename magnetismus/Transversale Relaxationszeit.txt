@@ -1,0 +1,7 @@
+﻿Transversale Relaxationszeit
+
+Die transversale Relaxationszeit (auch T2-Relaxationszeit genannt) ist ein Element der Bloch-Gleichungen zur Beschreibung der Kern- und Elektronenmagnetisierung. Sie ist die Zeitkonstante des exponentiellen Abfalls der transversalen Magnetisierung nach Ausschalten des RF-Wechselfeldes in der Kernspintomographie. 
+
+Ursache ist der Energieaustausch zwischen Spins auf hohen und auf niedrigen Energieniveaus (deshalb auch Spin-Spin-Relaxation genannt), ohne dass Energie an die Umgebung abgegeben wird wie bei der Spin-Gitter-Relaxation.
+
+

@@ -1,0 +1,12 @@
+﻿Spektrograf
+
+Ein Spektrograf ist ein optisches Instrument, das Licht verschiedener Wellenlänge in sein Spektrum (d. h. in seine verschiedenen Farben) zerlegt und das erzeugte Spektrum mittels geeigneter Detektoren registriert. Die Zerlegung des Lichts nach seiner Wellenlänge geschieht mit Hilfe von optischen Elementen, die Dispersionseigenschaften haben, meist entweder ein Prisma, ein Beugungsgitter oder ein so genanntes Grism, das Gitter und Prisma in einem Element kombiniert.
+
+Spektrografen dienen unter anderem als Beobachtungsgerät der Astronomie, welches das aus einem Fernrohr austretende Licht von Sternen oder Galaxien in sein Spektrum zerlegt und auf einen Detektor leitet.
+
+Solche Detektoren waren früher meist Fotoplatten und Filme. Heute werden vor allem CCD-Elemente oder Photodiodenzeilen zum Zweck des Nachweises des durch den Spektrografen erzeugten Spektrums verwendet.
+
+Instrumente zur Spektroskopie, der visuellen Betrachtung von Spektren, heißen Spektroskope.
+
+
+

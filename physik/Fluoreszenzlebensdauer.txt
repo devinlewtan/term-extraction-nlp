@@ -1,0 +1,32 @@
+﻿Fluoreszenzlebensdauer
+
+Die Fluoreszenzlebensdauer, früher auch Fluoreszenzabklingzeit, gibt die mittlere Zeit an, die ein Molekül in einem angeregten Zustand bleibt, bevor es ein Photon emittiert und damit in den Grundzustand zurückkehrt. Sie liegt in der Größenordnung von 10 - 10 s. Der Zerfall der Fluoreszenz folgt dabei einem exponentiellen Gesetz:
+
+Hierbei ist formula_2 die Fluoreszenzintensität unmittelbar nach einem Anregungsblitz (z. B. ein Laserimpuls), formula_3 die Zeit und formula_4 die Fluoreszenzlebensdauer. Für diese gilt
+
+Das bedeutet, es existieren strahlende Prozesse, die mit der Rate formula_6 zerfallen und nicht-strahlende Prozesse, die mit der Rate formula_7 zerfallen. Bei stark fluoreszierenden Stoffen, wie Fluoreszenzfarbstoffen, ist formula_7 verschwindend gering. Bei nicht-fluoreszierenden Stoffen (also den meisten Dingen unserer Umgebung) ist hingegen formula_6 viel kleiner als formula_7.
+
+Typische Fluoreszenzlebensdauern liegen im Bereich von wenigen Nanosekunden. Dabei ist zu beachten, dass es sich hier um einen spinerlaubten Vorgang (Fluoreszenz) handelt. Beim spinverbotenen Vorgang (Phosphoreszenz) ergeben sich um Größenordnungen längere Lebenszeiten im Bereich von Millisekunden bis Stunden.
+
+Die Fluoreszenzlebensdauer ist in der Spektroskopie und Mikroskopie (Fluoreszenzlebensdauer-Mikroskopie) ein wichtiger Messparameter, der zur Unterscheidung verschiedener (auch gleichfarbiger) Fluorophore dient. Darüber liefert die Fluoreszenzlebensdauer wichtige Informationen über die chemische Umgebung eines Fluorophors und kann Energietransfermechanismen, wie den Förster-Resonanzenergietransfer, aufdecken.
+
+Zum Beispiel wird in einer Zelle die Fluoreszenzlebensdauer durch die nähere Umgebung des Fluorophors beeinflusst, d. h. die Fluorophore können als Messsonden der Umgebung dienen.
+
+Die Ermittlung von Fluoreszenzlebensdauern erfordert die zeitaufgelöste Aufzeichnung der Intensität emittierter Strahlung. Ein gängiges Verfahren dafür ist die zeitkorrelierte Einzelphotonenzählung (TCSPC). Dabei erfolgt die Anregung der Probe periodisch mit monochromatischen Lichtblitzen geringer Intensität (Laser, Nanosekunden-Blitzlampe). Die Detektion der Fluoreszenz erfolgt bei einer größeren als der zur Anregung verwendeten Wellenlänge (Monochromator auf Emissionsseite der Versuchsanordnung) mit einem Sekundärelektronenvervielfacher (Photomultiplier, PMT), der in der Lage ist, einzelne Photonen zu registrieren. 
+
+Wird das Licht der Anregungslichtquelle so stark abgeschwächt, dass nur noch nach ein bis fünf Prozent der Lichtblitze ein Signal registriert wird, so kann davon ausgegangen werden, dass es sich um die Registrierung einzelner Photonen handelt. Mit einer elektronischen Schaltung werden Zeitmessungen durchgeführt, die von einem zusätzlichen Detektor (Photodiode) direkt an der Lichtquelle gestartet und vom Signal des Fluoreszenzdetektors gestoppt werden. Durch die Diskretisierung des Zeitsignals erhält man nach Durchlaufen vieler Anregungs-/Messzyklen ein (von der Auflösung der eingesetzten Analog-Digital-Wandler abhängiges) Histogramm, dessen Einhüllende dem Signal einer analogen Aufzeichnung des zeitaufgelösten Intensitätsverlaufs der Fluoreszenz nach einem einzelnen Anregungsimpuls hoher Leistung entspricht.
+
+Aus dem dabei erhaltenen Histogramm (siehe Abbildung) kann auf graphischem Wege oder durch Regressionsanalyse die Fluoreszenzlebensdauer formula_4 ermittelt werden.
+
+Eine andere Methode ist die Messung im Frequenzbereich (Phasenfluorometrie). Hierbei wird die Probe mit einem intensitätsmodulierten Licht formula_12 der Frequenz formula_13 bestrahlt. Detektiert wird das emittierte Fluoreszenzlicht formula_14, das mit der gleichen Frequenz moduliert ist. Allerdings wird die Modulationsamplitude verringert und es tritt eine Phasenverschiebung auf. Das System wird wie folgt beschrieben (lineare Antwort):
+
+formula_16 ist die Suszeptibilität, die sich aus einem Dispersionsterm und einem Absorptionsterm zusammensetzt. Wird nun als Zeitantwort auf eine Delta-Störung eine Debye-Relaxation angenommen:
+
+dann folgt für den Frequenzbereich (Fouriertransformation):
+
+Für Phase und Demodulation formula_19 ergibt sich dann:
+
+Dabei sind formula_22 und formula_23 die Abklingzeiten für die Phase bzw. die Demodulation. Im Falle nur eines Fluorophors sind diese gleich und frequenzunabhängig.
+
+
+

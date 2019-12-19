@@ -1,0 +1,14 @@
+﻿Clusterzerfall
+
+Der Clusterzerfall (auch "Clusteremission", ) ist ein sehr selten auftretender radioaktiver Zerfallstyp. Dabei wird ein leichter Atomkern emittiert, der schwerer als ein Alpha-Teilchen, aber mit 6 bis 14 Prozent der Masse des Mutterkerns wesentlich leichter als die typischen Spaltfragmente der Kernspaltung ist. Außerdem werden keine Neutronen freigesetzt.
+
+Als emittierte Cluster beobachtet wurden bisher Kerne zwischen Kohlenstoff-14 und Silicium-34. Es handelt sich überwiegend nicht um die jeweils stabilsten Kerne zu ihrer Ordnungszahl, sondern um deren Isotope mit höherem Neutronenüberschuss, entsprechend dem Neutronenüberschuss des Mutterkerns.
+
+Der Clusterzerfall wurde von Aureliu Săndulescu, Dorin N. Poenaru und Walter Greiner 1980 theoretisch vorhergesagt. H. J. Rose und George Arnold Jones erbrachten 1983 an der University of Oxford den ersten experimentellen Nachweis, der Anfang 1984 in der Zeitschrift "Nature" veröffentlicht wurde. Sie stellten fest, dass das Radiumisotop Radium-223 (ein Alpha-Strahler mit einer Halbwertszeit von 11,43 Tagen) unter Emission eines Kohlenstoff-14-Atomkerns direkt zu Blei-209 zerfallen kann:
+
+In der Karlsruher Nuklidkarte von 2012 sind 20 Radionuklide aufgeführt, die neben dem dominierenden Alphazerfall auch Clusteremission aufweisen:
+
+Bei einigen Radionukliden sind bis zu vier Möglichkeiten des Clusterzerfalls beobachtet worden, beispielsweise drei bei dem in der Natur vorkommenden Uranisotop Uran-234: die Emission eines Neon-24-, eines Neon-26- oder eines Magnesium-28-Kerns.
+
+
+

@@ -1,0 +1,132 @@
+﻿Elektrischer Widerstand
+
+Der elektrische Widerstand ist in der Elektrotechnik ein Maß dafür, welche elektrische Spannung erforderlich ist, um eine bestimmte elektrische Stromstärke durch einen elektrischen Leiter (Bauelement, Stromkreis) fließen zu lassen. Dabei sind Gleichgrößen zu verwenden oder Augenblickswerte bei mit der Zeit veränderlichen Größen.
+
+Wenn die Spannung von einem Anschlusspunkt A zu einem Anschlusspunkt B gezählt wird, wird die Stromstärke in dem Leiter positiv gezählt, wenn er von A nach B fließt; der Widerstand kann nicht negativ sein.
+
+Als Formelzeichen für den elektrischen Widerstand wird in der Regel formula_1 – abgeleitet vom Lateinischen "resistere" für „widerstehen“ – verwendet. Der Widerstand hat die SI-Einheit Ohm, ihr Einheitenzeichen ist das Ω (großes Omega).
+Auf historische Zusammenhänge wird im Artikel „ohmsches Gesetz“ eingegangen.
+
+Ein elektrischer Widerstand ist dann ein ohmscher Widerstand, wenn sein Wert unabhängig von der Spannung, der Stärke des Stromes und irgendwelchen Parametern ist. An einem solchen Widerstand gilt das ohmsche Gesetz. Wird in einem Liniendiagramm die Spannung formula_2 über der Stromstärke formula_3 aufgetragen, entsteht bei einem ohmschen Widerstand eine Ursprungsgerade; die an einem Bauteil mit ohmschem Widerstand abfallende Spannung ist proportional zur Stromstärke im Widerstand mit dem Proportionalitätsfaktor formula_1; dieser ist zugleich der Anstieg der Geraden:
+
+Näherungsweise und mit Einschränkungen kann ein ohmscher Widerstand durch ein Bauelement, im einfachsten Fall einen Metalldraht, realisiert werden. Dieses wird üblicherweise ebenfalls als Widerstand – siehe Widerstand (Bauelement) – bezeichnet.
+
+Wenn durch den Strom im Widerstand ein Spannungsabfall entsteht, wird elektrische Energie
+in thermische Energie umgesetzt.
+
+Der Kehrwert des ohmschen Widerstands, also der Proportionalitätsfaktor zwischen Stromstärke und Spannung, heißt elektrischer Leitwert formula_6 eines Leiters. Es gilt also:
+
+Der ohmsche Widerstand eines Körpers lässt sich aus seinen geometrischen Abmessungen und einer Material-Konstante, dem spezifischen Widerstand formula_8, berechnen.
+Für einen in Längsrichtung durchflossenen geraden Leiter mit konstanter Querschnittsfläche formula_9 und der Länge formula_10 gilt:
+
+Der spezifische Widerstand selbst ist im Allgemeinen von der Temperatur und eventuell noch weiteren Größen abhängig.
+
+Die oben aufgestellte Gleichung für den Gleichstromwiderstand eines geraden Leiters wird dann beispielsweise ersetzt durch
+
+wobei der Index die Celsius-Temperatur kennzeichnet, für die die Größen gelten. In Tabellenbüchern ist die übliche Bezugstemperatur 20 °C. Die Werte sind abhängig von Reinheitsgrad sowie thermischer und mechanischer Behandlung; deshalb sind die Tabellenwerte nur als Richtwerte zu verstehen.
+
+Der Einfluss der Temperatur formula_14 auf den Widerstand formula_15 lässt sich in einfachen Fällen mit dem "Linear-Temperaturkoeffizienten" formula_16 und dem Temperaturunterschied formula_17 darstellen. Dann wird der Zusammenhang durch eine lineare Gleichung beschrieben
+
+Für die meisten Anwendungen mit metallischen Materialien bei nicht zu großen Temperaturbereichen reicht diese lineare Näherung aus; sonst sind Glieder höherer Ordnung in die Gleichung einzubeziehen. (Ein Beispiel mit Summanden bis zur vierten Potenz siehe Platin im Artikel Widerstandsthermometer.)
+
+Je nachdem, ob der Widerstandswert mit steigender Temperatur größer oder kleiner wird, wird unterschieden zwischen
+
+In der Mess- und Regelungstechnik wird die Temperaturabhängigkeit des elektrischen Widerstandes als Messeffekt ausgenutzt, zum Beispiel bei Widerstandsthermometern, weiteren Temperatursensoren, thermischen Anemometern oder Einschaltstrombegrenzern.
+
+Es gibt auch verschiedene spezielle Legierungen, die sich durch einen über weite Temperaturbereiche annähernd konstanten spezifischen elektrischen Widerstand auszeichnen, wie das für einen Messwiderstand erforderlich ist.
+
+An einem rein ohmschen linearen Widerstand formula_1, der von Wechselstrom durchflossen wird, haben Spannung und Stromstärke denselben Phasenwinkel. Wenn sich allerdings frequenzabhängig der Widerstand ändert und die Phasenlage verschiebt, ist zum ohmschen Anteil am Widerstand eine Komponente formula_21 hinzugekommen, die auf Spannungs- oder Stromänderungen verzögernd reagiert. Bei sinusförmigem Verlauf von Spannung und Stromstärke wird der Quotient aus den Amplituden oder Effektivwerten als Scheinwiderstand formula_22 bezeichnet. In der komplexen Wechselstromrechnung wird der Scheinwiderstand mit dem Phasenverschiebungswinkel formula_23 als Impedanz oder komplexer Widerstand formula_24 zusammengefasst:
+In einer anderen Darstellung werden die zwei Komponenten in der komplexen Ebene zueinander rechtwinklig zu formula_24 zusammengefasst:
+Darin werden formula_1 als Wirkwiderstand und formula_21 als Blindwiderstand bezeichnet. Der Wirkwiderstand, welcher nicht phasenverschiebend arbeitet, wird auch als "ohmscher Anteil" der Impedanz bezeichnet.
+
+Werden die Spannung formula_30 und die Stromstärke formula_31 als sinusförmige Größen mit der Frequenz formula_32 oder der Kreisfrequenz formula_33 in der komplexen Ebene durch Zeiger formula_34 und formula_35 dargestellt, so entsteht unter Einbeziehung der Eulerschen Formel
+
+mit
+
+Bei einer Spule mit der Induktivität formula_38 gilt
+Aufgrund einer Spannung wächst die Stromstärke mit der Zeit an. Bei Wechselstrom folgt dieser verzögert. Mit dem Ansatz in komplexer Schreibweise formula_34 und formula_41 wie oben ergibt sich nach der Differenziation
+
+Das formula_21 wird hier als induktiver Blindwiderstand bezeichnet
+Zusammen mit dem Faktor formula_46 bedeutet das Ergebnis, dass eine Induktivität für sinusförmige Wechselgrößen wie ein phasendrehender Blindwiderstand wirkt.
+Mit formula_47 ergibt sich formula_48
+
+Der Scheinwiderstand einer Induktivität ist ein zur Frequenz proportionaler, aber im Übrigen linearer Widerstand.
+
+Entsprechend gilt bei einem Kondensator mit der Kapazität formula_49
+Aufgrund eines Stromes wächst die Spannung mit der Zeit an. Bei Wechselspannung folgt diese verzögert.
+In komplexer Schreibweise und nach der Integration ergibt sich
+
+Das formula_21 wird hier als kapazitiver Blindwiderstand bezeichnet
+Zusammen mit dem Faktor formula_46 bedeutet das Ergebnis, dass eine Kapazität für sinusförmige Wechselgrößen wie ein phasendrehender Blindwiderstand wirkt. Hier ist formula_56
+
+Der Scheinwiderstand einer Kapazität ist ein zur Frequenz umgekehrt proportionaler, aber im Übrigen linearer Widerstand.
+
+Durch Vergleich der Darstellungen
+ergeben sich
+
+und für den "Scheinwiderstand":
+und für den Phasenverschiebungswinkel zwischen formula_34 und formula_41:
+
+
+
+Als Ersatzwiderstand wird der komplexe elektrische Widerstand bezeichnet, der denselben Widerstand besitzt wie eine elektrische Schaltung oder der Teil einer elektrischen Schaltung, den er ersetzt. Ein Ersatzwiderstand kann das Verhalten komplexer elektrischer Anordnungen veranschaulichen und eine Berechnung ermöglichen; siehe auch Ersatzschaltbild.
+
+Tatsächlich auftretende Wechselstromwiderstände lassen sich häufig durch Reihenschaltung oder Parallelschaltung aus einem ohmschen Widerstand mit einer Induktivität oder mit einer Kapazität beschreiben. Welches der Bilder verwendet wird, ist eine Frage der besseren Annäherung an die Wirklichkeit mit möglichst frequenzunabhängigen Größen und der Zweckmäßigkeit für die mathematische Behandlung.
+
+Bei genauer Betrachtung hat aber auch jeder Kondensator einen kleinen induktiven Anteil, so wie eine Spule auch einen kapazitiven Anteil hat. Selbst ein Stück Draht muss exakt mit formula_1, formula_49 und formula_38 beschrieben werden; siehe auch Leitungsbelag. Dies zeigt sich im Besonderen dann, wenn die Bauelemente mit ihren geometrischen Abmessungen in den Bereich der Wellenlänge der angelegten Wechselspannung kommen; dann besitzen sie eine nicht zu vernachlässigende Induktivität und Kapazität. Sie werden gegebenenfalls zum Schwingkreis, als Beispiel sei hier die Antenne genannt. Deren Enden dürfen als Kondensatorplatten gesehen werden, der Draht dazwischen als Spule.
+
+Werden ein ohmscher Widerstand und ein Blindwiderstand zusammengeschaltet, so können in komplexer Schreibweise die weiter unten folgenden Regeln für Reihen- und Parallelschaltung angewendet werden.
+
+Werden eine kapazitive und eine induktive Impedanz zusammengeschaltet, so entsteht bei genügend kleiner ohmscher Belastung ein Schwingkreis; die Reihen- und Parallelschaltung und die weiteren Konsequenzen werden unter diesem Stichwort behandelt.
+
+Ein anschauliches Hilfsmittel zur Analyse und Beschreibung von Schaltungen mit Wechselstromwiderständen ist die Ortskurve.
+
+Komplexe Größen lassen sich durch Zeiger in der komplexen Ebene darstellen. Wenn die komplexe Größe eine Funktion eines (reellen) Parameters ist und wenn dieser Parameter variiert wird, verschiebt sich die Spitze des Zeigers. Eine Linie durch alle denkbaren Zeigerspitzen wird als Ortskurve bezeichnet.
+
+Die Bilder zeigen Ortskurven der Impedanz als Funktion der Frequenz für die angegebenen Schaltungen. Bei einer RL- oder RC-Reihenschaltung mit einem von der Frequenz unabhängigen ohmschen Widerstand ist auch der Wirkanteil der Impedanz von der Frequenz unabhängig. Bei der entsprechenden Parallelschaltung sind der Wirk- und der Blindanteil der Impedanz ersichtlich beide von der Frequenz abhängig.
+
+Werden formula_79 ohmsche Widerstände hintereinander geschaltet, so addieren sich die Widerstände:
+Dieses lässt sich an der Reihenschaltung zweier Widerstände veranschaulichen, die sich nur in der Länge formula_10 unterscheiden.
+
+Die Reihenschaltung ergibt einen Widerstandskörper der Länge formula_82. Dann gilt:
+
+Bei formula_79 gleichen Widerständen (formula_85) ist der Gesamtwiderstand so groß wie der mit der Anzahl der Widerstände multiplizierte Einzelwiderstand:
+Der Widerstand einer Reihenschaltung ist stets größer als der größte Einzelwiderstand. Eine Ausnahme gibt es bei Wechselstromwiderständen im Reihenschwingkreis.
+
+Werden formula_79 ohmsche Widerstände nebeneinander geschaltet, so addieren sich die Leitwerte beziehungsweise die reziproken Widerstände:
+Dieses lässt sich an der Parallelschaltung zweier Widerstände veranschaulichen, die sich nur in ihrer Querschnittsfläche formula_9 unterscheiden.
+
+Die Parallelschaltung ergibt einen Widerstandskörper der Querschnittsfläche formula_91. Dann gilt:
+
+und umgestellt
+Für die Parallelschaltung gibt es eine alternative Schreibweise mit dem "Parallel"-Zeichen formula_94:
+Speziell für zwei parallele Widerstände gilt:
+Bei formula_79 gleichen Widerständen ist der Gesamtwiderstand so groß wie der durch die Anzahl der Widerstände dividierte Einzelwiderstand:
+Der Widerstand einer Parallelschaltung ist stets kleiner als der kleinste Einzelwiderstand. Eine Ausnahme gibt es bei Wechselstromwiderständen im Parallelschwingkreis.
+
+Bei nichtlinearen Strom-Spannungs-Kennlinien – wie zum Beispiel von Dioden – ist der Quotient für jedes Strom-Spannungs-Paar unterschiedlich. In diesem Fall gilt das ohmsche Gesetz nicht, und man kann nicht von einem linearen Widerstand formula_1 sprechen. Kleine Spannungsänderungen sind jedoch näherungsweise proportional zu damit verbundenen kleinen Stromstärkeänderungen. Der Quotient aus kleiner Spannungsänderung und zugehöriger Stromstärkeänderung bei einer bestimmten Spannung wird als differentieller Widerstand formula_100 bezeichnet. In einem Diagramm, in dem formula_2 über formula_3 aufgetragen wird, entspricht er der Steigung der Tangente am betrachteten Punkt der Kennlinie.
+
+Der differentielle Widerstand kann in einem Teil der Kennlinie negativ sein, so dass die Stromstärke bei steigender Spannung sinkt beziehungsweise die Stromstärke bei sinkender Spannung steigt. Im Bild ist das im Bereich "U" < "U" < "U" der Fall. Ein negativer differentieller Widerstand kann zum Anregen (Entdämpfen) von Schwingkreisen oder zur Erzeugung von Kippschwingungen verwendet werden (Oszillator). Der negative differentielle Widerstand tritt zum Beispiel bei Gasentladungen oder bei Bauteilen wie Avalanche- und Tunneldioden auf, in einfachen elektronischen Schaltungen wie der Lambda-Diode, aber auch bei komplexeren Modulen wie z. B. Schaltnetzteilen auf der Eingangsseite.
+
+Bei positiven differentiellen Widerständen nimmt die Stromstärke mit zunehmender Spannung zu. Alle real existierenden Schaltungselemente besitzen in einem Teil ihrer Kennlinie, jedoch stets für sehr große Werte, einen positiven differentiellen Widerstand. Die meisten Elemente in der Schaltungstechnik besitzen einen ausschließlich positiven differentiellen Widerstand.
+
+Beispiele: realer Widerstand, Diode, Zener-Diode, alle halbleitenden Keramiken.
+
+Die physikalische Beschreibung benutzt die Vorstellung, dass sich die Valenzelektronen im Metall wie ein Gas (Elektronengas) verhalten. Im einfachsten Modell bildet das Metall ein positiv homogen geladenes Volumen, in denen sich die Elektronen frei bewegen können. In dieses Volumen sind die Atomrümpfe eingebettet, die aus dem Atomkern und den stärker gebundenen Elektronen auf den tieferen, vollbesetzten Schalen bestehen.
+
+Ohne äußere elektrische Spannung bewegen sich die Elektronen ungeordnet im Metall (siehe brownsche Bewegung). Legt man nun eine Spannung an, so werden die freien Elektronen durch das elektrische Feld in Richtung der Feldlinien beschleunigt. Es fließt ein elektrischer Strom.
+
+Auf ihrem Weg durch das Metall kommt es zu elastischen Stößen der Elektronen mit anderen Elektronen, den Atomrümpfen und Phononen. Dabei geben die Elektronen Energie an ihre Stoßpartner ab, werden gestreut und wieder durch das elektrische Feld beschleunigt. Die Elektronen werden durch diese Wechselwirkung dauernd abgebremst und es stellt sich eine mittlere Strömungsgeschwindigkeit ein.
+
+Die bei diesen Stößen an die Atomrümpfe beziehungsweise Phononen übertragene Energie führt zu einer größeren Eigenschwingung um ihre Gleichgewichtslage, ihre Temperatur erhöht sich. Durch die stärkeren Schwingungen erhöht sich die Querschnittsfläche für mögliche Stöße, deren Anzahl mit steigender Temperatur zunimmt und den Widerstand steigen lässt (Kaltleiter). Der Leitungsvorgang in Heißleitern kann mit diesem Modell nicht vollständig erklärt werden, da es hier mit steigender Temperatur zu einer deutlichen Ladungsträgergeneration kommt, die den eben beschriebenen Vorgang überlagern.
+
+Bei sehr hohen Temperaturen, bei denen die Atome des Materials ionisiert werden (Plasma), ist jeder Stoff elektrisch leitend, da die vorher gebundenen Elektronen nun für den Ladungstransport zur Verfügung stehen. Umgekehrt sind Metalle und Oxide bekannt, für die der elektrische Widerstand bei sehr niedrigen Temperaturen unterhalb einer spezifischen Sprungtemperatur verschwindet: Supraleiter besitzen bei Gleichstrom keinen ohmschen Widerstand, Strom fließt bei dieser tiefen Temperatur ohne Verluste.
+
+Durch die thermische Bewegung der Elektronen entsteht ein temperaturabhängiger Rauschstrom, der als Widerstandsrauschen bezeichnet wird.
+
+Der Hall-Widerstand gibt das Verhältnis Spannung zu Stromstärke eines Hallelementes bei einer bestimmten magnetischen Flussdichte an, wobei diese Spannung "quer" zur Stromdichte auftritt. Er charakterisiert das Hall-Element bzw. die magnetische Flussdichte, hat jedoch mit dem elektrischen Widerstand dieses Hall-Elementes nichts zu tun.
+
+Der Quanten-Hall-Effekt äußert sich dadurch, dass bei tiefen Temperaturen und starken Magnetfeldern die senkrecht zur Stromdichte auftretende Spannung nicht wie beim klassischen Hall-Effekt linear mit der Flussdichte anwächst, sondern in Stufen. Dieses Phänomen führt auf eine universelle Naturkonstante, die „Von-Klitzing-Konstante“ von der Dimension Widerstand. Da die Von-Klitzing-Konstante relativ einfach gemessen werden kann, wurde vorgeschlagen, sie als Normal für Messungen des elektrischen Widerstands zu verwenden.
+
+
+

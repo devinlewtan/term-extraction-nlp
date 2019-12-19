@@ -1,0 +1,45 @@
+﻿Spinpolarisation
+
+In einer Ansammlung gleichartiger Teilchen wie Elektronen, Atome oder Ionen besteht Spinpolarisation, wenn die Spinvektoren der Teilchen mehr oder weniger ausgerichtet sind, die Richtungen also nicht zufällig verteilt sind. In der Fachsprache z. B. der Kernphysik wird dann meist einfach von "Polarisation" gesprochen.
+
+Der Axialvektor eines durch die Quantenzahl formula_1 beschriebenen Spins kann gegenüber einer gewählten Quantisierungsachse formula_2 verschiedene Richtungen einnehmen (siehe Richtungsquantelung, Multiplizität). Diese werden durch eine "spinmagnetische" Quantenzahl formula_3 bezeichnet:
+
+Im einfachsten Fall formula_5 ergeben sich die beiden Werte formula_6 und formula_7 (Multiplizität 2).
+
+Zustände, die sich nur im Wert von formula_3 unterscheiden, sind zwar quantenmechanisch verschieden. Sie haben aber normalerweise gleiche Energie, sind also „entartet“. In einem Ensemble gleichartiger Teilchen sind diese Zustände daher im Allgemeinen bis auf zufällige statistische Schwankungen gleich stark besetzt (eine Ausnahme bilden die Elektronen und Positronen der Betastrahlung, siehe unten).
+
+Eine Polarisation, also Abweichung von der Gleichverteilung, lässt sich bei Spin-1/2-Teilchen beschreiben durch den "Polarisationsgrad formula_9":
+
+Dabei sind formula_11 und formula_12 die Anzahlen der Teilchen mit den beiden Spinausrichtungen („up“ und „down“) zur gewählten Achse. Auch der Polarisationsgrad wird oft kurz als „die Polarisation“ bezeichnet. formula_9 beträgt für ein unpolarisiertes Ensemble 0, für ein maximal polarisiertes ±1, häufig als ±100 % ausgedrückt. Auch die Beschreibung durch einen "Polarisationsvektor" ist möglich; dieser ist die Vektorsumme aller Spins im Ensemble geteilt durch die Teilchenanzahl und wird meist ebenfalls auf den Betrag 1 für maximale Polarisation normiert. Bei Teilchen mit höherem Spin als 1/2, also drei oder mehr möglichen Ausrichtungen, ist die Beschreibung der Polarisation komplizierter und erfordert im Allgemeinen einen Tensor entsprechender Stufe.
+
+Spinpolarisation ist also keine Eigenschaft eines einzelnen Teilchens, sondern des Ensembles. Quantenmechanisch lässt sie sich mit dem Dichtematrix-Formalismus beschreiben.
+
+Der Spin von Teilchen ist mit einem magnetischen Moment verbunden. Bringt man das Teilchenensemble in ein Magnetfeld, ändert sich daher die Energie des einzelnen Zustands je nach Stellung zur Feldrichtung, die Entartung wird aufgehoben. Daher rührt die Bezeichnung "magnetische" Quantenzahl. Die entsprechende beobachtbare Aufspaltung optischer Spektrallinien heißt Zeeman-Effekt. 
+
+Da sich die Teilchen bevorzugt in Zuständen kleinerer Energie sammeln, führt das Magnetfeld schon ohne weitere Maßnahmen zu einer gewissen Spinpolarisation. Diese ist allerdings bei Umgebungstemperatur meist gering, weil die magnetischen Energieunterschiede klein sind gegenüber der thermischen Energie der Teilchen (dies gilt insbesondere für Atomkerne mit ihren kleinen magnetischen Momenten). Mit speziellen Verfahren lassen sich weitaus höhere Polarisationen erreichen. Dies wird in manchen, aber nicht allen Fällen als Hyperpolarisation bezeichnet.
+
+Wird ein zunächst auf gerader Bahn fliegendes Teilchen mit Spin aus seiner Flugrichtung abgelenkt, beeinflusst die Wechselwirkung zwischen Spin und Bahndrehimpuls die Bewegung, ähnlich wie in Atomen und Atomkernen (siehe Spin-Bahn-Kopplung). Zeigt beispielsweise der Spinvektor in die formula_14-Richtung, während das Teilchen in formula_15-Richtung fliegt, stehen die Vektoren von Spin und Bahndrehimpuls bei Ablenkung (Streuung) in die formula_16-Richtung antiparallel, in die -formula_16-Richtung parallel zueinander (siehe Skizze). Der differentielle Wirkungsquerschnitt ist dadurch bei gleichem Streuwinkel verschieden, je nachdem die Streuung zur +formula_16-Seite oder zur hin erfolgt. Allgemeiner gesagt: er hängt außer vom Streuwinkel auch vom Azimutwinkel (siehe Kugelkoordinaten), dem Winkel zwischen der Bahnebene und der "xz"-Ebene, ab. Für einen polarisierten Teilchenstrahl stellt der Streuprozess auf diese Weise einen Analysator dar, denn zwei symmetrisch zueinander links und rechts der formula_19-Ebene aufgestellte Detektoren registrieren verschieden viele Teilchen. Andererseits sind bei unpolarisiertem Strahl die Teilchen, die nach einer bestimmten Seite gestreut werden, ein mehr oder weniger stark polarisiertes Ensemble; der Streuprozess wirkt also auch als Polarisator. 
+
+Wegen der Drehimpulserhaltung zeigt sich auch bei Kernreaktionen entsprechendes Verhalten wie bei Streuung. Streu- und Reaktionsexperimente mit Beobachtung der Polarisation der emittierten Teilchen oder mit polarisiertem Strahl oder Target sind daher in der Kernphysik ein wichtiges Mittel zur näheren Bestimmung der Spin-Bahn-Wechselwirkung. Bevor man polarisierte Teilchenstrahlen oder polarisierte Targets herstellen konnte, lieferten "Doppelstreuexperimente", bei denen dieselben Teilchen zwei Streuungen nacheinander durchliefen, Informationen dazu. Bei ihnen stellte die erste Streuung den Polarisator, die zweite den Analysator dar.
+
+Mit einem polarisierten 1,16-GeV-Elektronenstrahl ist in einem Streuexperiment die schwache Ladung des Protons genau gemessen worden. Dabei wurde ausgenutzt, dass nur in der schwachen Wechselwirkung die Nichterhaltung der Parität gilt.
+
+In Feststoffen, Flüssigkeiten oder Gasen wird Polarisation der Atomkerne mittels eines Magnetfelds erzeugt, oft mit Hilfe tiefer Temperatur, um die thermische Energie der Teilchen klein zu halten (siehe Boltzmann-Verteilung). Mit dieser Technik wurde z. B. im Wu-Experiment bei 10 Millikelvin ein Polarisationsgrad der Cobalt-60-Kerne von ca. 60 % erreicht. 
+
+Statt eines starken äußeren Feldes kann zur Polarisation der Kerne in manchen Fällen das in einem paramagnetischen Ion vom Elektronenspin verursachte Feld ausgenutzt werden, so dass ein relatives schwaches äußeres Feld genügt, das die Ionen ausrichtet.
+
+Eine weitere Methode besteht darin, Atome durch optisches Pumpen mit zirkular polarisiertem Licht auszurichten und die Kopplung der Elektronen mit dem Kernmoment (siehe Hyperfeinstruktur) auszunutzen.
+
+Polarisierte Ionenstrahlen zur Verwendung in Teilchenbeschleunigern lassen sich nach dem weiterentwickelten Konzept des Stern-Gerlach-Experiments herstellen: aus einem Atomstrahl, z. B. Wasserstoff oder Deuterium, wird im inhomogenen Magnetfeld ein polarisierter Teilstrahl gewonnen und dieser dann – im einfachsten Fall – in einem schwachen Magnetfeld unter Ausnützung der Hyperfeinaufspaltung ionisiert.
+
+Ein anderer Typ „polarisierter Ionenquellen“ nutzt die Aufspaltung der Energieniveaus durch die Lamb-Verschiebung aus.
+
+Elektronen in Speicherringen werden durch Emission von Synchrotronstrahlung longitudinal polarisiert.
+
+Polarisierte langsame Neutronen für die Neutronenstreuung werden durch Reflexion an den ausgerichteten Atomen eines ferromagnetischen Spiegels (siehe Neutronensuperspiegel) gewonnen. 
+
+
+Die beim Betazerfall emittierten Teilchen sind entlang ihrer Emissionsrichtung spinpolarisiert. Anschaulich gesagt rotieren z. B. die Elektronen aus Beta-Minus-Zerfällen, in ihrer Flugrichtung gesehen, vorzugsweise gegen den Uhrzeigersinn ("linkshändige Elektronen"). Erklärt wird dies damit, dass die für den Betazerfall verantwortliche schwache Wechselwirkung nur chiral linkshändige Teilchen und chiral rechtshändige Antiteilchen erzeugt, insofern also die Spiegelsymmetrie der Naturgesetze maximal verletzt (siehe Paritätsverletzung). Dies wirkt sich als longitudinale Spinpolarisation der emittierten Teilchen aus. Theorie und Messungen ergeben, dass der Polarisationsgrad formula_20 beträgt (formula_21 Teilchengeschwindigkeit, formula_22 Lichtgeschwindigkeit), für relativistische Beta-Elektronen und für Neutrinos aus dem Betazerfall also praktisch 100 %.
+
+
+

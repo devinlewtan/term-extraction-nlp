@@ -1,0 +1,71 @@
+﻿Kompassfehler
+
+Kompassfehler sind Anzeigefehler des Magnetkompasses, die bei der Kippung des Kompasses durch die Vertikalkomponente des Erdmagnetfeldes verursacht werden. Dabei wird zwischen Drehfehlern und Beschleunigungsfehlern unterschieden. Der Kompassfehler ist besonders für Flugzeuge wichtig, da der Pilot beim Instrumentenflug auf den Kompass angewiesen ist.
+
+Beim unbeschleunigten Steig- oder Sinkflug tritt hingegen kein Anzeigefehler auf, da die Kompassrose durch ihre bewegliche Lagerung die Flugzeugneigung ausgleichen kann und somit weiterhin horizontal ausgerichtet ist. Die senkrechte Komponente des Erdmagnetfelds kann also kein Drehmoment ausüben. Der Drehfehler des Magnetkompasses tritt bei Kurvenflügen auf. Je nach Himmelsrichtung und Breitengrad ist der Drehfehler dabei unterschiedlich stark ausgeprägt. Bei Kurven, die von einem Nordkurs aus beginnen, zeigt der Magnetkompass anfänglich eine gegenläufige Drehung an, die den unerfahrenen Piloten verwirren kann.
+
+Der Beschleunigungsfehler des Magnetkompasses bewirkt, dass während der Beschleunigungsphase (acceleration) ein um 10–20° nördlicherer Kurs angezeigt wird, als tatsächlich geflogen wird. In der Abbremsphase (deceleration) eines Fluges wird ein nach Süden verfälschter Kurs angezeigt.
+
+Nur am Äquator verlaufen die Magnetlinien parallel zur Erdoberfläche – in Nord-Süd-Richtung (die Variation wird bei dieser Betrachtung vernachlässigt).
+
+An den Magnetpolen (magnetischer Nordpol, magnetischer Südpol) verlaufen die Magnetlinien senkrecht „in das Eis“.
+In mittleren Breiten verlaufen die Kraftlinien des Magnetfeldes mehr oder weniger geneigt zur Erdoberfläche. Man kann somit bei den Magnetlinien (Erdmagnetfeld) zwischen einer horizontalen und einer vertikalen Komponente unterscheiden.
+Am magnetischen Äquator ist die vertikale Komponente gleich Null. An den magnetischen Polen ist die horizontale Komponente des Erdmagnetfeldes gleich Null.
+
+Lediglich die horizontale Komponente des Erdmagnetfeldes bewirkt die Ausrichtung der Kompassnadel des Magnetkompasses zum magnetischen Nordpol. Deshalb wird die nordweisende Kraft des Magnetkompasses mit Annäherung an den magnetischen Nordpol (oder magn. Südpol) immer schwächer, da auch die horizontale Kraftkomponente des Erdmagnetfeldes abnimmt. In Polnähe versagen dann gewöhnliche Magnetkompasse völlig.
+
+Die Vertikalkomponente des Erdmagnetfeldes macht sich im unbeschleunigten Geradeausflug nicht am Magnetkompass bemerkbar.
+
+Um die Ursachen der Kompassfehler besser zu verstehen, richte man als Gedankenexperiment einen gewöhnlichen Marschkompass von der Horizontalen in die Vertikale. Unter der Annahme, dass das Südende und das Nordende der Magnetnadel gleich schwer sind, müsste die Magnetnadel in irgendeiner beliebigen Position verharren. Die vertikale Kraftkomponente des Magnetfeldes wird jedoch das Nordende der Magnetnadel nach unten ziehen.
+
+Wenn man mit einem Marschkompass in der Hand nach Nordost schaut (die Nordspitze der Magnetnadel liegt schön genau über dem N) und den Kompass in der Hand um 30° nach rechts kippt (die Kippachse verläuft von 045° nach 225°), dann kann die Nordspitze der Magnetnadel nicht mehr schön nach Norden zeigen, sondern sie dreht sich um 10–20° nach rechts. Wenn die Magnetnadel nur eine Nordspitze hätte und nicht auch noch eine das Gewicht ausgleichende Südspitze, dann wäre die Erklärung dafür einfach: Das Gewicht der Nordspitze auf der geneigten Ebene lässt die Nadel nach rechts runterrutschen (wegdrehen). Das Gewicht (vertikale Komponente – Gravitationskraft) wirkt aber auch auf das Südende der Nadel und ist deshalb nicht für die Drehung während der Kompasskippung verantwortlich. Die vertikale Komponente des Erdmagnetfeldes ist die Ursache. Diese Kraft wirkt nur auf die magnetisierte Nordspitze der Kompassnadel. Genaugenommen wirkt die vertikale Komponente des Erdmagnetfeldes sowohl auf Nord- wie auf Südpol der Nadel – jeweils in entgegengesetzte Richtung (auf der Südhalbkugel ist es umgekehrt). Die Kraft wirkt somit wie eine Gravitationskraft, die nur auf die Nordspitze der Nadel wirkt. Genaugenommen kann man die Magnetkraft nicht mit der Gravitationskraft vergleichen, da das Magnetfeld Anziehung und Abstoßung kennt, das Gravitationsfeld jedoch nur Anziehung.
+
+Bei einem leicht gekippten Magnetkompass nimmt die Nadel also eine Position ein, die einerseits von der horizontalen Komponente des Erdmagnetfeldes bestimmt wird (zieht die Nadel nach Norden) und andererseits von der vertikalen Komponente des Erdmagnetfeldes beeinflusst wird (zieht die Nadel nach unten, Richtung Boden, zum Erdmittelpunkt).
+
+Für den Sichtflieger (VFR) haben die Drehfehler und Beschleunigungsfehler keine allzu große praktische Bedeutung. Das notwendige praktische Wissen reduziert sich für ihn auf die Regel, dass er seinen Kurskreisel (falls vorhanden) nur während des unbeschleunigten Geradeausfluges nach dem Magnetkompass eichen darf. Ein schlecht balancierter Kurskreisel wandert relativ schnell aus und sollte deshalb alle 20 Minuten nach dem Magnetkompass ausgerichtet werden.
+Ein gut eingestellter Kurskreisel driftet mit der gleichen Rate, wie es der Erdrehung entspricht, also in mitteleuropäischen Breiten mit etwa 11 Grad pro Stunde. Er gleicht damit die Erddrehung aus und braucht dann im Reiseflug kaum nachgestellt zu werden.
+
+Auch für den Instrumentenflieger (IFR) wird der Drehfehler nur dann wichtig, wenn der Kurskreisel ausfällt. Er wird sich für den fliegerischen Alltag mit Merksätzen oder anderen Gedankenstützen die unterschiedlichen Richtungen der Drehfehler einprägen. Der IFR-Pilot muss unter Instrumentenflugbedingungen (IMC) seine Kurven genau ausführen. Er muss auf einem vorher festgelegten Kurs seine Kurve ausleiten (plus minus 5° Toleranz). Er muss einen geraden Kurs auch während der Beschleunigungs- oder Verzögerungsphase einhalten können.
+
+Im Regelfall benutzt er zur Bestimmung des Kurses seinen Kurskreisel, den er regelmäßig nach dem Magnetkompass ausrichtet. Bei Ausfall des Kurskreisels (meist wegen Ausfall des Vakuum-Systems – partial panel) muss er aber seinen Kurs genauso exakt mit dem Magnetkompass fliegen können. Ein Landeanflug mit Null Sicht zwischen hohen Bergen mit Regen und Turbulenzen lässt dem Piloten nicht mehr viel Zeit, über die Richtung des Drehfehlers nachzudenken. Er kann es sich dann auch nicht mehr leisten, eine Kurve 30° zu spät auszuleiten und nach Stabilisierung des Magnetkompasses den Kurs noch einmal um 30° zu korrigieren. Auch diese Korrektur wird ihm ohne Kenntnisse des Kompassdrehfehlers nicht besonders gut gelingen.
+
+Wegen des Kompassdrehfehlers lassen sich kleine Kurskorrekturen (bis 30°) statt mit dem Magnetkompass genauer mit der Stoppuhr fliegen. Bei Querneigung in eine Standardkurve (Drehgeschwindigkeit 3° je Sekunde) dauert eine 15°-Kursänderung 5 Sekunden.
+
+Der Drehfehler tritt auf, wenn der Kompass sich quer zur Erdoberfläche neigt und ein nördlicher oder südlicher Kurs fernab des Äquators anliegt. Je größer die Querneigung und je näher der erdmagnetische Pol, desto stärker wirkt die vertikale Komponente des Erdmagnetfelds auf den Kompass. Im Maximalfall, bei einer Querlage von 90° direkt über einem Pol, dreht sich die Kompassanzeige um 90°.
+
+Die folgenden Ausführungen gelten nur für mittlere nördliche Breiten:
+
+Der Kompassdrehfehler bewirkt bei einem Flugzeug, das auf Nordkurs fliegt und eine Kurve auf einen Ostkurs ausführt, dass der Magnetkurs anfänglich um bis zu 30° nach Westen ausschlägt. Dann schwingt die Magnetanzeige wieder auf Nord zurück (zu diesem Zeitpunkt hat das Flugzeug schon ein Drittel seiner Kursänderung hinter sich) und dreht sich relativ schnell nach Osten. Die Magnetanzeige eilt dem wahren Flugzeugkurs hinterher. Auf Ostkurs hat es dann den Flugzeugkurs wieder eingehalten.
+
+Beim Ausleiten einer Kurve auf Ostkurs (oder Westkurs) muss der Pilot den Drehfehler nicht beachten. Er kann die Kurve genau nach der Kompassanzeige ausleiten.
+
+Bei einer Kurve von Ostkurs auf Nordkurs (Linkskurve) wird der Drehfehler allerdings tückisch. Bei Beginn der Kurve bleibt die Magnet-Kompassanzeige allmählich immer mehr hinter dem wahren Kurs zurück. Umso mehr, je mehr sich das Flugzeug Richtung Nordkurs dreht. Bei Erreichen des Nordkurses bleibt die Magnetnadel bis zu 30° zurück. Sie zeigt also 30° an. Was den unerfahrenen Pilot veranlassen könnte, seine Kurve fortzusetzen, bis der Magnetkompass genau 360° anzeigt. Dann fliegt sein Flugzeug aber in Wirklichkeit schon 330°. Er hat also die Kurve überdreht und ist über seinen Kurs hinausgeschossen. Nach dem Übergang in den Horizontalflug korrigiert sich der Magnetkompass nach einigen Sekunden von selber und der Pilot wird seinen Fehler bemerken und wieder 30° zurückkurven. Das wäre ein unschöner und gefährlicher Flugstil.
+
+Wegen des Drehfehlers muss der Pilot seine Kurve, die auf einem Nordkurs (oder einem ähnlichen Kurs – 330° – 030°) endet, vorher ausleiten (undershoot).
+
+Auf einem Südkurs ist die Sache genau andersherum. Bei einer Kurve von Ostkurs auf Südkurs muss der IFR-Pilot, der nach Magnetkompass fliegt, seine Kurve überdrehen (overshoot), um auf dem richtigen Kurs auszuleiten:
+Merksatz: UNOS – undershoot north, overshoot south.
+
+Das Fehlanzeige- und Verzögerungsverhalten des Magnetkompasses hängt davon ab, mit welcher Drehgeschwindigkeit die Kursänderung ausgeführt wird. Deshalb (und aus anderen Gründen) werden Kurskorrekturen im IFR-Flug mit der Standarddrehrate (2-Min-Kurve, standard turn) ausgeführt. So wird auch die Fehlanzeige des Magnetkompasses für den erfahrenen IFR-Piloten interpretierbar und in relativ kleinen Grenzen gehalten. Der Pilot kann dann seinen Drehfehler nach Erfahrungswerten und Gefühl ausgleichen.
+
+Der Beschleunigungsfehler tritt auf Nordkurs und Südkursen nicht auf. Er hat seinen maximalen Wert auf Ostkursen und Westkursen.
+
+Folgendes gilt für die Nordhalbkugel:
+
+Bei der Beschleunigung auf einem Ostkurs (090°) bewegt sich der untere Teil des Kompasskörpers, also der schwerere Teil unterhalb der Aufhängung, trägheitsbedingt in Richtung Flugzeugheck, das heißt, die dem Piloten zugewandte Seite des Kompasskörpers rotiert nach oben, und die vordere (die Nase sozusagen) nach unten. Die magnetische Nordnadel, die vorher genau nach links (360°) gezeigt hat, dreht nun durch das vertikale Erdfeld nach rechts weg und die Kompassanzeige gaukelt eine Kursabweichung nach links vor – also ein leichtes Einkurven nach Norden.
+
+Beim Geschwindigkeitsabbau (Verzögerung) wird die Magnetanzeige nach Süden verfälscht.
+
+Der Merksatz dazu lautet: ANDS – accelerate north, decelerate south.
+
+Der Beschleunigungsfehler macht sich auf Ostkursen und auf Westkursen in gleicher Weise bemerkbar.
+
+Entgegen einer oft gehörten und gelesenen Meinung bewirkt ein unbeschleunigter Steig- oder Sinkflug "keinen" Anzeigefehler, da die Kompassrosette horizontal bleibt. Etwas anderes ist es natürlich, wenn während des Steig- oder Sinkflugs beschleunigt oder verzögert wird.
+
+In Äquatornähe gibt es keine nennenswerte vertikale Komponente des Erdmagnetfeldes und deshalb auch keine Drehfehler. Da Beschleunigungsfehler durch die bauliche Ausführung des Kompasskörpers bedingt sind, treten auch sie am Äquator bei einem für die mittleren nördlichen Breiten hergestellten Kompass auf. Nur bei einem Kompass, der keine ungleiche Massenverteilung zur Kompensation der vertikalen Komponente des Erdmagnetfelds aufweist, würde am Äquator auch kein Beschleunigungsfehler mehr auftreten.
+
+Auf der Südhalbkugel ist alles genau umgekehrt: ANDS und UNOS helfen dann nicht mehr. Sie müssten umgekehrt werden zu ASDN und USON.
+
+Kompassfehler (auf englisch)
+
+

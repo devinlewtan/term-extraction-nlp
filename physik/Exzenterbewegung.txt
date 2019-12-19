@@ -1,0 +1,8 @@
+﻿Exzenterbewegung
+
+Die Exzenterbewegung (auch "Revolution") ist eine Bewegung eines Körpers, dessen Punkte sich alle mit gleicher Winkelgeschwindigkeit auf gleich großen Kreisen um verschiedene parallele Achsen drehen. Anders als bei der Rotation ändert der Körper seine Orientierung im Raum nicht. Es handelt sich um eine reine Translation.
+
+Beispiele sind 
+
+
+

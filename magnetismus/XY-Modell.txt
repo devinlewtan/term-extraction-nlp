@@ -1,0 +1,15 @@
+﻿XY-Modell
+
+Das XY-Modell ist eine Verallgemeinerung des Ising-Modells der statistischen Mechanik, mit dem der Magnetismus und andere physikalischen Erscheinungen beschrieben werden können. Das XY-Modell ist der Spezialfall formula_1 des allgemeineren n-Vektor-Modells (die anderen Spezialfälle dieses Modells sind das Ising-Modell mit formula_2 und das Heisenberg-Modell mit formula_3).
+
+Das XY-Modell besteht aus formula_4 Spins formula_5, die durch Einheitsvektoren dargestellt werden. Sie sind auf den Punkten eines Gitters beliebiger Dimension angeordnet, können aber nur in einer Ebene ausgerichtet sein; daher die Bezeichnung "XY" und der Spezialfall formula_1.
+
+Der Hamiltonian für das XY-Modell ist gegeben durch:
+
+wobei
+
+Der Ordnungsparameter des XY-Modells ist die Magnetisierung formula_11 und somit ein Vektor in der XY-Ebene. Ein Phasenübergang kann für zwei- und höherdimensionale Gitter auftreten. In zwei Dimensionen ist dies "kein" normaler kontinuierlicher Phasenübergang oder Phasenübergang erster Ordnung, sondern der durch keinen herkömmlichen lokalen Ordnungsparameter beschreibbare Kosterlitz-Thouless-Übergang. Dieser ist der Hauptgrund, warum das XY-Modell für die theoretische Physik interessant ist.
+
+
+
+

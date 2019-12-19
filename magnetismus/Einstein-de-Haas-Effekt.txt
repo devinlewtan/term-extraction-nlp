@@ -1,0 +1,18 @@
+﻿Einstein-de-Haas-Effekt
+
+Der Einstein-de-Haas-Effekt zeigt den Zusammenhang zwischen dem Ferromagnetismus und dem Drehimpuls von Elektronen. Er ist ein makroskopischer Nachweis des Spindrehimpuls der Elektronen. Der Effekt wurde 1908 von O. W. Richardson vorhersagt, allerdings in Bezug auf den Bahndrehimpuls, und so 1915 von Albert Einstein zusammen mit Wander Johannes de Haas auch nachgewiesen. 
+
+Ein dünner, magnetisierbarer Stab (z. B. aus Eisen, Nickel) hängt senkrecht an einem Torsionsfaden in einer senkrecht stehenden Magnetspule. Da das Magnetfeld zum Stab parallel und die ganze Anordnung rotationssymmetrisch ist, kann das Magnetfeld kein Drehmoment auf den Stab ausüben. Trotzdem beginnt er sich beim Einschalten oder Umpolen des Magnetfelds um die Aufhängerichtung zu drehen. 
+
+Der gesamte Drehimpuls des Stabs setzt sich aus zwei Anteilen zusammen: ein Anteil entspricht der außen sichtbaren Drehbewegung, der andere Anteil ist die Summe der permanenten Drehimpulse der Elektronen. Diese sind normalerweise ungeordnet, ihre Summe also Null. Durch ihre Parallelstellung aber ergibt sich die makroskopische Magnetisierung. Wenn vor Einschalten des Magnetfelds der Stab in Ruhe und nicht magnetisiert ist, ist der Gesamtdrehimpuls Null, denn beide Anteile sind für sich Null. Da sich am Gesamtdrehimpuls Null durch das Einschalten nichts ändern kann, müssen beide Drehimpulsanteile stets entgegengesetzt gleich groß sein. Daher zeigt die sichtbare Drehbewegung, dass die Magnetisierung des Stabes mit einem bestimmten Drehimpuls verknüpft ist, der durch die Beobachtung der sichtbaren Drehbewegung messbar wird. Das gemessene Verhältnis des Magnetischen Moments des Stabes zu diesem Drehimpuls (das gyromagnetische Verhältnis) stimmt mit dem an einzelnen Elektronen beobachteten gyromagnetischen Verhältnis überein.
+
+Die Umkehrung dieses Effektes ist der Barnett-Effekt.
+
+Der beobachtete Effekt ist nur klein, sodass man eine Resonanzschwingung verwendet, um ihn besser messbar zu machen. Dazu wird der Stab als Drehpendel mit einer bestimmten Resonanzfrequenz aufgebaut und in der Spule ein magnetisches Wechselfeld variabler Frequenz angelegt. Beim Durchstimmen der Frequenz zeigt sich an der Amplitude der Torsionsschwingung eine deutliche Resonanzkurve. Allerdings ist die quantitative Auswertung hinsichtlich des gyromagnetischen Verhältnisses nicht einfach. Z. B. entsteht durch die ferromagnetische Hysterese im Stab die Komplikation, dass sich die Magnetisierung und damit auch der Drehimpuls nicht linear mit dem äußeren Feld ändern. Daher sind die erhaltenen Ergebnisse mit relativ großer Unsicherheit behaftet, die von Einstein und de Haas auf 10 % geschätzt wurden. Ihr Meßwert war allerdings um einen Faktor zwei falsch, wie andere Autoren schon in den nächsten Jahren durch Wiederholung der Experimente mit verbesserten Aufbauten herausfanden.
+
+Einstein und de Haas hatten das Ergebnis ermittelt, welches der damaligen theoretischen Erklärung des Ferromagnetismus entsprach. Danach wurde fälschlich angenommen, dass sich die Elektronen auf Kreisbahnen bewegen und damit die Ampèreschen Molekularstöme bewirken, die das Magnetfeld erzeugen. Das in Wirklichkeit doppelt so große magnetische Moment ist aber nicht durch das Kreisen von Elektronen, sondern nur durch ihren Eigendrehimpuls oder Spin zu erklären, für den es seinerseits keine mechanische Erklärung gibt. Der Elektronenspin wurde erst 1925 eingeführt und zusammen mit seinem anomalen magnetischen Moment 1928 theoretisch begründet.
+
+
+
+
+

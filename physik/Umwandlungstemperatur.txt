@@ -1,0 +1,11 @@
+﻿Umwandlungstemperatur
+
+Als Umwandlungstemperatur bezeichnet man die Temperatur, bei der ein Stoff eine andere Phase annimmt.
+
+Es kann die Temperatur sein, bei der ein anderer Aggregatzustand angenommen wird oder bei der sich innerhalb eines Materials z. B. eine zweite Phase bildet, weil sich die Löslichkeit eines anderen Stoffes ändert.
+
+Umwandlungstemperaturen können direkt gemessen oder durch thermodynamische Modelle berechnet werden. Ihre Abhängigkeiten von anderen Größen wie Druck, Stoffkonzentration u. a. werden in Phasendiagrammen dargestellt.
+
+Beispiele für Umwandlungstemperaturen sind Gefrierpunkt und Schmelzpunkt.
+
+

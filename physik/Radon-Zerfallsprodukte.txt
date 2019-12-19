@@ -1,0 +1,54 @@
+﻿Radon-Zerfallsprodukte
+
+Radon-Zerfallsprodukte entstehen aus dem radioaktiven Edelgas Radon durch Kernzerfall. Die Atemluft im Freien, in Wohnungen und besonders in Erdhöhlen enthält ein Gemisch aus Radon und seinen Zerfallsprodukten. Für ungefähr 10 % aller Bronchialkarzinome ist Radon verantwortlich. Die Ursache sind seine kurzlebigen Zerfallsprodukte.
+
+Vor einigen hundert Jahren starben speziell im Bergbaugebiet von Schneeberg und Joachimstal die meisten Bergleute an der Schneeberger Krankheit, die später als Lungenkrebs identifiziert wurde. Zu Beginn des 20. Jahrhunderts fiel der hohe Radongehalt der Luft in diesen Bergwerken auf und ließ einen Zusammenhang mit der Krankheit vermuten. Erst in den 50er Jahren erkannten Strahlenschützer, dass die Inhalation der Radon-Zerfallsprodukte zu einer hohen Alpha-Strahlendosis im Bronchialepithel und auf diese Weise zu Lungenkrebs führt. Der professionelle Strahlenschutz in Uran- und anderen Bergwerken begann.
+
+Von radiologischer Bedeutung sind die Isotope Radon-222 und Radon-220. Während der Inhalation scheiden sich deren Zerfallsprodukte im Atemtrakt ab und reichern sich dort an. Wichtig sind nur die kurzlebigen Isotope der jeweiligen Zerfallsreihe. Der Organismus scheidet die ebenfalls vorhandenen langlebigen Isotope aus, so dass deren Strahlung kaum wirksam ist. Die biologisch besonders wirksame Alphastrahlung stammt größtenteils von den Polonium-Isotopen unter den Zerfallsprodukten.
+
+Im allgemeinen Sprachgebrauch bezeichnet Radon das Radon-222 einschließlich seiner Zerfallsprodukte. Auch Grenzwerte für Radongas schließen immer die Wirkung der Zerfallsprodukte ein. Sind allein Radongas oder die Zerfallsprodukte gemeint, wird meistens ausdrücklich darauf hingewiesen. Radon-220 hat auch den historischen Namen "Thoron". Oft treten Radon und Thoron gemeinsam auf. Die Strahlendosis durch Thoron ist meistens um den Faktor 10 niedriger als die durch Radon.
+
+Radon-222 zerfällt der Reihe nach in die in der Tabelle eingetragenen Nuklide. Dabei handelt es sich um den vereinfachten letzten Teil der Uran-Radium-Reihe. Die für den Strahlenschutz wichtigsten Zahlen sind in Fettschrift angegeben. Die Daten der letzten drei Spalten sind für die Berechnung der Potentiellen Alphaenergie (PAE) nützlich (siehe weiter unten).
+
+HWZ: Halbwertszeit (d Tage, a Jahre)
+PAE/Atom: Potentielle Alphaenergie pro Atom
+Atome/Bq: Anzahl der Atome je Aktivitätseinheit Becquerel
+PAE/Bq: Potentielle Alphaenergie je Aktivitätseinheit Becquerel
+
+Radon-220 zerfällt der Reihe nach in die in der Tabelle eingetragenen Nuklide. Dabei handelt es sich um den vereinfachten letzten Teil der Thorium-Reihe. Die für den Strahlenschutz wichtigsten Zahlen sind in Fettschrift angegeben. Die Daten der letzten drei Spalten sind für die Berechnung der Potentiellen Alphaenergie (PAE) nützlich (siehe weiter unten).
+
+HWZ: Halbwertszeit (d Tage, a Jahre)
+PAE/Atom: Potentielle Alphaenergie pro Atom
+Atome/Bq: Anzahl der Atome je Aktivitätseinheit Becquerel
+PAE/Bq: Potentielle Alphaenergie je Aktivitätseinheit Becquerel
+
+Die PAE/Atom des Bi-212 errechnet sich entsprechend den Verzweigungswahrscheinlichkeiten in Tl-208 und Po-212:
+
+In der Luft entstehen einzelne Zerfallsproduktatome durch Kernumwandlung aus den dort vorhandenen Radonatomen oder bereits vorher entstandenen anderen Zerfallsproduktatomen. Trifft ein Zerfallsproduktatom auf ein Hindernis, lagert es sich daran an und bleibt auch dort. Hindernisse sind meistens Aerosolteilchen in der Luft, aber auch Wände oder Möbel. Weil sich einzelne Zerfallsproduktatome durch Diffusion sehr schnell in der Luft bewegen und es meistens viele Staub- oder Aerosolteilchen gibt, treffen die Zerfallsproduktatome recht schnell auf ein Teilchen und kleben daran fest. Es ist dann ein "angelagertes Zerfallsprodukt", und die Aerosolteilchen bestimmen sein weiteres Verhalten. Dazu gehören die Bewegung in der Luft und die Abscheidung an Gegenständen und im Atemtrakt.
+
+Im Gegensatz zu inaktiven Schwermetallatomen können sich radioaktive Zerfallsproduktatome wieder von einem Staubteilchen lösen. Das geschieht bei der Kernumwandlung durch den Rückstoß beim Aussenden eines Strahlungsteilchens.
+
+Nicht an Aerosolteilchen angelagerte Zerfallsprodukte heißen "freie Zerfallsprodukte". Der Anteil an freien Zerfallsprodukten beträgt in normaler Luft 1 % oder weniger. Er kann jedoch in besonders sauberer Luft oder bei frisch hinzugefügtem Radongas weit größer sein.
+
+Die Abscheidewahrscheinlichkeit von Aerosolteilchen und angelagerten Zerfallsprodukten im Atemtrakt beträgt ungefähr 10 %. Der Mensch atmet den Rest wieder aus. Freie Zerfallsprodukte scheiden sich wegen ihrer schnellen Diffusion zu 100 % im Atemtrakt ab. Deshalb sind freie Zerfallsprodukte gefährlicher als angelagerte. Gegenüber Atemluft ohne freie Zerfallsprodukte erzeugt zum Beispiel Luft mit 10 % freien Zerfallsprodukten ungefähr die doppelte Inhalationsdosis.
+
+Manche Filtergeräte versprechen eine Reduzierung der Strahlendosis in Aufenthaltsräumen, weil sie die schädlichen Zerfallsprodukte aus der Atemluft entfernen. Sie entfernen allerdings ebenso die Aerosolteilchen. Aus dem Filtergerät strömt zunächst staubarme, zerfallsproduktfreie Luft. Weil das Radongas noch vorhanden ist, bilden sich schnell neue Zerfallsprodukte. Damit entsteht zwar ein Gemisch mit weniger Radioaktivität aber einem höheren Anteil freier Zerfallsprodukte. Dadurch reduziert sich die Strahlendosis meistens nur unwesentlich. Unter ungünstigen Bedingungen kann ein Filtergerät die Strahlendosis sogar erhöhen.
+
+Der Berufliche Strahlenschutz verwendet Arbeitshelme mit eingebauten Ventilatoren und Filtern. Hier funktioniert das Verfahren, weil der Helm gefilterte Luft direkt vor das Gesicht bläst. In der kurzen verfügbaren Zeit bilden sich kaum Zerfallsprodukte.
+
+Die Konzentration der Radon-Zerfallsprodukte in Form der Potentiellen Alphaenergiekonzentration (PAEK) in der Atemluft ist ein Maß für die schädigende Wirkung eines Gemisches aus dem radioaktiven Edelgas Radon und seinen ebenfalls radioaktiven Zerfallsprodukten. Vorschriften des beruflichen Strahlenschutzes begrenzen die PAEK. Ein Vorteil dieses Konzepts ist, dass zur Beurteilung der Atemluft nur ein Zahlenwert erforderlich ist und nicht die Aktivitäten aller vorkommenden Zerfallsprodukte.
+
+Die Radongas-Konzentration wird meistens dann berücksichtigt, wenn vorzugsweise preisgünstige Messverfahren verwendet werden, die nur die Konzentration des Radongases und nicht die der Zerfallsprodukte erfassen können. Gesetzliche oder empfohlene Grenzwerte für Radongas bewerten grundsätzlich die gemeinsam damit auftretenden Zerfallsprodukte.
+
+Der Strahlenschutz berücksichtigt im Zusammenhang mit der Radoninhalation allein die Alphastrahlen aller Atome, die sich im Atemtrakt abscheiden können. Dazu gehören auch Atome, die selbst keine Alphastrahler sind, wenn sie sich später in einen Alphastrahler umwandeln werden. Radongas gehört nicht dazu, weil es zum größten Teil wieder ausgeatmet wird. Der im Körper bleibende restliche Gasanteil verlässt den Atemtrakt sehr schnell und verteilt sich über das Blut in den gesamten Organismus. Auch werden nur die kurzlebigen Zerfallsprodukte mit Halbwertszeiten bis zu einigen Stunden berücksichtigt, weil der Organismus langlebige ausscheidet, bevor eine nennenswerte Strahlenwirkung eintreten kann.
+
+Inhaliert der Mensch ein Zerfallsproduktatom, so ist seine später irgendwann abgegebene Alpha-Energie die im Strahlenschutz relevante Größe. Diese wird als Potentielle Alphaenergie (PAE) bezeichnet. Jedem Zerfallsproduktatom wird die PAE zugeordnet, die es bis zum Ende des kurzlebigen Teils der Radon-Zerfallsreihe abgeben wird. Die Tabellen 1 und 2 enthalten die PAE aller in Frage kommenden Zerfallsprodukt-Atome (PAE/Atom).
+
+Die in einem Luftvolumen enthaltene Potentielle Alphaenergie ist die Summe der PAE aller Atome, die sich in diesem Volumen aufhalten. Die Radioaktivität lässt sich als Liste der Aktivitäten aller vorhandenen Radionuklide angeben. Aus diesen Aktivitäten und den Halbwertszeiten der Nuklide lässt sich mit dem Zerfallsgesetz für jedes Nuklid berechnen, wie viele Atome vorhanden sind. Die Tabellen 1 und 2 enthalten die Anzahlen der Atome jeweils für die Aktivitätseinheit 1 Bq.
+
+Die Potentielle Alphaenergiekonzentration lässt sich mit den Tabellenangaben sofort berechnen, wenn die Aktivitätskonzentrationen aller kurzlebigen Zerfallsprodukte bekannt sind. In der Praxis ist es nicht erforderlich, zunächst alle einzelnen Aktivitätskonzentrationen zu bestimmen, um daraus die PAEK zu berechnen. Es gibt auch Verfahren, die mit ausreichender Genauigkeit ohne diesen Umweg die PAEK messen können.
+
+Wenn als einzige Quelle und Senke für die Aktivität von Radon bzw. Thoron und ihrer Zerfallsprodukte der radioaktive Zerfall vorliegt, d. h. wenn andere Quellen oder Senken wie Ventilation, Deposition oder Filterung der Luft vernachlässigbar sind, stellt sich ein radioaktives Gleichgewicht zwischen den Nukliden ein. Dabei beträgt die Summe der Potentiellen Alphaenergiekonzentrationen aller Folgeprodukte 5,5 nJ pro Bq Radon und 75 nJ pro Bq Thoron für die jeweiligen Folgeprodukte; für Radon werden hier nur die strahlenschutzrelevanten kurzlebigen Folgeprodukte betrachtet. Das Verhältnis der PAEK der tatsächlich in einer Probe vorhandenen Folgeprodukte zu diesem Wert wird als Gleichgewichtsfaktor "F" bezeichnet. Überwiegen Senken für Folgeprodukte, zum Beispiel bei Luftproben in Form von Deposition an Oberflächen, ist "F" < 1, überwiegen Quellen, was selten ist, ist "F" > 1.
+
+
+

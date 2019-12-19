@@ -1,0 +1,9 @@
+﻿Sputter-Ionenquelle
+
+Bei einer Sputter-Ionenquelle werden Teilchen auf ein Target hin beschleunigt, wo sie Atome des Materials herausschlagen (vgl. Sputtern) und ionisieren. Diese Ionen werden dann durch elektrische Felder abgesaugt und bilden einen Ionenstrahl, zum Beispiel für einen Teilchenbeschleuniger.
+
+In der am häufigsten verwendeten Form wird Cäsium als Hilfsmaterial verwendet. Ein Ofen erhitzt Cäsium auf ≈ 120 °C. Der entstehende Cäsiumdampf gelangt in den Quellenraum und füllt diesen aus. Ein Teil des Dampfes kondensiert auf dem gekühlten Sputtertarget (der Kathode) und bildet dort eine Schicht auf der Oberfläche. Das Sputtertarget besteht aus einer chemischen Verbindung oder dem puren Element, das für den Ionenstrahl gewünscht ist. Es ist üblicherweise in eine Kupferform eingepresst. Ein anderer Teil des Dampfes kommt mit dem Ionisator in Berührung. Der halbkugelförmige Ionisator (meist aus Wolfram und Tantal) wird auf ≈ 1000 °C aufgeheizt. Die auftreffenden Cäsiumatome werden ionisiert und durch eine zwischen Ionisator und Kathode anliegende Potentialdifferenz (elektrische Spannung) von ungefähr 6 kV auf die Sputter-Kathode hin beschleunigt. Dort werden verschiedene Atome und Ionen des Targetmaterials aus der Oberfläche herausgeschlagen. Die für den Strahl relevanten Ionen nehmen beim Durchgang durch die Cäsiumschicht auf der Oberfläche mit einer gewissen Wahrscheinlichkeit Elektronen auf und liegen danach als negativ geladene Ionen vor. Durch die bestehende Potentialdifferenz werden die Ionen dann von der Quelle wegbeschleunigt.
+
+
+
+

@@ -1,0 +1,26 @@
+﻿Mischungslücke
+
+Eine Mischungslücke bezeichnet bei einem Stoffgemisch einen potenziellen Zustandsraum, der dadurch gekennzeichnet ist, dass das Stoffgemisch in ihm keinen stabilen Zustand besitzt, also die möglichen Zustände nicht realisiert werden. Ein Gemisch zerfällt (entmischt sich) dabei in mindestens zwei verschiedene Phasen mit sehr unterschiedlichen Zusammensetzungen. Die Phasen stehen im thermodynamischen Gleichgewicht miteinander. 
+
+Das Gleichgewicht zweier oder mehrerer flüssiger Phasen wird zumeist als "LLE" für engl. Liquid-Liquid Equilibrium bezeichnet.
+
+Beispielsweise zerfällt ein Benzol/​Wasser-Gemisch in eine benzolreiche Phase, in der nur etwa 0,3 mol-% Wasser enthalten ist, und eine wasserreiche Phase, in der etwa 0,04 mol-% Benzol enthalten ist; eine 1:1-Mischung ist nicht möglich. Einige Gemische sind hingegen bei einigen Temperaturen vollständig ineinander löslich, während bei anderen Temperaturen eine Entmischung stattfindet (Beispiel: Methylvinylketon/​Wasser).
+
+Meist werden Mischungslücken durch T-x-Phasendiagramme veranschaulicht, wobei diese im Falle von drei verschiedenen Stoffen auch eine Dreiecksform annehmen können. Die Stoffmischungen selbst bezeichnet man als Mischphasen.
+
+→ "Hauptartikel: Binodale"
+
+Eine Mischungslücke wird durch zwei Binodalen, die temperaturabhängigen Zusammensetzungen der beiden Phasen im thermodynamischen Gleichgewicht, begrenzt. Binodalen können sich bei niedriger oder hoher Temperatur treffen. Dieser Treffpunkt nennt sich (obere und untere) kritische Lösungstemperatur ("engl. upper and lower critical solution temperature", abgekürzt UCST und LCST). Oberhalb der UCST und unterhalb der LCST sind die Komponenten in allen Verhältnissen mischbar.
+
+→ "Hauptartikel: Spinodale"
+
+Spinodalen sind die Grenzen innerhalb einer Mischungslücke, die einen metastabilen Bereich begrenzen. Die Spinodale verläuft zumeist in der Nähe der Binodale und berührt diese im kritischen Punkt. Zusammensetzungen innerhalb der Spinodalen sind kinetisch labil und zerfallen, während im Grenzbereich zwischen Binodale und Spinodale das Gemisch metastabil ist.
+
+Eine Konode verbindet die im Gleichgewicht befindlichen Zusammensetzungen der beiden Phasen. In Diagrammen binärer Systeme sind dies stets waagerechte Linien und werden deswegen zumeist nicht eingezeichnet. Konoden dienen zur Bestimmung der beiden Phasen, in die ein Stoffgemisch, dessen Zusammensetzung in der Mischungslücke liegen würde, zerfällt.
+
+Siehe
+
+Siehe Legierung.
+
+
+

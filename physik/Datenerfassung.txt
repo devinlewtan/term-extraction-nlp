@@ -1,0 +1,25 @@
+﻿Datenerfassung
+
+Datenerfassung bezeichnet alle Methoden der zeitgleichen oder zeitfolgerichtigen Messungen und Zählungen, gegebenenfalls einschließlich Zeitstempel für messbare oder zählbare Daten und Gruppen von zusammenhängenden Daten.
+
+Charakteristisch ist die unmittelbare und direkte Zugänglichkeit der Messgröße oder einer damit physikalisch eindeutig verbundenen Ersatzgröße. Das ist Gegenstand der Messtechnik in allen bekannten Ausprägungen.
+
+Zur Erfassung gehört auch das Lesen (englisch: "reading") von Identmerkmalen mittels geeigneter Kennzeichen und Lesegeräte.
+
+In abweichender bzw. allgemeinerer Bedeutung ist "Datenerfassung" ein „Arbeitsvorgang, mit dem anfallende Daten in eine maschinenlesbare Form gebracht und auf Datenträgern gespeichert werden“. Häufig versteht man darunter die Erfassungstätigkeit eines Benutzers am Computer. Siehe auch Eingabe (Computer).
+
+Im Gegensatz zur Erfassung ist die Datenerhebung (englisch: "inquiry") eine mathematisch qualifizierte Ersatzmethode, welche lediglich eine nicht zugängliche Messgröße in einer für den intendierten Zweck hinreichenden Eindeutigkeit mit einer erfassten Hilfsgröße verknüpft und ohne direkte Zeitbindung berechnet. Dies ist Gegenstand der repräsentativen Stichprobe oder der retrospektiven Datenanalyse und den Methoden der deskriptiven Statistik in allen bekannten Ausprägungen.
+
+Eine Datenerhebung erfolgt somit nie zeitgleich (online). Im allgemeinen (nicht technischen) Sprachgebrauch wird die Datenerhebung häufig mit "Datenerfassung" gleichgesetzt.
+
+In der Messtechnik versteht man unter "Datenerfassung" (engl. "data acquisition", kurz DAQ) die Aufnahme analoger Signale mittels geeigneter Hardware (z. B. einer Datenerfassungskarte). Hierbei werden mit Hilfe eines Analog-digital-Umsetzers digitale Messdaten erzeugt, die dann per Software weiterverarbeitet werden können. Es wird zwischen Off-Line- und On-Line-Datenerfassung unterschieden.
+
+Für die Leittechnik wurde der Begriff der Datenerfassung in DIN 19222 definiert:
+Anmerkung: DIN 19222 ist ersetzt worden durch DIN EN 60050-351.
+
+In Logistik und Handel wird unter "Datenerfassung" das Auslesen von Barcodes bzw. Transpondern mittels automatischer Systeme verstanden. Dabei sind zwei Fälle zu unterscheiden. Häufig wird nur eine Zeichenfolge gelesen, die als Identifikator für ein Objekt, etwa einen Artikel an einer Scannerkasse dient. Mit dem Aufkommen von EAN128, zweidimensionaler Barcodes und mit Daten frei beschreibbarer Transponder werden zunehmend Informationen transportiert. Dies können z. B. Mindesthaltbarkeitsdaten, Sender- und Empfängeradressen aber auch Produktions- und Sicherheitsinformationen sein. Vergleichbar der Schrift zur Informationsspeicherung und -übertragung zwischen Menschen ist entscheidend, dass die Informationen auf dem Datenträger (Barcode/Transponder) für ein späteres maschinelles Auslesen gespeichert werden.
+
+Im Zuge der Industrie 4.0 nimmt die Datenerfassung sprunghaft zu, da immer mehr Materialflussobjekte (z. B. Einzelteile, Produkte, Pakete, Behälter, Transportmittel) durch eine maschinenlesbare Kennzeichnung identifiziert werden können (z. B. Barcode, QR-Code). Immer mehr Materialflussobjekte werden inzwischen durch elektronische Identifizierungsmedien (z. B. RFID) gekennzeichnet und können so elektronisch erkannt und erfasst werden. Mit Hilfe von elektronischen Ortungssystemen (z. B. GPS) und dem Internet können bei cyber-physikalische Objekte oftmals auch die örtliche Position bestimmt werden, wodurch die Verfolgung eines Objektes (Tracing)in der gesamten Lieferkette möglich wird.
+
+
+

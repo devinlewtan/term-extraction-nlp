@@ -1,0 +1,49 @@
+﻿Proteincharakterisierung
+
+Die Proteincharakterisierung umfasst biochemische und biophysikalische Methoden zur Bestimmung der Eigenschaften eines Proteins oder zur Darstellung eines Proteoms.
+
+Proteine werden zur Bestimmung ihrer Eigenschaften meistens durch einen Zellaufschluss freigesetzt und mittels einer Proteinreinigung von den anderen Bestandteilen des Ausgangsmaterials getrennt.
+
+Die Aminosäuresequenz kann durch einen Edman-Abbau, einen Schlack-Kumpf-Abbau oder massenspektrometrisch durch eine De-Novo-Sequenzierung nach In-Gel-Verdau ermittelt werden. Posttranslationale Modifikationen können per Western Blot oder massenspektrometrisch bestimmt werden.
+
+Die Identifikation eines Proteins kann auch mit spezifischen Antikörpern per Immunmarkierung in einem Western Blot oder durch eine Affinitätschromatographie erfolgen. Ebenso kann ein Nachweis auch durch Messung seiner Funktion erbracht werden, bei Enzymen per Enzymkinetik. Eindeutig identifizierbare Teile eines Proteins können durch Massenspektrometrie (MALDI-TOF, ESI-MS/MS, per LC-MS/MS), über einen Peptidmassenfingerprint oder eine De-Novo-Sequenzierung nach In-Gel-Verdau nachgewiesen werden, die anschließend über Datenbanken wie Mascot identifiziert werden.
+
+Das Transposon Tagging, das TILLING oder eine ungezielte Mutagenese erlaubt die Identifizierung der proteincodierenden Gene anhand der Veränderung des Phänotyps mit anschließender Bestimmung der DNA-Sequenz der den Phänotyp verändernden Mutation.
+
+Eine Bestimmung der Molmasse eines Proteins kann z. B. durch Gelpermeationschromatographie, durch SDS-PAGE, durch isopyknische Zentrifugation, durch Feld-Fluss-Fraktionierung oder massenspektrometrisch erfolgen.
+
+Die Proteinfaltung wird z. B. durch eine Röntgenstrukturanalyse (XRD), per Elektronenmikroskop oder per NMR bestimmt. Änderungen in der Proteinfaltung können über FTIR-Spektroskopie oder durch Circulardichroismusmessung verfolgt werden.
+
+Die Proteinfaltung kann im Zuge eines Protection Assays durch eine limitierte Proteolyse oder eine thermische Denaturierung mit Proteinfarbstoffen teilweise eingegrenzt werden. Die Oberfläche eines Proteins kann durch einen Deuterium-Austausch oberflächennaher Wasserstoffatome bestimmt werden.
+
+Proteine können andere Moleküle mit der jeweils entsprechenden Affinität binden, bei Enzymen kommt zusätzlich eine katalytische Aktivität vor.
+
+Daneben werden Protein-Protein-Wechselwirkungen und Wechselwirkungen mit anderen Molekülen z. B. durch Affinitätschromatographie, Ko-Immunpräzipitation, SPINE und andere Pulldown-Assays, Molekulares Display, Hefe-Zwei-Hybrid-System, chemische Quervernetzung und SDS-PAGE oder Massenspektrometrie, Native Gelelektrophorese, Far-Western-Blot, Ligandenbindungstests (Radioligand, Reporterenzyme, fluoreszente Liganden, elektrische Ableitung), Label-Transfer, Proximity Ligation Assay, Affinitätselektrophorese, Alanin-Scan, Microscale Thermophoresis, Isotherme Titrationskalorimetrie, Oberflächenplasmonenresonanzspektroskopie, Bio-Layer-Interferometrie, Fluoreszenzkorrelationsspektroskopie, Förster-Resonanzenergietransfer, Biolumineszenz-Resonanzenergietransfer, Bimolekulare Fluoreszenzkomplementation, Proteinfragment-Komplementation, Thermal Shift Assay, Dichtegradientenzentrifugation oder Gel-Permeations-Chromatographie bestimmt. Daneben kann eine Strukturaufklärung per Röntgenstrukturanalyse oder per NMR-Spektroskopie erfolgen.
+
+Ebenso kann ein Gen-Knockout zu zellulären und phänotypischen Effekten führen, die einen Hinweis auf die Funktion eines Proteins liefern. Durch die Wiederherstellung einer Funktion durch Gen-Knockin oder durch eine Verstärkung der Funktion durch eine Überexpression kann die Wirkung bei gegenteiliger Genexpression nachgewiesen werden. Durch den Vergleich der Aminosäuresequenz mit Datenbanken wie BLAST und Pfam können sequenzverwandte Proteine mit bekannten Funktionen einen Hinweis auf die möglichen Funktionen des zu untersuchenden Proteins geben.
+
+Methoden zur Bestimmung von Protein-DNA-Wechselwirkungen (DNA-Sequenz, DNA-bindende Proteine) sind z. B. der Electrophoretic Mobility Shift Assay, die ChIP, die ChIP-on-Chip, die ChIP-Seq, der DNase Footprinting Assay, das Yeast-One-Hybrid-System (Y1H), das Bacterial-One-Hybrid-System (B1H) und das DamID.
+
+Protein-RNA-Interaktionen können z. B. durch RNA-Seq, RIP-Chip, ICLIP, CLIP-Seq oder per PAR-CLIP nachgewiesen werden.
+
+Methoden zur Untersuchung von Protein-Lipid-Interaktionen sind z. B. die ESR-Spektroskopie, die duale Polarisationsinterferometrie, die Fluoreszenzmikroskopie mit fluoreszenzmarkierten Lipiden oder Proteinen oder mit Lipid-Farbstoffen wie Laurdan oder Filipin.
+
+Bei unbekannter Proteinfunktion werden enzymatische Eigenschaften wie eine Katalyse durch Ermittlung der Enzymkinetik untersucht. Hierbei kommen oftmals Inhibitoren verschiedener möglicherweise an der Funktion beteiligter Proteine zum Einsatz. Ein Alanin-Scan kann zur Bestimmung des aktiven Zentrums eingesetzt werden.
+
+Eine Bestimmung der Menge (Quantifizierung) eines Proteins erfolgt z. B. durch Photometrie, ELISA, SDS-PAGE und Western Blot, 2D-PAGE oder massenspektrometrisch (iTRAQ, SILAC, ICAT, die Isobarenmarkierung, Tandem Mass Tags).
+
+Durch Photometrie kann die Proteinkonzentration z. B. per Bradford-Test, per Lowry-Test, per Biuretreaktion, per BCA-Test oder bei höheren Proteinkonzentrationen auch durch die Absorption der Peptidbindung ermittelt werden, wobei jede Methode eigene Störsubstanzen besitzt, die bei Vorhandensein eine Verwendung dieser Methode ausschließen.
+Verschiedene Farbstoffe binden bevorzugt Proteine, z. B. Coomassie-Brillant-Blau, Fast Green FCF, Amidoschwarz oder Ponceau S. Als Fluoreszenzfarbstoff werden z. B. Nilrot, Brilliant Sulfaflavin, 8-Anilinonaphthalin-1-sulfonsäure (8-ANS), Scopoletin, Iridium-Komplexe, SYPRO Orange, SYPRO Red, SYPRO Ruby, SYPRO Tangerine, Flamingo, Krypton, Coomassie Fluor Orange, Lucy 506, Lucy 565, Lucy 569 oder Epicocconon ("Lightning Fast", "Deep Purple Stain") verwendet.
+
+Durch die Peptidbindung absorbieren Proteine ultraviolettes Licht bei einer Wellenlänge von etwa 205 nm (190 nm bis 230 nm), daneben absorbieren auch Phenylalanin, Tyrosin und Tryptophan UV-Licht bei Wellenlängen von 280 nm bis 288 nm. Diese Absorption kann zur photometrischen Quantifizierung und zur Bestimmung der Aufreinigungsfaktoren verwendet werden.
+
+Im Gegensatz zu Kohlenhydraten und Nukleinsäuren kommen manche Strukturmotive durch die verschiedenen enthaltenen Aminosäuren nur bei Proteinen vor, z. B. Sulfhydryl-enthaltende Cysteine oder Phenolreste in Tyrosinen. Diese können mit entsprechenden Reagenzien selektiv markiert werden. Einige Proteaseinhibitoren führen zu einer selektiven Modifikation von Proteinen. Durch eine Quervernetzung werden meistens zwei reaktive Gruppen in einem Protein miteinander verbunden. Aminogruppen in Proteinen wie bei Lysinen oder unmodifizierten "N"-Termini können selektiv mit N-Hydroxysuccinimidestern, Sulfosuccinimidestern [z. B. Bis(sulfosuccinimidyl)suberat], Imidoestern (z. B. Dimethyladipimidat), Isothiocyanaten (z. B. PITC, FITC), 1-Fluor-2,4-dinitrobenzol (DNFB), Dansylchlorid oder Aldehyden (z. B. Glutaraldehyd) modifiziert werden. Cysteine können mit Maleimiden (z. B. "N"-Ethylmaleinimid), Disulfiden und Sulfiden (z. B. 2-Mercaptoethanol, Dithiothreitol, Dithioerythritol, Tris(2-carboxyethyl)phosphin, Ellmans Reagenz) oder Iodacetamiden (z. B. IAEDANS) reagieren. Tyrosine können per Oxidation mit Jod markiert werden. Fixierungsmittel führen meist zu einer Quervernetzung verschiedener Aminosäuren.
+
+Durch Bromcyan kann ein Protein chemisch an enthaltenen Methioninresten gespalten werden, aus dem Methionin entsteht das Homoserin-Lacton. Mit einigen Isothiocyanaten wie PITC kann die N-terminale Aminosäure abgespalten werden, was im Zuge des Edman-Abbaus auch wiederholt angewendet werden kann. Selektive Spaltungen können enzymatisch durch Endopeptidasen bewirkt werden, die im Vergleich zu nichtenzymatischen Spaltungen längere Erkennungssequenzen benötigen.
+
+Die unterschiedliche Proteinexpression in einem Proteom kann z. B. durch Gelelektrophorese (2D-PAGE), Proteinarrays, Difference Gel Electrophoresis, MeCAT oder ICAT dargestellt werden.
+
+Anhand der Aminosäuresequenz eines Proteins können verschiedene Eigenschaften eines Proteins erkannt werden. Durch einen Ramachandran-Plot oder einen Janin-Plot können bestimmte Sekundärstrukturen identifiziert werden. Die Lokalisation in einem zellulären Kompartiment kann anhand der Signalsequenzen und der Transmembrandomänen ermittelt werden. Der Hydropathische Index beschreibt dabei die Neigung bestimmter Sequenzen zur Einlagerung in eine Biomembran. Der Instabilitätsindex liefert einen Hinweis auf die biologische Halbwertszeit eines Proteins. Anhand der Sequenz können mögliche Stellen für posttranslationale Modifikationen bestimmt werden.
+
+
+

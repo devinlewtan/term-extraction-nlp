@@ -1,0 +1,20 @@
+﻿Spreitung
+
+Unter Spreitung (engl. "Spreading") versteht man die Ausbreitung und flächige Verteilung unlöslicher Stoffe auf Oberflächen.
+
+Es handelt sich dabei um eine Erscheinung, die im Fachgebiet der Oberflächenphysik beobachtet und erforscht wird.
+
+Wird eine Flüssigkeit auf eine Oberfläche getropft, bildet sich zunächst eine halbkugelförmige Struktur. Diese Struktur wird im Verlauf der Zeit flacher (der Kontaktwinkel wird kleiner), die Flüssigkeit bedeckt eine zunehmend größere Fläche.
+
+Die Spreitung kann soweit fortschreiten, dass die Flüssigkeit nur noch als Schicht in Molekularausdehnung besteht.
+
+Die Spreitung ist abhängig von
+
+
+Dort, wo Aussagen über die Spreitung zu machen sind, verwendet man Standardflüssigkeiten definierter Menge auf bestimmten Oberflächen (Stahl, Glas, Messing) mit definierter Oberflächenbeschaffenheit und misst die Zeit, in der bei einer bestimmten Temperatur eine bestimmte Fläche bedeckt wird. Die gewonnenen Daten werden als Vergleiche herangezogen.
+
+Eine besondere Bedeutung hat die Spreitung bei Schmierölen, da hier oft gewünscht wird, dass das Öl sehr an der Schmierstelle verbleibt und sich nicht über das gesamte Gerät verteilt.
+
+
+
+

@@ -1,0 +1,71 @@
+﻿Seifenblase
+
+Eine Seifenblase ist ein dünner Film Seifenwasser, der eine hohle Kugel mit schillernder Oberfläche formt. Sie bleibt gewöhnlich nur für wenige Momente stabil und reagiert empfindlich auf die Berührung mit festen Objekten.
+
+Wegen dieser leichten Vergänglichkeit wurde ,Seifenblase‘ zu einer Metapher für etwas, das zwar anziehend, aber dennoch inhalts- und gehaltlos ist. Dies spiegelt sich zum Beispiel in der Redewendung „Der Traum zerplatzte wie eine Seifenblase“ oder im Synonym ,Seifenblasenwirtschaft‘ für "Bubble Economy".
+
+In der Kunst wird spätestens seit dem Barock die Seifenblase durchgängig ikonographisch als ein Vanitassymbol benutzt und spiegelt sowohl die Schönheit als auch die Flüchtigkeit des menschlichen Lebens wider.
+
+Seifenblasen lösen auf physikalische Weise komplexe räumliche Probleme in der Mathematik, da sie im Gleichgewichtszustand die kleinste Oberfläche zwischen Punkten und Kanten bilden.
+
+Seifenblasen bestehen aus einem dünnen (dipolaren) Wasserfilm, an dem sich innen und außen Seifenmoleküle anlagern mit einer dem Wasser zugewandten polaren, hydrophilen Carboxylat-Gruppe und einem dem Wasser abgewandten unpolaren, hydrophoben Alkylrest.
+
+Der Aufbau ähnelt dem von Biomembranen, jedoch befindet sich bei Seifenblasen das Wasser innerhalb der Membran, nicht außerhalb.
+
+Eine Seifenblase entsteht, wenn sich ein dünner Wasserfilm mit Seifenmolekülen vermischt. Beim Aufblasen entsteht eine Kugelform. Infolge des gravitationsbedingten Auslaufens ("Drainage") der zwischen den Seifenfilmoberflächen befindlichen Flüssigkeit dünnt eine Seifenblase in ihrem oberen Teil zunehmend aus. Man kann das beobachten, wenn man einen Seifenfilm auf eine Tassenöffnung zieht und dann senkrecht hält. Zudem erfolgt im Laufe des Auslaufprozesses eine Anreicherung von Seifenfilm-stabilisierenden Tensidmolekülen im unteren Bereich der Seifenblase, sodass deren obere Region infolge des relativen Mangels von an die Oberfläche adsorbierten Tensidmolekülen zusätzlich destabilisiert wird. Tatsächlich platzen die meisten Seifenblasen im oberen Teil. Das Verdunsten kann man behindern, indem man die Seifenblase oder einen Seifenfilm in ein Einmachglas „sperrt“. Dadurch verlängert sich die Lebensdauer der Blase erheblich.
+
+Die Schichtdicke der Seifenblase lässt sich beobachten: Spiegelt die Oberfläche in bunten Interferenzfarben, ist die Schichtdicke vergleichbar mit der Wellenlänge des Lichts. Bei abnehmender Schichtdicke wird die Seifenhaut zunächst farblos und zum Schluss dunkel.
+
+In der Schwerelosigkeit überleben Seifenblasen mit etwa einer Minute doppelt so lang wie auf der Erde. Die Blasenwand ist dicker und gleichmäßiger und übersteht auch einen Nadelstich.
+
+Die Erzeugung von Seifenblasen ist möglich, da die Oberfläche einer Flüssigkeit – in diesem Falle des Wassers – eine Oberflächenspannung besitzt, die zu einem elastischen Verhalten der Oberfläche führt. Häufig wird angenommen, dass die Seife nötig ist, um die Oberflächenspannung des Wassers zu vergrößern. Das Gegenteil ist jedoch der Fall: Die Oberflächenspannung des Seifenwassers ist nur etwa ein Drittel so groß wie die des Wassers. Seifenblasen mit reinem Wasser zu machen ist so schwierig, weil die Oberflächenspannung zu hoch ist, wodurch die Blase sofort zerplatzt. Zusätzlich verlangsamt die Seife die Verdunstung, so dass die Blasen länger halten. Der Gasdruck in einer Seifenblase ist höher als der Druck außerhalb, siehe dazu unter Young-Laplace-Gleichung.
+
+Die Oberflächenspannung ist ebenfalls der Grund für die kugelförmige Gestalt der Seifenblasen. Durch Minimierung der Oberfläche zwingt sie die Blase in diese Form, da von allen möglichen Formen zu einem gegebenen Volumen die Kugel die kleinste Oberfläche aufweist. Ohne äußere Kräfte (insbesondere Schwerkraft in Kombination mit Luftreibung) würden alle Blasen ideale Kugelform besitzen. Aufgrund ihres geringen Eigengewichts kommen Seifenblasen diesem Ideal in der Realität sehr nahe.
+
+Wenn zwei Seifenblasen aufeinander treffen, wirken dieselben Prinzipien weiterhin, und die Blasen nehmen die Form mit der kleinsten Oberfläche an. Ihre gemeinsame Wand wölbt sich in die größere Blase hinein, da eine kleinere Seifenblase einen höheren Innendruck besitzt. Wenn beide Seifenblasen gleich groß sind, entsteht keine Wölbung, und die Trennwand ist flach.
+
+Plateaus Regeln besagen, dass beim Zusammentreffen mehrerer Seifenblasen alle Winkel gleich groß sind. In einem Schaum mit vielen Blasen treffen immer jeweils drei Flächen in einem Winkel von 120° zusammen. Hierbei ist die Oberfläche gleichfalls minimal. Durch die gleiche Oberflächenspannung entsteht ein Kräftegleichgewicht. Jeweils vier Kanten treffen sich unter einem Winkel von etwa 109° 28′ 16″ in einem Knoten, auch als Vertex bezeichnet. Diese Regeln wurden im neunzehnten Jahrhundert aufgrund von experimentellen Untersuchungen vom belgischen Physiker Joseph Plateau aufgestellt.
+
+Die schillernden Farben entstehen durch Interferenz von Lichtwellen an der dünnen Seifenhaut. Die Interferenz führt innerhalb eines bestimmten Betrachtungswinkels zur Auslöschung eines Teils des Farbspektrums. Der verbleibende Teil wird farbig wahrgenommen, da nur das komplette Farbspektrum weißes Licht ergibt.
+
+Da die Wand einer Seifenblase eine gewisse Dicke hat, wird einfallendes Licht zweimal reflektiert – einmal an jeder Seite der Wand (siehe rechts).
+Die leicht unterschiedlichen Weglängen der beiden Lichtstrahlen (und besondere Effekte an der äußeren Wand, s. u.) führen zu einem Gangunterschied zwischen ihnen. Wenn der Gangunterschied genau die Hälfte einer Wellenlänge beträgt, fallen die Wellentäler des einen Strahls mit den Wellenbergen des anderen zusammen (s. zweites Bild). In der Summe ergibt sich Null, also eine Auslöschung der entsprechenden Farbe. Dies nennt man destruktive Interferenz, im Gegensatz zur konstruktiven Interferenz, bei der sich die beiden Strahlen durch einen anderen Gangunterschied positiv überlagern (drittes Bild).
+
+Die tatsächliche Farbe der Seifenblase (d. h. die Wellenlänge des ausgelöschten Lichtes, beziehungsweise die Länge des Gangunterschiedes), ist abhängig von der Dicke der Seifenhaut und des Beleuchtungswinkels der Oberfläche. Die Abhängigkeit von der Schichtdicke kann beobachtet werden, wenn die Seifenblase durch Verdunstung ausdünnt. Mit abnehmender Dicke werden jeweils andere Farben ausgelöscht. Letztlich, wenn die Dicke der Wand kleiner ist als die Hälfte der kleinsten Wellenlänge sichtbaren Lichts, löschen sich keine sichtbaren Lichtwellen gegenseitig aus und es können keine Komplementärfarben mehr beobachtet werden. In diesem Zustand ist die Seifenblasenwand dünner als zwei Zehntausendstel eines Millimeters. Bei noch kleinerer Schichtdicke kann man aufgrund anderer Effekte (s. u.) dunkle Flecken beobachten – sie wird wahrscheinlich im nächsten Moment zerplatzen.
+
+Die Voraussetzung für Interferenzerscheinungen, die Kohärenz der Wellenzüge, ist wegen der Dünne der Schicht erfüllt. Zusätzlich zur unterschiedlichen geometrischen Weglänge trägt hier noch ein anderer Effekt zum Gangunterschied bei:
+
+Die direkt an der Grenzfläche Luft-Seifenhaut (Punkt X im zweiten Bild) reflektierte Welle erfährt einen Phasensprung um formula_1 bzw. formula_2 während die Phase der transmittierten Welle auch nach der Reflexion an der Grenzfläche Seifenhaut-Luft (Punkt O im Schaubild) unverändert ist. Hier findet kein Phasensprung statt. Der gesamte Gangunterschied setzt sich aus den unterschiedlichen Weglängen und dem Phasensprung bei der Reflexion an der äußeren Grenzfläche zusammen.
+
+Dies erklärt auch die Verdunkelung der Blase im unmittelbaren Moment vor dem Zerplatzen, wenn die Dicke der Seifenhaut auf einen sehr kleinen Wert gesunken ist: Dies liegt darin begründet, dass die transmittierte Welle, die zuvor den längeren Weg durch die Seifenhaut nahm, nun praktisch keine längere Distanz zurücklegt als die direkte reflektierte Welle und sich deshalb ihre Phase relativ zu dieser nicht ändert. Die reflektierte Welle hat allerdings den oben erwähnten Phasensprung erfahren was zur destruktiven Interferenz (Auslöschung) aller Wellen führt.
+
+Hätte eine Seifenblase überall die gleiche Wandstärke, so würde der Gangunterschied nur durch den Beleuchtungswinkel definiert, und sie würde einen gleichmäßigen Farbverlauf zeigen. Da der Flüssigkeitsfilm in einer Seifenblase, die sich durch eine Luftströmung bewegt, jedoch durch Luftreibung verwirbelt wird, ist die Wandstärke nicht homogen. Unter günstigen Bedingungen kann man diese Verwirbelungen mit bloßem Auge sehen. Schwebt die Seifenblase aber relativ ruhig, treten nur wenige Verwirbelungen auf: Man kann einzelne relativ gleichmäßige Farbbänder beobachten. Die meistens vorhandenen Dickeschwankungen aufgrund der Gravitationskraft sind relativ gleichförmig und stören den gleichmäßigen Farbverlauf nicht prinzipiell.
+
+In einem ebenen Seifenfilm sind diese Farben einfacher sichtbar zu machen. Solch ein ebener Film kann z. B. in einem rechteckigen oder kreisrunden Rahmen aus dünnen Polymer-Fasern oder dünnem Draht geformt werden. Optimale Bedingungen für die Sichtbarkeit der Interferenzfarben sind hier eine indirekte Beleuchtung (z. B. ein Blatt weißes Papier, das von einer Halogenlampe angestrahlt wird) mit 45 Grad Einfallswinkel und Beobachtung in Reflexion bei 45 Grad Ausfallswinkel. Der Hintergrund hinter dem Seifenfilm sollte dunkel sein.
+
+An den Rändern bildet der Film einen Meniskus entweder mit dem Rahmen oder mit einem Flüssigkeits-Reservoir am unteren Ende des Films. In letzterem Fall ist eine Kombination aus Gravitation und Kapillarkraft die treibende Kraft, die eine inhomogene Filmdicke bewirkt.
+
+Verwirbelungen und ästhetische bewegte Muster im Bereich des Meniskus und an den Rändern mit dem Rahmen kommen durch hydrodynamische Instabilitäten zustande, bei denen höchstwahrscheinlich der Marangoni-Effekt eine wichtige Rolle spielt.
+
+Die Membran einer Seifenblase kann bei tiefen Temperaturen gefrieren, ohne zu zerplatzen. Das geschieht mit fliegenden Seifenblasen bei Temperaturen unter −10 °C im Freien oder mit anhaftenden Seifenblasen in der Gefriertruhe. Sie sind bis zu 10 Minuten stabil. Manchmal überstehen gefrorene Seifenblasen eine Landung auf hartem und kaltem Untergrund.
+
+Das Gefrieren einer auf Schnee liegenden Seifenblase erfolgt typisch durch Wachsen von fiederartigen Kristallen ab dem als Keim wirkenden anliegenden Schnee und kann etwa 2 Sekunden dauern.
+
+Seifenblasenshows verbinden Unterhaltung mit künstlerischer Leistung. Hohe Kunstfertigkeit ist dafür ebenso vonnöten wie perfekte Seifenblasenlösungen.
+
+Beispiele üblicher Darbietungen:
+
+
+Ein Seifenfilm formt eine natürliche Minimalfläche. Minimalflächen stehen schon seit dem 19. Jahrhundert im Blickpunkt mathematischer Forschung. Ein wesentlicher Beitrag dazu waren die Experimente des belgischen Physikers Joseph Plateau (vgl. Plateau-Problem).
+
+Ein Beispiel: Schon 1884 wurde von Herrmann Amandus Schwarz bewiesen, dass eine kugelförmige Seifenblase die kleinstmögliche Oberfläche eines bestimmten Luftvolumens besitzt. Jedoch erst in den letzten Jahrzehnten wurde mit Hilfe der geometrischen Maßtheorie eine angemessene Sprache für solche Probleme gefunden. Im Jahr 2000 gelang Michael Hutchings, Frank Morgan, Manuel Ritoré und Antonio Ros der Beweis, dass zwei verbundene Seifenblasen (eine sogenannte "Doppelblase") zwei verschieden große Luftvolumina mit der kleinstmöglichen Oberfläche umschließen (auch "Doppelblasen-Theorem"; ).
+
+Lange Zeit waren Seifenblasen das einzige Mittel zur zuverlässigen Bestimmung der optimalen Neigung von nicht-trivialen Dachkonstruktionen auf Basis von Seilsystemen und Tragbögen. Dazu wurde die Konstruktion als Rahmen aus Draht geformt und dann in Seifenwasser getaucht. Beim vorsichtigen Herausziehen ergaben sich Kurvenverläufe, die als das experimentell gefundene Optimum der Form zu gelten hatten. Durch Fotografie und andere Methoden wurde das Ergebnis fixiert und auf die zugehörigen Konstruktionszeichnungen übertragen. Die jeweilige Statik für die vorgegebene Form ließ sich dann mit anderen Methoden bestimmen. Ein Beispiel dieser Methodik ist das Olympiagelände München.
+
+Eine der frühesten künstlerischen Darstellungen von Seifenblasen als Kinderspielzeug findet sich in Pieter Bruegels Gemälde "Die Kinderspiele" von 1560, woraus sich schließen lässt, dass Seifenblasen bereits seit mindestens 500 Jahren von Kindern zum Zwecke der Unterhaltung verwendet werden. Die Massenproduktion von Seife begann im 19. Jahrhundert, wobei der Seifenhersteller "Pears" zur Vermarktung insbesondere auch John Everett Millais’ Gemälde "Seifenblasen" („Bubbles“) nutzte, das dessen Enkel beim Spiel mit Seifenblasen zeigt.
+
+1948 entwickelte der Chemiker Rolf Hein eine neue Formel für ein Waschmittel, das allerdings den Nachteil hatte, zu sehr zu schäumen. Er ließ die flüssige Seife in Flaschen abfüllen, fügte eine Blasring aus einer zum Ring gebogenen feinen Federdrahtwendel mit Stiel hinzu und verkaufte das Produkt unter dem Markennamen "Pustefix" gezielt als Kinderspielzeug. Seitdem sind zur Herstellung von Seifenblasen vorwiegend Kombinationen von mit Lauge gefüllten Plastikröhrchen und Pusterohr im Gebrauch.
+
+
+
+

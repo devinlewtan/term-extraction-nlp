@@ -1,0 +1,78 @@
+﻿Potentielle Energie
+
+Die potentielle Energie (auch potenzielle oder Lageenergie genannt) beschreibt die Energie eines physikalischen Systems, die durch seine Lage in einem Kraftfeld oder durch seine aktuelle System-Konfiguration bestimmt wird.
+
+Beispielsweise ist in einem Schwerefeld die „potentielle Energie“ jene Energie, die ein Körper durch seine Höhenlage hat: Wenn ein Stein aus 20 Meter Höhe herabfällt, hat er doppelt so viel Arbeitsfähigkeit wie bei 10 Metern Fallhöhe. Während des Falls wird die potentielle Energie in kinetische Energie oder andere Energieformen umgewandelt und verringert sich. In Wasserkraftwerken kann man potentielle Energie des Wassers eines Stausees in elektrische Energie umwandeln.
+
+Ebenso wie andere Formen der Energie ist die potentielle Energie eine Zustandsgröße eines physikalischen Systems. In einem abgeschlossenen System kann die potentielle Energie bei Zustandsänderungen zwar zu- oder abnehmen, etwa bei Verschiebung des Körpers, bei seiner Höhenänderung oder bei Anregung eines Atoms durch Strahlung. Dann nimmt aber stets eine andere Energieform (z. B. kinetische Energie, elektrische Feldenergie) im selben Maß ab oder zu. Diese Erfahrungstatsache wird durch den Energieerhaltungssatz ausgedrückt.
+
+Die SI-Einheit der potentiellen Energie ist das Joule (Einheitenzeichen J). Als Formelzeichen für die potentielle Energie wird "E" oder "U" verwendet, in der theoretischen Physik ist "V" verbreitet. Oft wird auch ungenau vom "Potential" gesprochen, wenn die potentielle Energie gemeint ist.
+
+Zur Einführung betrachten wir einen Radfahrer, der eine ebene Strecke befährt, dann einen Berg hoch und als letztes hinunter fährt. Die Betrachtung soll zunächst ohne Reibungskräfte erfolgen.
+
+Auf ebener Strecke fährt der Radfahrer mit einer bestimmten Geschwindigkeit, was einer bestimmten kinetischen Energie entspricht. Fährt er den Berg hinauf, so muss er mehr Energie aufwenden, um die Geschwindigkeit (und damit kinetische Energie) aufrechtzuerhalten. Aufgrund der Energieerhaltung kann aber keine Energie verloren gehen und die Energie, die der Radfahrer beim Anstieg mehr aufwendet, muss irgendwo hin fließen: Die mehr aufgewendete Energie wird in "potentielle Energie" umgewandelt. Je höher er steigt, desto mehr potentielle Energie besitzt der Radfahrer. Beim Abstieg muss der Radfahrer dagegen bremsen, um seine Geschwindigkeit zu halten und damit seine kinetische Energie konstant zu halten. Bremst er nicht, so wird er schneller und besitzt immer mehr kinetische Energie. Der Zuwachs seiner kinetischen Energie kann aber aufgrund der Energieerhaltung nicht ohne Verlust einer anderen Energieform einhergehen. Der Zuwachs der kinetischen Energie ist gleich dem Verlust an potentieller Energie.
+
+Der Radfahrer erreicht auf ebener Strecke ohne viel Mühe 20 km/h, da er nur gegen den Luftwiderstand und die Rollreibung antreten muss. Kommt er nun an einen ansteigenden Streckenabschnitt, muss er sich bei gleicher Geschwindigkeit stärker anstrengen als zuvor. Nach Erreichen der Kuppe geht es bergab und der Radfahrer rollt ohne Tretbewegungen weiter, muss sogar bremsen, damit er nicht zu schnell wird.
+
+Auf den Fahrer samt Rad wirken zwei Kräfte: die Reibungskraft und die Gewichtskraft. Im ersten Streckenabschnitt zeigt die Gewichtskraft senkrecht zur Straße und weist somit nach Anwendung der Kräftezerlegung keine Kraftkomponente in Bewegungsrichtung auf. Kommt nun ein Anstieg, ergibt die Zerlegung der Gewichtskraft eine Kraftkomponente entgegen der Bewegungsrichtung. Nach Überschreiten der Kuppe hat die Schwerkraft eine Komponente in Bewegungsrichtung und entgegen der Reibungskraft.
+
+Für eine Bewegung entgegen der Gewichtskraft muss am Körper Arbeit aufgewendet werden, die nun als potentielle Energie in ihm gespeichert ist. Bei einer Bewegung, die eine Komponente in Richtung der Gewichtskraft enthält, leistet der Körper Arbeit und seine potentielle Energie nimmt ab. Die Wegkomponente in Richtung Gewichtskraft heißt Höhe und zusammen mit der Kraft ergibt sich:
+
+Im Allgemeinen ist die Gravitationsfeldstärke und damit die Gewichtskraft ortsabhängig. Damit gilt:
+
+Das negative Vorzeichen ergibt sich dadurch, dass man etwas entgegen der wirkenden Kraft bewegen muss, um die potentielle Energie zu erhöhen. formula_7 beschreibt dabei den Bezugspunkt, an dem die potentielle Energie eines Teilchens verschwinden soll. Er ersetzt die ansonsten bei der Integration auftretende Integrationskonstante. Meist wählt man hierfür die Erdoberfläche (siehe erstes Beispiel) oder das Unendliche (siehe zweites Beispiel). Die obere Integralgrenze formula_8 entspricht der Position des betrachteten Teilchens, nicht zu verwechseln mit der Integrationsvariablen formula_9.
+
+Setzt man formula_10 konstant (was auf der Erdoberfläche für kleine Höhenunterschiede näherungsweise gilt), so ergibt sich wieder die im vorigen Abschnitt beschriebene Gleichung:
+
+Betrachtet man ein System aus einem Planeten und einem Probeteilchen fernab der Planetenoberfläche, reicht obige Näherung nicht mehr aus; die lokale Gravitationsfeldstärke variiert mit dem Abstand vom Massenmittelpunkt des Planeten. Eine genauere Beschreibung ist mithilfe des Newtonschen Gravitationsgesetzes möglich,
+Bei dieser Art der Betrachtung wählt man häufig den Bezugspunkt im unendlich fernen, d. h. formula_13. Durch diese Wahl kann die potentielle Energie nur negative Werte annehmen. Die potentielle Energie des Teilchens auf der Planetenoberfläche entspricht dann der Arbeit, die verrichtet werden muss, um dieses Teilchen ins Unendliche zu transportieren, es also aus dem Gravitationsfeld zu entfernen. Auf der Planetenoberfläche ist die potentielle Energie des Teilchens minimal, im Unendlichen maximal. Mit der Vereinbarung, dass der Ursprung im Planetenmittelpunkt liegt, der Planet einen Radius formula_14 hat und formula_15, erhält man
+als potentielle Energie des Probeteilchens auf der Planetenoberfläche. Im letzten Schritt wurde die neue planetenabhängige Konstante
+definiert. Hierbei ist formula_18 die Masse des Planeten, formula_2 die Masse des Probeteilchens und formula_20 die Gravitationskonstante.
+
+Aus der Federkraft
+
+ergibt sich für die potentielle Energie
+
+Hierbei ist formula_23 die Federkonstante und formula_24 die Auslenkung der Feder aus der Ruhelage.
+
+In einem abgeschlossenen System ohne Energieaustausch mit der Umgebung und unter Vernachlässigung jedweder Reibung gilt zu jedem Zeitpunkt der Energieerhaltungssatz der klassischen Mechanik:
+
+
+In Worten: Die Summe aus potentieller und kinetischer Energie, einschließlich der Rotationsenergie, ist konstant und entspricht der Gesamtenergie des mechanischen Systems.
+
+Im Hamilton-Formalismus wird diese Gleichung als
+
+geschrieben, wobei formula_30 die Hamiltonfunktion und formula_31 die Lagrangefunktion ist.
+
+Da ein konservatives Kraftfeld die Kraft formula_32 auf einen Probekörper an einem beliebigen Ort definiert und mathematisch ein Gradientenfeld ist, existiert ein zum Kraftfeld äquivalentes skalares Feld formula_33. Dies ist die potentielle Energie für den jeweiligen Ort. Aus der Umkehrung des Arbeitsintegrals folgt, dass ein Energieanstieg entlang eines Weges eine Kraftkomponente in entgegengesetzter Richtung des Weges voraussetzt. Durch Zerlegung des Kraftfeldes in kartesische Komponenten ergeben sich in Abhängigkeit vom Ort folgende partielle Ableitungen:
+
+Allgemein lässt sich dies durch den Nabla-Operator formula_35 ausdrücken.
+
+Die Umkehrung der Ableitung führt zum Integral und ermittelt die Änderung der potentiellen Energie im Kraftfeld als Arbeitsintegrals mit negativem Vorzeichen. Hieran zeigt sich auch nachvollziehbar die Übertragbarkeit auf verschiedene Kraftfelder.
+
+Um die potentielle Energie eines Körpers zu vergrößern, muss Feldarbeit gegen die Kräfte eines konservativen Kraftfeldes verrichtet werden. So besitzt jeder massebehaftete Körper in einem Gravitationsfeld potentielle Energie. Diese kann jedoch nur erhöht oder vermindert werden, wenn der Körper gegen oder in Richtung der Gravitationskraft verschoben wird. Bei einer Verschiebung senkrecht zu den Feldlinien behält der Körper seine potentielle Energie bei. Ein solcher Bereich nennt sich Äquipotentialfläche oder -linie und entspricht einer Höhenlinie auf der Landkarte. Die Feldlinie dagegen beschreibt die Richtung der Steigung.
+Sofern keine Reibungsverluste oder sonstige Wechselwirkungen mit der Umgebung auftreten gilt für eine Verschiebung in konservativen Kraftfeldern das Prinzip der Wegunabhängigkeit. Das bedeutet unabhängig vom eingeschlagenen Weg muss gleich viel Feldarbeit verrichtet werden damit ein Körper vom Ausgangspunkt zum Zielpunkt gelangt. Hierin spielt sich der Energieerhaltungssatz wieder, da die Arbeit der Energieänderung entspricht.
+
+Die Wahl des Bezugsniveaus kann beliebig erfolgen, jedoch reduzieren pragmatischen Gründe die Auswahl. Im Zweifelsfall immer als Nullniveau geeignet ist der Ausgangspunkt des untersuchten Körpers. Beim Gravitationsfeld bildet häufig die Erdoberfläche den Bezugspunkt oder allgemein der niedrigste Punkt der Umgebung. Darüber hinaus kann der Bezugspunkt an einen unendlich weit entfernten Ort verlegt werden (formula_38). Die Umkehrung davon bildet die maximale potentielle Energie, bei der ein Körper von seinem Ausgangspunkt aus dem Kraftfeld heraus bewegt wird, wobei ein zentrales Kraftfeld angenommen sei.
+
+Bei elektrischen Ladungen gleichen Vorzeichens führt dies zur minimalen potentiellen Energie.
+
+Die Kraft auf eine Ladung in einem gegebenen elektrischen Feld errechnet sich aus:
+
+Durch Einsetzen in das Arbeitsintegral zeigt sich die Beziehung zwischen der potentiellen Energie einer Ladung und dem Coulombpotential, das ebenfalls ein Skalarfeld darstellt. Beide Felder unterscheidet nur der Proportionalitätsfaktor Ladung:
+
+formula_42 ist dabei das sogenannte Coulombpotential.
+
+Der Begriff der potentiellen Energie hängt eng mit dem Begriff des Potentials zusammen, welches eine äquivalente Darstellung eines konservativen Kraftfeldes darstellt. Die potentielle Energie formula_43 eines physikalischen Systems ist das Produkt aus Kopplungskonstante formula_23 des Teilchens bezüglich des Kraftfeldes formula_45, dem es ausgesetzt ist (z. B. Masse formula_2 im Falle des Gravitationsfeld, Ladung formula_47 im Falle des Elektrischen Felds), und dem Potential formula_48 des Kraftfeldes:
+
+Das Potential hängt über die Definition formula_50 mit dem Kraftfeld zusammen.
+Aufgrund dieser Definition ist die potentielle Energie nur für Teilchen in konservativen Kraftfeldern definiert und der Nullpunkt der Energieskala beliebig festlegbar.
+
+Die Kraft auf einen Probekörper der Masse formula_2 in einem gegebenen Gravitationsfeld errechnet sich aus:
+
+Durch Einsetzen in das Arbeitsintegral zeigt sich nun die Beziehung zwischen der potentiellen Energie einer Masse und dem Gravitationspotential formula_53, das ebenfalls ein Skalarfeld darstellt.
+
+Anschaulich beschreibt der Faktor formula_2 die Abhängigkeit von dem Probekörper und das Potential formula_56 die Feldeigenschaft.
+
+
+

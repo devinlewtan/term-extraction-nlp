@@ -1,0 +1,13 @@
+﻿Ortsfrequenz
+
+Die Ortsfrequenz (auch Raumfrequenz, Formelzeichen "k" oder "R") ist der Kehrwert der räumlichen Periodenlänge.
+
+Im Allgemeinen wird mit dem Begriff "Periode" die Vorstellung von einer "zeitlich" periodischen Größenänderung verbunden. Doch lässt sich der Begriff der Periode leicht auf beliebige periodische Funktionen erweitern, so auch auf "räumlich" variierende Größen.
+
+Ist die betrachtete physikalische Größe etwa von der "eindimensionalen" Position abhängig, so hat die Periodenlänge die Dimension einer Länge und wird im internationalen Einheitensystem in Meter (m) angegeben. Dementsprechend gibt die Ortsfrequenz die Zahl der Perioden pro Längeneinheit an, hat also die Dimension 1/Länge. So ist für die Ortsfrequenz elektromagnetischer Wellen die Wellenzahl in Perioden pro Zentimeter gebräuchlich und für Frequenzbesen (Abb.) die Einheit Linienpaare pro Millimeter (Lp/mm).
+
+Die Charakterisierung einer örtlich veränderlichen Funktion nach Anteilen mit bestimmen Ortsfrequenzen ist nicht so anschaulich wie die Zerlegung eines Klanges in Grund- und Obertöne, dennoch liefert sie die Grundlage für die Fourieroptik und Bildkompressionsalgorithmen wie z. B. JPEG.
+
+In der Wahrnehmungspsychologie des Sehens wird die Ortsfrequenz auf den Sehwinkel bezogen, Einheit „Perioden pro Grad“. Bilder, in denen niedrige Ortsfrequenzen dominieren, sind unscharf und flächig, Bilder mit hoher Ortsfrequenz sind detailreich und mit gut erkennbaren Umrissen. Im visuellen Kortex gibt es Neuronen, die auf bestimmte Ortsfrequenzen (und Ausrichtung der Kanten) spezialisiert sind. Das Verhältnis des empfundenen zum tatsächlichen Kontrast des Objekts wird als Kontrastempfindlichkeitsfunktion (englisch: Contrast Sensitivity Function (CSF)) angegeben. Die CSF setzt sich als Produkt zusammen aus der rein optischen Modulationstransferfunktion (MTF) vom Objekt auf die Netzhaut und der retinalen Transferfunktion (RTF) vom Bild auf der Netzhaut zu höheren Wahrnehmungsfunktionen. Die MTF fällt ab zehn Perioden pro Grad steil ab. Die RTF ist für schnell veränderliche Reize flach, für statische Bilder fällt sie zu niedrigen Ortsfrequenzen ab, siehe Nachbild.
+
+

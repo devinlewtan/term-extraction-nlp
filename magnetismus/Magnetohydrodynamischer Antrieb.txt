@@ -1,0 +1,33 @@
+﻿Magnetohydrodynamischer Antrieb
+
+Ein magnetohydrodynamischer Antrieb, auch MHA (engl. "magnetohydrodynamic drive", MHD) genannt, ist ein Antriebsprinzip für Wasserfahrzeuge.
+
+Man kann eine solche Vorrichtung als Umkehrung des magnetohydrodynamischen Generators betrachten: während dort das bewegte Wasser
+im Magnetfeld einen Strom zwischen den Kollektorplatten erzeugt, setzt hier der Strom im Magnetfeld das Wasser in Bewegung. 
+
+Da zur Fortbewegung keine Propeller oder andere mechanisch bewegten Teile eingesetzt werden, ist der Antrieb praktisch geräuschlos.
+
+Es konnten sowohl in den USA als auch in Japan bereits funktionsfähige Prototypen gebaut werden, die notwendigen hohen magnetischen Flussdichten und elektrischen Ströme machen den Betrieb jedoch unrentabel.
+
+Senkrecht zur gewünschten Fortbewegungsrichtung und senkrecht zueinander werden ein elektrisches und ein magnetisches Feld aufgebaut. Die Elektrolyse des Wassers bewirkt einen Strom in Richtung des elektrischen Feldes, dessen Ladungsträger durch die Lorentzkraft im Magnetfeld abgelenkt werden. Damit setzt sich das Wasser entlang der Düsenrichtung in Bewegung, der Rückstoß treibt das Schiff an.
+
+Die Lorentzkraft auf einen Leiter der Länge formula_1, durch den eine Stromstärke formula_2 fließt, beträgt im Magnetfeld der Feldstärke formula_3
+wobei formula_1 hier den Abstand der Elektroden darstellt. Die zur Verfügung stehende Antriebskraft ist selbst mit magnetischen Flussdichten von mehreren Tesla und Strömen von mehreren tausend Ampere nur relativ gering.
+
+1966 wurde der erste MHA-Antrieb in einem Modell-U-Boot, der EMS-1, vor der Küste Kaliforniens erfolgreich getestet.
+
+In den 1980 und 1990er Jahren wurden in Japan, u. a. von Mitsubishi, Modelle und Prototypen MHA-betriebener Schiffe gebaut (z. B. SEMD-1, ST-500). Die Fahrzeuge erreichten Geschwindigkeiten von etwa 15 km/h, obwohl zahlreiche Schwierigkeiten auftraten.
+Im Juni 1992 wurde das Experimentalschiff, die Yamato 1 (30 m lang, 10 m breit, Verdrängung 185 t, Besatzung zehn Personen (drei Crew und sieben Passagiere)) im Hafen von Kōbe getestet. Das Schiff wurde großteils aus einer Aluminiumlegierung (JIS A 5083) gefertigt und von zwei magnetohydrodynamischen Triebwerken angetrieben. Das Antriebssystem funktionierte ähnlich einem Wasserstrahlantrieb: Meerwasser wurde hier mittels der Lorentzkraft am Heck des Schiffes beschleunigt ausgestoßen. Die dazu benötigten Magnetfelder wurden durch die mit flüssigen Helium gekühlte Niob/Titan-Supraleiter generiert.
+
+Es wurden dabei magnetische Flussdichten von 4 Tesla verwendet. Die Yamato 1 befindet sich heute vor dem Marinemuseum in Kōbe.
+
+Konzeptionell analog, aber mit dem Medium Plasma arbeitend, ist der magnetoplasmadynamische Antrieb für Raumfahrzeuge ein aktiver Forschungsgegenstand.
+
+In dem Spielfilm Jagd auf Roter Oktober wurde 1990 ein MHA thematisiert, der ein neuartiges, fiktives Unterseeboot lautlos antreiben konnte. Im Gegensatz zu diesem Film thematisierte die Literaturvorlage ein U-Boot mit einem Wasserstrahlantrieb.
+
+In mehreren Büchern von Clive Cussler gibt es Schiffe und U-Boote mit magnetohydrodynamischem Antrieb. In den Büchern der Oregon-Reihe ist die Oregon mit diesem Antrieb ausgestattet.
+
+Im wissenschaftlich-didaktischen Comic „Die magnetische Schallmauer“ aus der Reihe Die Abenteuer des Anselm Wüßtegern des französischen Physikers Jean-Pierre Petit wird der magnetohydrodynamische Antrieb thematisiert.
+
+
+

@@ -1,0 +1,110 @@
+﻿Born-Koordinaten
+
+Die Born-Koordinaten beschreiben in der relativistischen Physik eine Karte für einen Teil des flachen Minkowski-Raumes der speziellen Relativitätstheorie, den räumlichen Zylinder mit formula_1 Das entsprechende Linienelement mit der Signatur -2, also formula_2 den natürlichen Einheiten formula_3 und der Winkelgeschwindigkeit formula_4 ist
+Die Born-Koordinaten werden für die mathematische Analyse der Physik von sogenannten Langevin-Beobachtern benutzt, die auf einem Ring mit konstantem Abstand zum Drehmittelpunkt rotierender starrer Scheiben ruhen (siehe Ehrenfestsches Paradoxon). Die erstmalige Beschreibung dieser Koordinaten erfolgte im Zusammenhang mit Max Borns (1909) relativistischer Physik der starren Körper, die für rotierende Körper unter anderem von Gustav Herglotz (1909) weiterentwickelt wurde. Für einen allgemeinen Überblick zu Beschleunigungen in der Minkowski-Raumzeit, siehe Beschleunigung (Spezielle Relativitätstheorie).
+
+Ideale ruhende Uhren auf der rotierenden Scheibe lassen sich nicht widerspruchsfrei synchronisieren. Nicht auf einem Ring mit konstantem Durchmesser auf dem die Uhren zumindest gleich schnell laufen, schon gar nicht auf der ganzen Scheibe, auf der die Uhren, je weiter sie von der Drehachse entfernt sind, um den Faktor formula_7 langsamer laufen (Zeitdilatation). Das heißt, dass die Uhren entlang eines Radius mit formula_8 nicht gleich schnell laufen, sondern im Vergleich mit einer Referenzuhr im Drehmittelpunkt formula_9 mit wachsendem formula_10 langsamer werden.
+
+Da die Born-Koordinaten einen Teil des flachen Minkowski-Raums beschreiben, lassen sich die Uhren wie dort synchronisieren, indem die Uhr im Drehmittelpunkt (Uhr formula_11 im Rotationszentrum) als Referenz dient und z. B. im Sekundentakt ein Lichtsignal aussendet, mit dem alle Uhren auf der rotierenden Scheibe synchronisiert werden (siehe Abb. 2). Die Empfängeruhren formula_12, formula_13 und formula_14 kennen die jeweilige Laufzeit des Signals vom Drehmittelpunkt und justieren ihre Uhrzeit entsprechend. Das heißt, dass alle Beobachter, die sich auf der Drehachse befinden, Lichtsignale, die von den Uhren auf der Scheibe im "Sekunden"takt abgesendet werden, im Sekundentakt empfangen werden. Werden die Signale von Uhren auf einem Ring mit konstantem Radius gesendet, werden sie darüber hinaus "gleichzeitig" empfangen. Solcherart synchronisiert, sind die Uhren in formula_13, formula_14, formula_12 und formula_11 synchron mit der Koordinatenzeit formula_19 des Inertialsystems, in dem die Drehachse der rotierenden Scheibe ruht.
+
+Für den Langevin-Beobachter (Uhr formula_12) ist die Situation jedoch nicht zufriedenstellend. Für ihn ergeben sich zwei Probleme. Erstens läuft seine so synchronisierte Uhr zu schnell im Vergleich zu einer Uhr, die er auf die Standard-SI-Sekunde geeicht hat. Zweitens macht er die irritierende Feststellung, dass zwei Lichtsignale, die von den beiden gleich weit entfernten Uhren formula_13 und formula_14 auf seinem Ring "gleichzeitig" ausgesendet werden, "nicht gleichzeitig" bei ihm eintreffen. Da er weiß, dass die Uhren formula_13 und formula_14 gleich weit von seiner Uhr formula_12 entfernt sind, gibt es nur zwei Möglichkeiten. Entweder ist die Lichtausbreitung nicht isotrop – Licht von formula_13 in Drehrichtung ist früher bei ihm (die Geschwindigkeit des Lichts wäre daher schneller als formula_27), als Licht von formula_14 entgegen der Drehrichtung (die Geschwindigkeit des Lichts wäre daher langsamer als formula_27). Oder die Uhren formula_13 und formula_14 sind mit seiner Uhr formula_12 nicht synchron.
+
+Um sie aus seiner Sicht zu synchronisieren geht er wie im Inertialsystem vor. Er eicht die Uhren in formula_13, formula_14 und formula_12 auf die SI-Sekunde und synchronisiert die Uhren formula_13 und formula_14 mit seiner Uhr formula_12 mittels Einstein-Synchronisation (eine interne Synchronisation). Er stellt fest, dass er die Uhr formula_13, die in Drehrichtung liegt, zurückstellen muss und die Uhr formula_14, die entgegen der Drehrichtung liegt, vorstellen muss. Zwei Lichtsignale, die jetzt "gleichzeitig" von formula_13 und formula_14 ausgesendet werden, treffen "gleichzeitig" bei formula_12 ein (sie treffen aber "nicht gleichzeitig" bei der Uhr formula_11 ein). Synchronisiert man alle Uhren entlang des Ringes auf diese Art und Weise, ergibt sich neuerlich ein Problem. Zumindest zwei benachbarte Uhren zeigen nicht die gleiche Zeit. In Summe weisen die Uhren entlang des Rings mit dem Radius "r" eine Zeitdifferenz formula_45 auf.
+
+Außerdem stellt der Langevin-Beobachter fest, dass, egal wie er die Distanzen seiner lokalen Umgebung vermisst, die Geometrie nicht-euklidisch ist und am besten durch eine Riemannsche Metrik, die sogenannte Langevin-Landau-Lifschitz Metrik beschrieben wird. Diese Metrik wiederum wird sehr gut durch die Metrik der hyperbolischen Ebene angenähert. Bei der Vermessung großer Distanzen über die lokale Umgebung hinaus hängen die Ergebnisse von der Messmethode ab, die sich nicht mit den Eigenschaften einer Riemann Metrik beschreiben lassen. Die mit der Radarmethode gemessenen großen Distanzen sind nicht einmal symmetrisch. Die gemessene Entfernung von formula_12 nach formula_11 ist nicht gleich der gemessenen Entfernung von formula_11 nach formula_12. Das heißt, dass die Geometrie der rotierenden Scheibe weder eine euklidische noch eine riemannsche Geometrie ist.
+
+Die rotierende Scheibe ist kein Paradoxon. Egal welche Methode der Langevin-Beobachter verwendet um seine lokale Umgebung zu analysieren: er stellt fest, dass er sich in einem rotierenden Bezugssystem befindet und nicht in einem Inertialsystem.
+
+Für die Herleitung der Born-Koordinaten ist es sinnvoll, die Langevin-Beobachter zuerst in Zylinderkoordinaten darzustellen. Ihre Weltlinien bilden eine , die als "starr" angesehen werden kann, da der entsprechende verschwindet (siehe unten). Die Langevin-Beobachter rotieren um die Symmetrieachse des Zylinders.
+
+Aus dem Linienelement des Minkowskiraumes in Zylinderkoordinaten
+können unmittelbar die (Vektorfelder der Basisvektoren) des lokalen Bezugssystems für stationäre Beobachter "abgelesen" werden:
+formula_52 ist ein zeitartiges Vektorfeld. formula_53, formula_54 und formula_55 sind raumartige Vektorfelder.
+
+Mit einem Lorentz-Boost der Vektorfelder der Basisvektoren mit formula_56 in Richtung formula_55 (Anwendung der Lorentz-Transformation auf formula_55 und formula_52) ergeben sich die Vektorfelder der Basisvektoren für die Langevin-Beobachter mit
+Diese Vektorfelder wurden erstmals (implizit) von Paul Langevin 1935 verwendet. Eine ausführliche Beschreibung erfolgte durch Thomas A. Weber erst 1997. Definiert sind diese Vektorfelder im Gegensatz zu den Zylinderkoordinaten mit formula_63 im Bereich formula_64. Diese Einschränkung ist fundamental, da sich die Geschwindigkeit der Langevin-Beobachter nahe der Grenze formula_65 der Lichtgeschwindigkeit nähert.
+Jede integrale Kurve des zeitartigen Vektorfeldes formula_66 wird in Zylinderkoordinaten als wendelförmige Kurve mit konstantem Radius abgebildet (siehe die rote Kurven in Abb. 1 und Abb. 3) und repräsentiert einen in Bezug auf die rotierende Scheibe ruhenden Langevin-Beobachter. Weitere Langevin-Beobachter, die sich mit dem ersten auf einem Ring mit dem Radius formula_67 und der Winkelgeschwindigkeit formula_4 befinden, sollten auf der integralen Kurve des Vektorfeldes formula_69 (siehe die blaue Kurve in Abb. 3) "gleichzeitig" (synchron) sein. Jedoch zeigt sich, dass sich ideale Uhren entlang der blauen Kurve mittels Einstein-Synchronisation nicht synchronisieren lassen, da sich die blaue Kurve an unterschiedlichen Stellen mit der roten Kurve schneidet. Zumindest zwei benachbarte Uhren zeigen unterschiedliche Zeiten, da die blaue Kurve "gleichzeitig" ist, zwei unterschiedliche Stellen auf der roten Kurve aber einen zeitlichen Abstand haben – die blaue Kurve ist keine geschlossene Kurve in der Raumzeit und die benachbarten Uhren sie sind nicht synchron. Das ist der erste Hinweis darauf, dass sich für die rotierende Scheibe keine zufriedenstellende Beschreibung einer "räumlichen Geometrie" finden lässt, auf der alle Ereignisse gleichzeitig sind. Weder für die ganze rotierende Scheibe, noch für einen rotierenden Ring mit Radius formula_67.
+
+Im Gegensatz dazu, ist die Projektion der wendelförmigen Weltlinie eines Langevin-Beobachters auf die räumliche Hyperebene formula_71 ein Kreis – also eine geschlossene Kurve in der Raumzeit. Darüber hinaus ist das Vektorfeld der Basisvektoren formula_72 ein raumartiges Killingvektorfeld, dessen integrale Kurven geschlossene Kurven im Raum sind (de-facto Kreise). Sie degenerieren für formula_73 zu Kurven mit der Länge Null. Das entspricht der Vorstellung der zylindrischen Symmetrie und der Vorstellung eines rotierenden Langevin-Beobachters. Diese Vorstellung basierend auf formula_71 lässt sich jedoch nicht realisieren, da die idealen Uhren auf dem Ring nicht widerspruchsfrei synchronisiert werden können und damit formula_71 (Gleichzeitigkeit) keinen Sinn ergibt, wenn keine eindeutige Synchronisation der Uhren möglich ist.
+
+Die des zeitartigen Vektorfeldes formula_66 ist
+Sie zeigt radial zur Drehachse und hängt nur vom konstanten Radius formula_67 und der konstanten Winkelgeschwindigkeit formula_4 der wendelförmigen Weltlinie des Langevin-Beobachters ab (Zentripetalbeschleunigung). Mit der kinematischen Dekomposition (siehe Viererbeschleunigung oben) ergeben sich der Expansionstensor und der Wirbelvektor. Der Expansionstensor ist Null. Das heißt, dass die Abstände der Langevin-Beobachter zueinander und zur Drehachse konstant bleiben ("starren" Scheibe). Der Wirbelvektor ergibt sich mit
+und ist parallel zur Drehachse. Das heißt, dass die Langevin-Beobachter um die Drehachse rotieren. Das heißt aber auch, dass die Langevin-Beobachter um ihre "eigene" Achse rotieren. Das entspricht der Vorstellung einer "lokalen Verwirbelung". In Abb. 4 zeigt die cyanfarbene Kurve, wie sich die raumartigen Vektorfelder formula_81 um das Vektorfeld formula_82 "winden" (formula_82 – die formula_84-Koordinate – ist in der Abb. 4 durch formula_52 – die Zeit – ersetzt, da die formula_84-Koordinate hier keine Rolle spielt). Die lokalen Bezugssysteme der Langevin-Beobachter rotieren also auch und sind keine Inertialsysteme und ihre formula_87 sind mit dem radial Basisvektor formula_88 ausgerichtet. Diese "lokale" Rotation von formula_89 und formula_69 um die Achse formula_82 kann durch eine konstante lokale Gegenrotation aufgehoben werden.
+
+Um die Born-Koordinaten zu erhalten, werden die wendelförmigen Weltlinien der Langevin-Beobachter mittels der Transformation
+„gestreckt“ und es ergibt sich das neue Linienelement
+Wegen des Mischterms formula_95 sind die Born-Koordinaten kein .
+
+Die Weltlinien der Langevin-Beobachter sind jetzt gerade vertikale Linien. In Born-Koordinaten sind die Vektorfelder der Basisvektoren der Langevin-Beobachter
+
+Die wendelförmigen Weltlinien der Langevin-Beobachter in Zylinderkoordinaten sind in Born-Koordinaten gerade Linien. Jedoch sind die geraden Weltlinien der statischen Beobachter in Zylinderkoordinaten, die neben der rotierenden Scheibe ruhen, in Born-Koordinaten wendelförmige Weltlinien. Im Gegensatz zu den Zylinderkoordinaten, sind nicht nur die Vektorfelder der Basisvektoren der Langevin-Beobachter auf den Bereich formula_99 beschränkt, sondern die Born-Koordinaten insgesamt.
+
+Die kinematische Dekomposition der zeitartigen Kongruenz formula_100 liefert die gleichen Ergebnisse wie zuvor, jedoch mit den neuen Born-Koordinaten. Der Beschleunigungsvektor ist
+der Expansionstensor ist Null und der Wirbelvektor ist
+
+Das zu einem zeitartigen Einheitsvektorfeld duale Kovektorfeld definiert in jedem lokalen Bezugssystem eine infinitesimale räumliche Hyperebene. Ob diese infinitesimalen räumlichen Hyperebenen zu einer globalen räumlichen Hyperebene "verbunden" werden können, die überall zur Kongruenz der Weltlinien orthogonal ist, wird durch die Bedingung für die vollständige Integrierbarkeit bestimmt. Es zeigt sich, dass diese Bedingung genau dann und nur dann erfüllt ist, wenn der Wirbeltensor Null ist. Für den statischen Beobachter in Zylinderkoordinaten existieren solche räumliche Hyperflächen für die formula_71 gilt, für den Langevin-Beobachter jedoch nicht. Insbesondere sind die räumlichen Hyperflächen formula_104 in Born-Koordinaten orthogonal zu den Weltlinien der statischen Beobachter, nicht zu den Weltlinien der Langevin-Beobachter.
+
+Dies wird deutlich, wenn die Integralkurven des Langevin-Vektorfeldes
+die durch den Radius formula_106 verlaufen, dargestellt werden. Diese Kurven liegen in der Fläche
+(siehe Abb. 5). Die für die Darstellung unwesentliche Koordinate formula_108 wurde durch die Koordinate formula_19 ersetzt. Es liegt nahe, diese Fläche als räumliche „Gleichzeitigkeitsfläche“ für Langevin-Beobachter zu interpretieren. Dies ist aus zwei Gründen nicht möglich. Erstens ist die Bedingung für die vollständige Integrierbarkeit nicht erfüllt, sodass es keine räumliche Hyperfläche gibt zu der die Vektorfelder formula_110 tangential sind. Das Vektorfeld formula_89 ist nur für formula_112 tangential. Das ist ein infinitesimales (lokales) Problem. Zweitens wird in Abb. 5 ersichtlich, dass die so konstruierte räumliche Hyperebene eine Unstetigkeit aufweist, einen "Sprung" (siehe die blauen Gitterlinien Abb. 5). Das ist ein globales Problem und eine Konsequenz daraus, dass sich die Uhren der Langevin-Beobachter nicht widerspruchsfrei synchronisieren lassen. Weder auf der ganzen rotierenden Scheibe, noch auf einem Ring mit konstantem formula_113.
+
+Die Nullgeodäten in Zylinderkoordinaten ergeben sich aus den Geodätengleichungen
+Die ersten Integrale für formula_115 lassen sich unmittelbar angeben mit
+Wird das in den Ausdruck für das Linienelement der Zylinderkoordinaten eingesetzt und wird außerdem formula_117 (für die Nullgeodäte) gesetzt, so ergibt sich
+Daraus ergibt sich für den minimalen Radius "R" einer Nullgeodäte
+und weiter
+Damit ist für formula_122 das erste Integral ebenfalls gefunden.
+
+Die Lösung der Nullgeodäten als Kurven mit dem affinen Parameter "λ" ist (siehe Abb. 6)
+
+Die Trajektorien der Nullgeodäten, also die Spuren ihrer „Projektion“ in die räumliche Hyperebene formula_71 sind im Minkowski-Raum mit Zylinderkoordinaten natürlich Geraden und gegeben durch
+
+Für "radiale Nullgeodäten" ist formula_126. Außerdem gilt mit formula_127 in die Gleichungen oben eingesetzt für auslaufende radiale Nullgeodäten
+formula_130 ist der Abstand des Langevin-Beobachters vom Rotationszentrum (siehe Abb. 7). Werden diese Gleichungen in Born-Koordinaten transformiert, ergibt sich für den auslaufenden Lichtstrahl
+In Born-Koordinaten ist diese Trajektorie keine Gerade (siehe die grüne Kurve in der Abb. 7). Wie im Abschnitt Transformation in Born-Koordinaten gezeigt, handelt es sich in Born-Koordinaten bei diesen Trajektorien streng genommen nicht um eine Projektion in eine räumliche Hyperebene, da eine solche für formula_104 nicht definiert ist (siehe Abb. 5).
+
+Für einlaufende radiale Nullgeodäten ergibt sich
+dargestellt als rote Kurve in Abb. 7.
+
+Um einen Laserimpuls zum stationären Beobachter S bei "r" = 0 zu senden, muss der Langevine-Beobachter bei "r" = "R" "voraus" zielen (für ihn bewegt sich S gegen den Uhrzeigersinn von rechts nach links). Das gleiche gilt für den Beobachter S, der einen Laserimpuls zum Beobachter L schicken will. Für "ω" > 0 sind die ein- und auslaufenden Nullgeodäten unterschiedliche Kurven in der Raumzeit mit unterschiedlichen Trajektorien.
+
+Nullgeodäten zwischen Langevin-Beobachtern auf dem Ring mit "r" = "R" sind für "ω" > 0 ebenfalls nach innen oder nach außen gebogen. Um dies zu sehen, werden die Gleichungen für die in Rotationsrichtung laufenden Nullgeodäten in Zylinderkoordinaten in der Form
+geschrieben. Die Transformation in Born-Koordinaten ergibt
+oder nach "r" und "ϕ" aufgelöst
+Diese Trajektorie ist für "ω" > 0 tatsächlich nach innen gebogen (siehe die grüne Kurve in Abb. 7).
+Für Nullgeodäten gegen die Rotationsrichtung (siehe die rote Kurve in Abb. 7) ergeben sich die Kurven
+deren Trajektorien nach außen gebogen sind. Für die Langevin-Beobachter gilt, dass sie um sich Laserimpulse zu senden "vorhalten" müssen.
+
+Damit sind die Betrachtungen zu Nullgeodäten abgeschlossen, denn eine Nullgeodäte ist entweder radial oder hat einen minimalen Radius "r".
+
+Für beschleunigte Beobachter gibt es selbst im einfachsten Fall des flachen Minkowski-Raumes verschiedene Möglichkeiten zur Entfernungsmessung, die sich als operational sinnvoll erweisen. Von diesen ist die Radardistanz die einfachste. Misst ein stationärer Beobachter C im Drehzentrum der Scheibe "R" = "r" = 0 die Laufzeit zu einem Langevin-Beobachter A auf einem Ring mit dem Radius formula_142, so erhält er als Ergebnis formula_142. Für den Langevin-Beobachter A ist die Situation anders. Er misst eine etwas kürzere Laufzeit, da seine Uhr im Vergleich zur Uhr des stationären Beobachters C um den Faktor formula_144 zeitdilatiert ist. Er erhält als Ergebnis seiner Messung formula_145. Bereits dieser einfachen Fall zeigt sich schwierig. Die Beobachter A und C sind sich über ihren Abstand nicht einig. Die Radarmessung liefert kein symmetrisches Ergebnis.
+
+Im Vergleich dazu liefert die Radarmessung zwischen zwei Langevin-Beobachtern A und B auf dem Ring mit dem Radius formula_142 ein symmetrisches Ergebnis. Der Beobachter A misst den Abstand zu B gleich wie der Beobachter B den Abstand zu A (siehe Abb. 9). Die Laufzeiten zwischen A und B können mit den Gleichungen für die allgemeinen Nullgeodäten ermittelt werden. Mit dem Winkel ΔΦ zwischen A und B ergibt sich für die Laufzeit Δ"t" (in Koordinatenzeit) von A nach B
+und für die Laufzeit Δ"t" (in Koordinatenzeit) von B nach A
+Die beiden Laufzeiten können mit diesen nichtlinearen Gleichungen numerisch berechnet werden.
+Die Radardistanz unter Berücksichtigung der Zeitdilatation ist damit
+
+Trotz der dargestellten Schwierigkeiten bei der Bestimmung von Radardistanzen im Großen lässt sich beispielsweise mit Märzke-Wheeler-Koordinaten für einen bestimmten Langevin-Beobachter eine Gleichzeitigkeitsfläche konstruieren, mit deren Hilfe sich große Radardistanzen messen lassen.
+
+Wie im Abschnitt Transformation in Born-Koordinaten gezeigt, lassen sich mit Born-Koordinaten keine „Gleichzeitigkeitsflächen“ festlegen. Jedoch ist die zeitartige Kongruenz der Langevin-Beobachter stationär und ihre Weltlinien können durch Punkte ersetzt werden. Dadurch wird ein Quotientenraum des Bereichs formula_64 des Minkowskiraums gebildet. Dieser Raum ist eine dreidimensionale topologische Mannigfaltigkeit, die sich durch eine Riemannsche Metrik in eine dreidimensionale Riemannsche Mannigfaltigkeit wandeln lässt, mit der sich einfach operational Abstände finden lassen.
+
+Ausgangspunkt ist das Linienelement in Born-Koordinaten
+Wird formula_153 gesetzt und nach formula_154 aufgelöst, ergeben sich die Lichtlaufzeiten hin und zurück
+Und damit die lokale (infinitesimale) Radardistanz als arithmetischer Mittelwert der Lichtlaufeigenzeit
+Somit hat der Quotientenraum das Riemannsche Linienelement
+das dem Abstand zweier benachbarter Langevin-Beobachter mit infinitesimalem Abstand entspricht. Diese Metrik wird "Langevin-Landau-Lifschitz-Metrik" genannt und stellt die „Radardistanz im Kleinen“ dar. Diese Metrik wurde von Langevin eingeführt und von Lifschitz und Landau als „Radardistanz im Kleinen“ für durch beliebige "stationäre" zeitartige Kongruenzen gebildete Quotientenräumen von Lorentzmannigfaltigkeiten verallgemeinert.
+
+Für den Quotientenraum der Langevin-Landau-Lifschitz-Metrik berechnet sich der Krümmungsskalar mit
+Dieser ist bis Größen vierter Ordnung in formula_4 identisch mit der konstanten negativen Krümmung des Hyperbolischen Raums mit dem Linienelement
+und dem Krümmungsskalar
+In diesem Sinne ist die „Geometrie der rotierenden Scheibe“ tatsächlich gekrümmt und entspricht in der Näherung dem Hyperbolischen Raum, wie Theodor Kaluza bereits 1910 (ohne Beweis) vermutet hat. Wie jedoch oben gezeigt wurde, gibt es unterschiedliche Möglichkeiten Abstände auf der rotierenden Scheibe zu messen, die sehr unterschiedliche Ergebnisse liefern. Mit der Langevin-Landau-Lifschitz-Metrik lässt sich ebenso wie mit der Radardistanz im Großen, der radiale Abstand eines Langevin-Beobachters am Ring mit Radius formula_142 vom Rotationszentrum ermitteln. Dazu wird das entsprechende Linienelement für die oben angegebene Nullgeodäte integriert.
+in das Linienelement eingesetzt ergibt
+und weiter
+Dieser Abstand ist größer als formula_142, während die „Radardistanz im Großen“ gleich oder kleiner als formula_142 ist.
+
+Da die zugrunde liegende Langevin-Landau-Lifschitz-Metrik eine Riemann-Metrik ist, ist dieser Abstand im Gegensatz zur „radialen Radardistanz im Großen“ symmetrisch. Der Riemannsche Krümmungstensor der (gekrümmten) Langevin-Landau-Lifschitz-Metrik ist operational signifikant. Wie Nathan Rosen festgestellt hat, stimmen für benachbarte Langevin-Beobachter die gemessenen lokalen (infinitesimalen) Abständen mit jenen überein, die von einem inertialen Beobachter gemessen werden, der sich in einem bestimmten Augenblick parallel und synchron zu ihnen bewegt.
+
+
+
+
+

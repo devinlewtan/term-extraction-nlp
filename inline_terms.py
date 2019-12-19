@@ -1,3 +1,4 @@
+import sys
 from abbreviate import *
 
 et_al_citation = re.compile(' et[.]? al[.]? *$')

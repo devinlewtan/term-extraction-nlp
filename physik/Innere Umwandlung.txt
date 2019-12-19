@@ -1,0 +1,10 @@
+﻿Innere Umwandlung
+
+Innere Umwandlung (engl. "internal conversion", „IC“) ist ein Begriff aus der Photochemie und der Spektroskopie. Er bezeichnet den isoenergetischen und daher strahlungslosen Übergang vom Schwingungsgrundzustand eines elektronisch angeregten Zustands (z. B. S) in einen hoch angeregten Schwingungszustand des nächst tieferliegenen elektronischen Zustands (z. B. S = elektronischer Grundzustand), ohne Änderung der Multiplizität (keine Spinumkehr). Wenn sich die Multiplizität ändert, handelt es sich dagegen um ein "Intersystem Crossing".
+
+Innere Umwandlungen treten mit der größten Wahrscheinlichkeit in der Nähe von Schnittpunkten zweier Potentialkurven auf. Gehört die zweite Potentialkurve zu einem ungebundenen Kontinuumszustand, so tritt Dissoziation ein. Andernfalls erfolgt der Übergang in einen vibronisch angeregten Zustand, der anschließend, unter Energieabgabe durch Stöße mit umgebenden Teilchen, strahlungslos innerhalb von 10 Sekunden in den Schwingungsgrundzustand des jeweiligen elektronischen Zustands übergeht (Schwingungsrelaxation). Ist das Ausgangsniveau ein höher angeregter elektronischer Zustand (z. B. S), finden so lange hintereinander Innere Umwandlungen mit anschließender Schwingungsrelaxation statt, bis der tiefste elektronisch angeregte Zustand (S) erreicht ist. Da große Moleküle mehr Vibrationsmoden als kleine haben, ist bei ihnen die Wahrscheinlichkeit für einen solchen Übergang i. A. höher. Eine Übersicht über die möglichen Übergänge gibt das nebenstehende Jabłoński-Schema.
+
+Das Melanin der Haut und die DNA nutzen die innere Umwandlung, um die für den Organismus schädliche UV-Strahlung in unschädliche Wärme umzuwandeln. Diese ultraschnelle innere Umwandlung ist verantwortlich für den exzellenten UV-Schutz dieser großen natürlichen Moleküle.
+
+
+

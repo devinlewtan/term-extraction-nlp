@@ -1,0 +1,31 @@
+﻿Curie-Temperatur
+
+Die materialspezifische Curie-Temperatur formula_1 bzw. formula_2 (nach Pierre Curie) bezeichnet die Temperatur, bei deren Erreichen ferromagnetische bzw. ferroelektrische Eigenschaften eines Materials vollständig verschwunden sind, so dass sie oberhalb nur noch paramagnetisch bzw. paraelektrisch sind.
+
+Die Curie-Temperatur markiert den reversiblen Phasenübergang ferromagnetischer oder ferrimagnetischer Materialien in ihre paramagnetische Hochtemperaturform:
+Materialien sind nur deutlich unterhalb ihrer Curie-Temperatur als Magnetwerkstoff einsetzbar.
+
+Die Curie-Temperatur einiger typischer Magnetwerkstoffe ist:
+Bei antiferromagnetischen Stoffen findet der entsprechende Phasenübergang bei der Néel-Temperatur formula_3 statt.
+
+Die Polarisierung eines Dauermagneten verschwindet schon deutlich unterhalb der Curie-Temperatur irreversibel, da eine makroskopisch einheitliche Orientierung der Weiss-Bezirke thermodynamisch instabil ist.
+
+Ein analoges Verhalten zeigen auch polarisierte und unpolarisierte Ferroelektrika beim Erwärmen und Übergang zur paraelektrischen Phase. Das ist die Ursache der teilweise recht niedrigen Einsatztemperaturen ferroelektrischer Materialien für Kondensatoren und Piezo-Aktoren.
+
+
+Die magnetische Suszeptibilität folgt oberhalb der Curie-Temperatur in guter Näherung dem Curie-Weiss-Gesetz:
+
+mit der Curie-Konstanten formula_5. Eine analoge Beziehung gilt auch für die elektrische Suszeptibilität in Ferroelektrika.
+
+In magneto-optischen Speichermedien wird die magnetische Schicht durch einen Laser punktförmig bis zur Curie-Temperatur erhitzt, um die vorhandene Information zu löschen und neue Daten zu schreiben. Beim Abkühlen wird die Magnetisierung „eingefroren“.Das Erhitzen herkömmlicher ("nicht"-magneto-optischer) Festplatten über die Curie-Temperatur hinaus gewährleistet eine vollständige Löschung der auf der Plattenoberfläche durch Remanenz gespeicherten Daten. Angewandt wird diese Technik aber meistens nur bei streng geheimen Daten.
+
+Einige Lötkolben-Typen des Herstellers Weller Tools sind mit einem sog. Magnastat-Temperaturregler ausgestattet. Dabei ist an der Lötspitze ein Sensor aus einer ferromagnetischen Legierung angebracht. Solange die Lötspitze noch nicht heiß genug ist, ist der Sensor ferromagnetisch. Dadurch schließt ein von einem Dauermagnet betätigter Schalter und schaltet das Heizelement ein. Sobald die Lötspitze heiß genug ist, verliert der Sensor seine ferromagnetische Eigenschaft, wodurch der Schalter öffnet. Der Strom bleibt solange unterbrochen, bis der Sensor an der Lötspitze durch die Abkühlung wieder ferromagnetisch wird, den Dauermagneten anzieht und somit den Schalter schließt. Temperaturen können durch Wechsel der Lötspitzen oder eines Lötspitzenadapters gewählt werden, deren Sensoren aus unterschiedlichen Legierungen hergestellt sind; dabei stehen fünf verschiedene Temperaturen zwischen 260 °C und 480 °C zur Auswahl.
+
+Heiße, aus dem Erdinneren austretende Lava liegt in ihrer Temperatur über der Curie-Temperatur. Wenn sie erstarrt, „frieren“ auskristallisierende eisenhaltige Minerale das vorherrschende Magnetfeld ein. In der Regel handelt es sich dabei um das natürliche Magnetfeld der Erde. Auf diese Weise können Schwankungen und Polumkehrungen im Verlauf der Erdgeschichte nachgewiesen werden.
+
+Da mit zunehmender Tiefe im Erdinnern bald Temperaturen erreicht werden, die über den Curie-Temperaturen liegen, kann das Magnetfeld der Erde "nicht" durch einen Permanentmagneten in der Erdmitte entstehen. Als Curietiefe wird die entsprechende Tiefe unter der Erdoberfläche bezeichnet. In der kontinentalen Kruste wird diese Temperatur je nach Zusammensetzung bei etwa 20 km Tiefe erreicht, in der ozeanischen Kruste schon bei wesentlich geringeren Tiefen.
+
+Ferritkerne, u. a. für Schaltnetzteil-Übertrager, zeigen etwas unterhalb der recht niedrigen Curie-Temperaturen eine starke Änderung der Permeabilitätszahl; sie steigt zunächst an, um bei weiter steigender Temperatur steil abzufallen. Diese Temperatur darf daher im Betrieb nicht erreicht werden. Oft besitzen die Kernverluste jedoch im Bereich um 100 °C ein Minimum, so dass eine weitere Erwärmung im Betrieb begrenzt wird.
+
+
+

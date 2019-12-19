@@ -1,0 +1,104 @@
+﻿Aggregatzustand
+
+Als Aggregatzustände werden die unterschiedlichen Zustände eines Stoffes bezeichnet, die sich durch bloße Änderungen von Temperatur oder Druck ineinander umwandeln können. Es gibt die drei klassischen Aggregatzustände "fest", "flüssig" und "gasförmig" sowie in der Physik weitere nicht klassische Zustände wie z. B. das Plasma.
+
+Die in der Thermodynamik verwendete Phase ist enger gefasst, sie unterteilt insbesondere den festen Zustand nach seiner inneren Struktur.
+Welcher Aggregatzustand bzw. welche Phase abhängig von Druck und Temperatur stabil ist, wird in einem Phasendiagramm dargestellt.
+
+Es gibt drei klassische Aggregatzustände:
+
+Für feste Stoffe und flüssige Stoffe gibt es den zusammenfassenden Begriff kondensierte Materie.
+
+Bei Feststoffen unterscheidet man auch nach anderen Merkmalen:
+
+Die klassischen Aggregatzustände lassen sich mit einem Teilchenmodell erklären, das die kleinsten Teilchen eines Stoffes (Atome, Moleküle, Ionen) auf kleine runde Kugeln reduziert.
+
+Die mittlere kinetische Energie aller Teilchen ist in allen Zuständen ein Maß für die Temperatur. Die Art der Bewegung ist in den drei Aggregatzuständen jedoch völlig unterschiedlich. Im Gas bewegen sich die Teilchen geradlinig wie Billardkugeln, bis sie mit einem anderen oder mit der Gefäßwand zusammenstoßen. In der Flüssigkeit müssen sich die Teilchen durch Lücken zwischen ihren Nachbarn hindurchzwängen (Diffusion, Brownsche Molekularbewegung). Im Festkörper schwingen die Teilchen nur um ihre Ruhelage.
+
+Die kleinsten Teilchen sind bei einem Feststoff nur wenig in Bewegung. Sie schwingen um eine feste Position, ihren Gitterplatz, und rotieren meist um ihre Achsen. Je höher die Temperatur wird, desto heftiger schwingen bzw. rotieren sie, und der Abstand zwischen den Teilchen nimmt (meist) zu. Ausnahme: Dichteanomalie.
+
+Hinweis: Betrachtet man die Teilchen mit quantenmechanischen Grundsätzen, so dürfen aufgrund der Heisenbergschen Unschärferelation eigentlich Teilchen nie ruhig stehen. Sie haben kleine Schwingungen, die man auch als Nullpunktsfluktuationen bezeichnet. Das entspricht dem Grundzustand des harmonischen Oszillators.
+
+Zwischen den kleinsten Teilchen wirken verschiedene Kräfte, nämlich die Van-der-Waals-Kräfte, die elektrostatische Kraft zwischen Ionen, Wasserstoffbrückenbindungen oder kovalente Bindungen. Die Art der Kraft ist durch den atomaren Aufbau der Teilchen (Ionen, Moleküle, Dipole …) bestimmt. Bei Stoffen, die auch bei hohen Temperaturen fest sind, ist die Anziehung besonders stark.
+
+Durch die schwache Bewegung und den festen Zusammenhalt sind die Teilchen regelmäßig angeordnet.
+
+Durch die starke Anziehung sind die Teilchen eng beieinander (hohe Packungsdichte)
+
+Die Teilchen sind nicht wie beim Feststoff ortsfest, sondern können sich gegenseitig verschieben. Bei Erhöhung der Temperatur werden die Teilchenbewegungen immer schneller.
+
+Durch die Erwärmung ist die Bewegung der Teilchen so stark, dass die Wechselwirkungskräfte nicht mehr ausreichend sind, um die Teilchen an ihrem Platz zu halten. Die Teilchen können sich nun frei bewegen.
+
+Obwohl der Abstand der Teilchen durch die schnellere Bewegung ein wenig größer wird (die meisten festen Stoffe nehmen beim Schmelzen einen größeren Raum ein), hängen die Teilchen weiter aneinander. Für die Verringerung des Volumens einer Flüssigkeit durch Kompression gilt ähnliches wie bei einem Festkörper, wobei der entsprechende Kompressionsmodul der Flüssigkeit zum Tragen kommt. Bei einer Temperaturverringerung wird das Volumen ebenfalls kleiner, bei Wasser jedoch nur bis zu einer Temperatur von 4 °C (Anomalie des Wassers), während darunter bis 0 °C das Volumen wieder ansteigt.
+
+Obwohl die Teilchen sich ständig neu anordnen und Zitter-/Rotationsbewegungen durchführen, kann eine Anordnung festgestellt werden. Diese Nahordnung ist ähnlich wie im amorphen Festkörper, die Viskosität ist jedoch sehr viel niedriger, d. h. die Teilchen sind beweglicher.
+
+Bei Stoffen im gasförmigen Zustand sind die Teilchen schnell in Bewegung. Ein Gas oder gasförmiger Stoff verteilt sich schnell in einem Raum. In einem geschlossenen Raum führt das Stoßen der kleinsten Teilchen gegen die Wände zum Druck des Gases.
+
+Beim gasförmigen Zustand ist die Bewegungsenergie der kleinsten Teilchen so hoch, dass sie nicht mehr zusammenhalten. Die kleinsten Teilchen des gasförmigen Stoffes verteilen sich gleichmäßig im gesamten zur Verfügung stehenden Raum.
+
+Durch die schnelle Bewegung der Teilchen in einem Gas sind sie weit voneinander entfernt. Sie stoßen nur hin und wieder einander an, bleiben aber im Vergleich zur flüssigen Phase auf großer Distanz. Ein gasförmiger Stoff lässt sich komprimieren, d. h. das Volumen lässt sich verringern.
+
+Wegen der Bewegung sind die Teilchen ungeordnet.
+
+In der physikalischen Chemie unterscheidet man zwischen Dampf und Gas. Beide sind physikalisch gesehen nichts anderes als der gasförmige Aggregatzustand; die Begriffe haben auch nicht direkt mit realem Gas und idealem Gas zu tun. Was "umgangssprachlich" als „Dampf“ bezeichnet wird, ist physikalisch gesehen eine Mischung aus flüssigen und gasförmigen Bestandteilen, welche man im Falle des Wassers als Nassdampf bezeichnet.
+
+Bei einem Dampf im engeren Sinn handelt es sich um einen Gleichgewichtszustand zwischen flüssiger und gasförmiger Phase. Er kann, ohne Arbeit verrichten zu müssen, verflüssigt werden, das heißt beim Verflüssigen erfolgt kein Druckanstieg. Ein solcher Dampf wird in der Technik als Nassdampf bezeichnet im Gegensatz zum sogenannten Heißdampf oder überhitzten Dampf, der im eigentlichen Sinn ein reales Gas aus Wassermolekülen darstellt und dessen Temperatur oberhalb der Kondensationstemperatur der flüssigen Phase beim jeweiligen Druck liegt.
+
+Reinstoffe werden entsprechend ihrem Aggregatzustand bei einer Temperatur von 20 °C (siehe Raumtemperatur) und einem Druck von 1013,25 hPa (Normaldruck) als Feststoff, Flüssigkeit oder Gas bezeichnet. Beispiel: Brom ist bei Raumtemperatur und Normaldruck flüssig (siehe Tabelle), also gilt Brom als Flüssigkeit.
+
+Diese Bezeichnungen (Feststoff, Flüssigkeit, Gas) werden zwar auch gebraucht, wenn Stoffe unter veränderten Bedingungen einen anderen Aggregatzustand annehmen. Im engeren Sinne bezieht sich die Einteilung jedoch auf die oben genannten Standardbedingungen; jeder Stoff gehört dann zu einer der Kategorien.
+
+Bei der Vermischung von Stoffen ergeben sich abhängig vom Aggregatzustand der Bestandteile und ihrem mengenmäßigen Anteil charakteristische Gemische, zum Beispiel Nebel oder Schaum.
+
+Die Übergänge zwischen den verschiedenen Aggregatzuständen haben spezielle Namen (eoc, omc, eon) und spezielle Übergangsbedingungen, die bei Reinstoffen aus Druck und Temperatur bestehen. Diese Übergangsbedingungen entsprechen dabei Punkten auf den Phasengrenzlinien von Phasendiagrammen. Hierbei ist für jeden Phasenübergang eine bestimmte Wärmemenge notwendig bzw. wird dabei freigesetzt.
+
+Die Sublimation und das Verdampfen kommen auch unterhalb der Sublimations- beziehungsweise Siedepunktes vor. Man spricht hier von einer Verdunstung.
+
+Alle Übergänge können am Beispiel Wasser im Alltag beobachtet werden (siehe Abbildung):
+
+Schnee oder Eis fängt im Frühjahr an flüssig zu werden, sobald Temperaturen oberhalb der Schmelztemperatur herrschen.
+
+Kühlt das Wasser in Seen unter den Gefrierpunkt ab, bilden sich Eiskristalle, die mit der Zeit immer größer werden, bis die Oberfläche mit einer Eisschicht überzogen ist.
+
+Wird Wasser im Kochtopf über seine Siedetemperatur erhitzt, so wird das Wasser gasförmig. Das „Blubbern“ im Kochtopf kommt zustande, weil das Wasser am heißen Topfboden zuerst die Siedetemperatur erreicht - Die aufsteigenden Blasen sind der Wasserdampf, der (wie die meisten gasförmigen Stoffe) unsichtbar ist. "Verdunstung", der Übergang von flüssig in gasförmig ohne Erreichen der Siedetemperatur, ist bei Schweiß auf der Haut gut zu beobachten.
+
+Der deutlich sichtbare Nebel oberhalb kochenden Wassers, der meist umgangssprachlich als „Dampf“ bezeichnet wird, ist zu winzigen Wassertröpfchen kondensierter Wasserdampf. Tau und Wolken entstehen ebenfalls durch kondensierenden Wasserdampf.
+
+Gefrorene Pfützen können im Winter, auch bei Temperaturen weit unterhalb des Gefrierpunktes, durch Sublimation nach und nach „austrocknen“, bis das Eis vollständig sublimiert und die Pfütze verschwunden ist.
+
+Raureif oder Eisblumen, die sich im Winter bilden, entstehen durch den aus der Umgebungsluft resublimierenden Wasserdampf.
+
+Durch Erhöhen der Temperatur (Zufuhr von thermischer Energie) bewegen sich die kleinsten Teilchen immer heftiger, und ihr Abstand voneinander wird (normalerweise) immer größer. Die Van-der-Waals-Kräfte halten sie aber noch in ihrer Position, ihrem Gitterplatz. Erst ab der sogenannten Schmelztemperatur wird die Schwingungsamplitude der Teilchen so groß, dass die Gitterstruktur teilweise zusammenbricht. Es entstehen Gruppen von Teilchen, die sich frei bewegen können. In ihnen herrscht eine Nahordnung, im Gegensatz zur Fernordnung von Teilchen innerhalb des Kristallgitters fester Stoffe.
+
+Mit Sinken der Temperatur nimmt die Bewegung der Teilchen ab, und ihr Abstand zueinander wird immer geringer. Auch die Rotationsenergie nimmt ab. Bei der sogenannten Erstarrungstemperatur wird der Abstand so klein, dass sich die Teilchen gegenseitig blockieren und miteinander verstärkt anziehend wechselwirken – sie nehmen eine feste Position in einem dreidimensionalen Gitter ein.
+
+Es gibt Flüssigkeiten, die sich bei sinkender Temperatur ausdehnen, beispielsweise Wasser. Dieses Verhalten wird als Dichteanomalie bezeichnet.
+
+Die Geschwindigkeit der kleinsten Teilchen ist nicht gleich. Ein Teil ist schneller, ein Teil ist langsamer als der Durchschnitt. Dabei ändern die Teilchen durch Kollisionen ständig ihre aktuelle Geschwindigkeit.
+
+An der Grenze eines Festkörpers oder einer Flüssigkeit, dem Übergang einer Phase in eine gasförmige, kann es mitunter vorkommen, dass ein Teilchen von seinen Nachbarn zufällig einen so starken Impuls bekommt, dass es aus dem Einflussbereich der Kohäsionskraft entweicht. Dieses Teilchen tritt dann in den gasförmigen Zustand über und nimmt etwas Wärmeenergie in Form der Bewegungsenergie mit, das heißt die feste oder flüssige Phase kühlt ein wenig ab.
+
+Wird thermische Energie einem System zugeführt und erreicht die Temperatur die Sublimations- oder Siedetemperatur, geschieht dieser Vorgang kontinuierlich, bis alle kleinsten Teilchen in die gasförmige Phase übergetreten sind. In diesem Fall bleibt die Temperatur in der verdampfenden Phase in der Regel unverändert, bis alle Teilchen mit einer höheren Temperatur aus dem System verschwunden sind. Die Wärmezufuhr wird somit in eine Erhöhung der Entropie umgesetzt.
+
+Wenn die Kohäsionskräfte sehr stark sind, beziehungsweise es sich eigentlich um eine viel stärkere Metall- oder Ionenbindung handelt, dann kommt es nicht zur Verdampfung.
+
+Die durch Verdampfen starke Volumenzunahme eines Stoffes kann, wenn sehr viel Hitze schlagartig zugeführt wird, zu einer Physikalischen Explosion führen.
+
+Der umgekehrte Vorgang ist die Kondensation beziehungsweise Resublimation. Ein kleinstes Teilchen trifft zufällig auf einen festen oder flüssigen Stoff, überträgt seinen Impuls und wird von den Kohäsionskräften festgehalten. Dadurch erwärmt sich der Körper um die Energie, die das kleinste Teilchen mehr trug als der Durchschnitt der kleinsten Teilchen in der festen beziehungsweise flüssigen Phase.
+
+Stammt das Teilchen allerdings von einem Stoff, der bei dieser Temperatur gasförmig ist, sind die Kohäsionskräfte zu schwach, es festzuhalten. Selbst wenn es zufällig so viel Energie verloren hat, dass es gebunden wird, schleudert es die nächste Kollision mit benachbarten kleinsten Teilchen wieder in die Gasphase. Durch Absenken der Temperatur kann man den kleinsten Teilchen ihre Energie entziehen. Dadurch ballen sie sich beim Unterschreiten der Sublimations- oder Erstarrungstemperatur durch die Wechselwirkungskräfte mit anderen Teilchen zusammen und bilden wieder einen Feststoff oder eine Flüssigkeit.
+
+Das p-T-Phasendiagramm eines Stoffes beschreibt in Abhängigkeit von Druck und Temperatur, in wie vielen Phasen ein Stoff vorliegt und in welchem Aggregatzustand sich diese befinden. Anhand der Linien kann man also erkennen, bei welchem Druck und welcher Temperatur die Stoffe ihren Aggregatzustand verändern. Gewissermaßen findet auf den Linien der Übergang zwischen den Aggregatzuständen statt, weshalb man diese auch als Phasengrenzlinien bezeichnet. Auf ihnen selbst liegen die jeweiligen Aggregatzustände in Form eines dynamischen Gleichgewichts nebeneinander in verschiedenen Phasen vor.
+
+
+
+
+
+
+Neben den drei klassischen Aggregatzuständen gibt es weitere Materiezustände, die zum Teil nur unter extremen Bedingungen auftreten (nach Temperatur, tendenziell von hoher zu niedriger, sortiert).
+
+
+
+
+

@@ -1,0 +1,16 @@
+﻿Kalorimetrie
+
+Die Kalorimetrie bezeichnet die Messung von Wärmemengen, die an biologische, chemische oder physikalische Vorgänge gekoppelt sind und sowohl exotherm als auch endotherm sein können. Für die Bestimmung wird ein Kalorimeter verwendet. Unterschieden wird zwischen direkter und indirekter Kalorimetrie. Begründet wurde diese Wissenschaft im Jahr 1756 von Joseph Black, Professor für Physik an der Universität von Glasgow und Schüler von William Cullen, dem Erfinder der ersten, noch rein experimentellen Eismaschine.
+
+Bei der direkten Kalorimetrie werden die Wärmemengen mittels eines Kalorimeters bestimmt. Diese Methode ist auch zur Messung des Energieumsatzes eines Organismus geeignet.
+
+Das erste derartige Tierkalorimeter wurde von Antoine Laurent de Lavoisier gebaut (siehe Abb.). Das für ein Meerschweinchen ausgelegte Kalorimetergefäß stellt den Kern einer Kugel dar, die von zwei doppelwandigen Schalen umgeben war. Beide Schalen wurden mit Eisstücken gefüllt. Die äußere Schale diente dazu, das Gerät zu isolieren und das Innere zu einem geschlossenen System zu machen. Von außen in das Gerät eintretende Wärme wird dabei zum Schmelzen des Eises in der äußeren Schale benötigt. So bleibt die Trennwand zwischen äußerer und innerer Schale konstant auf 0 °C, solange noch Eis in der äußeren Schale vorhanden ist. Das Eis in der inneren Schale dient dann dazu, die Wärmebildung des Tieres zu messen. Die vom Tier gebildete Wärmemenge wird zum Schmelzen des Eises benötigt. Das Schmelzwasser fließt bei 0 °C ab. Die ausgeflossene Schmelzwassermenge multipliziert mit der Schmelzwärme dient als Maß der vom Tier abgegebenen Wärme. Vorausgesetzt wird hier, dass die Körperwärme des Tieres konstant bleibt.
+
+Bei der indirekten Kalorimetrie wird die frei werdende Wärmemenge indirekt über den gemessenen Sauerstoffverbrauch berechnet. Aus der Menge an Sauerstoff, die z. B. eine Reaktion oder ein Organismus verbraucht, und dem Äquivalent (z. B. oxykalorisches Äquivalent bei metabolischen Reaktionen) lässt sich auf die freigesetzte Wärme zurückrechnen. Dies bietet sich vor allem bei großen Lebewesen wie z. B. dem Menschen an.
+
+Die Gaskalorimetrie ist eine Methode zur Bestimmung des Brennwertes eines Gases mittels Verbrennung einer Gasprobe.
+
+Die Gaskalorimeter werden entsprechend der angewandten Verfahren in folgende Klassen eingeteilt:
+
+
+

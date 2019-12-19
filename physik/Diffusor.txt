@@ -1,0 +1,57 @@
+﻿Diffusor
+
+Ein Diffusor ist ein Bauteil im Maschinen-, Elektrizitätswerks-, Ventilator-, Fahrzeug-, Flugzeug- und Schiffbau, das Gas-/Flüssigkeitsströmungen verlangsamt und den Gas-/Flüssigkeitsdruck erhöht. Es stellt im Prinzip die Umkehrung einer Düse dar. Er dient weiterhin zur „Rückgewinnung“ von kinetischer Energie in der Rohrhydraulik. So werden Diffusoren technisch genutzt, um kinetische Energie in Druckenergie zu wandeln. Dazu muss die Strömung verzögert werden. Man erreicht dies in der Regel durch eine stetige oder unstetige Erweiterung des Strömungsquerschnitts, die geometrisch auf verschiedene Weisen realisiert werden kann.
+
+Ein Diffusor stellt im Unterschallbereich immer eine Vergrößerung des Durchflussquerschnittes in Fließrichtung des strömenden Mediums dar.
+
+In der Aerodynamik wird der Diffusor zum Beispiel bei Überschallflugzeugen dazu verwendet, die Luft im Triebwerkseinlauf einer Turbine auf Unterschallgeschwindigkeit abzubremsen, da die Luft die Schaufeln der Rotoren und Statoren nur im Unterschallbereich umströmen darf. Denn kommt es zu Überschallgeschwindigkeiten an den Schaufeln der Rotoren und Statoren in einem Jetantrieb, reißt die Strömung ab, die Brennkammer erstickt, der Antrieb fällt aus. Außerdem laufen Schockwellen durch das Fließmedium und die Rotor-/Statorflügel, welche das Triebwerk zerstören können.
+
+In der sich in Fließrichtung verjüngenden Düse, die dem Triebwerk folgt, beschleunigt die Luft dann wieder auf Überschall-Geschwindigkeit.
+
+Befindet sich das Fließmedium selbst in Überschallgeschwindigkeit und soll es auch in Überschallgeschwindigkeit verbleiben (z. B. im Lufteinlass eines Pulsertriebwerkes), dann muss sich die Düse in Fließrichtung weiten, nicht verjüngen. Im Artikel Düse wird dieses paradoxe Phänomen erklärt.
+
+In der Hydrodynamik zur Beeinflussung des Phänomens der Kavitation angewandt, sowie in der Aerodynamik im Bereich des Überschalls, ist der Diffusor ein sehr komplex zu berechnendes Bauteil.
+
+Bei Diffusoren mit einem Öffnungswinkel von formula_1 (überkritischer Diffusor) entsteht eine Dissipation durch Ablösen der Strömung von der Diffusorwand, dadurch kommt es zu starken Verwirbelungen in den Übergangsgebieten zu den Toträumen. Bei einer plötzlichen Querschnittserweiterung (formula_2) spricht man auch von einem „Carnotschen Stoßverlust“, den entsprechenden Diffusor nennt man "Sprungdiffusor". In einem solchen Diffusor kommt die Strömung nach einer Distanz von etwa dem Acht- bis Zehnfachen des großen Durchmessers wieder zum Anliegen.
+
+Die Qualität eines Diffusors wird mit dem „Diffusorwirkungsgrad“ formula_3 oder der „Druckrückgewinnziffer“ beschrieben.
+
+Relativ überschaubar ist die Wirkung eines Diffusors jedoch im Fall von nicht-turbulenten und nicht viskosen Strömungen (das heißt, es kommt nicht aufgrund von plötzlichen Querschnittsänderungen oder Ähnlichem zu Wirbeln und die Reibungsverluste des Mediums an den Wänden kann vernachlässigt werden). Dann gilt die vereinfachte Bernoulli-Gleichung
+
+Dabei ist formula_5 der sogenannte statische Druck, der auf die Außenwände des Diffusors wirkt, formula_6 die Dichte des Mediums und formula_7 seine Fließgeschwindigkeit. (Anmerkung: Die Bernoulli-Gleichung ist dahingehend vereinfacht, dass Höhenunterschiede nicht berücksichtigt sind.) Wie ersichtlich ist, muss der statische Druck formula_5 abnehmen, wenn sich die Fließgeschwindigkeit formula_7 erhöht.
+
+Da bei einem Rohr mit veränderlichem Querschnitt an jeder Stelle das gleiche Volumen pro Zeiteinheit durchströmen muss, ist ersichtlich, dass sich die Strömungsgeschwindigkeit formula_10 bei einem Querschnitt formula_11 zu der Strömungsgeschwindigkeit formula_12 bei dem Querschnitt formula_13 umgekehrt proportional zu dem Verhältnis des Querschnitte verhält, es also gelten muss:
+
+Außerdem gilt wegen der obenstehenden (vereinfachten) Bernoulli-Gleichung:
+
+Beides zusammen ergibt:
+
+bzw. umgeformt:
+
+D. h. mit wachsendem Querschnitt (Diffusor: formula_19) steigt der Druck (und sinkt die Strömungsgeschwindigkeit) und mit sinkendem Querschnitt (Düse: formula_20) sinkt der Druck (und steigt die Strömungsgeschwindigkeit).
+
+Bei sehr engen Querschnitten oder sehr zähflüssigen Medien müssen zusätzlich die Reibungsverluste berücksichtigt werden, ebenso wie bei sich plötzlich ändernden Querschnitten die auftretenden Turbulenzen berücksichtigt werden müssen (siehe nächster Abschnitt).
+
+Bei einer plötzlichen Querschnittsänderung gilt für die, in der Strömungslehre definierte, Verlustziffer formula_21:
+
+Mit der Verlustziffer und dem erweiterten Bernoullisatz der Rohrhydraulik (Berücksichtigung von Dissipation) folgt:
+
+Energiesatz: formula_23
+
+Massenerhaltungssatz: formula_24 für formula_25
+
+Diffusoren werden bei schnellfliegenden, insbesondere überschallschnellen Flugzeugen verwendet, um im unmittelbaren Ansaugbereich der Triebwerke einen definierten Gasdruck zu erzielen. Um dabei die optimalen Verhältnisse einstellen zu können, wird der Diffusor meist beweglich ausgelegt. Flugzeuge mit besonders großem Geschwindigkeitsbereich, oder bei denen es auf hohe Reichweite ankommt, haben komplexe Diffusoren mit verstellbaren Klappen und mehrfach veränderlichen Querschnitten.
+
+Diffusoren finden Anwendung im Motorsport, häufig auch bei Supersportwagen und gelegentlich bei Sportwagen. Hierbei wird Unterdruck unter dem Wagenboden erzeugt, der das Fahrzeug an den Boden presst und damit höhere Kurvengeschwindigkeiten zulässt und auch das Fahrverhalten bei hohen Geschwindigkeiten verbessert. Der Diffusor hat dabei die Aufgabe, den Unterdruck unter dem Fahrzeug wieder auf den hinter dem Fahrzeug herrschenden Umgebungsdruck zu erhöhen. In vielen Fällen handelt es sich bei einem solchen Diffusor um einen bodennahen Flügel.
+
+In der Hydrodynamik findet man den Diffusor z. B. in Pumpen und Wasserstrahl-/Strahltriebwerken sowie bei Ventilatoren in der Aerodynamik.
+
+Ebenso finden sich Diffusoren im Bereich der Aquaristik. Dort dienen sie dem Zweck, für das Leben und Wachstum der Fauna und Flora im Aquarium zusätzlich benötigte Gase wie Kohlendioxid oder Sauerstoff in das Wasser einzubringen. Dies geschieht durch den „Saugrohreffekt“, indem durch das Fließwasser innerhalb der Ausströmleitung mittels eines Frischluft- oder einer Gaszuleitung durch den Unterdruck angesaugt, mit dem Wasser vermischt und anschließend in das Becken geleitet wird. Insbesondere dienen diese Diffusoren während der Verwendung von Algenbekämpfungsmitteln, Medikamenten und/oder bei einem Missverhältnis zwischen Pflanzen- und Fischbesatz der zusätzlichen und ausgleichenden Belüftung des künstlichen Lebensraumes. Strittig ist, ob ein Diffusor darüber hinaus für normale Beckengrößen sinnvoll ist.
+
+Mit Diffusoren kann die Ausströmmenge aus einem Gefäß erhöht werden, man spricht vom "Saugrohreffekt". Dieser war offenbar schon im antiken Rom bekannt, denn dort war es nach Sextus Iulius Frontinus verboten, ein Rohr mit zunehmendem Durchmesser direkt an ein Mundstück der Wasserleitung anzuschließen.
+
+Im Bereich kleinerer Windkraftanlagen gibt es immer wieder Versuche, mit Hilfe von Diffusoren ihre Effektivität zu steigern.
+
+
+
+

@@ -1,0 +1,23 @@
+﻿Lenzsche Regel
+
+Die Lenz’sche Regel (auch: "Lenz’sches Gesetz" oder "Regel von Lenz") ist eine Aussage über die Richtung des elektrischen Stromes bei elektromagnetischer Induktion, benannt nach Emil Lenz. Dieser veröffentlichte seine Überlegungen erstmals 1833 und bezog sich dabei auf die vorausgegangenen Arbeiten Michael Faradays und André-Marie Ampères.
+
+Aus heutiger Sicht formuliert man die Lenz’sche Regel etwas allgemeiner, als es Lenz ursprünglich tat, dabei betont man in erster Linie die magnetische Flussänderung (siehe unten) als Ausgangspunkt der Induktion:
+
+So gesehen ist die Lenz’sche Regel eine Folgerung des allgemeinen Faraday’schen Induktionsgesetzes:
+
+Neben ihrer Bedeutung in der Geschichte der Physik hat die Lenz’sche Regel vor allem in der Schulphysik einen hohen Stellenwert, dort wird sie meist in der Mittelstufe zum ersten Mal behandelt. In der universitären Ausbildung und in der Forschung wird die Regel als Teilaspekt des Induktionsgesetzes und der Maxwell-Gleichungen dargestellt.
+
+Die elektromagnetische Induktion ist eines der grundlegenden Phänomene der Elektrophysik. Das Induktionsgesetz stellt einen Zusammenhang zwischen Magnetfeldern und elektrischen Spannungen her und ist insbesondere zum Verständnis elektrischer Maschinen notwendig.
+
+Die Lenz’sche Regel besagt, dass der induzierte Strom eine Änderung des magnetischen Flusses zu verhindern sucht. Die Änderung des magnetischen Flusses ist dem Induktionsgesetz (einem Teil der Maxwell-Gleichungen) entsprechend die Ursache für die Entstehung des Induktionsstromes.
+
+Die Lenz’sche Regel steht in unmittelbarem Zusammenhang mit dem Energieerhaltungssatz: Die Energie für den Aufbau des elektrischen Feldes stammt aus dem Magnetfeld. Ihre physikalische Aussage entspricht der des Minuszeichens innerhalb des Induktionsgesetzes, das in integraler Form wie folgt lautet:
+
+Auf der linken Seite steht die induzierte Spannung (Integration der elektrischen Feldstärke formula_3 über einen geschlossenen Weg formula_4), auf der rechten die zeitliche Änderung des magnetischen Flusses (Integration des Skalarprodukts von magnetischer Flussdichte formula_5 und dem Flächennormalenvektor über die vom Weg formula_4 umschlossene Fläche A).
+
+Kurzfassung: Die Induktionsspannung wirkt immer ihrer Ursache (Änderung des magnetischen Flusses) entgegen.
+
+
+
+

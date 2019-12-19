@@ -1,0 +1,22 @@
+﻿Larmor-Diamagnetismus
+
+Der Larmor-Diamagnetismus (benannt nach dem Physiker Joseph Larmor) ist eine besondere Form des Diamagnetismus, der in Atomen mit vollständig gefüllten Elektronenschalen auftritt. Er wird deshalb auch atomarer Diamagnetismus genannt, im Gegensatz zum Diamagnetismus des freien Elektronengases (Landau-Diamagnetismus).
+
+In der klassischen Vorstellung induziert das externe Magnetfeld atomare Kreisströme, mit denen ein dem Magnetfeld entgegengesetztes magnetisches Moment verbunden ist (Lenzsche Regel). Diese Vorstellung dient jedoch nur der Veranschaulichung, da nach dem Bohr-van-Leeuwen-Theorem ein klassisches System keinen Magnetismus zeigen kann. Die exakte quantenmechanische Beschreibung ist allerdings sehr komplex.
+
+Die Larmor-Suszeptibilität (auch "diamagnetische Langevin-Suszeptibilität" genannt) berechnet sich wie folgt:
+
+Hierbei bezeichnet
+Insgesamt ist die Suszeptibilität weitgehend temperaturunabhängig. Die Verwendung der Elektronenzahl der äußersten Schale ist dadurch gerechtfertigt, dass diese Elektronen aufgrund des größten Radius dominieren.
+
+Der Kreisstrom formula_9, den formula_10 Elektronen aufgrund der Larmor-Präzession mit Kreisfrequenz formula_11 erzeugen, ist proportional zur magnetischen Flussdichte formula_12 des äußeren Magnetfelds:
+
+Somit erhält man für das magnetische Moment:
+
+Wobei im letzten Schritt die Kugelsymmetrie formula_15 der Ladungsverteilung ausgenutzt wurde.
+
+Daraus ergibt sich die Energieverschiebung der Zustände:
+
+Diese Energieverschiebung resultiert in der Magnetisierung, aus der man letztendlich die Suszeptibilität errechnen kann:
+
+

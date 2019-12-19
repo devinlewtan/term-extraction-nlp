@@ -1,0 +1,9 @@
+﻿Gaußsche Hauptlage
+
+In einem Schwingungsmagnetometer wird ein Magnet so aufgehängt, dass er sich in die Richtung eines homogenen Magnetfeldes ausrichten kann. Aus der Schwingungsperiode des Magneten kann das Produkt aus seinem magnetischen Moment und der magnetischen Feldstärke ermittelt werden.
+
+Das Verhältnis von magnetischem Moment des Magneten und der Feldstärke wird üblicherweise gemessen, indem ein zweiter Magnet in entweder der 1. oder 2. Gaußschen Hauptlage positioniert wird. Anschließend wird die resultierende Ablenkung des ersten Magneten gemessen. Der zweite Magnet ist dabei um 90° gegenüber dem ersten Magneten verdreht. Befindet er sich genau seitlich zur Längsrichtung des ersten Magneten, ist er in der 1. Gaußschen Hauptlage, befindet er sich exakt in der Verlängerung der Längsachse, ist er in der 2. Gaußschen Hauptlage.
+
+Aus beiden Größen kann die magnetische Feldstärke absolut bestimmt werden.
+
+

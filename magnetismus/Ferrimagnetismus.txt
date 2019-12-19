@@ -1,0 +1,18 @@
+﻿Ferrimagnetismus
+
+Der Ferrimagnetismus (lat.: ferrum Eisen; von griech. "magnetis" ("lithos"): Stein aus Magnesien) ist ein kooperatives, magnetisches Phänomen, durch das ferrimagnetische Stoffe eine Magnetisierung aufweisen. Solche Stoffe besitzen eine Kristallstruktur, bei der innerhalb bestimmter Bereiche (sogenannte Weiss-Bezirke) die magnetischen Momente der Atome jeweils abwechselnd antiparallel ausgerichtet sind. Im Gegensatz zum Phänomen des Antiferromagnetismus heben sie sich jedoch gegenseitig nicht vollständig auf, da die Ausrichtung der magnetischen Momente in einer der beiden Richtungen stärker ist.
+Ferrimagnetismus unterscheidet sich vom Ferromagnetismus nicht in der Anordnung der Weiss-Bezirke, sondern durch die magnetische Ordnung der Elementarmagnete, die durch eine energetisch günstige Ausrichtung zustande kommt. Die Magnetisierungen zweier benachbarter Elementarmagneten heben sich teilweise auf, wodurch die Weiss-Bezirke deutlich schwächer magnetisiert sind. Das makroskopische Verhalten ist somit eine schwächere Form des Ferromagnetismus.
+
+In jedem Weiss'schen Bezirk resultiert ein magnetisches Moment. Da über den gesamten Kristall diese magnetischen Momente gleichmäßig in alle Richtungen ausgerichtet sind, zeigt der Kristall nach außen keine magnetischen Eigenschaften. Wenn man den Kristall in ein äußeres Magnetfeld bringt, gelingt es jedoch, alle magnetischen Momente in oben beschriebener Weise auszurichten. Dadurch erhält man ein makroskopisches magnetisches Moment, welches sich auch bei Entfernung des äußeren Magnetfeldes erhält (siehe Hysterese). Oberhalb einer für jede Verbindung spezifischen Temperatur, der Néel-Temperatur (Analogon zur Curie-Temperatur ferromagnetischer Stoffe), verliert sich die gesamte magnetische Struktur, und die Verbindung zeigt paramagnetisches Verhalten.
+
+Die am häufigsten genutzte Material-Gruppe mit ferrimagnetischen Eigenschaften sind Ferrite, die man sich als Magnetite vorstellen kann, bei denen das zweiwertige Eisen durch ein anderes zweiwertiges Metallion (z. B. Kupfer, Nickel, Zink, Magnesium, Mangan) oder Mischungen von diesen ersetzt ist. Das dreiwertige Eisen des Magnetit und die zweiwertigen Metallionen bilden dann zwei Gitter, die durch die Sauerstoffatome, die in dichtester Kugelpackung liegen (Spinellstruktur der Ferrite), voneinander getrennt sind. 
+
+Da die Ferrite keramische Oxide sind und einen hohen Widerstand haben, der Wirbelströme unterdrückt, werden sie oft als magnetischer Kernwerkstoff im Hochfrequenzbereich eingesetzt. Hierbei sollen sie einen schlanken Verlauf der Hysteresekurve besitzen, der eine geringe Fläche einschließt. Dadurch können auch die Ummagnetisierungsverluste (Hystereseverluste) gering gehalten werden.
+
+Zum Einsatz als Permanentmagnet sollen sie dagegen einen möglichst rechteckförmigen Verlauf der Hystereseschleife haben. Solche Magnete finden sich im Alltag als Haftmagnet oder Feldmagnet elektrodynamischer Lautsprecher. Solche Materialien wurden früher in Kernspeichern (in einer Matrix angeordnete Ringkerne) von Computern als nichtflüchtiger Speicherbaustein eingesetzt.
+
+Ein weiteres ferrimagnetisches Material ist Cobalteisenstein.
+
+
+
+

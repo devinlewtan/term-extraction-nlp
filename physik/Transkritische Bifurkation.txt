@@ -1,0 +1,20 @@
+﻿Transkritische Bifurkation
+
+Die transkritische Bifurkation beschreibt einen Vorgang, bei dem die Stabilität („anziehend“ oder „abstoßend“) zweier Ruhelagen eines Systems vertauscht wird. Sie ist damit ein bestimmter Typ einer Bifurkation eines nichtlinearen Systems.
+
+Die Normalform der transkritischen Bifurkation ist:
+wobei formula_2 der Bifurkationsparameter ist.
+
+Die transkritische Bifurkation hat folgende Gleichgewichtspunkte:
+Setzt man formula_5 mit formula_6 in die Normalform ein (d. h. man stört den Fixpunkt) und vernachlässigt alle Terme der Ordnung formula_7, erhält man
+für die zeitliche Entwicklung der Störung formula_9.
+
+Für formula_10 ist also formula_11 ein stabiler Fixpunkt (d. h. die Störung nimmt mit der Zeit ab) und formula_12 ein instabiler (die Störung wächst). Für formula_13 ist es umgekehrt. Bei dem kritischen Wert des Bifurkationsparameters formula_14 ist der (in diesem Fall einzige) Fixpunkt formula_15 indifferent stabil.
+
+Für ein diskretes System geht die Differentialgleichung über in eine Differenzengleichung: 
+Die Lage der Fixpunkte bleibt gegenüber dem kontinuierlichen System unverändert.
+
+Bei einem logistischen Wachstum ist die zeitliche Änderung einer Ressource formula_17 proportional zu ihrem derzeitigen Wert und von der Differenz dieses Werts zu einer Schranke formula_18, zum Beispiel bei der Anzahl an Tieren in einem bestimmten Gebiet. Die Proportionalitätskonstante sei formula_19. Tritt zusätzlich ein Konsum dieser Ressource proportional zu ihrer momentanen Verfügbarkeit mit Proportionalitätskonstante formula_20 auf, beispielsweise durch Bejagung, dann lautet die Differentialgleichung
+Dies lässt sich durch die Variablentransformation formula_22 in die Normalform überführen und man identifiziert formula_23. Für formula_24 ist also formula_25 ein stabiler Fixpunkt: Würde ein Tier in das Gebiet ausgesetzt, würden die Jäger dieses sofort schießen und ein Anwachsen unterbinden. Der Fixpunkt formula_26 ist hingegen instabil: Schießen die Jäger auch nur kurzzeitig zu viel Wild, kann es sich nicht erholen und stirbt bei gleichbleibender Bejagung aus (strebt gegen formula_27). Für formula_28 ändert sich das Verhalten der Fixpunkte: formula_27 wird instabil, bei kurzzeitiger Erhöhung der Population wird nicht genügend Wild geschossen, um ein Anwachsen auf den Fixpunkt formula_30 zu verhindern. Dieser ist stabil, das heißt, sowohl bei kurzzeitig zu viel als auch zu wenig geschossenem Wild schwankt die Population nur um formula_30. 
+
+

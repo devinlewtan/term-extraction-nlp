@@ -1,0 +1,18 @@
+﻿Thermomagnetische Effekte
+
+Bei Thermomagnetischen Effekten erzeugt ein Wärmestrom in einem Leiter oder Halbleiter, der sich in einem Magnetfeld befindet, eine Potential- oder Temperaturdifferenz.
+
+Wenn durch eine vorgegebene Temperaturdifferenz ein Wärmestrom in eine Richtung "x" fließt und senkrecht dazu (Richtung "z") ein äußeres Magnetfeld einwirkt, beobachtet man folgende Effekte:
+Die Ursache liegt in der Wirkung der Lorentzkraft auf die bewegten Ladungsträger (meist Elektronen).
+
+Wenn das äußere Magnetfeld longitudinal (parallel zum Wärmestrom) einwirkt, kommt es zu folgenden Effekten:
+
+Die longitudinalen Effekte sind aus Symmetriegründen nicht von der Richtung des Magnetfelds abhängig und damit quadratisch in der Magnetfeldstärke.
+
+Galvanomagnetische Effekte treten auf, wenn ein Magnetfeld auf einen "elektrischer" Strom einwirkt. In diesem Fall beobachtet man ebenfalls transversale und longitudinale Potential- und Temperaturdifferenzen. Ein prominentes Beispiel ist der Hall-Effekt.
+
+Bei der Thermoelektrizität wird die Erzeugung einer Potentialdifferenz bei einem Wärmestrom und die Erzeugung eines Wärmestroms bei einer Potentialdifferenz betrachtet (ohne Magnetfeld).
+
+
+
+

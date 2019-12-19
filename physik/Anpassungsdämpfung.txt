@@ -1,0 +1,13 @@
+﻿Anpassungsdämpfung
+
+Anpassungsdämpfung (engl.: "matching attenuation") ist in der Hochfrequenztechnik eine Dämpfung durch Reflexion. Die Anpassungsdämpfung tritt auf, wenn eine Leitung nicht mit ihrer Wellenimpedanz abgeschlossen ist oder Leitungen mit unterschiedlichen Wellenimpedanzen gekoppelt werden. Am Ort der Fehlanpassung entsteht im Hochfrequenzbereich durch Reflexion eine zum Leitungsanfang zurück laufende Welle als Störung.
+Bei jeder Schnittstelle bildet der Ausgangswiderstand der Quelle mit dem Eingangswiderstand der Last eine Anpassungsdämpfung, die auch Schnittstellendämpfung genannt wird. Mit
+ist die Anpassungsdämpfung formula_3
+und das Anpassungsdämpfungsmaß
+
+Eine Anpassungsdämpfung gibt es auch im Audio-Bereich, also in der Tontechnik. Beispielsweise erleidet ein Mikrofon, das in den Eingang einer Soundkarte gesteckt wird eine Anpassungsdämpfung. Wie gut, wenn das Mikrofon niederohmig ist, also einen niedrigen Ausgangswiderstand (Quellwiderstand formula_1, Innenwiderstand) von 50 Ω besitzt und es sich um Niederfrequenz im Hörbereich bis maximal 40 kHz (Doppelte Hörgrenze) handelt. Als Lastwiderstand formula_7 tritt der Eingangswiderstand des Mischpults (Mikrofonvorverstärker) mit 1000 bis 2000 Ω auf. Eine Anpassungsdämpfung von kleiner 1 dB ist problemlos.
+
+Besonders ist der wichtige Dämpfungsfaktor bei der Schnittstelle vom Endverstärker mit 0,1 Ω Ausgangswiderstand zum üblichen 8-Ω-Lautsprecher als Anpassungsdämpfung zu beachten. Hier gibt es keine Leistungsanpassung.
+
+
+

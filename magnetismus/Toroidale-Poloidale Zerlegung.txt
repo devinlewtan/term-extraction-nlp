@@ -1,0 +1,43 @@
+﻿Toroidale-Poloidale Zerlegung
+
+Die Toroidale-Poloidale Zerlegung ist eine Zerlegung eines dreidimensionalen, divergenzfreien Vektorfeldes, z. B. des Erdmagnetfeldes, in zwei Anteile, die jeweils nur von einem eindeutigen Skalarfeld abhängen.
+
+Die Zerlegung geht von einem Vektorpotential formula_1 des dreidimensionalen divergenzfreien Vektorfeldes formula_2 aus. Divergenzfrei bedeutet, dass formula_3 ist, bzw. anschaulich, dass das Feld keine Quellen und Senken hat. Ein Beispiel für ein divergenzfreies Feld ist die magnetische Flussdichte. Das Vektorpotential des Vektorfeldes ist so definiert, dass die Rotation des Potentials das Vektorfeld ergibt:
+Das Potential lässt sich in eine radiale formula_5 und eine tangentiale Komponente formula_6 aufteilen.
+Dabei stellt formula_8 einen für die Geometrie des Problems geeigneten Einheitsvektor dar. Für sphärische Geometrie bietet sich der Einheitsvektor in radialer Richtung an.
+Durch geeignete Wahl des poloidalen Vektorpotentials formula_9 lässt es sich aus einem Divergenzfeld ableiten, ohne dass das Magnetfeld geändert wird.
+Das Vektorfeld formula_2 erhält damit die Form
+und kann somit durch die beiden skalaren Potentiale formula_13 und formula_14 beschrieben werden.
+
+Das "toroidale Feld" formula_15 ergibt sich aus der Rotation des Vektorpotentials formula_5:
+
+Durch Ausmultiplizieren der Rotation in Kugelkoordinaten sieht man, dass das Feld keine radialen Anteile hat:
+
+Das Feld ist auf der Kugeloberfläche divergenzfrei. Es gibt keine radiale Feldkomponente. Toroidale Magnetfelder können von poloidalen Strömen angetrieben werden und umgekehrt. Das bedeutet in der Geophysik, dass die von in der Erde und in Ozeanen fließenden Wirbelströmen erzeugten toroidalen Magnetfelder an der Erdoberfläche null sind.
+
+Der Begriff "toroidal" leitet sich aus der Torusform dieser Felder in rotationssymmetrischen Systemen ab – die Feldlinien verlaufen in Kreisen. Für die Beschreibung allgemeiner toroidaler Felder ist er daher missverständlich.
+
+Das "poloidale Feld" formula_19 entsteht aus der Rotation des Vektorpotentials formula_6.
+
+Es hat sowohl radiale als auch tangentiale Komponenten. Der Begriff leitet sich aus der Dipol-Form beim Erdmagnetfeld ab. Da das toroidale Magnetfeld der Erde nur "in" ihr auftritt, beschreibt das poloidale Feld das Erdmagnetfeld oberhalb der Erdoberfläche vollständig.
+
+Das Feld eines magnetischen Dipols mit Dipolmoment formula_22 im Koordinatenursprung hat ein Vektorpotential
+welches sofort als poloidales Feld erkennbar ist. Dabei ist formula_24 die magnetische Feldkonstante. Das damit verbundene Potential formula_14 ergibt sich aus der Multipolentwicklung zu
+
+Falls sich Dipole außerhalb des Koordinatenursprungs befinden, so enthält das Feld auch Multipolmomente anderer Ordnungen.
+
+Wenn der zuvor beschriebene radiale Dipol entlang des magnetischen Moments verschoben wird (d. h. das magnetische Moment liegt in Radialrichtung), so ändert sich das Vektorpotential in
+
+Das zugehörige Potential formula_14 ist
+
+Das bedeutet, dass aus radialen Dipolmomenten ausschließlich ein poloidales Feld erzeugt werden kann. Für die Erzeugung toroidaler Komponenten müssen tangentiale magnetische Momente beteiligt sein.
+
+Der erste Summand stellt den poloidalen Teil des Feldes dar, der zweite den toroidalen Anteil.
+
+Legt man das magnetische Moment auf die "z"-Achse und den Dipol selbst auf die "x"-Achse, so erhält man
+
+Radiale und tangentiale Dipole können als Basis zum Aufbau des Magnetfeldes dienen. D. h. zusammen mit räumlichen Drehungen der Basiselemente lässt sich jede magnetische Konfiguration erstellen. Wenn man also für beide Dipole Potentiale formula_33 und formula_14 bestimmt, kann man für jede Konfiguration die Gesamtpotentiale errechnen.
+
+
+
+

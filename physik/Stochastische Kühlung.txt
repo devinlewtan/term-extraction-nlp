@@ -1,0 +1,11 @@
+﻿Stochastische Kühlung
+
+Stochastische Kühlung ist ein Verfahren, um einen Teilchenstrahl in einem Hochenergiephysik-Experiment zu kühlen, d. h. die Größe des Teilchenpaketes im Phasenraum zu verkleinern. Der Name Kühlung rührt daher, dass die Bewegung der Teilchen relativ zueinander dadurch abnimmt. Das Verfahren wurde unter Führung von Simon van der Meer an den Intersecting Storage Rings am Forschungszentrum CERN entwickelt. Er erhielt hierfür im Jahre 1984 eine Hälfte des Nobelpreises für Physik, als das Verfahren genutzt wurde, um einen Antiprotonenstrahl in den Speicherring Super Proton Synchrotron am CERN einzuspeisen und so die W- und Z-Bosonen direkt nachzuweisen.
+
+Die stochastische Kühlung versucht gezielt, mit einem Sensor die Phasenraumposition von Teilchen festzustellen und diese dann in die Mitte des Volumens zu bewegen. Der Satz von Liouville, der besagt, dass Phasenraumvolumina von konservativen Kräften nicht verändert werden können, wird hierbei nicht verletzt, da es sich bei der gezielten, kurzzeitigen Anwendung elektromagnetischer Felder eben nicht um konservative Kräfte handelt.
+Der erste Sensor, der sogenannte "Pick-Up", misst dazu beispielsweise die Abweichung des Teilchens von der Kreisbahn im Speicherring und gibt diese Information an den "Kicker", welcher an einem anderen Ort im Speicherring steht, weiter. Dieser stößt dann das Teilchen in Richtung Kreisbahn. Durch die hohe Zahl von Teilchen im Strahl überlagern sich dabei "Kicker"-Signale verschiedener Teilchen beziehungsweise Strahlteile. Da sich dieser Effekt aber im Mittel aufhebt, hat dies erst in zweiter Ordnung Auswirkung auf die restlichen Teilchen.
+
+Zurzeit wird die stochastische Kühlung am Antiproton Decelerator im CERN verwendet. Des Weiteren wird die Technologie am RHIC, CERN, GSI sowie am COSY verwendet. Auch an der Antiprotonenquelle des Tevatron am Fermi National Accelerator Laboratory wurde die stochastische Kühlung eingesetzt.
+
+
+

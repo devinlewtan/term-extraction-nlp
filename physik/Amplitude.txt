@@ -1,0 +1,38 @@
+﻿Amplitude
+
+Amplitude ist ein Begriff aus der Mathematik sowie aus der Physik und Technik zur Beschreibung von Schwingungen. Er ist anwendbar bei Größen wie beispielsweise einer Wechselspannung und deren Verlauf über der Zeit. Dabei wird er definiert als die maximale Auslenkung einer sinusförmigen Wechselgröße aus der Lage des arithmetischen Mittelwertes.
+Der Begriff ist auch anwendbar auf Wellen, wenn sich die Schwingung mit einer konstanten Geschwindigkeit örtlich ausbreitet (Sinuswelle).
+In DIN 40110-1 wird unterschieden zwischen
+Für weitere Benennungen, die nicht auf Wechselgrößen beschränkt sind, aber allgemein für periodische Vorgänge verwendet werden, z. B. bei Mischspannung, siehe unter Scheitelwert.
+
+Der Abstand zwischen Maximum und Minimum wird bei Schwingungen als "Schwingungsbreite" oder auch als "Spitze-Tal-Wert" bezeichnet (früher als Spitze-Spitze-Wert).
+
+Eine ungedämpfte sinusförmige oder harmonische Schwingung wird durch
+
+mit der "Amplitude" formula_4, Kreisfrequenz formula_5 und Nullphasenwinkel formula_6 beschrieben. Die Amplitude ist zeitunabhängig und damit konstant.
+
+Eine andere Möglichkeit der Beschreibung ist die komplexe Darstellung mittels der Eulerschen Formel (mit dem in der Elektrotechnik üblichen Formelzeichen formula_7 für die imaginäre Einheit:)
+
+Diese Form erleichtert viele Berechnungen, siehe Komplexe Wechselstromrechnung. Der Ausdruck
+ist die komplexe Amplitude, deren Betrag gleich der Amplitude formula_4 und deren Argument gleich dem Nullphasenwinkel formula_6 ist.
+
+In bestimmten Zusammenhängen kann sich die Amplitude auch langsam gegenüber der zugehörigen Schwingung ändern, z. B. bei Dämpfung oder Modulation.
+
+Eine schwach gedämpfte, nicht periodische Schwingung wird mit dem Abklingkoeffizienten formula_12 durch
+beschrieben. Der Ausdruck
+ist die zeitveränderliche "Amplitudenfunktion".
+
+Zur gezielten Beeinflussung der Amplitude siehe Amplitudenmodulation.
+
+Gerne wird die Amplitude an mechanischen Beispielen veranschaulicht, insbesondere am Pendel.
+
+Ein Federpendel führt im Idealfall (ungedämpft) eine Sinusschwingung aus. Die Distanz zwischen
+ist die Amplitude.
+
+Ein ebenes Physikalisches Pendel schwingt auch bei ungedämpfter Bewegung weder im Winkel noch in der horizontalen Auslenkung sinusförmig. Die horizontale Distanz zwischen Umkehrpunkt und Ruhepunkt ist ein "Scheitelwert". Nur bei geringer Auslenkung, wenn der Scheitelwert sehr viel kleiner ist als die Pendellänge, also wenn die Kleinwinkelnäherung angewendet werden kann, wird die Schwingung sinusförmig, und der Scheitelwert wird zur Amplitude.
+
+Als Amplitude im weiteren Sinne werden auch die Grenzwerte der Abweichungen vom jeweiligen Mittelwert bei anderen Kurven in grafischen Darstellungen bezeichnet. Teilweise wird der Amplitude auch eine andere Bedeutung wie "Differenz zwischen dem Minimum und dem Maximum" zugeordnet. Hier hat eine Übernahme des Fachbegriffes in die Fachsprache anderer Fachwissenschaften stattgefunden, die ihn "nicht" der oben definierten Norm entsprechend verwenden, so dass die spezielle Bedeutung fallweise ungewiss ist, zum Beispiel in der Pneumologie bei der Spirometrie, in der Seismologie beim Seismogramm oder auch in der Meteorologie und Klimageographie beim Klimadiagramm.
+
+
+
+

@@ -1,0 +1,14 @@
+﻿Christian David Ott
+
+Christian David Ott (* 1977 in Offenbach am Main) ist ein deutscher theoretischer Astrophysiker, der insbesondere für Forschungen zu Supernovae bekannt ist.
+
+Ott studierte an der Universität Heidelberg mit dem Diplom 2003 bei Wolfgang J. Duschl in theoretischer Astrophysik und wurde 2007 "summa cum laude" an der Universität Potsdam (wobei er am Max-Planck-Institut für Gravitationsphysik in Golm bei Potsdam arbeitete) bei Bernard Schutz promoviert. Als Post-Doktorand war er 2006 bis 2008 am Joint Institute of Nuclear Physics (JINA) der University of Arizona bei Adam Burrows und 2008 bis 2009 Sherman Fairchild Prize Fellow am Caltech. 2009 war er Assistant Professor am Niels-Bohr-Institut und ab 2009 Assistant Professor für theoretische Astrophysik am Caltech, wo er "tenure" erhielt. Außerdem war er 2009 bis 2014 Adjunct Assistant Professor an der Louisiana State University. Er ist Mitglied der TAPIR (Theoretical Astrophysics including Relativity) Gruppe am Caltech. 2017 trat er von seiner Professur zurück. 2017/18 war er am Yukawa Institute of Theoretical Physics in Kyoto.
+
+Er befasst sich mit den Mechanismen von Kollaps-Supernovae (allgemein-relativistische Simulation in drei Raumdimensionen mit realistischer Mikrophysik, einschließlich Strahlungstransport über Neutrinos, Zustandsgleichungen für Kernmaterie und thermonukleare Prozesse und Elementbildung, Rolle von Turbulenz), Erzeugung von Gravitationswellen und sich daraus ergebende Signaturen von verschiedenen Quellen, Theorie langer Gammablitze (Kollapsar-Modell) und allgemein numerischer Relativität einschließlich wissenschaftlichem Rechnen für massiv-parallele Hochleistungsrechner. Er ist Teil der Simulating eXtreme Spacetimes (SXS) Kollaboration, trug zum Open-Source-Einstein-Toolkit für numerische Relativität bei und ist Mitglied der LIGO-Kollaboration.
+
+2006 schlug er in seiner Dissertation einen neuen Mechanismus für Kollaps-Supernovae vor (Pulsationsmoden des Proto-Neutronensterns und dessen Dämpfung durch akustische Moden), was sich auch in der Signatur von Gravitationswellen ausdrückt. 2015 demonstrierte er in magnetohydrodynamischen Simulationen mit Philipp Mösta und anderen, dass sich bei schnell rotierenden massereichen Sternen hohe Magnetfelder wie bei Magnetaren aufbauen können (Szenario der Ic-Supernovae und der Entstehung langer Gammablitze).
+
+2007 erhielt er den Potsdamer Nachwuchswissenschaftler-Preis und 2008 die Otto-Hahn-Medaille der Max-Planck-Gesellschaft. 2012 erhielt er einen NSF Career Grant und 2012 bis 2014 war er Sloan Fellow.
+
+
+

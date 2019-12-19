@@ -1,0 +1,51 @@
+﻿Pion
+
+Pionen oder formula_1-Mesonen (früher auch als Yukawa-Teilchen bezeichnet, da von Hideki Yukawa vorhergesagt) sind die leichtesten Mesonen. Sie enthalten nach dem Standardmodell der Teilchenphysik zwei Valenzquarks und werden daher heute meist nicht mehr als Elementarteilchen angesehen. Wie alle Mesonen sind sie Bosonen, haben also einen ganzzahligen Spin. Ihre Parität ist negativ.
+
+Es gibt ein neutrales Pion formula_2 und zwei geladene Pionen: formula_3 und sein Antiteilchen formula_4. Alle drei sind instabil und zerfallen durch schwache oder elektromagnetische Wechselwirkung.
+
+Das formula_3 ist eine Kombination aus einem up-Quark formula_6 und einem Anti-down-Quark formula_7 (Antiquarks werden durch einen Überstrich gekennzeichnet):
+sein Antiteilchen formula_4 eine Kombination aus einem down-Quark formula_10 und einem Anti-up-Quark formula_11:
+
+Beide haben eine Masse von 139,6 MeV/c². Die derzeit genauesten Messungen seiner Masse basieren auf Röntgenübergängen in exotischen Atomen, die statt eines Elektrons ein formula_4 besitzen. Die Lebensdauer des formula_14 beträgt 2,6 · 10 s.
+
+Das formula_2 ist ein quantenmechanischer Überlagerungszustand einer formula_16- und einer formula_17-Kombination, d. h. zweier Quarkonia. Es gilt:
+
+während der dazu orthogonale Zustand, formula_19, mit formula_20 zu den Eta-Mesonen mischt.
+
+Seine Masse ist mit 135,0 MeV/c² nur geringfügig kleiner als die der geladenen Pionen.
+Da es über die wesentlich stärkere elektromagnetische Wechselwirkung zerfällt, ist seine Lebensdauer mit 8,5 · 10 s etwa 10 Größenordnungen geringer.
+
+Aufgrund einer frei wählbaren Phase können die drei Wellenfunktionen auch in der seltener verwendeten Form formula_8, formula_22 und formula_23 geschrieben werden. Dies entspricht dann der Condon-Shortley-Konvention.
+
+Die unterschiedlichen Lebensdauern sind durch die unterschiedlichen Zerfallskanäle begründet:
+
+die geladenen Pionen zerfallen zu 99,98770(4) % durch die Schwache Wechselwirkung in ein Myon und ein Myon-Neutrino:
+Der eigentlich energetisch günstigere Zerfall in ein Elektron und das dazugehörige Elektron-Neutrino ist aus Helizitätsgründen stark unterdrückt.
+
+Dagegen findet der Zerfall des neutralen Pions mittels der stärkeren und damit schnelleren elektromagnetischen Wechselwirkung statt. Endprodukte sind hier in der Regel zwei Photonen formula_26
+
+mit einer Wahrscheinlichkeit von 98,823(32) % oder ein Positron e, ein Elektron e und ein Photon
+
+mit einer Wahrscheinlichkeit von 1,174(35) %.
+
+Wegen seiner kurzen Lebensdauer von 8,5 · 10 s wird das neutrale Pion in Experimenten durch Beobachtung der beiden Zerfallsphotonen in Koinzidenz nachgewiesen.
+
+Das Pion wurde schon 1934/35 als Austauschteilchen der Kernkraft von Hideki Yukawa in Japan vorhergesagt, der dafür 1949 mit dem Nobelpreis ausgezeichnet wurde. Das erste ‚Meson‘, zunächst für das Yukawa-Teilchen gehalten und später als Myon bezeichnet, fanden Carl D. Anderson und Seth Neddermeyer 1936 in der Höhenstrahlung („Meson“ war damals die Bezeichnung für jedes geladene Teilchen schwerer als ein Elektron, aber leichter als ein Proton). Die Abgrenzung zum Pion schälte sich erst in den 1940er Jahren heraus (zuerst postuliert von Y. Tanikawa und Shoichi Sakata in Japan 1942). Cecil Powell, Giuseppe Occhialini und César Lattes am H. H. Wills Physical Laboratory in Bristol entdeckten 1947 in der Höhenstrahlung neben Myonen Pionen und untersuchten ihre Eigenschaften. Powell erhielt dafür 1950 den Nobelpreis für Physik. Das formula_4 war allerdings, wie erst später bekannt wurde, 1947 schon etwas früher von Donald H. Perkins in der Höhenstrahlung entdeckt worden. 1948 wurden Pionen erstmals künstlich in Beschleunigern nachgewiesen (Lattes).
+
+Beim Vergleich der Massen der Pionen, die jeweils aus zwei Quarks bestehen (Mesonen), mit den Massen des Protons und des Neutrons (der Nukleonen), die beide aus jeweils drei Quarks bestehen (Baryonen), fällt auf, dass Proton und Neutron jeweils weit über 50 % schwerer sind als die Pionen; die Protonenmasse ist fast siebenmal so groß wie die Pionenmasse. Die Masse eines Protons oder eines Neutrons ergibt sich also "nicht" durch bloßes Addieren der Massen ihrer drei Stromquarks, sondern zusätzlich durch die Anwesenheit der für die Bindung der Quarks zuständigen Gluonen und der sogenannten Seequarks. Diese virtuellen Quark-Antiquark-Paare entstehen und vergehen im Nukleon in den Grenzen der Heisenbergschen Unschärferelation und tragen zur beobachteten Konstituentenquarkmasse bei.
+
+Eine Erklärung für die weitaus geringere Masse liefert das Goldstone-Theorem: Die Pionen sind die Quasi-Goldstone-Bosonen der spontan (und darüber hinaus explizit) gebrochenen chiralen Symmetrie in der Quantenchromodynamik.
+
+Die Pionen können die Rolle der Austauschteilchen übernehmen in einer effektiven Theorie der Starken Wechselwirkung (Sigma-Modell), die die Bindung der Nukleonen im Atomkern beschreibt. (Dies ist analog zu den Van-der-Waals-Kräften, die zwischen neutralen Molekülen wirken, jedoch selbst auch keine elementare Kraft sind; vielmehr liegt ihnen die elektromagnetische Wechselwirkung zu Grunde.)
+
+Diese zuerst von Hideki Yukawa und Ernst Stueckelberg vorgeschlagene Theorie ist zwar nur innerhalb eines begrenzten Energiebereiches gültig, erlaubt darin aber einfachere Berechnungen und anschaulichere Darstellungen. Beispielsweise kann man die von den Pionen vermittelten Kernkräfte durch das Yukawa-Potential kompakt darstellen: dieses Potential hat bei kleinen Abständen abstoßenden Charakter (hauptsächlich über ω-Mesonen vermittelt), bei mittleren Abständen wirkt es stark anziehend (aufgrund von 2-Mesonen-Austausch, analog zum 2-Photonen-Austausch der Van-der-Waals-Kräfte), und bei großen Abständen zeigt es exponentiell abklingenden Charakter (Austausch einzelner Mesonen).
+
+In diesem Austauschmodell folgt die endliche Reichweite der Wechselwirkung zwischen den Nukleonen aus der von Null verschiedenen Masse der Pionen. Die maximale Reichweite formula_30 der Wechselwirkung kann abgeschätzt werden über
+Sie liegt in der Größenordnung der Compton-Wellenlänge des Austauschteilens. Im Fall der Pionen kommt man auf Werte von wenigen Fermi (10 m). Diese im Vergleich zur Kernausdehnung kurze Reichweite spiegelt sich in der konstanten Bindungsenergie pro Nukleon wider, die wiederum Grundlage für das Tröpfchenmodell darstellt.
+
+Als Beispiel soll der Austausch eines geladenes Pions zwischen einem Proton und einem Neutron beschrieben werden:
+
+
+
+

@@ -1,0 +1,10 @@
+﻿Funkenspektrometer
+
+Ein Funkenspektrometer (, "OES"; deutsch: "Optisches Emissionsspektrometer") ist ein Gerät zur chemischen Analyse und dient der Darstellung des Emissionspektrums von chemischen Stoffen. Die hauptsächliche Verwendung liegt in der schnellen Analyse von Metalllegierungen. Verwendet wird für einfachere, extrem schnelle Analysen (z. B. Massentest in der Qualitätssicherung, Sortierung von Schrott) ein Lichtbogen zwischen einer Kupfer- oder Silberelektrode und einer grob geschliffenen Materialprobe. Dadurch wird Probenmaterial verdampft und die freigesetzten Atome und Ionen durch Elektronenstoß angeregt. Die emittierte Strahlung wird über Lichtleiter an die optischen Systeme geleitet, wo diese dann in ihre einzelnen spektralen Komponenten zerlegt wird. Jedes Element, das in der Probe enthalten ist, emittiert auf mehreren Wellenlängen und kann somit über Photomultiplier gemessen werden. Die so gemessene Strahlungsintensität verhält sich proportional zur Konzentration des Elements in der Probe.
+Für genauere Analysen (z. B. Werkstoffprüfung, Schmelzenführung in Gießereien und Hüttenwerken) wird ein periodischer Funke unter Argon zwischen einer Wolframelektrode und einer sehr sorgfältig aufbereiteten Materialprobe verwendet.
+
+Im Gegensatz zur Röntgenfluoreszenzanalyse können auch die Gehalte von leichteren Elementen wie Kohlenstoff gemessen werden. Bei höheren Gehalten können abhängig von der Existenz geeigneter Eichproben Messgrenzen vorliegen.
+
+Weiterführende Informationen siehe Atomspektroskopie.
+
+

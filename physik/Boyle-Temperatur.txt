@@ -1,0 +1,16 @@
+﻿Boyle-Temperatur
+
+Die Boyle-Temperatur ist die Temperatur, bei der sich ein unter einem kleinen Druck stehendes, reales Gas wie ein ideales Gas verhält. Bei dieser Temperatur verschwindet der zweite Virialkoeffizient. Die pV-p-Graphen (Isothermen im Druck-Volumen-Diagramm) verlaufen, zumindest bei niederen Drücken, dann nach dem Boyle-Mariotteschen Gasgesetz und damit horizontal. Dieser Temperaturwert wurde nach Robert Boyle benannt. Das Formelzeichen der Boyle-Temperatur ist "T". Sie ergibt sich aus folgender Näherung:
+
+Nutzt man die Virialgleichungen und beendet die Näherung beim zweiten Glied der Reihe, ergibt sich für die Boyle-Temperatur:
+
+also
+
+Hierbei stehen die einzelnen Formelzeichen für folgende Größen:
+
+
+Bei Temperaturen unterhalb der Boyle-Temperatur ist B(T) negativ.
+
+
+
+

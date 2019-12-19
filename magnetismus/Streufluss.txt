@@ -1,0 +1,28 @@
+﻿Streufluss
+
+Der Streufluss (engl. "magnetic leakage flux"), oder auch magnetischer Streufluss mit dem Formelzeichen Φ, ist ein Begriff aus der Elektrotechnik und beschreibt einen Teil des magnetischen Flusses welcher bei einer Anordnung von zwei oder mehr Leiterschleifen und deren magnetischen Kopplung auftreten kann.
+
+Durch eine räumlich benachbarte Anordnung von zwei oder mehr Leiterschleifen (diese werden in der Technik beispielsweise in Form von Spulen realisiert und auch als Windungen bezeichnet) treten in einer Leiterschleife im Bezug zu den anderen Leiterschleifen Gegeninduktivitäten auf. Der sich zeitlich ändernde magnetische Fluss verursacht – beschrieben durch das Induktionsgesetz – in den Spulen eine elektrische Spannung bzw. bei geschlossenen Leiterschleifen einen elektrischen Strom.
+
+Im Idealfall ist die magnetische Kopplung zwischen den einzelnen Spulen perfekt; der komplette magnetische Fluss von der erzeugenden Leiterschleife durchdringt alle anderen benachbarten Leiterschleifen.
+
+Da der magnetische Fluss ein quellenfreies Vektorfeld ist (man drückt diesen Umstand durch immer in sich geschlossene Flussdichtelinien aus), ist auch der magnetische Fluss immer in sich geschlossen, und es gibt keine Quellen oder Senken. In praktisch realisierbaren Anwendungen kommt es durch diesen Umstand und den zwangsläufig notwendigen räumlichen Abstand von mehreren Leiterschleifen zu einem magnetischen Fluss, welcher zwar von einer Leiterschleife verursacht wird, aber nicht durch die anderen, benachbarten Leiterschleifen hindurchtritt. Dadurch trägt dieser – als Streufluss bezeichnete – Anteil nicht zur magnetischen Kopplung der Leiterschleifen untereinander bei und ist daher als eine Art „Fluss-Verlust“ zu verstehen. Der Streufluss ist in nebenstehender Abbildung durch die dünn eingezeichneten äußeren Flusslinien schematisch skizziert, welche durch Schleife 1 erzeugt werden, aber nicht durch Schleife 2 hindurchtreten.
+
+Der Begriff der Streuinduktivität (oder Leckinduktivität) beschreibt jenen Induktivitätsanteil, welcher bei magnetisch gekoppelten Systemen durch den Streufluss gebildet wird. Die Streuinduktivitäten, meist als "L" oder "L" bezeichnet, spielen beispielsweise im Modell des Transformators eine wesentliche Rolle. Die Streuinduktivität wird mit denselben Verfahren und Methoden wie jede andere Induktivität bestimmt, nur dass dabei ausschließlich der Streufluss Φ berücksichtigt wird.
+
+Bei Transformatoren ist der Streufluss ein wesentliches Kriterium. Es wird dabei zur Maximierung des Wirkungsgrades bei der Leistungsübertragung durch konstruktive Maßnahmen versucht, den Streufluss klein zu halten. Dies bedingt eine räumlich enge Anordnung der einzelnen Wicklungen zueinander.
+
+Eine weitere technische Verbesserung wird durch den Einsatz von Werkstoffen mit hoher magnetischer Leitfähigkeit im so genannten Kern des Transformators erreicht: Dadurch kann der Fluss großteils im magnetisch gut leitfähigen Kernmaterial gezielt durch die einzelnen Windungen hindurch geführt werden. Der Streufluss wird somit durch das Vorhandensein des Eisenkerns stark beeinflusst. Der Streufluss wird deswegen durch diese Maßnahme minimiert, da die meist umgebende Luft, ähnlich wie Vakuum, nur eine relativ schlechte magnetische Leitfähigkeit aufweist und somit ein Großteil des magnetischen Flusses im magnetischen Eisenkern geführt werden kann. Die geringe magnetische Leitfähigkeit von Vakuum wird auch als Vakuumpermeabilität bezeichnet und ist eine Naturkonstante.
+
+Je nach geometrischer Gestaltung des Kernes und den Anordnungen der zu koppelnden Wicklungen kann der Streufluss sehr klein gehalten werden. Bei Ringkerntransformatoren ist der Streufluss nur dann klein, wenn alle Windungen der Wicklungen gleichmäßig auf dem Ringkern verteilt sind.
+
+Für besonders geringen Streufluss werden die Wicklungen bifilar ausgeführt oder mit jeder Lage ineinander verschachtelt (siehe auch Ausgangsübertrager). Solche Übertrager besitzen auch bis zu hohen Frequenzen ein gutes Übertragungsverhalten.
+
+Transformatoren, welche kein Kernmaterial besitzen, werden auch als „Lufttransformator“ bezeichnet; sie weisen einen vergleichsweise hohen Streufluss auf. Dies bedingt einen niedrigen Wirkungsgrad bei der Leistungsübertragung, weshalb praktisch alle zur Leistungsübertragung eingesetzten Transformatoren Kernmaterialien mit möglichst hoher Permeabilitätszahl besitzen.
+
+Bei speziellen Transformatoren wie den Streufeldtransformatoren wird der Streufluss durch Abstand der einzelnen Wicklungen bewusst erhöht, um Kurzschlussfestigkeit und Strombegrenzung am Ausgang zu erreichen. Das wird bei Klingeltransformatoren, Schweißtransformatoren und Vorschalttransformatoren für Leuchtreklame-Röhren (Leuchtröhren) angewendet. Oft gibt es einen verstellbaren magnetischen „"bypass"“, um den Strom regeln zu können.
+
+Die Streuflusshöhe sagt etwas über die Höhe der Kurzschlussspannung aus. Je größer der Streufluss, desto größer die Kurzschlussspannung und desto geringer die sekundärseitige Spannungssteifigkeit.
+
+
+

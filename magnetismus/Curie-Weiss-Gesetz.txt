@@ -1,0 +1,16 @@
+﻿Curie-Weiss-Gesetz
+
+Das Curie-Weiss-Gesetz (nach Pierre Curie und Pierre-Ernest Weiss) beschreibt die magnetischen Eigenschaften von ferromagnetischen Substanzen, in denen magnetische Kooperativ-Effekte zur Abweichung vom idealen Curie-Verhalten formula_1 führen. Solche Kooperativ-Effekte treten aufgrund der Austauschwechselwirkung auf, die direkte Wechselwirkung magnetischer Dipolmomente benachbarter paramagnetischer Atome spielt eine untergeordnete Rolle. Durch diese Beeinflussung kommt es unterhalb der Curie-Temperatur zu Ferromagnetismus.
+
+Das Curie-Weiss-Gesetz zeigt die Temperatur-Abhängigkeit der magnetischen Suszeptibilität formula_2 eines Ferromagneten in der Hochtemperaturphase, d. h. oberhalb der Curie-Temperatur formula_3
+
+mit der Curie-Konstanten formula_5.
+
+Die Gleichung besagt, dass die magnetische Suszeptibilität in der Paraphase bei Annäherung der Temperatur formula_6 von oben an die Curie-Temperatur divergiert. 
+
+Bei ferri- und antiferromagnetischen Systemen kann die magnetische Suszeptibilität oberhalb ihrer Phasenumwandlungstemperatur, der Néel-Temperatur formula_7 durch eine leicht veränderte Formel beschrieben werden:
+
+In diesem Fall „divergiert“ die Suszeptibilität der Hochtemperaturphase scheinbar gegen eine negative Temperatur.
+
+
+

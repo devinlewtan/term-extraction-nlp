@@ -1,0 +1,9 @@
+﻿Zelladhäsionstest
+
+Ein Zelladhäsionstest (synonym "Zellbindungstest") ist eine biochemische und biophysikalische Methode zur Bestimmung der Zelladhäsion.
+
+Gewebszellen bilden untereinander Zellkontakte aus, die unter anderem den Zusammenhalt des jeweiligen Gewebes und eine Zell-Zell-Kommunikation bewirken. Dagegen liegen Suspensionszellen (z. B. Blutzellen wie PBMC) meistens einzeln vor. Durch geeignete Messverfahren können Zellkontakte bestimmt werden. Mit einem Rasterkraftmikroskop können einzelne Zellpaare auseinandergezogen werden und die dafür notwendigen Kräfte bestimmt werden. Durch Ansaugen von Flüssigkeit mit einer Mikropipette kann ein konstanter Sog zur Trennung von Zellverbänden verwendet werden. Durch eine Zentrifugation können Zellen bei einer definierten Kraft getrennt werden. Durch eine Fluoreszenzmarkierung von Zellen oder über eine Isotopenmarkierung (meistens Cr) können Zellkontakte nachgewiesen werden.
+
+Die Hämagglutination (z. B. beim Influenzavirus) und die Rosettierung (z. B. bei Pockenviren oder Plasmodien) sind charakteristische Eigenschaften von manchen Infektionserregern und werden zur Bestimmung anhand ihrer Zelladhäsion verwendet.
+
+

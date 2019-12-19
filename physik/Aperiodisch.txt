@@ -1,0 +1,27 @@
+﻿Aperiodisch
+
+Der Begriff aperiodisch bezeichnet in Physik und Technik – zumindest in der internationalen Normung zur Elektrotechnik – „einen nicht oszillierenden Übergang von einem stationären Zustand in einen anderen“. Dieser Übergang ist ein Ausgleichsvorgang, der zeitlich abklingt.
+
+In der Fachliteratur wird der Begriff „aperiodisch“ uneinheitlich verwendet. Dann hat er die Bedeutung
+Zur Verwendung des Begriffs in der Mathematik siehe Aperiodizität.
+
+Ein aperiodischer Vorgang ist ein spezieller Verlauf in einem prinzipiell schwingungsfähigen System. Mathematisch wird er als eine der Lösungen der Schwingungsgleichung, einer linearen gewöhnlichen Differentialgleichung, behandelt.
+
+Der Begriff Schwingung wird in der Normung sehr weit gefasst (siehe DIN 1311), der Begriff Periode eher eng.
+
+Ein "periodischer" Vorgang erfüllt die Bedingung
+Das bekannteste Beispiel hierfür ist die harmonische Schwingung nach der Gleichung
+
+Der Verlauf eines sehr stark gedämpften schwingungsfähigen Systems wird als "aperiodische Schwingung (Kriechbewegung)" zu einer Ruhelage hin bezeichnet. Dafür gilt als eine mögliche Lösung der Schwingungsgleichung
+Dieser Verlauf erfüllt beide oben genannte Bedeutungsmöglichkeiten eines aperiodischen Verlaufs; er ist „nicht periodisch“ und „ohne oszillierende Anteile“.
+
+Die Schwingungs-Differentialgleichung liefert auch die Lösung des aperiodischen Grenzfalls, der sich wie der Kriechfall verhält, aber mathematisch an der Grenze zum Schwingfall liegt.
+
+Ferner gibt es nichtperiodische Schwingungen mit einem über eine Ruhelage hinwegschwingenden Verlauf. Dazu gehört die "abklingende Schwingung" eines schwach gedämpften schwingungsfähigen Systems. Dafür gilt als eine mögliche Lösung der Schwingungsgleichung
+Auch der Sinusschwingungsimpuls (Burst-Signal; in der Tontechnik: Tonimpuls) gehört zu den nichtperiodischen Schwingungen. Er ist nur von kurzer Dauer.
+
+Beide Beispiele erfüllen die Bedeutungsmöglichkeit eines aperiodischen Verlaufs im Sinne von „nicht periodisch“, aber sie erfüllen nicht die Bedeutungsmöglichkeit eines aperiodischen Verlaufs im Sinne von „ohne oszillierende Anteile“. Somit genügen sie auch nicht der genormten Definition.
+
+Die Verwendung des Begriffs „aperiodisch“ in Physik und Technik über die Elektrotechnik hinaus wird durch einige Beispiele belegt.
+
+

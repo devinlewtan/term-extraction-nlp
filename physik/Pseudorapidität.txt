@@ -1,0 +1,19 @@
+﻿Pseudorapidität
+
+Die Pseudorapidität formula_1 (eta) ist eine räumliche Koordinate, die in der experimentellen Teilchenphysik verwendet wird, um den Winkel eines Vektors relativ zur Strahlachse anzugeben. Sie wird gegenüber der Angabe des Polarwinkels formula_2 bevorzugt, weil bei Hadron-Hadron-Kollisionen der Fluss der erzeugten Teilchen pro Pseudorapiditäts-Intervall etwa konstant ist.
+
+Die Pseudorapidität ist definiert als
+
+Für ein Teilchen mit Impuls formula_4 (und formula_5) lässt sich dies umschreiben in:
+
+worin
+
+In der Hochenergienäherung, d. h. für ein Teilchen mit der Energie formula_9, dessen Masse formula_10 gegenüber seinem Impuls formula_11 vernachlässigbar ist, formula_12, ist die Pseudorapidität numerisch in etwa gleich der Rapidität
+die in der experimentellen Teilchenphysik definiert wird als
+
+Zum Vergleich: die originale Rapidität gemäß der speziellen Relativitätstheorie ist
+worin formula_16 das Verhältnis der Teilchengeschwindigkeit formula_17 zur Lichtgeschwindigkeit formula_18 ist.
+
+Die Form des differentiellen Wirkungsquerschnitts formula_19 ist invariant unter einem Lorentz-Boost. Das Gleiche gilt in guter Näherung auch für die Pseudorapidität, nur ist diese leichter zu messen: Nicht die Masse des Teilchens muss ermittelt werden, sondern lediglich seine Flugrichtung durch den Detektor.
+
+

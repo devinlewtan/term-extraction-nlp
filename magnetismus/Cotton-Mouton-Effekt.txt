@@ -1,0 +1,17 @@
+﻿Cotton-Mouton-Effekt
+
+Der Cotton-Mouton-Effekt ist ein magnetooptischer Effekt. Er beschreibt die durch ein (starkes) externes Magnetfeld bewirkte optische Doppelbrechung bei Ausbreitung des Lichtes senkrecht zur Magnetfeldrichtung in normalerweise optisch isotropen Materialien; er wird daher auch magnetische Doppelbrechung genannt.
+
+Ein vergleichbarer elektrischer Effekt ist der Kerr-Effekt, bei dem die Stärke des Effektes ebenfalls quadratisch von der Stärke des – beim Kerr-Effekt elektrischen – Feldes abhängt. 
+
+Der Cotton-Mouton-Effekt wurde 1907 von Aimé Auguste Cotton und Henri Mouton an Nitrobenzol entdeckt und kurze Zeit später auch an anderen organischen Flüssigkeiten (z. B. Benzol und Toluol) nachgewiesen.
+
+Voraussetzung sind magnetisch polare Moleküle im Material – sie weisen eine elektrische und magnetische Anisotropie auf –, die durch das Magnetfeld eine erzwungene Ausrichtung erfahren und so die Durchstrahlungsverhalten von Licht (allgemein elektromagnetischen Wellen, also auch Mikrowellen etc.) verändern. Der Effekt tritt vor allem in Flüssigkeiten auf und ist wesentlich stärker als der Voigt-Effekt oder Majorana-Effekt. Er lässt sich am besten mit polarisiertem Licht dessen Polarisationsebene um 45° gegenüber dem Magnetfeld geneigt ist beobachten. In diesem Fall wird der Effekt (der Unterschied der Phasengeschwindigkeit), durch die senkrecht bzw. parallel zum Magnetfeld liegende Komponenten des Lichtes, maximiert. Das austretende Licht ist in diesem Fall elliptisch polarisiert.
+
+Dabei ist formula_2 die Cotton-Mouton-Konstante, welche abhängig von Material, Wellenlänge und Temperatur ist und z. B. bei Nitrobenzol 3,81 × 10 Am (bei Zimmertemperatur und einer Wellenlänge von λ = 589,3 nm) beträgt. Als Feldstärke formula_3 geht jedoch nur der Beitrag senkrecht zur Ausbreitungsrichtung des Lichts ein. 
+
+In Abhängigkeit vom Einfallswinkel des Lichts tritt der Cotton-Mouton-Effekt auch gemeinsam mit dem Faraday-Effekt auf. Er kann für die optische Messung der Magnetfeldstärke eingesetzt (z. B. mit speziellen Polarimetern) werden.
+
+
+
+

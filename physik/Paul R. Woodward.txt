@@ -1,0 +1,15 @@
+﻿Paul R. Woodward
+
+Paul R. Woodward ist ein US-amerikanischer Astrophysiker und angewandter Mathematiker.
+
+Woodward studierte Mathematik und Physik an der Cornell University mit dem Bachelor-Abschluss 1967 und wurde 1973 an der University of California, Berkeley in Physik promoviert. Danach war er am Lawrence Livermore National Laboratory tätig (unterbrochen von drei Jahren am Observatorium der Universität Leiden ab 1975). Ab 1985 war er Professor für Astronomie an der University of Minnesota. 1995 gründete er dort das "Laboratory for Computational Science and Engineering" und ist dessen Direktor. Er ist Fellow des "Minnesota Supercomputing Institute".
+
+Woodward befasst sich mit numerischer Hydrodynamik und war einer der Entwickler der "Piecewise-Parabolic Method" (PPM). Ab Mitte der 1980er Jahre befasste er sich auch mit Visualisierung im wissenschaftlichen Rechnen und nutzte dazu den Cray-2-Supercomputer des "Minnesota Supercomputing Institute", um Flüssigkeitsströmungen (berechnet mit PPM) zu visualisieren. Um den Schritt von zwei auf drei Dimensionen zu vollziehen, nutzte er ab den 1990er Jahren massiv parallele Rechner und passte den PPM- Code dafür an. Dabei befasste er sich auch mit der dazu nötigen Compiler-Technik.
+
+Neben Anwendungen in Astrophysik befasste er sich auch mit solchen in Meteorologie, Gasströmungen hoher Geschwindigkeit, Plasmaphysik, Magnetohydrodynamik, Laserfusion und Scherströmungen. 
+
+1995 erhielt er den Sidney Fernbach Award.
+
+
+
+

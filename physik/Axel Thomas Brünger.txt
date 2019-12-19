@@ -1,0 +1,19 @@
+﻿Axel Thomas Brünger
+
+Axel Thomas Brünger, englisch Brunger, (* 25. November 1956 in Leipzig) ist ein deutsch-US-amerikanischer Biologe und Kristallograph. Er ist Professor an der Stanford University.
+
+Brünger studierte Physik und Mathematik an der Universität Hamburg und schloss 1980 mit dem Diplom in Physik ab. Danach ging er an die TU München, an der er 1982 in Biophysik bei Klaus Schulten promoviert wurde. Als Post-Doktorand war er 1982/83 bei Martin Karplus an der Harvard University und 1984 am Max-Planck-Institut für Biochemie bei Dieter Oesterhelt und Robert Huber. 1985 bis 1987 war er wieder in Harvard bei Martin Karplus. 1987 wurde er Assistant Professor für molekulare Biophysik und Biochemie an der Yale University und forschte außerdem am Howard Hughes Medical Institute (HHMI). 1991 wurde er Associate Professor und 1993 Professor in Yale. 2000 wurde er Professor für molekulare und Zell-Physiologie an der Stanford University. Ab 2013 stand er der Abteilung Molekulare und Zell-Physiologie vor.
+
+Er befasst sich mit Computersimulation von Makromolekülen, Strukturbestimmung mit Röntgenkristallographie und NMR-Spektroskopie und in der Biologie mit Transmission neuronaler Signale, Vesikel-Transport an die Zellmembran und Fusion mit der Zellmembran in SNARE-Komplexen insbesondere an Synapsen (Exozytose bei Freisetzung von Neurotransmittern). Mit Mitarbeitern gelang ihm die Aufklärung der Struktur des Snare-Komplexes, bestehend aus Syntaxin-1, Synaptobrevin (die auch Bestandteil der Vesikel sind) und zwei SNAP-25 Helices.
+
+In der Röntgenstrukturanalyse entwickelte er Methoden, die die Strukturbestimmung von Proteinen auch Nichtexperten möglich machten und sie automatisierten. Die Verfahren benutzten Simulated Annealing (Programme X-PLOR, CNS). Die Veröffentlichung über CNS gehört zu den sehr häufig zitierten Arbeiten. Außerdem führte er den freien R-Wert ein als Kriterium für die Korrektheit eines molekularen Modells im Vergleich zu den Röntgenbeugungsdaten.
+
+1995 erhielt er den Röntgenpreis in Würzburg, 2003 den Gregori-Aminoff-Preis der schwedischen Akademie der Wissenschaften, 2011 den DeLano Award der American Society for Biochemistry and Molecular Biology, 2014 die Carl-Hermann-Medaille, 2014 den Bernard Katz Award der Biophysical Society und 2016 den Trueblood Award der American Crystallographic Society. Er ist Mitglied der National Academy of Sciences (2005).
+
+2009 bis 2015 war er im Herausgebergremium des Biophysical Journal.
+
+Brünger (Brunger) hat die US-amerikanische Staatsbürgerschaft.
+
+
+
+

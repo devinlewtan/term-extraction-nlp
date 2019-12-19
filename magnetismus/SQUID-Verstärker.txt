@@ -1,0 +1,14 @@
+﻿SQUID-Verstärker
+
+SQUID-Verstärker sind Verstärker, bei denen als verstärkendes Bauelement anstelle z. B. eines Transistors oder einer Elektronenröhre ein supraleitender Quanteninterferenzdetektor (SQUID) eingesetzt wird. SQUIDs sind die bisher empfindlichsten praktisch anwendbaren Sensoren für Magnetfelder.
+
+Das zu verstärkende Signal wird über eine Induktionsspule in ein Magnetfeld umgewandelt, welches vom SQUID detektiert wird. 
+
+Zur Verstärkung höherfrequenter Signale werden zur Einkopplung des Signals auch Spulen benutzt, die nur an einem Ende mit der Signalquelle kontaktiert sind; das andere Ende ist offen (Mikrostreifen-Prinzip).
+
+SQUID-Verstärker sind rauschärmer (siehe: Rauschen (Physik)) als Halbleiterverstärker und alle anderen bisher bekannten Verstärkertypen. Sie werden daher in der Messtechnik verwendet, um kleinste Signale zu verstärken.
+
+Ein potentielles Anwendungsgebiet ist der Axion-Detektor am Lawrence Livermore National Laboratory.
+
+
+

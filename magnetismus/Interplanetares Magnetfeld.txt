@@ -1,0 +1,17 @@
+﻿Interplanetares Magnetfeld
+
+Als interplanetares Magnetfeld (, "IMF") oder Sonnenmagnetfeld () bezeichnet man das Magnetfeld der Sonne, das im Weltraum (in der Heliosphäre) außerhalb des direkten Einflusses der Planeten gemessen wird.
+
+Ohne den Einfluss des Sonnenwindes würde das Magnetfeld der ruhigen Sonne wie ein Dipolfeld mit der dritten Potenz des Abstands schwächer. In der Nähe der Erdbahn wäre eine Stärke von 10 Tesla zu erwarten. Tatsächlich misst man aber ca. 100-fach größere Felder von 4 bis 10 nT. Die Ursache dafür ist, dass der Sonnenwind kein einfaches Gas, sondern ein elektrisch leitendes Plasma ist. Dadurch leitet und trägt er das Magnetfeld der Sonne hinaus in den interplanetaren Raum. Durch die Sonnenrotation entsteht ein Magnetfeld in der Form einer rotierenden Spirale um den Bereich der Sonnenäquatorebene.
+
+Abhängig von der Hemisphäre und Phase des Sonnenwinds folgt das Magnetfeld spiralförmigen Feldlinien nach innen oder außen. Die Spiralform ist auf der nördlichen und südlichen Hemisphäre gleichartig, aber mit umgekehrter Feldrichtung. Das nördliche und das südliche Magnetfeld werden von einer elektrischen Stromschicht getrennt, in der ein kleiner elektrischer Strom fließt. Diese heliosphärische Stromschicht hat eine Form ähnlich einem sich drehenden Ballerinarock und wird nach dem US-amerikanischen Astrophysiker Eugene N. Parker auch „Parkerspirale“ genannt. Durch Veränderungen der Sonne ist die Parkerspirale aber nur eine Idealform. In der Praxis ist sie in ständiger Bewegung und Veränderung. 
+
+Die heliosphärische Stromschicht dreht sich mit einer Umlaufzeit von etwa 25 Tagen. Somit durchquert die Erde mehrmals im Jahr die Stromschicht und befindet sich dazwischen mal im Bereich der nördlich, und mal im Bereich der südlich gerichteten Magnetfelder der Sonne.
+
+Der relative Winkel der heliosphärischen Stromschicht zur Ekliptik ist variabel und hängt von der Sonnenaktivität ab. Je stärker die Aktivität, desto steiler und „aufgebauschter“ wird die Parkerspirale. Bei geringer Aktivität ist sie flach. Weil sich das Magnetfeld der Sonne etwa alle 11 Jahre umpolt, ändert sich auch die Wellenform der heliosphärischen Stromschicht in einem ungefähren 11-Jahres-Zyklus.
+
+Die Untersuchung der Wechselwirkungen von Plasmen, magnetischen und elektrischen Feldern erfolgt im Rahmen der Magnetohydrodynamik. Im Rahmen der internationalen Wissenschaftsunion IUGG ist für diese Thematik die IAGA zuständig.
+
+Der Sonnenwind wechselwirkt mit den Magnetfeldern der Planeten wie der Erde und dem Jupiter und begrenzt deren Magnetosphären durch eine Schockfront. Für die äußerste Zone des Sonnensystems gibt es Hinweise auf eine ähnliche Begrenzung der Heliosphäre mit vergleichbarem Aufbau von Plasmaschicht (Heliohülle) und Heliopause an der Grenze zum interstellaren Raum.
+
+

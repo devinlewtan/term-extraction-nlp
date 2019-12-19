@@ -1,0 +1,25 @@
+﻿Richardson-Zahl
+
+Die Richardson-Zahl formula_1 (nach dem britischen Mathematiker und Meteorologen Lewis Fry Richardson) ist eine dimensionslose Kennzahl. Sie beschreibt in der Strömungslehre den Zusammenhang zwischen potentieller und kinetischer Energie.
+
+Für Flüssigkeiten oder Gase in einem Schwerefeld kann man z. B. definieren
+
+mit
+
+In dieser Definition wird der Kehrwert der Quadratwurzel aus der Richardson-Zahl auch als Froude-Zahl bezeichnet:
+
+Im Flugbetrieb gibt die Richardsonzahl z. B. Anhaltspunkte, ob Turbulenzen auftreten: je kleiner formula_1, desto wahrscheinlicher sind Turbulenzen – bei typischen Ri-Werten von 0,1 bis 10.
+
+In Problemen mit thermischer Konvektion wird folgende Definition benutzt:
+
+dabei ist
+
+Diese Definition entspricht einer alternativen Definition der Archimedes-Zahl und kann mit der Grashof-Zahl formula_10 und der Reynoldszahl formula_11 auch geschrieben werden als:
+
+Natürliche Konvektion ist für formula_13 vernachlässigbar, erzwungene Konvektion ist für formula_14 vernachlässigbar. In den Zwischenbereichen formula_15 müssen beide berücksichtigt werden.
+
+Insbesondere bei der Auslegung von Wärmespeichern dient die Richardson-Zahl dazu, eine ordentliche Temperaturschichtung im Speicher zu dimensionieren. Die Einströmung in den Speicher muss also so gestaltet werden, dass der einströmende Impuls nicht die Speicherschichtung zerstört.
+
+Ende 2007 wurde Europas größter Fernwärmespeicher mit über 2 GWh Speichervermögen im Kraftwerk Theiß der EVN AG in Betrieb gesetzt. Er weist einen Durchmesser von 50 Metern und eine Höhe von gut 20 Metern auf. Trotz dieser geometrisch eigentlich ungünstigen Verhältnisse hat er eine perfekte Temperaturschichtung, da die Ein- und Ausströmungsvorgänge mittels der Richardson-Zahl berechnet und die Ein- und Ausströmimpulse entsprechend angepasst wurden.
+
+

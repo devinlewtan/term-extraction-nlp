@@ -1,0 +1,16 @@
+﻿Magnetoelektronik
+
+Die Magnetoelektronik ist ein Bereich der Elektronik, der einen neuartigen Ansatz zur Realisierung elektronischer Bauelemente beschreibt. Während bei der herkömmlichen Mikroelektronik Information durch Elektronen und Defektelektronen beschrieben wird, übernimmt diese Funktion bei der Magnetoelektronik das magnetische Moment des Spins („up“ oder „down“).
+
+Heutzutage verwendet man meistens den etwas allgemeineren Begriff der Spintronik, u. a. in der Erkenntnis, dass man den Spin nicht nur mit Magnetfeldern, sondern z. B. auch mit elektrischen Feldern schalten kann.
+
+Grundlage aller in der Magnetoelektronik genutzten physikalischen Effekte ist die Änderung des elektrischen Widerstands von ferromagnetischen Dünnschicht(system)en in Abhängigkeit von der relativen Ausrichtung ihrer Magnetisierung oder eines von außen anliegenden Magnetfeldes.
+
+Im Einzelnen sind das folgende magnetoresistive Effekte:
+
+Für die Entdeckung des GMR-Effekts wurde der Physik-Nobelpreis 2007 an Albert Fert und Peter Grünberg verliehen.
+
+Eine bereits seit 2004 auf dem Markt befindliche Anwendung der Magnetoelektronik ist die Realisierung von Festplattenköpfen, die den GMR-Effekt nutzen. GMR-Sensoren werden auch für andere Applikationen herangezogen. 
+In der Phase der anwendungsnahen Entwicklung befinden sich MRAM (Magnetic Random Access Memory)-Speicherelemente. In der Phase der Grundlagenforschung befinden sich dagegen z. B. noch die die Realisierung von Logikfunktionen auf Basis von magnetischem Spin sowie mechanische bzw. Bio-Sensoren auf Basis magnetoresistiver Effekte.
+
+

@@ -1,0 +1,193 @@
+﻿Schwache Wechselwirkung
+
+Die schwache Wechselwirkung (auch schwache Kernkraft genannt, vereinzelt auch β-Wechselwirkung) ist eine der vier Grundkräfte der Physik. Im Gegensatz zu den aus dem Alltag bekannten Wechselwirkungen der Gravitation und des Elektromagnetismus wirkt sie jedoch nur auf sehr kurze Distanzen. Dabei kann sie wie andere Kräfte für Energie- und Impuls-Austausch sorgen, wirkt aber vor allem bei Zerfällen oder Umwandlungen der beteiligten Teilchen, etwa dem Betazerfall bestimmter radioaktiver Atomkerne. Durch die schwache Wechselwirkung lassen sich keine gebundenen Zustände bilden, was sie von den anderen drei Wechselwirkungen unterscheidet.
+
+Entscheidende Bedeutung für das Leben auf der Erde hat die schwache Wechselwirkung durch ihre Rolle bei der Fusion von Wasserstoff zu Helium in der Sonne (Proton-Proton-Reaktion), da nur durch sie die Umwandlung von Protonen in Neutronen möglich ist. So entsteht aus vier Protonen (den Wasserstoffkernen) über mehrere Zwischenschritte ein stabiler Heliumkern mit zwei Protonen und zwei Neutronen. Durch diesen Prozess setzt die Sonne Energie frei. Aufgrund der geringen Stärke der schwachen Wechselwirkung läuft dieser Prozess so langsam ab, dass die Sonne schon seit 4,5 Milliarden Jahren stabil leuchtet und dies voraussichtlich noch fünf bis sechs Milliarden Jahre tun wird.
+
+Die schwache Wechselwirkung lässt sich in geladene Ströme und ungeladene Ströme unterscheiden. Geladene Ströme wirken zwischen allen (linkshändigen) Quarks und (linkshändigen) Leptonen sowie den (rechtshändigen) Antiquarks und (rechtshändigen) Anti-Leptonen. Ungeladene Ströme wirken zwischen denselben Teilchen, die durch geladene Ströme wechselwirken, aber zusätzlich auch zwischen allen geladenen (Anti-)Quarks und (Anti-)Leptonen unabhängig von ihrer Chiralität.
+
+Die elektromagnetische ist ca. 10 Mal, die starke Wechselwirkung ca. 10 Mal stärker als die schwache Wechselwirkung. Wie die starke und die elektromagnetische Wechselwirkung wird sie durch den Austausch von Eichbosonen beschrieben. Diese Austauschteilchen der schwachen Wechselwirkung sind das neutrale Z-Boson sowie die beiden positiv bzw. negativ geladenen W-Bosonen. Da diese massiv sind, hat die schwache Kraft nur eine extrem kurze Reichweite unterhalb eines Atomkernradiusses.
+
+Die schwache Wechselwirkung lässt sich am einfachsten bei Zerfällen von Quarks oder Leptonen beobachten. In Streuexperimenten hingegen ist diese eher schwer zugänglich, da sie bei geladenen Leptonen oder Hadronen von der starken bzw. elektromagnetischen Wechselwirkung überlagert wird. Teilchen, die weder der starken noch der elektromagnetischen Wechselwirkung unterliegen (keine Farbladung und keine elektrische Ladung tragen), sind die ungeladenen Leptonen, also die Neutrinos, die aber in Streuexperimenten äußerst kleine Wirkungsquerschnitte besitzen.
+
+Die schwache Wechselwirkung verletzt die Paritätserhaltung, wie im Wu-Experiment nachgewiesen wurde. Außerdem verletzt sie die CP-Erhaltung etwa beim Zerfall des ungeladenen K-Mesons (Kaonen).
+
+Eine Quantenfeldtheorie, die die schwache Wechselwirkung zusammen mit der elektromagnetischen Wechselwirkung beschreibt, ist das Glashow-Weinberg-Salam-Modell. Man spricht in dieser Formulierung auch von zwei Aspekten der elektroschwachen Wechselwirkung, die durch den Higgs-Mechanismus vereinheitlicht werden.
+
+Die Austauschteilchen der schwachen Wechselwirkung sind massive Vektorbosonen. Sie haben den Spin 1. Ihr Verhalten kann durch die Proca-Gleichung beschrieben werden.
+
+Folgende Tabelle gibt eine Übersicht der Eigenschaften der Austauschteilchen (Masse und Resonanzbreite nach Particle Data Group, Lebensdauer über die Energie-Zeit-Unschärferelation berechnet):
+
+Die Reichweite formula_1 lässt sich grob abschätzen, indem man annimmt, dass sich die Teilchen während ihrer Lebensdauer formula_2 (im Ruhesystems des Teilchens) mit 71 % der Lichtgeschwindigkeit formula_3 im Laborsystem bewegen (Lorentzfaktor formula_4): formula_5. Dies ergibt für eine Lebensdauer von 3·10 s eine Reichweite von etwa 0,09 Femtometer – der kleinste Atomkern, das Proton, hat einen Durchmesser von etwa 1,7 Femtometer.
+
+In der elektroschwachen Theorie ist das Massenverhältnis von W- und Z-Bosonen mit dem Weinbergwinkel formula_6 (CODATA 2014) verknüpft
+
+Als Konsequenz der Weinbergmischung ergibt sich, dass die Kopplungsstärke der Z-Bosonen nicht mit der der W-Bosonen identisch ist. Die Kopplungsstärke des W-Bosons an ein linkshändiges Fermion ist gegeben durch
+
+die Kopplungsstärke des formula_9 an ein Fermion ist dagegen durch
+
+wobei formula_11 die Ladung des Fermions in Einheiten der Elementarladung formula_12 ist. formula_13 bezeichnet die dritte Komponente des schwachen Isospins. Für linkshändige Neutrinos gilt beispielsweise formula_14.
+
+Die Kopplungsstärken von schwacher und elektromagnetischer Wechselwirkung hängen zusammen über
+
+Zur Beschreibung eines schwachen Prozesses verwendet man üblicherweise die Schreibweise einer Reaktionsgleichung, wie
+
+Die Teilchen a und b werden also in einem Prozess zu den Teilchen c und d umgewandelt. Ist dieser Vorgang möglich, so sind auch alle anderen möglich, die nach der Vertauschungsregel des Kreuzens (engl. ) entstehen. Ein Teilchen kann also auf die andere Seite der Reaktionsgleichung geschrieben werden, indem dort sein entsprechendes Antiteilchen notiert wird:
+
+Außerdem sind die Umkehrprozesse möglich.
+
+Ob diese Prozesse tatsächlich in der Natur beobachtet werden (also ihre Wahrscheinlichkeit, die sich um viele "Größenordnungen" unterscheiden kann), hängt nicht nur von der Stärke der schwachen Wechselwirkung ab, sondern unter anderem auch von Energie, Masse und Impuls der beteiligten Teilchen.
+
+Für jede Reaktion gelten die bekannten Sätze der Energieerhaltung, Impulserhaltung und Drehimpulserhaltung, die nach dem Noether-Theorem mit den Invarianzen gegenüber zeitlicher und räumlicher Translation sowie Drehungen im Raum verbunden sind.
+
+Sind die Summen der Massen der beteiligten Teilchen auf der rechten Seite größer als auf der linken, so handelt es sich um eine endotherme Reaktion, die nur möglich ist, wenn die Teilchen auf der linken Seite ausreichend kinetische Energie tragen. Sollte auf der linken Seite nur ein Teilchen stehen, dann ist die Reaktion in diesem Fall verboten, denn es gibt für ein massives Teilchen immer ein Bezugssystem, in dem dieses Teilchen in Ruhe ist (d. h., dass Masse aus dem Nichts erzeugt werden müsste, was nicht möglich ist). Auf der anderen Seite existiert für ein masseloses Teilchen auf der linken Seite nie ein Ruhesystem, sodass im Schwerpunktssystem der Teilchen auf der rechten Seite in diesem Fall die Impulserhaltung verletzt wäre.
+
+Sind die Massen der eingehenden Teilchen größer als die Massen der erzeugten Teilchen, so ist die Reaktion exotherm, und die Differenz der Massen findet sich als Differenz der kinetischen Energien zwischen Ausgangsteilchen und erzeugten Teilchen wieder.
+
+Man unterscheidet schwache Prozesse sowohl danach, ob Leptonen und/oder Quarks an ihnen beteiligt sind, als auch danach, ob der Prozess durch ein elektrisch geladenes formula_20- oder formula_21-Boson (geladene Ströme bzw. charged currents: CC) oder das neutrale formula_9-Boson (neutrale Ströme bzw. neutral currents: NC) vermittelt wurde. Die Bezeichnungen schwacher Prozesse lauten wie folgt:
+
+Alle Reaktionen, an denen Neutrinos beteiligt sind, verlaufen ausschließlich über die schwache Wechselwirkung (die Gravitation vernachlässigt). Umgekehrt gibt es aber auch schwache Reaktionen ohne Beteiligung von Neutrinos.
+
+Ähnlich wie das Photon und im Gegensatz zu den W-Bosonen vermittelt das Z-Boson eine Wechselwirkung zwischen Teilchen, ohne die Teilchenart (genauer: Flavour) dabei zu verändern. Während das Photon aber nur Kräfte zwischen elektrisch geladenen Teilchen vermittelt, wechselwirkt das Z-Boson auch mit den ungeladenen Neutrinos. Bei neutralen Prozessen bleiben die beteiligten Fermionen unverändert (keine Änderung von Masse oder Ladung). Das Z-Boson wirkt auf alle linkshändigen Fermionen und durch die Weinberg-Mischung auch auf die rechtshändigen Anteile von geladenen Fermionen. Es ist nicht wie die W-Bosonen maximal paritätsverletzend, da es einen Anteil des B-Bosons enthält (siehe: Elektroschwache Wechselwirkung).
+
+Beispiele für neutrale Prozesse sind: Die Streuung zweier Elektronen aneinander (wird für geringe Energien aber durch die stärkere elektromagnetische Wechselwirkung überlagert und erst bei hohen Energien werden die Wechselwirkungen in der Stärke vergleichbar). Die Streuung von Myon-Neutrinos an Elektronen (keine konkurrierenden Prozesse, erster experimenteller Nachweis der neutralen Ströme 1973 am CERN).
+
+Ein elementarer geladener leptonischer Prozess ist ein Zerfallsprozess eines Leptons L in ein Lepton L' unter Beteiligung ihrer entsprechenden Neutrinos bzw. Antineutrinos (formula_23):
+
+Ein Beispiel dazu ist der Zerfall von Myonen:
+
+wie auch die damit verbundenen Streuprozesse
+
+Bei einem elementaren geladenen semileptonischen Prozess sind neben Leptonen auch Quarks bzw. Antiquarks (formula_28) beteiligt:
+
+Ein Beispiel für einen semileptonischen Prozess ist der bereits genannte β-Zerfall des Neutrons, bei welchem sich ein Down-Quark des Neutrons in ein Up-Quark umwandelt:
+
+Dadurch wird ein Neutron "n = udd" zu einem Proton "p = uud":
+
+Ein Down- und ein Up-Quark sind unbeteiligt. Sie werden „Zuschauerquarks“ (engl. spectator quarks) genannt.
+
+Dieser Prozess wird durch ein formula_21-Boson vermittelt, wobei das negativ geladene Down-Quark in ein positiv geladenes Up-Quark umgewandelt wird — die negative Ladung wird durch ein formula_21-Boson „weggetragen“. formula_34 und formula_35 müssen also Quarks sein, deren Ladungsdifferenz gerade formula_36 ist.
+
+Weitere Beispiele von semileptonischen Prozessen sind:
+
+Bei einem elementaren geladenen hadronischen (bzw. nichtleptonischen) Prozess sind nur Quarks bzw. Antiquarks beteiligt:
+
+Der Kaon-Zerfall ist ein gutes Beispiel für einen hadronischen Prozess
+
+Quarkdarstellung: formula_40
+
+Hadronendarstellung: formula_41
+
+Wobei die beteiligten Teilchen folgendermaßen aufgebaut sind: formula_42 und formula_43 sowie formula_44. Bei diesem Prozess ist das Up-Quark des Kaons wieder ein unbeteiligter Zuschauer. Die positive Ladung des Strange-Antiquarks wird durch ein formula_20-Boson weggetragen. Durch diesen Austausch ändert das Quark seinen Flavor zu einem Anti-Up-Quark.
+
+Weitere Beispiele von hadronischen Prozessen sind zwei Zerfallskanäle des Λ-Baryons:
+
+Bei geladenen Strömen der schwachen Wechselwirkung können sich nur Teilchen aus demselben Dublett ineinander umwandeln:
+
+Es handelt sich nur um linkshändige Fermionen. Diese besitzen einen schwachen Isospin formula_49, wobei die dritte Komponente des schwachen Isospins für die oberen Teilchen formula_50 und die unteren formula_51 ist. Die schwache Hyperladung formula_52, also die doppelte Differenz aus elektrischer Ladung und dritter schwacher Isospinkomponente, ist innerhalb eines Dubletts konstant. Sie beträgt für die Leptonendubletts formula_53 und für die Quarkdubletts formula_54.
+
+Rechtshändige Fermionen koppeln nicht an W-Bosonen und tragen deshalb keinen schwachen Isospin. Weiterhin stellt man fest, dass Neutrinos in der Natur nur linkshändig vorkommen (Goldhaber-Experiment). Somit werden rechtshändige Fermionen als Singuletts formula_55 beschrieben. Da die geladenen Ströme ausschließlich an die linkshändigen Dubletts koppeln, tritt bei diesen Vorgängen eine maximale Verletzung der Parität auf. Experimentell wurde dies im Wu-Experiment untersucht und durch die V-A-Theorie erklärt.
+
+Bei den Quarks sind die Dubletts (u,d'), (c,s'), (t,b') Eigenzustände der schwachen Wechselwirkung und nicht (u,d), (c,s), (t,b). Die Zustände der gestrichenen Teilchen sind jeweils eine Linearkombination von drei Zuständen. D.h. die gestrichenen Quarkzustände formula_56 sind gegenüber den Quarkzuständen formula_57 wie folgt rotiert:
+
+Dabei ist formula_59 die sog. CKM-Matrix. Diese ist unitär und hat vier unabhängige Parameter. Die Quadrate der Elemente der angegebenen Matrix formula_60 sind proportional zu den Übergangswahrscheinlichkeiten zwischen den Quarks.
+
+Die Übergänge innerhalb derselben Quarkfamilie (u,d), (c,s), (t,b) finden am häufigsten statt, da die Diagonalelemente die größten Übergangswahrscheinlichkeiten anzeigen. Es besteht mit geringerer Wahrscheinlichkeit auch die Möglichkeit, dass sich die Generation des Teilchens ändert. Dieses Verhalten wird dadurch verursacht, dass die Masseneigenzustände nicht mit den so genannten Wechselwirkungseigenzuständen übereinstimmen.
+
+Der Zerfall von Quarks oder Leptonen durch neutrale Ströme, also z. B. die Übergänge c → u oder s → d oder μ → e wurden bisher nicht beobachtet.
+
+Die Neutrino-Eigenzustände der schwachen Wechselwirkung formula_61, formula_62, formula_63 (Flavour-Zustände sind Eigenzustände des schwach wechselwirkenden Teils des Hamilton-Operators) sind nicht identisch mit den Eigenzuständen des Massenoperators formula_64, formula_65, formula_66 (Eigenzustände des kinematischen Teils des Hamilton-Operators). Analog zur CKM-Matrix lässt sich hier die sog. Pontecorvo-Maki-Nakagawa-Sakata (PMNS)-Matrix einführen
+
+Aktuelle Werte liegen bei:
+
+Die Matrix hat große Werte auch außerhalb der Diagonalen. Dies unterscheidet sie von der CKM-Matrix und führt zu einer starken Mischung der Neutrinofamilien mit der Zeit.
+
+Wurde ein Neutrino ursprünglich mit einem bestimmten dieser drei Flavours erzeugt, so kann eine spätere Quantenmessung einen anderen Flavour ergeben (Erhaltung der Leptonenfamilienzahlen ist verletzt). Da die Wahrscheinlichkeiten für jeden Flavour sich periodisch mit der Ausbreitung des Neutrinos ändern, spricht man von Neutrinooszillationen.
+
+Beim Zerfall eines (linkshändigen) Leptons durch die schwache Wechselwirkung ändert sich während der Wechselwirkung nicht der Flavour (Erhaltung der Leptonenfamilienzahl in jedem Wechselwirkungsvertex), jedoch können sich entstehende Neutrinos in der weiteren Zeitevolution ineinander umwandeln, wodurch sich der Flavour ändert und somit die Leptonenfamilienzahl-Erhaltung verletzt ist. Die Leptonenzahl ist jedoch bei dieser Oszillation stets erhalten.
+
+Hätten die Neutrinos keine Masse, dann wäre jeder Flavorzustand auch ein Eigenzustand des Massenoperators. Folglich könnte man keine Flavor-Oszillationen beobachten.
+
+Im Folgenden werden für die Lagrange-Dichte formula_71 der schwachen Wechselwirkung die Wechselwirkungsanteile zwischen Fermionen und Eichbosonen analysiert.
+
+Um die Beschreibung der schwachen Wechselwirkung besser einordnen zu können, wird zunächst die elektromagnetische Wechselwirkung beschrieben. Alle im Folgenden mit griechischen Indizes versehenen Größen stellen Vierervektoren dar.
+
+In der Quantenelektrodynamik ist die Wechselwirkungsenergie die Kopplung von (Vierer-)Strömen geladener Teilchen formula_72 an Photonen, dargestellt durch das elektromagnetische (Vierer-)Potential formula_73, gegeben durch:
+Die Kopplungskonstante ist die Elementarladung formula_12. Die Stromdichte ist gegeben durch
+
+wobei formula_77 die Ladungsquantenzahl (die elektrische Ladung der Teilchen in Einheiten der Elementarladung) ist, formula_78 sind die Dirac-Matrizen. formula_79 ist das Feld des einlaufenden Fermions (bzw. auslaufenden Antifermions) mit (Vierer-)Impuls formula_80 und formula_81 das des auslaufenden Fermions (bzw. des einlaufenden Antifermions) mit Impuls formula_82. In einem Feynman-Diagramm beschreiben die Spinoren formula_79 und formula_81 die äußeren durchgezogenen Linien.
+
+Die Streuung zweier geladener Teilchen wird in der Bornschen Näherung (niedrigste Ordnung Störungstheorie) durch das nebenstehende Feynman-Diagramm beschreiben. Die dazugehörige Streuamplitude ist
+
+An jeden Vertex der Ladung formula_86 muss ein Faktor formula_87 multipliziert werden. Am Vertex gilt wegen der Energie-Impuls-Erhaltung für den Vierervektor des Photons formula_88.
+
+Innere Linien des Feynman-Diagramms sind die sog. Propagatoren, hier der Photonenpropagator formula_89, wobei formula_90 der (Vierer-)Impulsübertrag und formula_91 der metrische Tensor der speziellen Relativitätstheorie ist.
+
+Bei der schwachen Wechselwirkung beschreiben formula_92 (neutral current) und formula_93 (charged current) die Summanden der Lagrange-Dichte, die die Wechselwirkung zwischen Fermionen und den Eichbosonen enthalten.
+
+Die schwachen geladenen Ströme werden durch folgenden Wechselwirkungsanteil beschrieben:
+Die formula_95-Bosonen koppeln mit derselben Kopplungskonstante formula_96 an alle linkshändigen Leptonen und Quarks.
+
+Bei der Beschreibung der einzelnen Strömen tritt jeweils der Chiralitätsoperator formula_97 auf (dieser transformiert einen polaren in einen axialen Vektor). Bei massiven Teilchen wandelt dieser Teilchenspinoren positiver Helizität in Antiteilchenspinoren negativer Helizität um und umgekehrt (formula_98). Daraus lässt sich der Linkshändigkeitsoperator konstruieren:
+
+Dieser Operator auf einen Spinor formula_100 angewandt, projiziert auf den linkshändigen Anteil:
+Wegen des Auftretens dieses Operators ist die schwache Wechselwirkung eine chirale Theorie. Der linkshändige Strom
+
+ist die (Halbe) Differenz aus Vektorstrom formula_103 und Axialvektorstrom formula_104, deswegen V minus A (siehe: V-A-Theorie).
+
+Schwache geladene linkshändige Quarkströme mit formula_105,
+formula_106, formula_107,
+formula_108 ist die CKM-Mischungsmatrix:
+
+Schwache geladene linkshändige Leptonenströme mit formula_110,
+formula_111:
+
+An einen formula_113 Vertex muss folgender Faktor multipliziert werden:
+
+Der Propagator für massive (Masse formula_115) Spin-1-Teilchen, wie es die W- und Z-Bosonen sind, lautet:
+
+Da für die meisten Fälle formula_117 gilt, kann der Propagator genähert werden. Im Gegensatz zum Photonenpropagator formula_118 ist der Propagator formula_119 für kleine Impulsüberträge konstant.
+
+Bei kleinen formula_120-Werten ist die schwache Wechselwirkung viel schwächer als die elektromagnetische. Dies liegt nicht an der Kopplungskonstante der schwachen Wechselwirkung, denn die Kopplungsstärke formula_121 liegt in derselben Größenordnung wie die elektrische Ladung formula_12. Der Grund für die Schwäche der Wechselwirkung liegt in der Gestalt des Propagators der Austauschteilchen, da die riesige Bosonenmasse im Nenner steht und somit den Wechselwirkungsterm herabsetzt.
+
+Die durch ein W-Boson vermittelte Streuung zweier Leptonen, hat eine Streuamplitude (in niedrigster Ordnung) von:
+
+In der genäherten Form
+wird die Streuamplitude durch die Kopplung zweier linkshändiger Ströme mittels einer Kopplungskonstanten beschrieben. Dies wurde von Enrico Fermi durch die Fermi-Wechselwirkung, und zwar als Wechselwirkung von vier beteiligten Teilchen an einem Raumzeitpunkt, beschrieben. Die Fermi-Konstante hat den Wert formula_125.
+
+Die schwachen neutralen Ströme werden durch den folgenden Wechselwirkungsanteil beschrieben:
+
+Die formula_127-Bosonen koppeln mit der Kopplungskonstante formula_128 an den neutralen Strom formula_129. Dieser setzt sich aus einem Isospin-Strom formula_130 und dem elektromagnetischen Strom formula_72 zusammen.
+
+Der Isospin-Strom berechnet sich über
+
+f steht dabei für die Spinor-Wellenfunktion des Fermions. formula_133 ist die dritte Komponente des schwachen Isospins. Sie wird wie folgt berechnet:
+
+
+Wegen des Linkshändigkeits-Operators formula_140 koppelt das formula_127-Boson über den Isospin-Strom also nur an die linkshändigen Anteile von Fermionen.
+
+Der elektromagnetische Strom berechnet sich gemäß
+
+wobei formula_143 die elektrische Ladung des beteiligten Fermions bezeichnet.
+
+Bei der Berechnung von Streuquerschnitten mit Hilfe von Feynman-Diagrammen muss für jeden formula_127 Vertex der Faktor formula_145 mit einem weiteren Faktor in Abhängigkeit der beteiligten Teilchenart multipliziert werden. Dieser lautet
+
+
+Bei den letzten drei Faktoren treten Summanden ohne den Linkshändigkeits-Operator auf. Diese Z-Kopplungen wirken damit sowohl auf links- und rechtshändige Anteile der beteiligten Fermionen.
+
+Bei den Neutrinos formula_136 koppeln also nur die linkshändigen Anteile an das Z-Boson. Bei den geladenen Fermionen formula_135, formula_138 und formula_139 koppeln dagegen rechts- als auch linkshändige Anteile an das Z-Boson. Bei der Streuung geladener Fermionen kann somit neben der Wechselwirkung über ein elektromagnetisches Feld auch eine Wechselwirkung über das Feld des ungeladenen Z-Bosons stattfinden. Sind die beteiligten Teilchenenergien klein im Vergleich zur Ruheenergie des Z-Bosons überwiegt bei Streuprozessen allerdings die elektromagnetische Wechselwirkung.
+
+In der elektroschwachen Theorie lassen sich elektromagnetische und schwache neutrale Ströme kombinieren. Statt elektromagnetische Ströme an Photonen und schwache neutrale Ströme an Z-Bosonen
+
+koppeln nun Isospin-Ströme an formula_163- und Hyperladungs-Ströme an formula_164-Bosonen:
+
+Wobei ein Hyperladungsstrom basierend auf der Hyperladung eines Fermions formula_166 eingeführt wurde:
+
+Der Zusammenhang der Eichbosonen ist über den Weinbergwinkel mit formula_168 (wobei formula_169 das Photon ist) und formula_170 sowie formula_171 gegeben und der Zusammenhang der beiden schwachen Kopplungskonstanten mit der Elementarladung über formula_172.
+
+Die schwache Wechselwirkung wurde zuerst beim Betazerfall entdeckt (für dessen Geschichte siehe den Artikel Betazerfall). Die Entdeckung, dass der Betazerfall ein kontinuierliches Spektrum zeigte und scheinbar die Energieerhaltung verletzte, führte Wolfgang Pauli 1930 zur Postulierung des Neutrinos als drittem Zerfallspartner. Darauf aufbauend formulierte, nachdem 1932 auch noch das Neutron entdeckt worden war, Enrico Fermi 1934 eine erste Theorie des Betazerfalls. Sie hatte einen ähnlichen Aufbau wie die Quantenelektrodynamik (QED), aber die Form einer Stromkopplung mit verschwindender Reichweite und mit einer dimensionsbehafteten Kopplungskonstante. Sie war im Gegensatz zur QED nicht renormierbar. Weitere Fortschritte in den 1930er Jahren waren die Auswahlregeln von George Gamow und Edward Teller (Gamow-Teller-Übergänge, 1936) und die Entdeckung der Rolle der schwachen Wechselwirkung bei der Nukleosynthese in Sternen durch Gamow und Hans Bethe (1938) und bei der Bildung von Neutronensternen in Supernovae (Robert Oppenheimer, Lew Landau). Außerdem wurden bis in die 1950er Jahre neue schwache Prozesse entdeckt wie die Zerfälle von Myonen, Pionen, Kaonen und Hyperonen. 
+
+In den 1950er Jahren wurde die Paritätsverletzung der schwachen Wechselwirkung entdeckt (theoretisch vorgeschlagen von Tsung-Dao Lee, Chen Ning Yang 1956, experimentell entdeckt durch Chien-Shiung Wu 1957). Das wurde in der V−A-Theorie der schwachen Wechselwirkung von Richard Feynman und Murray Gell-Mann einerseits und Robert Marshak und George Sudarshan andererseits 1958 eingebaut, ein wichtiger Schritt zur modernen Theorie der schwachen Wechselwirkung im Standardmodell. Dazu trugen Sheldon Lee Glashow, Abdus Salam und Steven Weinberg mit der Vereinigung von elektromagnetischer und schwacher Wechselwirkung Ende der 1960er Jahre bei (mit Einführung massiver Vektorbosonen, deren Austausch die punktförmige Wechselwirkung in der Fermi-Theorie ersetzte), sowie Makoto Kobayashi and Toshihide Maskawa mit dem Einbau der 1964 von James Cronin und Val Fitch entdeckten CP-Verletzung in die Theorie über ihre KM-Matrix bzw. CKM-Matrix (zusätzlich nach Nicola Cabibbo, der zur Beschreibung schwacher Zerfälle seltsamer Teilchen 1963 den Cabibbo-Winkel einführte).
+
+
+

@@ -1,0 +1,46 @@
+﻿Magnetische Flussdichte
+
+Die magnetische Flussdichte, auch magnetische Induktion, bisweilen umgangssprachlich einfach nur „Flussdichte“ oder „Magnetfeld“ genannt, ist eine physikalische Größe der Elektrodynamik. Sie ist die Flächendichte des magnetischen Flusses, der senkrecht durch ein bestimmtes Flächenelement hindurchtritt. 
+
+Die magnetische Flussdichte formula_1 ist – ebenso wie die "elektrische" Flussdichte formula_2 – eine gerichtete Größe, also ein Vektor, und wird aus dem Vektorpotential formula_3 hergeleitet. 
+
+Wie die elektrische Feldstärke formula_4 ist auch die magnetische Flussdichte formula_5 historisch zunächst einmal indirekt, d. h. über ihre experimentell messbare Kraftwirkung formula_6 auf "bewegte" elektrische Ladungen, definiert worden, die in der neueren Physik als magnetische Komponente der Lorentzkraft betrachtet und in vektorieller Schreibweise wie folgt notiert wird:
+
+mit:
+
+Die erste der beiden oben aufgeführten Gleichungen wird vorwiegend für frei im Raum bewegliche Ladungen, z. B. Elektronen innerhalb einer Braunschen Röhre, benutzt, die zweite dagegen für Ladungen, die sich innerhalb von elektrischen Leitern, z. B. Drähten oder Kabeln, bewegen. Beide Gleichungen sind gleichwertig.
+
+In den genannten Formeln ist formula_5 ein Vektor, der in Richtung der Feldlinien des erzeugenden Magnetfelds zeigt.
+
+Verzichtet man auf die vektorielle Schreibweise und damit die Möglichkeit, die Richtung der Kraftwirkung formula_18 aus dem Vektorprodukt der beiden Vektoren formula_19 und formula_5 bzw. formula_15 und formula_5 zu bestimmen, kann formula_18 gemäß folgender Formel auch als skalare Größe berechnet werden: 
+
+mit: 
+
+Bewegt sich die elektrische Ladung formula_9 mit der Geschwindigkeit formula_33 senkrecht zur Richtung des magnetischen Flusses und/oder verläuft der untersuchte elektrische Leiter senkrecht zur magnetischen Flussrichtung, kann, da formula_34 in diesem Fall den Wert 1 annimmt, der Zahlenwert von formula_35 gemäß folgender Gleichung auch direkt aus der Kraftwirkung formula_36 auf die Ladung bzw. den Leiter als ganzes berechnet werden:
+
+Der Zusammenhang mit der magnetischen Feldstärke formula_38 ist:
+
+Dabei ist formula_40 die magnetische Permeabilität.
+
+Die magnetische Flussdichte kann mit Magnetometern, Hallsensoren oder Messspulen gemessen werden.
+
+Die SI-Einheit der magnetischen Flussdichte ist das Tesla mit dem Einheitenzeichen T:
+
+Eine veraltete Einheit für die magnetische Flussdichte ist außerdem das Gauß mit dem Einheitenzeichen G, das allerdings in der Technik immer noch häufig verwendet wird. Es gilt 1 T = 10000 G.
+
+Im Folgenden werden der Einfachheit halber nur die "Beträge" der Flussdichten angegeben. 
+
+
+Die magnetische Fluss"dichte" formula_5 ist als Flächendichte über folgende Beziehung mit dem magnetischen Fluss formula_55 verknüpft:
+
+Dass die Flusslinien des magnetischen Flusses in sich geschlossen sind, lässt sich mathematisch dadurch zum Ausdruck bringen, dass jedes Flächenintegral von formula_5 über eine beliebige "geschlossene" Oberfläche formula_58 den Wert 0 annimmt:
+
+Diese Gleichung ist mathematisch gesehen eine direkte Konsequenz der homogenen Maxwellschen Gleichung
+sowie des Gaußschen Satzes
+für ein beliebiges Vektorfeld formula_62 und das von formula_58 eingeschlossene Volumen formula_64. 
+
+Anschaulich gesprochen: Wenn man sich ein durch eine beliebig geformte geschlossene Fläche formula_58 eingeschlossenes Volumen formula_64 in einem magnetischen Feld vorstellt, fließt stets genauso viel „Magnetismus“ aus formula_64 durch die Oberfläche formula_58 nach außen wie von außen hinein. Dies bezeichnet man als „Quellenfreiheit des magnetischen Feldes“.
+
+
+
+

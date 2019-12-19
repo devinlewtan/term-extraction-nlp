@@ -1,0 +1,37 @@
+﻿Mori-Zwanzig-Formalismus
+
+Der Mori-Zwanzig-Formalismus, benannt nach den Physikern Hajime Mori und Robert Zwanzig, ist eine Methode der statistischen Physik. Er ermöglicht, die Dynamik eines Systems mithilfe von Projektionsoperatoren in einen relevanten und einen irrelevanten Teil zu zerlegen, wodurch sich geschlossene Bewegungsgleichungen für den relevanten Teil finden lassen.
+
+Makroskopische Systeme mit einer großen Zahl mikroskopischer Freiheitsgrade werden typischerweise sehr gut durch eine kleine Zahl relevanter Variablen beschrieben, etwa der Gesamtmagnetisierung bei Spinsystemen. Der Mori-Zwanzig-Formalismus ermöglicht, basierend auf bekannten mikroskopischen Bewegungsgleichungen eines Systems – typischerweise basierend auf der Hamilton-Funktion der klassischen Mechanik bzw. dem quantenmechanischen Hamiltonoperator – makroskopische Gleichungen zu erhalten, welche nur von den relevanten Variablen abhängen. Der irrelevante Teil tritt in diesen Gleichungen als Rauschen auf. Der Formalismus ermöglicht keine Aussagen darüber, was die relevanten Variablen sind, diese ergeben sich typischerweise aus den Eigenschaften des untersuchten Systems.
+
+Die Observablen, welche das System beschreiben, bilden einen Hilbertraum. Der Projektionsoperator entspricht dann einer Abbildung auf den Unterraum, welcher nur von den relevanten Variablen aufgespannt wird. Der irrelevante Teil der Dynamik hängt von zu den relevanten Variablen orthogonalen Observablen ab. Als Skalarprodukt im Raum der dynamischen Variablen dient dabei eine Korrelationsfunktion. Infolgedessen kann der Mori-Zwanzig-Formalismus auch zur Behandlung von Korrelationsfunktionen verwendet werden.
+
+Eine nicht explizit zeitabhängige Observable formula_1 gehorcht im Heisenbergbild der hamiltonischen Bewegungsgleichung
+wobei der Liouville-Operator formula_3 im quantenmechanischen Fall durch den Kommutator formula_4 und im klassischen Fall durch die Poissonklammer formula_5 definiert ist (es wird hier angenommen, dass der Hamiltonoperator formula_6 nicht von der Zeit abhängt, Verallgemeinerungen auf den zeitabhängigen Fall existieren auch). Diese Gleichung wird formal gelöst durch
+Der Projektionsoperator, der auf eine Observable formula_8 wirkt, ist definiert durch
+wobei formula_1 die relevante Observable ist (dies kann auch ein Vektor aus mehreren relevanten Größen sein). Als Skalarprodukt – hier mit runden Klammern notiert – wird typischerweise das Mori-Produkt, eine Verallgemeinerung der üblichen Korrelationsfunktion, verwendet. Dieses ist für Observablen formula_11 definiert durch
+Hierbei ist formula_13 die inverse Temperatur, formula_14 ist die Spur (im klassischen Fall das Phasenraumintegral) und formula_15 der Hamiltonoperator bzw. die Hamiltonfunktion. formula_16 ist die relevante Wahrscheinlichkeitsdichte (bzw. der Dichteoperator in der Quantenmechanik). Diese wird so gewählt, dass sie lediglich als Funktion der relevanten Observablen geschrieben werden kann, gleichzeitig aber die (i. d. R. unbekannte) tatsächliche Wahrscheinlichkeitsdichte möglichst gut approximiert, d. h. insbesondere die gleichen Erwartungswerte für die relevanten Variablen liefert wie diese.
+
+Nun wendet man die Operatoridentität
+auf die Größe
+an. Unter Ausnutzung der obigen Definition des Projektionsoperators und der Definitionen
+(Frequenzmatrix),
+(stochastische Kraft) und
+(Gedächtnisfunktion) lässt sich dies schreiben als
+
+Dies ist eine Bewegungsgleichung für die relevante Observable formula_23, welche von dem Wert der Observable zum Zeitpunkt formula_24, dem Wert zu früheren Zeitpunkten (Gedächtnisterm) und der stochastischen Kraft (Rauschen, entspricht dem Einfluss der zu formula_23 orthogonalen Dynamik) abhängt.
+
+Aufgrund des Faltungsterms ist die obigen Gleichung meist nur schwer zu lösbar. Typischerweise ist man an langsamen (makroskopischen) Variablen interessiert, deren Änderung auf größeren Zeitskalen stattfindet als das (mikroskopische) Rauschen. Entwickelt man die Gleichung bis zur zweiten Ordnung in formula_26, so erhält man
+wobei
+ist.
+
+Für den Fall beliebiger Abweichungen vom thermodynamischen Gleichgewicht wird die allgemeinere Form des Mori-Zwanzig-Formalismus verwendet, aus welcher sich obige Gleichungen als Linearisierung ergeben. In diesem Fall hängt der Projektionsoperator explizit von der Zeit ab. In diesem Fall kann die Gleichung für eine relevante Observable
+wobei
+und
+Hierbei wurden das zeitgeordnete Exponential
+sowie der zeitabhängige Projektionsoperator
+verwendet. Auch diese Gleichungen können mittels einer Verallgemeinerung des Mori-Produkts durch Korrelationsfunktionen dargestellt werden. Weitere Varianten des Mori-Zwanzig-Formalismus dienen der Beschreibung von Systemen mit zeitabhängigen Hamiltonoperatoren bzw. von allgemeinen dynamischen Systemen.
+
+
+
+

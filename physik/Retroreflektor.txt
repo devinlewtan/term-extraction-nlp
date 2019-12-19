@@ -1,0 +1,44 @@
+﻿Retroreflektor
+
+Ein Retroreflektor (von rückwärts, "reflexio" Zurückbeugung) ist eine Vorrichtung, die einfallende elektromagnetische Wellen weitgehend unabhängig von der Einfallsrichtung sowie der Ausrichtung des Reflektors großteils in die Richtung reflektiert, aus der sie gekommen sind. Dies wird als Retroreflexion bezeichnet.
+
+Diffus streuende Oberflächen strahlen nur wenig Licht zur Lichtquelle zurück. Sie erscheinen dennoch meist heller als ein Spiegel, denn bei einem Planspiegel hängt die Rückstrahlung von seiner Orientierung ab, die nur in Ausnahmefällen senkrecht zum Betrachter ausgerichtet ist. Aus diesem Grund erscheint auch eine regennasse Fahrbahn, die nur von den eigenen Fahrzeugscheinwerfern beleuchtet wird, in der Nacht dunkler als die diffus rückstreuende Oberfläche eines trockenen Straßenbelags.
+
+In der Funktechnik unterstützen Radarreflektoren die Ortung angestrahlter Objekte, etwa einer Ballonsonde oder eines Brückenpfeilers an einer Wasserstraße.
+
+Ein Tripelprisma aus geschliffenem Glas dient bei der Vermessung einem Laser als Umkehrpunkt. An einer Reflexlichtschranke wird eine retroreflektierende Folie oder ein Rückstrahler verwendet, um den Strahl wieder zum Sensor unmittelbar neben der Lichtquelle zurückzulenken.
+
+Im Straßenverkehr erhöhen Retroreflektoren an Menschen, Hindernissen, Verkehrszeichen, Leiteinrichtungen und Fahrzeugen deren Erkennbarkeit nachts im Scheinwerferlicht. Die Augen des Fahrers sind in der Regel etwa 1 m vom Scheinwerfer ihres Fahrzeuges entfernt. Da ein idealer Retroreflektor das Licht theoretisch exakt in Einfallsrichtung zurückwerfen würde, haben Retroreflektoren für den Straßenverkehr eine kleine Winkelstreuung von etwa 1°. Retroreflektoren haben einen Grenzwinkel der Retroreflexion gegenüber ihrer Flächennormalen, ab dem sie nicht mehr reflektieren. Die Parameter "Winkelstreuung" und "Grenzwinkel" von Retroreflektoren dienen zu ihrer Charakterisierung.
+
+In weißer oder gefärbter Ausführung gibt es Rückstrahler aus transparenten Kunststoffspritzguss- oder Glasplatten, die vorn glatt sind, hinten eine Struktur aus vielen Würfelecken haben. Sie sind manchmal auch hinten verspiegelt, unverspiegelt wird jedoch auch eine Retroreflexion erreicht. Auch diese Elemente werden oft als Katzenaugen bezeichnet.
+
+Retroreflektorfolien sind aus geprägter Alufolie, rückseitig geprägter Plastikfolie oder enthalten transparente, retroreflektierende Kügelchen.
+
+Katzenaugen bestehen aus gefassten Glaskörpern (bikonvex, silberverspiegelt und schutzlackiert).
+
+Sind Retroreflektoren durch Tautropfen oder Raureif beschlagen, kann dies die Retroreflexion durch Streuung mindern oder ganz verhindern; Autobahnwegweiser zeigen in solchen Fällen große dunkle Flecken.
+
+Manche Fahrradscheinwerfer haben Retroreflexzone integriert.
+Retroreflektierende Materialien sollten bei Sicherheitsanwendungen mit diffus reflektierenden Oberflächen kombiniert werden, damit sie auch dann erkennbar sind, wenn sie mit Fremdlicht aus anderen Richtungen bestrahlt werden. Aus diesem Grund tragen Leitpfosten nicht nur Rückstrahler, sondern sind auch weiß gefärbt. Auch Aluminium, häufig stranggepresst und eloxiert, als Verkehrstafelmasten oder Geländer wirkt hell, solange es nicht durch Salz stark korrodiert ist.
+
+Bei Fahrbahnmarkierungen werden Glaskugeln ("d" < 0,3 mm) in die aufgebrachte noch feuchte Markierungsfarbe (Lack oder Flüssigkunststoff) durch Aufstreuen teileingebettet, wodurch Retroreflexion erreicht wird. Der Effekt der Glasperlen ist ähnlich dem der Lüneburg-Linse.
+
+In der Natur tritt Retroreflexion an betauten Pflanzen auf, wenn diese stark behaart sind. Auch Gras- und Getreidehalme zeigen den Effekt. Sichtbar wird dieser „Heiligenschein“ rund um den Schatten des eigenen Kopfes im Grünen, wenn die Sonne mittelhoch von hinten scheint. Das Phänomen tritt auch an unbehaarten Pflanzen auf, wenn deren Blätter durch eine Wachsschicht so stark hydrophob sind, dass der Kontaktwinkel am Tautropfen auf 140° ansteigt, was von Alistair B. Fraser an Nadelbäumen beobachtet und daher (engl. Waldschein) genannt wurde.
+Umgekehrt versuchen Konstrukteure von Militärfahrzeugen, -schiffen und insbesondere -flugzeugen durch strenges Vermeiden von Innenecken an deren Außenkontur unerwünschte Radarreflexe zu vermeiden (Stealth-Technik).
+
+Retroreflektoren aus Quarzglas (um auch UV-Lichtanteile zu reflektieren) werden bei Langpfadmessungen auf Basis der DOAS-Technik verwendet, um atmosphärische Spurengase in der Luft auf einem definierten Lichtweg nachzuweisen.
+
+
+Neben planoptischen Winkelreflektoren (Tripelspiegeln und Tripelprismen) und Rückstrahlern gibt es rotationssymmetrische Linsenreflektoren (Katzenaugen, Lüneburg-Linsen) und auch prinzipiell andere Typen retroreflektierender Körper, zum Beispiel bikonische Konstruktionen.
+
+Drei flache, zueinander senkrecht stehende, spiegelnde Oberflächen lenken einfallende Wellen zurück zur Quelle der Wellen. Die drei Flächen sind dabei so angeordnet wie die drei Flächen eines Würfels, die eine Ecke berühren. Daher wird diese Winkelreflektoren in der englschen Fachsprache auch "corner cube" genannt.
+
+Beispiele für Winkelreflektoren:
+
+Tripelreflektoren drehen die Polarisation der einfallenden Lichtwellen um etwa 90°. Dieser Effekt wird in der Optoelektronik eingesetzt, um mit Reflexionslichtschranken spiegelnde Objekte zu erkennen. Dabei befinden sich vor dem Sender und vor dem Empfänger jeweils ein Polarisationsfilter, die zueinander um 90° gedreht sind. Wenn durch den ersten Filter linear polarisiertes Licht vom Tripelreflektor zum Empfänger gelenkt wurde, kann es wegen der Drehung der Polarisation den zweiten Polarisationsfilter passieren. Licht, das durch eine einzelne spiegelnde Oberfläche zum Empfänger gelenkt wurde, wird dagenen durch den zweiten Polarisationsfilter blockiert. Auf diese Weise wird trotz der Spiegelung sicher erkannt, dass sich ein Objekt im Bereich der Lichtschranke aufhält.
+
+Wenn sich im Fokus einer abbildenden Optik eine reflektierende Oberfläche befindet, dann wird das reflektierte Licht durch die Optik wieder in Richtung Lichtquelle gelenkt. Anders als bei einem einfachen flachen Spiegel hängt diese Eigenschaft nicht von der genauen Ausrichtung der spiegelnden Oberfläche ab. Für eine ideale Retroreflexion muss allerdings der Abstand der spiegelnden Oberfläche genau stimmen. Außerdem bewirken Linsenfehler, dass das Licht nicht vollständig in Richtung der Lichtquelle gelenkt wird. Bei einigen Anwendungen ist eine Reflexion in einen Bereich nahe, aber nicht genau an der Lichtquelle sogar erwünscht. Das gilt zum Beispiel für Retroreflektoren im Straßenverkehr. Damit das reflektierte Licht eines Scheinwerfers gesehen werden kann, darf es nicht vollständig wieder in den Scheinwerfer gelenkt werden.
+
+Beispiele:
+
+

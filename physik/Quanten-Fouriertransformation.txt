@@ -1,0 +1,31 @@
+﻿Quanten-Fouriertransformation
+
+Die Quanten-Fouriertransformation ist ein Algorithmus aus dem Gebiet der Quanteninformatik. Sie ist eine Zerlegung der diskreten Fouriertransformation in ein Produkt unitärer Matrizen. Dadurch kann sie als Quantenschaltkreis aus Hadamard-Gattern und Phasengattern implementiert werden.
+
+Die Quanten-Fouriertransformation ist ein wesentlicher Bestandteil eines der prominentesten Quantenalgorithmen, des Shor-Algorithmus.
+
+Am einfachsten wird die Struktur der Quanten-Fouriertransformation anhand des entsprechenden Quantenschaltkreises sichtbar. In der folgenden Skizze findet man ihn für formula_1 (ohne die noch erforderliche Umkehrung der Reihenfolge der Zustände der Ausgaben). Dort ist die übliche Notation für die binäre Darstellung der Phasenterme genutzt, d. h. formula_2 usw.
+
+Die Situation für 1-, 2- und 3-Qubit-Register wird auf der Seite des Wolfram Demonstrations Project dargestellt.
+
+Daran kann man leicht erkennen, wie die Schaltkreise für größere Quantenregister aussehen. Die mit formula_3 beschrifteten Quantengatter stellen Hadamard-Gatter dar, während die mit formula_4 beschrifteten Gatter Phasengatter repräsentieren, die hier als gesteuerte Gatter eingesetzt werden (Steuer-Qubit wie üblich durch schwarzen Punkt und Verbindungslinie zum Ziel-Qubit angedeutet; Controlled Phase).
+
+Die einzelnen Gatter werden jeweils durch folgende unitäre Matrizen beschrieben.
+Dabei bezeichnet formula_6 die formula_7-te Einheitswurzel formula_8.
+
+Eine verallgemeinerte Schaltskizze ist in folgender Grafik zu sehen, wieder ohne die erforderliche Umkehrung der Reihenfolge der Ausgabe-Zustände. Hier ist wieder die binäre Darstellung in den Ausgabezuständen genutzt.
+
+Die Quanten-Fouriertransformation benötigt bei formula_9 Qubits insgesamt formula_10 Gatter
+für den entsprechenden Schaltkreis sowie formula_11 weitere, um die Output-Qubits in die richtige Ordnung zu bringen.
+
+In der Quanteninformatik werden Algorithmen durch ihre Wirkung auf ein Quantenregister beschrieben. Die Quanten-Fouriertransformation arbeitet auf einem Quantenregister mit formula_9 Qubits, wobei dessen formula_13 Basiszustände unter Verwendung der Bra-Ket-Notation folgendermaßen notiert werden:
+Als diskrete Fouriertransformation bildet auch die Quanten-Fouriertransformation jeden Basiszustand formula_15 auf eine Überlagerung aller Basiszustände ab:
+Alternativ kann die Quanten-Fouriertransformation auch mittels der folgenden Faktorisierung berechnet werden:
+Berechnet man sie mit Hilfe der Verallgemeinerung der obigen Quantenschaltkreis-Idee, erhält man fast die obige Faktorisierung, allerdings in umgekehrter Reihenfolge, konkret:
+
+Wendet man die Quanten-Fouriertransformation auf den Zustand formula_19 an, so erzeugt sie genauso wie die Hadamard-Transformation eine gleichgewichtete Superposition der Basiszustände:
+
+Des Weiteren besitzt die Quanten-Fouriertransformation natürlich auch alle Eigenschaften der diskreten Fouriertransformation.
+
+
+

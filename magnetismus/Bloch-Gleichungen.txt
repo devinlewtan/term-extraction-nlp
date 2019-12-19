@@ -1,0 +1,14 @@
+﻿Bloch-Gleichungen
+
+Die Bloch-Gleichungen (nach Felix Bloch, der sie 1946 erstmals veröffentlichte) sind ein System von Bewegungsgleichungen für Zweiniveausysteme. Sie ermöglichen eine physikalische Deutung des paramagnetischen Resonanzeffekts in der magnetischen Kernresonanz und in der paramagnetischen Elektronenresonanz.
+
+Die Bloch-Gleichungen gelten für Flüssigkeiten, jedoch nur eingeschränkt für Festkörper. Sie stellen Bewegungsgleichungen für die gesamte Kern- und Elektronenmagnetisierung formula_1 der Probe unter dem Einfluss äußerer Magnetfelder formula_2 dar und lauten in Vektorschreibweise:
+
+Darin beschreiben:
+
+Später wurde gezeigt, dass diese ursprünglich für Spin-1/2-Systeme ausgelegten Bewegungsgleichungen auch jedes andere Zweiniveausystem beschreiben. Dazu werden Teile des allgemeinen „Pseudo-Spin-1/2-Systems“ mit Spinkomponenten assoziiert und die Wechselwirkung mit äußeren Feldern wie magnetische Wechselwirkungen behandelt.
+
+In der semiklassischen Strahlungstheorie entsprechen die Spinkomponenten dem Grund- bzw. angeregten Zustand eines Zweiniveauatoms, und die Achsen der Bloch-Kugel geben Auskunft über die quantenmechanische Kohärenz (formula_9-, formula_10-Achse) bzw. die Populationsdifferenz (formula_11-Achse) des Systems. Die hierfür angepassten Gleichungen werden als optische Blochgleichungen bezeichnet.
+
+
+

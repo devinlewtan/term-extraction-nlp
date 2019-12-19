@@ -1,0 +1,11 @@
+﻿Diproton
+
+Ein Diproton ist ein hypothetischer Atomkern des Heliums, bestehend aus zwei Protonen und ohne Neutronen. Die starke Wechselwirkung zwischen den Protonen wirkt anziehend, gleichzeitig wirkt aber auch eine elektrostatische Abstoßung. Aus dem Zusammenspiel beider Wechselwirkungen ergibt sich, dass das Diproton nicht gebunden ist und damit nicht stabil.
+
+Wenn die Stärke der starken Wechselwirkung nur um 2 Prozent stärker wäre, wäre das Diproton stabil. Dieser Fall wird manchmal als Diprotonenkatastrophe bezeichnet: In diesem Falle wäre Leben im Universum nicht möglich. Die Fusion innerhalb der Sterne würde statt durch die schwache durch die starke Wechselwirkung bewirkt werden und etwa 10-mal schneller ablaufen. Sterne würden die Kernfusion so schnell durchführen, dass sich kein Leben entwickeln könnte (Freeman Dyson).
+
+Dass das Diproton nicht gebunden ist, lässt sich durch das Pauli-Prinzip erklären zusammen mit der Tatsache, dass die starke Wechselwirkung für parallele Spins stärker als für antiparallele Spins ist. Dies ist auch der Grund, warum das Deuteron nur im Triplett-Zustand (S=1) existiert. Da die Protonen im hypothetischen Diproton identische Fermionen sind, unterliegen sie dem Pauli-Prinzip, d. h., sie können nicht dieselben Quantenzahlen haben. Die Spins müssen antiparallel ausgerichtet sein (Singlett). Dieser Zustand ist aber aufgrund Spin-Abhängigkeit der Kernkraft nicht gebunden (die Kernkraft ist stärker bei parallelem Spin der Nukleonen). Die gleiche Überlegung gilt auch für das Dineutron.
+
+Diprotonen wurden 2002 bei Zweiprotonenemission als kurzlebige Zustände beobachtet.
+
+

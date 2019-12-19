@@ -1,0 +1,21 @@
+﻿Antiferromagnetismus
+
+Der Antiferromagnetismus (von ; ; ) ist eine Variante der magnetischen Ordnung innerhalb von Materialien, in denen Atome mit magnetischen Momenten vorhanden sind. Er liegt dann vor, wenn die jeweils benachbarten Elementarmagnete dem Betrag nach das gleiche magnetische Moment tragen, ihre Ausrichtung aber zueinander entgegengesetzt (antiparallel) ist. Antiferromagnetisch geordnete Materialien weisen aufgrund der antiparallelen Orientierung der Elementarmagnete kein externes permanentes magnetisches Moment auf. Wie auch bei Ferromagneten bilden sich in Antiferromagneten weisssche Bezirke, innerhalb derer die magnetischen Momente die gleiche Raumlage haben. Das Phänomen wurde u. a. von Louis Néel eingehend untersucht.
+
+Bei diesem Effekt sind die magnetischen Momente oder Spins der Atome mit einem konstanten, von Null verschiedenen Drehwinkel zueinander ausgerichtet und kompensieren sich exakt über den gesamten Kristall. Im einfachsten Fall ist dieser Drehwinkel 180°, so dass die Spins benachbarter Atome antiparallel zueinander stehen.
+
+Beim bekannteren Ferromagnetismus sind die Spins dagegen parallel zueinander ausgerichtet, wodurch eine makroskopische Magnetisierung aufgebaut wird, während beim Antiferromagnetismus ohne ein angelegtes Magnetfeld die resultierende Magnetisierung Null ist. Beide Ordnungen sind nur bei hinreichend tiefen Temperaturen stabil. Beim Antiferromagnetismus zeigt die Permeabilität ein Maximum bei der Phasenübergangstemperatur, der Néel-Temperatur (benannt nach Louis Néel). Oberhalb der Néel-Temperatur, in der magnetisch ungeordneten Phase mit weitgehend beliebig orientierten Spins, ist das Verhalten des Materials paramagnetisch, und die Permeabilität nimmt mit steigender Temperatur ab.
+
+Die antiferromagnetische Struktur lässt sich, genau wie andere magnetische Konfigurationen, insbesondere mit Hilfe einer Austauschwechselwirkung erklären. Abhängig von ihrem Vorzeichen kann man beispielsweise im Rahmen eines Ising-Modells mit Kopplungen, die sich auf Nachbarspins beschränken, leicht ferro- bzw. antiferromagnetische Anordnungen der magnetischen Momente beschreiben. Längerreichweitige oder konkurrierende Wechselwirkungen können zu komplizierteren magnetischen Strukturen führen (z. B. zu Spiralstrukturen).
+
+Der oben beschriebene Néel-Zustand (mit alternierenden Spinrichtungen formula_1) ist genau genommen nicht der Grundzustand des Systems, sondern nur eine quasi-klassische Näherung dafür, die sich besonders gut zur Beschreibung der Anregungszustände, der sog. Spinwellen, eignet, während der genaue quantenmechanische Grundzustand, außer in speziellen Fällen, unbekannt ist, auf jeden Fall auch in den erwähnten Spezialfällen extrem kompliziert (z. B. Bethe-Ansatz). Dagegen ist im ferromagnetischen Fall der klassische Grundzustand (z. B. alle Spins nach oben formula_2) auch im quantenmechanischen Formalismus exakt, und die Beschreibung der Anregungszustände (Spinwellen) entspricht im Falle des Ferromagnetismus fast völlig dem klassischen Bild präzedierender Vektoren.
+
+Antiferromagnetismus tritt bei vielen Übergangsmetallen und insbesondere deren Oxiden auf.
+
+Folgende Werkstoffe bzw. Mineralien sind z. B. antiferromagnetisch:
+
+Einige organische Verbindungen sind auch antiferromagnetisch, z. B.
+
+
+
+

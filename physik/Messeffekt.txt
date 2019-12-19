@@ -1,0 +1,10 @@
+﻿Messeffekt
+
+Ein Messeffekt ist eine physikalische Erscheinung, die bei einer Messung verwendet wird. Es gibt nur wenige Fälle, bei denen die Messgröße direkt mit einem bekannten Wert dieser Größe verglichen werden kann, etwa indem man einen Maßstab anlegt. Bei der Mehrzahl der zu messenden Größen ist ein physikalisches Gesetz auszunutzen, das eindeutig und umkehrbar auf eine andere physikalische Größe führt, die der Messung leicht zugänglich ist.
+
+Während in der Frühzeit der Entwicklung der Messtechnik vorzugsweise Erscheinungen ausgenutzt wurden, die sichtbar und dann auch ablesbar sind, werden jetzt vorzugsweise Erscheinungen ausgenutzt, die auf ein elektrisches Signal führen.
+Der Vorteil der elektrischen Signale liegt in der leichten Umformbarkeit (in robuste störunempfindliche Analog- oder Digitalsignale), der leichten Übertragbarkeit an entfernte Registrierungs-Stellen (Anzeige, Protokollierung) und in der leichten Bewertbarkeit in Automatisierungsaufgaben (etwa Regelungstechnik).
+
+Messprinzip
+
+

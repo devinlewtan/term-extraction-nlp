@@ -1,0 +1,66 @@
+﻿Elektromagnet
+
+Ein Elektromagnet besteht aus einer Spule, in der sich bei Stromdurchfluss ein magnetisches Feld bildet.
+
+In der Spule befindet sich meist ein offener Eisenkern, der das Magnetfeld führt und verstärkt. Die Erfindung des Elektromagneten gelang dem Engländer William Sturgeon im Jahre 1826. Erstmals nachgewiesen wurde die elektromagnetische Wirkung 1820 von dem dänischen Physiker Hans Christian Ørsted.
+
+Ein stromdurchflossener Leiter verursacht ein Magnetfeld in seiner Umgebung (Entdeckung durch Hans Christian Ørsted 1820).
+
+Die Richtung der magnetischen Feldlinien einer einzelnen Windung der Spule lässt sich mit der Korkenzieherregel, auch Rechte-Hand-Regel, bestimmen: Wird der Leiter so von der Hand umfasst gedacht, dass der abgespreizte Daumen in die Richtung vom Plus- zum Minuspol (technische Stromrichtung) zeigt, dann zeigen die Finger die Richtung der Feldlinien des Magnetfeldes an. Die Felder der einzelnen Windungen summieren sich zu einem den Wicklungsquerschnitt umlaufenden Gesamtfeld. Die Feldlinien verlaufen ebenso wie bei einer einzelnen Windung (alle Stromrichtungen der Windungen sind gleichsinnig!) und verlassen den Eisenkern – dort bildet sich der magnetische Nordpol. Alle Feldlinien treten am magnetischen Südpol wieder in den Eisenkern ein.
+
+Die Magnetfeldlinien konzentrieren sich im Inneren der Spule. Die magnetische Flussdichte ist im Zentrum der Spule am höchsten. Außerhalb der Spule ist die magnetische Flussdichte geringer, sie nimmt mit der Entfernung schnell ab, so dass Elektromagnete nur in geringen Entfernungen eine große Wirkung haben.
+
+Soll Arbeit verrichtet werden, muss der Magnetfeldkreis ferromagnetisch und inhomogen sein, das heißt, eine Unterbrechung im Eisenkern enthalten, welche durch die Arbeit verkleinert werden soll.
+
+Die Lenzsche Regel besagt sinngemäß, dass eine Kraft oder Bewegung so gerichtet ist, dass sie ihrer Ursache – in diesem Fall dem Stromfluss – entgegenwirkt. Folglich ist ein Magnetkreis um eine stromdurchflossene Spule bestrebt, seinen magnetischen Widerstand zu verringern und auch Luftspalte zu schließen: Dadurch erhöht sich die Induktivität, und in der Spule wird eine Spannung induziert, die die gleiche Polarität wie die Speisespannung hat – der Strom verringert sich während des Zueinander-Bewegens der Eisenteile des Magnetkreises.
+
+Eisenteile des Magnetkreises bestehen aus einem Joch (feststehender Teil) und beweglichen Teilen wie Zuganker, Klappanker oder zu transportierenden Eisenteilen (Magnetkran).
+
+Für eine lange elektromagnetische Spule der Länge "l" {Maßeinheit: m (Meter)} und der Windungszahl "n" {ohne Maßeinheit}, durch die ein Strom "I" {Maßeinheit: A (Ampère)} fließt, berechnet sich die magnetische Feldstärke "H" {Einheit: A/m} zu
+
+bzw. die magnetische Flussdichte "B" {Maßeinheit: T (Tesla)} zu
+
+Dabei ist μ die magnetische Feldkonstante und μ die relative Permeabilität des von der Spule umschlossenen Raumes. Im Vakuum ist definitionsgemäß μ=1, und auch in Luft ist der Wert von μ sehr nahe bei Eins; in ferromagnetischen Materialien hingegen kann μ Werte zwischen 4 und 15.000 bis zum Erreichen der materialabhängigen magnetischen Sättigung annehmen.
+
+Sie dienen der Betätigung (Zug-, Druck- und Klappankermagnete), als Kupplung oder zum Transport. Sie unterscheiden sich durch die Ankerform:
+
+Mit Gleichspannung betriebene Magnete besitzen eine stark nichtlineare Kraft-Weg-Kennlinie bei Annäherung des Ankers an das Joch. Berühren sich beide, ist die Kraft am größten. Mit der Entfernung sinkt sie nahezu hyperbolisch ab. Ursache ist die mit der Verringerung des Luftspaltes ansteigende magnetische Flussdichte. Die zu Beginn des Anziehens geringe Kraft macht sie ungeeignet für Einsatzfälle, die sofort eine große Kraft benötigen. Auswege sind:
+
+Anders ist das bei Wechselspannung: Hier bewirkt die bei großem Luftspalt verringerte Induktivität einen erhöhten Stromfluss beim Anziehen. Wechselstrom-Zugmagnete (oder auch Relais- und Schützspulen) haben daher bereits zu Beginn des Anziehens eine große Kraft.
+Um die Kraft bei Wechselstrom-Zugmagneten während der Strom-Nulldurchgänge aufrechtzuerhalten, setzt man Kurzschlusswindungen wie bei einem Spaltpolmotor ein – diese erzeugen in einem Teil des Magnetkreises ein phasenverschobenes Magnetfeld. Eine weitere Möglichkeit sind Drehstrom-Zugmagnete, diese erfordern jedoch drei separate Schenkel von Joch und Anker.
+
+Beim Abschalten des Stroms können durch Selbstinduktion Überspannungen entstehen, die wiederum Funken oder Lichtbögen hervorrufen. Diese können zur Zerstörung des Schalters führen. Als Abhilfe werden bei Gleichstrom Schutzdioden, bei Wechselstrom Varistoren sowie diskret antiseriell geschaltete Z-Dioden (bzw. integrierte Leistungs-Suppressordioden) und – oder in Kombination mit  – Boucherotgliedern eingesetzt.
+
+Elektromechanische Relais sind meistens mit einem Klappankermechanismus aufgebaut, der über einen Hebel den oder die Kontakte betätigt. Relais werden mit Gleich- oder Wechselstromspulen gebaut.
+Ein Schaltschütz benutzt zumeist Tauchanker-Elektromagnete für Gleich- oder Wechselstrom. Die Anzugskräfte zum Kontaktschluss sind wesentlich größer als bei Relais, weshalb die Elektromagnete dafür größer sind als bei Relais.
+
+Tauchspulen können auch in Zug- und Druckmagneten verbaut sein. Ein üblicher englischer Begriff ist auch "voice coil", weil Mikrofone oder Lautsprecher damit gebaut werden. Entweder ist auch eine Parallelführung vorhanden oder der Anwender muss durch die Konstruktion selbst eine Führung der Spule im Dauermagnet gewährleisten. Bei Tauchspulmagneten bewegt sich wie beim elektrodynamischen Lautsprecher eine Spule (Zylinderspule) im Luftspalt eines Dauermagneten durch die Lorentzkraft. Sie weisen gegenüber den oben beschriebenen Bauformen eine nahezu lineare Kraft/Weg-Kennlinie auf (je nach den nichtlinearen Randbedingungen der technischen Umsetzung). Die bewegte Masse ist gering, daher ist die Dynamik hoch. Die erreichbare Kraft pro Masse ist jedoch geringer.
+
+In Schaltschützen werden zum Schließen der Kontakte größere Kräfte als bei Relais benötigt, weshalb man dafür Elektromagnete benutzt, die einen Eisenkern in die feststehende Spule hineinziehen. Diese werden sowohl für Gleich- als auch für Wechselstrombetrieb gebaut.
+
+Elektromagnete mit und ohne Joch, jedoch ohne bewegte Anker oder ähnliches werden meist nicht als Elektromagnet bezeichnet. Relevante Begriffe sind Solenoid (Zylinderspule), Helmholtz-Spule, Ablenkmagnet, Dipolmagnet.
+
+Hohe Flussdichten auch ohne Supraleitung lassen sich durch Magnete erreichen, bei denen jede Spulenwindung aus einer geschlitzten Scheibe aus Kupfer besteht. Eisenkerne können nicht verwendet werden, weil sie schon bei 2 Tesla in Sättigung gingen. Die mittige Lochung dient zur Aufnahme der Probe.
+Die nächste Platte wird durch eine Isolationszwischenschicht elektrisch getrennt und bildet so die nächste Windung.
+Die außen radial eingebrachten Bohrungen (Bild rechts) dienen zur Aufnahme von Montagebolzen, darüber hinaus sind über die Fläche verteilt viele kleine Bohrungen eingebracht, durch welche Kühlflüssigkeit strömt. Wegen des kürzeren Stromweges auf dem kleineren Kreisumfang im Inneren treten dort höhere elektrische Stromdichten auf, daher sind dort mehr Bohrungen pro Fläche vorhanden als außen.
+Die Platten werden zu einem Plattenstapel zusammengesetzt, der etwa gleich hoch wie breit ist. Solche Magnete heißen auch Bittermagnet, die Scheiben Bitter disk. Sie wurden 1933 vom amerikanischen Physiker Francis Bitter erfunden.
+
+Bei Scheibendurchmessern von ca. 40 cm, Bohrungsdurchmessern von ca. 5 cm, Scheibendicken von ca. 2 mm, Stromstärken bis 20 kA, Scheibenzahlen von 250 und großem Aufwand an Wasserkühlung lassen sich z. B. Flussdichten bis 16 Tesla erreichen; bei einem Bohrungsdurchmesser von 3 cm bis zu 19 Tesla. Der elektrische Leistungsbedarf erreicht hierbei 5 MW (ca. 1 V je Windung).
+
+Mit solchen Magneten werden die Flussdichte-Rekorde bei künstlichen kontinuierlichen Magnetfeldern gehalten. Es sind dies 37,5 T im "High Field Magnet Laboratory" (HFML) in Nijmegen (32 mm Bohrung). Mit supraleitenden Magneten lassen sich solche Flussdichten nicht erreichen – die Sprungtemperatur sinkt mit dem Feld ab und bei der "kritischen Feldstärke" bricht die Supraleitung zusammen. Jedoch sind kombinierte Anlagen in Betrieb (Hybridmagnete), bei denen im Inneren eines supraleitenden Magneten ein Bittermagnet platziert ist. So wird im "National High Magnetic Field Laboratory" in Florida/USA mit derzeit 45 T das stärkste künstliche kontinuierliche Feld der Welt erreicht. Dazu befindet sich eine 33,5 Tesla starke Scheibenmagnetspule (Bohrung 32 mm) in einem 11,5 Tesla liefernden supraleitenden Magnet. Der Leistungsbedarf beträgt 30 MW.
+
+Im Impulsbetrieb können dank der Wärmekapazität des Spulenwerkstoffes kurzzeitig hohe Flussdichten erreicht werden ohne dass die Wärmeleistung sofort weggekühlt werden muss (Integral der Stromwärme über die Zeit). Zur mechanischen Stabilität müssen solche Spulen mechanisch stabilisiert werden. Dazu dienen u. a. Faserverbundwerkstoffe, Spulendrähte aus hochfesten Werkstoffen wie kupferplattiertem Stahl oder Berylliumbronze sowie äußere Bandagen aus Stahlband. Die Strompulse werden durch Kondensatoren bereitgestellt. Die Pulsdauern ergeben sich aus der Wärmekapazität und der Festigkeit und betragen einige Millisekunden. Siehe auch Gaussgewehr.
+
+Solche, mit flüssigen Stickstoff heruntergekühlte, wiederverwendbare Pulsmagnetspulen sind für Hochfelduntersuchungen bis etwa 100 Tesla realisierbar und werden unter anderem am Institut Hochfeld-Magnetlabor Dresden entwickelt und erprobt.
+
+Pulsmagnetspulen werden unter anderem auch zur Magnetumformung genutzt. Hier sind die Felder jedoch gedämpfte Schwingungen mit Frequenzen im zweistelligen kHz-Bereich, die Pulsdauern betragen weniger als 100 µs.
+
+Bei Experimenten mit magnetischen Flussdichten von einigen tausend Tesla zu wissenschaftlichen Zwecken wird oft hingenommen, dass die Spulen bei jedem Versuch mechanisch oder thermisch zerstört werden. Eine zusätzliche Steigerung der Flussdichte kann bei gleichzeitiger Komprimierung der Spule bzw. des Feldes mittels Sprengladungen erreicht werden; siehe auch Flusskompressionsgenerator oder im Kapitel Impulstechnik bei Sacharow, dem Erfinder des Flusskompressionsgenerators.
+
+1. Spule mit ferromagnetischem Kern (meist aus Eisen)
+2. Spule ohne ferromagnetisches Kernmaterial
+
+
+
+
+

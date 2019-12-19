@@ -1,0 +1,16 @@
+﻿Galvanomagnetische Effekte
+
+Galvanomagnetische Effekte werden in der Festkörperphysik thermische und elektrische Effekte genannt, die bei einem stromführenden Leiter in einem Magnetfeld auftreten.
+
+Das Magnetfeld wirkt über die Lorentzkraft auf die Ladungsträger, die senkrecht zur Bewegungsrichtung der Elektronen gerichtet ist. Dies hat unter anderem Auswirkungen auf den elektrischen Widerstand durch verlängerte Strompfade und auf den mit einem elektrischen Strom verbundenen Wärmetransport. Einige der Effekte dienen als Grundlage für Messgeräte (zum Beispiel Hall-Sensor, Feldplatte).
+
+Die Grundformen des galvanomagnetischen Effekts sind:
+
+
+Galvanomagnetische Effekte sind eng mit thermomagnetischen Effekten verwandt. Während bei galvanomagnetischen Effekten ein elektrischer Strom und ein Magnetfeld eine Potential- oder Temperaturdifferenz erzeugen, erzeugen bei thermomagnetischen Effekten ein Wärmestrom und ein Magnetfeld Potential- und Temperaturdifferenzen. Die Erzeugung der Potentialdifferenz heißt hier "Ettingshausen-Nernst-Effekt" (in transversaler Richtung auch "Nernst-Effekt" genannt), und die der Temperaturdifferenz "Righi-Leduc-Effekt" (transversal) bzw. "Maggi-Righi-Leduc-Effekt" (longitudinaler) 
+
+Bei der Thermoelektrizität (ohne Magnetfeld) erzeugt ein Wärmestrom eine Potentialdifferenz und umgekehrt eine Potentialdifferenz einen Wärmestrom.
+
+
+
+

@@ -1,0 +1,9 @@
+﻿Inversion (Halbleiter)
+
+Als Inversion wird in der Halbleitertechnologie sowohl ein Betriebszustand eines MIS-Feldeffekttransistors als auch der allgemeine Fall, dass in einem Halbleiter die Dichte der Minoritätsladungsträger die Dichte der Majoritätsladungsträger erreicht oder übersteigt, bezeichnet.
+
+Bei der Dotierung eines Halbleiters entstehen je nach Art der Dotanden entweder eine n- oder p-Dotierung. Die Art der Dotierung gibt die dominante Ladungsträgerart (Mehrheits- oder auch Majoritätsladungsträger genannt) an, bei einer n-Dotierung sind dies Elektronen und bei der p-Dotierung Defektelektronen (Löcher). In einem Halbleiter treten immer sowohl Elektronen als auch Defektelektronen gemeinsam auf. Bei der Dotierung steigt die Konzentration der Majoritätsladungsträger, gleichzeitig sinkt die Konzentration der Minoritätsladungsträger, da diese mit den Majoritätsladungsträgern rekombinieren.
+
+Mithilfe einer MIS-Struktur, wie dem MOSFET, können diese natürlichen Verhältnisse (Gleichgewichtszustand) verändert oder gar umgekehrt werden. Dazu wird beispielsweise bei einem n-Kanal-MOSFET (p-dotiertes Substrat) eine positive Spannung am Gate angelegt. Durch elektrostatische Anziehung sammeln sich vermehrt Elektronen (Minoritätsladungsträger) an der Grenzschicht Halbleiter–Isolator (z. B. Silizium−Siliziumdioxid), und rekombinieren verstärkt mit den Defektelektronen (Majoritätsladungsträgern). Mit zunehmender Spannung nimmt so die Konzentration der Minoritätsladungsträger zu und die der Majoritätsladungsträger ab. Die Inversion tritt ein, wenn an der Grenzschicht Halbleiter–Isolator die Konzentration der eigentlichen Minoritätsladungsträger (im Beispiel Elektronen) gleich oder größer der Konzentration der Majoritätsladungsträgern ist. Beim n-Kanal-MOSFET bildet sich in diesem Fall ein quasi n-leitendes Gebiet an der Grenzfläche, der n-leitende Kanal, der selbstsperrende Transistor ist nun leitend.
+
+

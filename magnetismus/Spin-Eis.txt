@@ -1,0 +1,19 @@
+﻿Spin-Eis
+
+Unter Spin-Eis versteht man Materialien, bei denen sich die magnetischen Momente im Material analog zu den Protonen in Wassereis verhalten.
+1935 stellte Linus Pauling fest, dass die Struktur von Eis (d. h. der festen Phase von Wasser) Freiheitsgrade hat, die auch am absoluten Nullpunkt existieren sollten. Dies bedeutet, dass auch bei Abkühlung zum absoluten Nullpunkt eine residuale Entropie (d. h. eine intrinsische Unordnung) erhalten bleibt. Dies ist eine Folge der Tatsache, dass Eis Sauerstoffatome mit vier benachbarten Wasserstoffatomen enthält. Für jedes Sauerstoffatom sind je zwei Wasserstoffatome näher (diese bilden das traditionelle HO-Molekül) und zwei weiter entfernt (diese entsprechen Wasserstoffatomen weiter entfernter Moleküle). Pauling stellte fest, dass die Konfiguration, die dieser „Zwei-nah-Zwei-fern-Regel“ entspricht, nichttrivial ist und demzufolge auch eine nichttriviale Entropie nach sich zieht. Dies ist ein Beispiel für geometrische Frustration.
+
+Paulings Überlegungen wurden experimentell verifiziert, auch wenn reine Wassereiskristalle schwer herzustellen sind.
+In Spin-Eis liegen Tetraeder aus Ionen vor, die alle einen nichtverschwindenden Spin haben. Diese müssen, aufgrund der Wechselwirkungen zwischen benachbarten Ionen, analog zu dem oben diskutierten Fall des Eises ebenfalls einer „Zwei-nah-Zwei-fern-Regel“ genügen. Spin-Eis zeigt deshalb die gleichen residualen Entropien wie Wassereis. Abhängig von den für das Spin-Eis verwendeten Materialien sind große, einzelne Kristalle in diesem Fall aber leichter herzustellen als reine Wassereiskristalle. Darüber hinaus sorgt die Wechselwirkung der Ionenspins mit einem Magnetfeld dafür, dass diese Materialien besser dafür geeignet sind, die residualen Entropien zu untersuchen.
+
+Während Philip Anderson schon 1956 den Zusammenhang zwischen dem frustrierten Ising-Antiferromagneten auf einem Tetraedergitter aus Pyrochlor und dem Paulingschen Wassereisproblem erkannte, wurden echte Spin-Eis-Materialien erst 1997 entdeckt. Die ersten als Spin-Eis identifizierten Materialien waren die Pyrochlore HoTiO,
+DyTiO und HoSnO. Ferner wurden auch deutliche Hinweise veröffentlicht, dass DySnO ebenfalls ein Spin-Eis ist.
+
+Spin-Eis ist charakterisiert durch eine Unordnung der magnetischen Ionen sogar bei sehr niedrigen Temperaturen. Messungen der dynamischen magnetischen Suszeptibilität liefern Hinweise auf ein dynamisches Einfrieren der magnetischen Momente unterhalb von Temperaturen bei denen die spezifische Wärme ein Maximum aufweist.
+
+Spin-Eis-Materialien sind frustrierte magnetische Systeme. Während Frustration normalerweise mit dreieckigen oder tetraedrischen Anordnungen von magnetischen Momenten verbunden wird, die über antiferromagnetische Austauschwechselwirkungen gekoppelt werden, sind die Verhältnisse bei Spin-Eis-Materialien komplizierter: Es handelt sich um frustrierte "Ferromagnete". Das lokal wirkende, starke Kristallfeld zwingt die magnetischen Momente entweder in den Tetraeder "hinein"  oder aus dem Tetraeder "hinaus"  zu zeigen, was zu einem antiferromagnetisch wechselwirkenden frustrierten "Austausch"-System äquivalent ist. In Wirklichkeit liegt aber antiferromagnetische Wechselwirkung gar nicht vor, sondern verantwortlich für die Frustration sind die langreichweitigen magnetischen Dipolwechselwirkungen, und nicht die Austauschwechselwirkungen nächster Nachbarn. Aus der Frustration resultiert die „Zwei-rein-Zwei-raus-Spinorientierung“, und damit der Spin-Eis-Zustand.
+
+Im Spin-Eis wurden 2008 das erste Mal magnetische Quasi-Monopole nachgewiesen und gemessen. Sie sind Quellen der Magnetisierung, aber nicht des magnetischen Flusses; dieser ist nach wie vor divergenzfrei.
+
+
+

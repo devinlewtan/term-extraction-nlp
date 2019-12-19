@@ -1,0 +1,59 @@
+﻿Blasiussche Formeln
+
+Die 1. und 2. Blasiussche Formel geben den dynamischen Auftrieb und das Drehmoment an, die ein langgestreckter Körper (z. B. Tragflügel) in einem strömenden Medium erfährt, wenn bestimmte Voraussetzungen an den Strömungstyp erfüllt sind. Die Formeln sind benannt nach dem Ingenieur und Hochschullehrer Heinrich Blasius, der von 1912 bis zu seinem Tod im Jahre 1970 an der Hochschule für Angewandte Wissenschaften Hamburg (damals Ingenieurschule Hamburg) lehrte.
+
+Die Kräfte und Drehmomente an einem Körper in einem strömenden Medium sind im Allgemeinen kompliziert zusammengesetzt und lassen sich nur mit Hilfe von Computern berechnen. 
+Unter Bedingungen, die bei Flugzeugen näherungsweise realisiert sein können, gibt es jedoch analytische Formeln, die noch aus der Pionierzeit (um 1900) stammen. Für den dynamischen Auftrieb sind das die Kutta-Joukowski-Formel und die 1. Blasiussche Formel, für das Nickmoment ist es die 2. Blasiussche Formel. Die 1. Blasiussche Formel gestattet eine exakte Herleitung der in Physik-Lehrbüchern häufiger benutzten Kutta-Joukowski-Formel.
+
+Physikalische Grundlage der Formeln ist die Druckverteilung in einem strömenden Medium nach der Bernoulli-Gleichung. Die Druckkräfte wirken auf die Oberflächenelemente des Körpers und werden aufsummiert, wodurch sich Integrale über die Profilkurve des Körpers ergeben. Nur in Spezialfällen, etwa beim Joukowski-Profil, sind diese Integrale leicht auszuwerten. 
+
+Die Voraussetzungen für die Anwendbarkeit der Blasiusschen Formeln sind folgende: Der umströmte Körper muss (wie ein Tragflügel) langgestreckt sein und ein einheitliches Profil haben; genaugenommen muss es sich um einen verallgemeinerten Zylinder mit dem Profil als Grundfläche und unendlicher Ausdehnung in der dritten Dimension handeln. Die Formeln geben deswegen Kräfte und Drehmomente "pro Längeneinheit in der dritten Dimension" an. Der Körper muss genau in Querrichtung angeströmt werden, und die Strömung muss stationär, inkompressibel, reibungslos, wirbelfrei und im Wesentlichen zweidimensional (2D) sein. 
+Die 2D-Voraussetzung bedeutet, dass in Richtung der dritten Dimension die Komponente der Geschwindigkeit und alle Variationen von Größen klein und vernachlässigbar sind.
+
+Die Massendichte des strömenden Mediums sei formula_1 (konstant weil inkompressibel), 
+die Profilkurve ("contour") des Körpers sei formula_2. Dann gilt für die reellen Komponenten formula_3 und formula_4 der Kraft pro Längeneinheit auf den Körper, ausgedrückt durch die reellen Komponenten formula_5 und formula_6 der lokalen Strömungsgeschwindigkeit:
+
+1. Blasiussche Formel 
+
+Für das Drehmoment um die Längsrichtung, wiederum pro Längeneinheit, gilt die 
+
+2. Blasiussche Formel
+Der Index 0 steht für den Koordinatenursprung als Bezugspunkt des Drehmoments. 
+
+Die komplexe Schreibweise ist dem Problem besonders angemessen. 
+
+Ein Punkt in der Ebene des Profils wird als komplexe Zahl
+dargestellt; analog eine Geschwindigkeit und eine Kraft (jeweils am Punkt formula_10) 
+durch 
+In den Blasiusschen Formeln erscheint das komplex Konjugierte formula_12 der Geschwindigkeit und analog der Kraft. Unter den genannten Voraussetzungen ist formula_13 eine holomorphe Funktion (formula_14 selbst ist es nicht). 
+
+Für die Kraft pro Längeneinheit gilt die 
+
+1. Blasiussche Formel 
+Dabei ist formula_16 die Massendichte des strömenden Mediums und formula_17 die Profilkurve des Körpers. 
+
+Für das Drehmoment um die Längsrichtung, wiederum pro Längeneinheit, gilt die 
+
+2. Blasiussche Formel
+Der Index 0 steht für den Koordinatenursprung als Bezugspunkt des Drehmoments. 
+
+Die Integrationskurve lässt sich wegen der Holomorphie von formula_13 im Bereich des Strömungsfeldes nach Belieben deformieren (Cauchyscher Integralsatz). 
+
+Die Argumentation ist hier durchgehend komplex formuliert. Da die Reibung vernachlässigt wird, gibt es keine Scherkräfte. 
+An einem Element formula_20 der Profilkurve erzeugt der Druck formula_21 eine Kraft senkrecht zu formula_20 und betragsmäßig gleich formula_23. Umfährt man das Profil entgegen dem Uhrzeigersinn, so erhält man die Richtung der Kraft in der komplexen Ebene durch Multiplikation mit der imaginären Einheit (entsprechend einer 90°-Drehung). Daher gilt an einem Linienelement:
+Nach der Bernoulli-Gleichung ist der lokale Druck durch das Betragsquadrat der Geschwindigkeit gegeben. Entlang einer Stromlinie, die vom Unendlichen vor dem Körper bis ins Unendliche hinter dem Körper verläuft, gilt
+Für die Physik des Fliegens ist der Fall interessant, dass das Medium in großem Abstand vom Körper mit konstanter Geschwindigkeit formula_26 strömt (aus dem Flugzeug betrachtet) und der (Luft-)Druck im Unendlichen ebenfalls konstant ist. Dann sind formula_26 und formula_28 für alle Stromlinien gleich, und es gilt für den lokalen Druck:
+Aufsummieren aller an dem Profil angreifenden Druckkräfte ergibt somit zunächst
+wobei berücksichtigt wurde, dass die Konstante keinen Beitrag leistet, weil die Summe aller formula_20 entlang einer geschlossenen Linie null ergibt. 
+
+Nun muss die Geschwindigkeit auf der Profilkurve überall parallel zu formula_2 verlaufen, d. h. es haben formula_33 und formula_20 dasselbe 
+Argument und es ist das folgende Produkt reell: 
+Substituiert man im Integral dementsprechend und bildet man auf beiden Seiten das komplex Konjugierte, so erhält man die 1. Blasiussche Formel. 
+
+Für das Drehmoment mit Bezugspunkt 0 gilt an einem Linienelement des Profils:
+Für den Druck lässt sich wieder der Ausdruck aus der Bernoulli-Gleichung einsetzen und im Integral über die Profilkurve die Substitution wie oben ausführen. 
+Auch hier verschwindet der Beitrag der Konstanten, weil er auf ein Integral über ein vollständiges Differential führt:
+Indem man unter dem Realteil alle Faktoren komplex konjugiert, erhält man die 2. Blasiussche Formel.
+
+
+

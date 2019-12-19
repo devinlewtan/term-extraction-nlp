@@ -1,0 +1,9 @@
+﻿Magnetischer Druck
+
+Der magnetische Druck formula_1 (auch magnetische Energiedichte genannt) ist ein Beitrag zum hydrostatischen Druck, wenn das Fluid magnetisch ist (z. B. flüssiges oder gasförmiges Metall oder Plasma) und Magnetfelder präsent sind. 
+
+Der magnetische Druck ist proportional zum Quadrat der magnetischen Flussdichte formula_2:
+
+Darin steht formula_4 für die magnetische Feldkonstante. Ihr Wert ist abhängig vom verwendeten Einheitensystem, z. B. beträgt er im Gaußsystem 4formula_5.
+
+

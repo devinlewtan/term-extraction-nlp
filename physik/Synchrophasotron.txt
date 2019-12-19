@@ -1,0 +1,23 @@
+﻿Synchrophasotron
+
+Das Synchrophasotron war ein Synchrotron-Teilchenbeschleuniger mit 208 m Umfang am Vereinigten Institut für Kernforschung in Dubna.
+
+Im Jahr 1944 erarbeitete Wladimir Iossifowitsch Weksler mit dem Prinzip der Phasenfokussierung die Grundlage zum Bau von Synchrotronbeschleunigern. Unter seiner Leitung wurden in den Jahren 1949 und 1950 die Pläne zum Synchrophasotron erarbeitet. Das Synchrophasotron ging im April 1957 in Betrieb und war mit einer Protonenenergie von 10 GeV zu diesem Zeitpunkt der stärkste Teilchenbeschleuniger weltweit. Im Jahr 1971 wurden erstmals Deuteriumkerne auf eine Energie von 10 GeV beschleunigt.
+
+In einem Tunnel 3,7 m direkt unterhalb des Synchrophasotrons wurde in den Jahren 1987 bis 1992 das supraleitende Nuclotron errichtet, welches im März 1992 erstmals in Betrieb ging.
+Beide Anlagen teilten sich die Vorbeschleuniger und konnten die angegliederten Experimentierplätze versorgen.
+
+Ab dem Jahr 1991 musste der Betrieb des Synchrophasotrons infolge hoher Stromkosten und geringem finanziellem Budget erheblich eingeschränkt werden.
+Der Betrieb wurde im Jahr 2003 eingestellt.
+
+Beim Synchrophasotron handelt es sich um den letzten Beschleuniger der ersten Synchrotron-Generation. Diese Bauart wird auch als „constant Gradient“- oder „weak Focusing“- Synchrotron bezeichnet und weist einen bauartbedingten großen Strahlrohr-Querschnitt auf. Der Luftspalt der Elektromagnete hatte die Abmessungen von 40 cm × 2 m, das Gewicht der Eisenkerne der Elektromagnete betrug 36000 Tonnen.
+Später gebaute Synchrotrone wie das Proton Synchrotron oder das Alternating Gradient Synchrotron kamen durch das „alternating Gradient“- oder „strong Focusing“-Verfahren mit wesentlich kleineren Strahlrohr-Querschnitten, und damit kleineren Magneten aus.
+
+Im Jahr 1988 wurde im Synchrophasotron eine „alternating Gradient“-Strahlfokussierung nachgerüstet, dazu wurden in den Luftspalt der Elektromagnete unsymmetrisch angeordnete keilförmige Zwischenstücke eingesetzt, um so das Magnetfeld gemäß vorherigen Berechnungen zu verformen. Dadurch konnte der Strahl auf etwa 6×10 cm eingeengt werden.
+
+Das Synchrophasotron war erst zur Beschleunigung von Protonen ausgelegt. Später wurden auch Kerne leichter Elemente wie Deuterium, Helium, Lithium, Kohlenstoff, Sauerstoff, Neon, Magnesium, Silizium, Schwefel und Xenon beschleunigt. Die Beschleunigung schwerer Ionen erwies sich jedoch bedingt durch mäßige Vakuumqualität und eine schwach gekoppelte Hochfrequenzbeschleunigung als ineffektiv.
+
+Als Steuerungsrechner kamen in den 70er Jahren die Modelle EC1010 und VT1010B des Herstellers Videoton zum Einsatz.
+
+
+

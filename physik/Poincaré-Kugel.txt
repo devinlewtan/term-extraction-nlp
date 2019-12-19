@@ -1,0 +1,20 @@
+﻿Poincaré-Kugel
+
+Die Poincaré-Kugel ist ein Werkzeug zur Darstellung der Polarisationszustände elektromagnetischer Wellen wie zum Beispiel Licht. Jeder Polarisationszustand entspricht einem Punkt auf der Kugel, wobei sich vollständig polarisierte Zustände auf der Oberfläche, teilpolarisierte Zustände innerhalb der Kugel und der unpolarisierte Zustand im Zentrum befinden. Lineare Polarisationen befinden sich am Äquator der Kugel, zirkulare Polarisationen an den Polen und elliptische Polarisationen dazwischen. Orthogonale Polarisationen befinden sich auf der Kugeloberfläche einander gegenüber.
+Die Poincaré-Kugel ist benannt nach dem Physiker Henri Poincaré.
+
+Polarisationszustände elektromagnetischer Wellen lassen sich unter anderem mit Hilfe normierter Stokes-Parameter beschreiben, wo zur vollständigen Festlegung die drei Parameter "S", "S" und "S" benötigt werden. Diese Parameter spannen einen dreidimensionalen Vektorraum auf, in dem sich die Polarisationszustände als Punkte befinden. Die Stokes-Vektoren aller physikalisch möglichen Polarisationen befinden sich dann innerhalb einer Einheitskugel, der Poincaré-Kugel.
+
+Auf den Schnittpunkten der Koordinatenachsen mit der Kugeloberflächen befinden sich folgende Polarisationen:
+
+Den Punkten der Kugeloberfläche entsprechen die reinen Polarisationszustände, dem Innern die gemischten Polarisationen. Nach innen nimmt die Reinheit kontinuierlich ab bis zum unpolarisierten Zustand im Mittelpunkt.
+
+Die Poincaré-Kugel eignet sich zur intuitiven Veranschaulichung von Polarisationszuständen und insbesondere von Transformationen zwischen verschiedenen Polarisationen. Ähnliche Polarisationszustände sind stets benachbart und kontinuierliche Transformationen wie zum Beispiel beim Durchgang einer Welle durch ein doppelbrechendes Medium entsprechen kontinuierlichen Verschiebungen auf der Kugel. Lineare Transformationen der Polarisation entsprechen einer Drehung auf der Poincaré-Kugel um eine feste Drehachse. Beispiele:
+
+Die Poincaré-Kugel ist mathematisch äquivalent zur Bloch-Kugel, die den Hilbert-Raum der möglichen Zustände eines quantenmechanischen Zweizustandssystems (Qubit) veranschaulicht. Die Orientierung mit der die beiden Kugeln aufeinander abgebildet werden können, hängt hierbei davon ab, welche beiden orthogonalen (gegenüberliegenden) Polarisationen als Basiszustände ausgewählt werden. Diese Abbildung entspricht der Verwendung der Polarisation eines Photons als Qubit.
+
+Wird die Polarisation anstelle von Stokes-Parametern mathematisch äquivalent mit Jones-Vektoren beschrieben, so entspricht der Jones-Vektor gerade dem Bloch-Vektor sofern als Basiszustände auf der Poincaré-Kugel die Polarisationen H und V ausgewählt werden.
+
+Überträgt man Punkte der Poincaré-Kugel auf die Riemannschen Zahlenkugel, dann erhält man eine komplexe Zahl, die die Amplituden- und Phasenbeziehung von horizontaler und vertikaler Schwingung beschreibt.
+
+

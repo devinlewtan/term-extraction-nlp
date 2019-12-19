@@ -1,0 +1,25 @@
+﻿Spektroskopischer Doppelstern
+
+Spektroskopische Doppelsterne sind Sternsysteme, die aus zwei eng umeinander kreisenden Sonnen bestehen. Sie haben einen so geringen Abstand, dass das Auflösungsvermögen auch der größten Teleskope nicht ausreicht, um sie direkt zu unterscheiden. Dies ist meist nur indirekt durch Spektroskopie möglich, wie der Name sagt.
+
+Nachweisbar sind solche Doppelsterne durch einen periodischen Dopplereffekt im gemeinsamen Linienspektrum bzw. manchmal durch andere spektrale Anomalien. Bei nicht allzu schwachen Sternen können auch beide Radialgeschwindigkeiten bestimmt werden, woraus das Massenverhältnis folgt. Aus den Umlaufbahnen erhält man die Massensumme und damit auch die zwei Einzelmassen. Diese für die Astrophysik wesentlichen Daten und Messmethoden sind auch bei anderen (insbesondere den vielen teleskopischen) Doppelsternen möglich.
+
+Die hier behandelten Doppelsterne verraten sich durch ihren periodischen Dopplereffekt im Spektrum bzw. durch andere spektrale Anomalien. Die Umlaufbewegungen bewirken eine regelmäßige Verschiebung der Spektrallinien, die vielfach gemeinsamen Spektrallinien spalten sich dadurch auf ("Zweispektrensystem"): wenn sich der eine Stern von uns entfernt, schiebt der Dopplereffekt seine Spektrallinien gegen Rot(Rotverschiebung), während gleichzeitig die Spektrallinien des anderen Sterns, der sich auf uns zubewegt, gegen Blau verschoben werden. Aus der Periode der Verschiebung kann die Umlaufzeit bestimmt werden, zusammen mit der Größe der Verschiebung zusätzlich die Umlaufgeschwindigkeit und der Abstand der Sterne. Dabei ist noch die Bahnneigung gegen die Sichtlinie zu berücksichtigen.
+
+Bei ähnlicher Helligkeit überlagern sich die beiden Farbbänder zu einem gemischten Spektraltyp. Ist jedoch der Helligkeitsunterschied größer als eine Magnitude, so überstrahlt das Spektrum des Hauptsterns dasjenige des Begleiters, und die Linienverschiebung ist nur nach einer Seite feststellbar. In solchen "Einspektrensystemen" bleiben die Bahnneigung und das Massenverhältnis der zwei Sterne unbekannt.
+
+Die größten gemessenen Radialgeschwindigkeiten sehr enger Systeme liegen bei 1500 km/s. Kleinere als 1 km/s sind kaum nachweisbar; sie treten in Systemen extrem langer Umlaufzeit auf, oder wenn die Bahnebene quer zur Sichtlinie liegt.
+
+Viele spektroskopische Doppelsterne gehören zur Gruppe der Riesensterne; die erste spektroskopische Entdeckung war 1889 der helle Stern Mizar in der Deichsel des Großen Wagens, der sogar ein Vierfachsystem (2 Sternpaare) darstellt. Sein ferner Begleiter Alkor (der sog. Augenprüfer) ist ebenfalls ein spektroskopischer Doppelstern.
+
+Weil die Spektrallinien bei hellen Sternen besonders gut messbar sind, konnten 1889 auch Spica (Hauptstern in der Jungfrau), Algol im Perseus und Beta Aurigae als enge Sternpaare enttarnt werden sowie in den Folgejahren auch tausende von schwächeren Sternen. 
+
+Bei nicht zu schwachen Sternen kann die Interferometrie zusätzliche Messungen und Aussagen über die Komponenten des Doppelsterns ermöglichen.
+
+Während "teleskopische" Doppelsterne für eine gegenseitige Umkreisung mehrere Jahre bis Jahrhunderte brauchen, liegt die Periode der spektroskopischen Systeme bei einigen Stunden bis Wochen. Die Extremwerte sind 1-5 Jahre (bei weit entfernten Sternen, deren Winkelabstand für teleskopische Entdeckung zu klein ist) bzw. 80 Minuten bei WZ Sagittae. Dieser ist gleichzeitig ein Bedeckungsveränderlicher – so eng, dass Materie zum kompakten Begleiter überströmt und ihn zur wiederkehrenden Nova macht.
+
+Alle Spektralklassen sind bei spektroskopischen Doppelsternen vertreten. Besonders enge Komponenten gehören meist den Spektralklassen O, B, A und F an, während bei längeren Umlaufzeiten oft auch Riesensterne der Klassen G, K und M vorkommen.
+
+
+
+

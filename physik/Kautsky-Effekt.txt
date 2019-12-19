@@ -1,0 +1,9 @@
+﻿Kautsky-Effekt
+
+Der Kautsky-Effekt ist ein nach Hans Kautsky benannter Effekt, der im Zusammenhang mit der Chlorophyllfluoreszenz auftritt.
+
+Ein intaktes Pflanzenblatt gibt – aus dem Dunklen schnell ans Licht geholt – über einen kurzen Zeitraum von rund drei Minuten ein hohes Maß an Fluoreszenz ab. Während dieser Zeitspanne nimmt die Fluoreszenz allerdings permanent ab, bis sie einen gewissen Wert erreicht hat.
+
+Grund für diese Beobachtung ist, dass das komplizierte Photosynthesesystem Zeit benötigt, um aktiv zu werden. Während der drei Minuten müssen Enzyme und Stoffwechselwege in Gang gesetzt werden, so dass die durch den plötzlichen Lichteinfall gelieferte Energie an der Elektronentransportkette nicht sofort abgenommen bzw. weitergeleitet werden kann, wobei es zu einem Stau kommt. Das Chlorophyll strahlt daher die Überschussenergie als Fluoreszenz ab.
+
+

@@ -1,0 +1,150 @@
+﻿Dichteoperator
+
+Der Dichteoperator (auch statistischer Operator) beschreibt den Zustand eines physikalischen Systems oder eines Ensembles solcher Systeme. Diese Beschreibung ist in physikalischer Hinsicht vollständig, denn mithilfe des Dichteoperators lässt sich für jede am System bzw. Ensemble mögliche Messung der Erwartungswert vorhersagen. Der Dichteoperator gibt insbesondere an, mit welcher Wahrscheinlichkeit sich das System oder ein aus dem Ensemble herausgegriffenes System in einem bestimmten eindeutig definierten Zustand befindet. Er kann den Zustand eines einzelnen Systems oder Ensembles auch dann beschreiben, wenn dieser nur unvollständig bekannt ist. Der Dichteoperator kann durch die Dichtematrix (bzw. "statistische Matrix") dargestellt werden. Er wird daher auch in der Quantenstatistik viel verwendet.
+
+Der Dichteoperator wurde ursprünglich im Rahmen der klassischen Physik von George Gabriel Stokes für den Polarisationszustand eines Lichtstrahls entwickelt (Stokes-Parameter). In die Quantenmechanik wurde er 1927 von Lew Landau und John von Neumann eingeführt und dann ausführlich von Paul Dirac in "Principles of Quantum Mechanics" (1930) und von John von Neumann in "Mathematische Grundlagen der Quantenmechanik" (1932) dargestellt.
+
+Für einen reinen Zustand mit (normiertem) Zustandsvektor formula_1 heißt der Dichteoperator (in Bra-Ket-Schreibweise)
+Dieser Operator bleibt ungeändert, wenn man denselben Zustand durch einen Zustandsvektor formula_3 beschrieben hätte. Daher besteht, anders als beim Zustandsvektor, eine in beiden Richtungen eindeutige Zuordnung zwischen dem physikalischen Zustand und seinem Dichteoperator.
+
+Dieser Operator ist ein Projektionsoperator formula_4, denn angewendet auf einen beliebigen Zustandsvektor formula_5, projiziert er diesen auf den durch formula_1 bestimmten 1-dimensionalen Unterraum des Hilbertraums:
+wobei der Zahlenfaktor formula_8 das Skalarprodukt beider Vektoren ist. formula_9 ist hermitesch, unitär und idempotent (d. h. formula_10). Seine Eigenwerte sind 1 (für alle Vektoren desselben reinen Zustands) und Null (alle dazu orthogonalen Vektoren).
+
+Für einen kohärenten, also reinen Überlagerungszustand
+lässt sich der Dichteoperator formula_12 durch die beiden überlagerten Zustände ausdrücken:
+Wenn formula_14 und formula_15 orthogonal sind und als Basisvektoren genommen werden, dann ist formula_16 durch die Matrix
+gegeben. Die kohärente Linearkombination drückt sich in den Nichtdiagonalelementen aus. Alle Matrixelemente sind unabhängig davon, ob man für Überlagerungszustand anstelle von formula_18 einen Vektor formula_19 mit einer globalen Phase gewählt hat. In dieser Form treten sie auch in der Formel für den Erwartungswert eines Operators formula_20 auf und bilden hier die Interferenzterme:
+
+Ein Ensemble, das aus Subensembles zusammengesetzt ist, in denen sich jeweils die Systeme in demselben reinen Zustand formula_22 befinden, ist in einem gemischten Zustand. Hier sind die reinen Zustände "inkohärent" überlagert. Sind die Zustände formula_22 orthogonal, so ist die jeweilige Anzahl formula_24 der betreffenden Ensembles die Wahrscheinlichkeit dafür, dass bei einer Messung ein einzelnes System im Zustand formula_22 gefunden wird. Die Gewichte sind dann auf 1 normiert: formula_26. Dann ist der Dichteoperator gegeben durch
+
+Mit Hilfe der Projektionsoperatoren lässt sich der Dichteoperator auch schreiben als
+
+Der Erwartungswert eines beliebigen Operators formula_29 ist dann
+
+also die inkohärente Summe der Erwartungswerte für die einzelnen Subensembles, jeweils gewichtet mit der relativen Anzahl der darin enthaltenen Einzelsysteme. Es gibt keine Interferenz zwischen den Zuständen verschiedener Einzelsysteme.
+
+Wurde zum Beispiel das Ensemble aus zwei Subensembles zusammengesetzt, die jeweils nur Systeme in dem einen oder dem anderen von zwei orthogonalen Zuständen formula_1 und formula_5 haben, so ist der Dichteoperator
+formula_34 und formula_35 mit formula_36 sind dabei die relativen Häufigkeiten.
+
+Mit formula_14 und formula_15 als Basisvektoren ist die Dichtematrix dieses Zustandsgemischs durch die Diagonalmatrix
+gegeben. Die inkohärente Überlagerung von Systemen drückt sich im Verschwinden der Nichtdiagonalelemente aus, wenn (wie hier) die Systeme jeweils einen der Basiszustände besetzen.
+
+In einer anderen Basis hat derselbe Dichteoperator im Allgemeinen eine Nichtdiagonalmatrix, ausgenommen der Fall, dass alle Basiszustände mit gleicher Häufigkeit vertreten sind.
+
+Diese Matrix ist unabhängig davon, ob innerhalb des von den beteiligten Zuständen definierten Unterraums eine andere Basis gewählt wurde. Darin drückt sich die Tatsache aus, dass inkohärente Ensembles physikalisch identisch sind, wenn sie aus orthogonalen Zuständen mit jeweils gleicher Häufigkeit, aber verschieden gewählter Basis des durch die überlagerten Zustände gebildeten Unterraums gebildet sind.
+
+Der Dichteoperator für das kanonische Ensemble ist:
+In der Eigenbasis des Hamiltonoperators nimmt formula_9 die Form (1) an. Analog erhält man für den Dichteoperator des großkanonischen Ensembles
+
+Ein Zustandsgemisch liegt auch bei nur einem einzigen System vor, wenn es vor einer Messung mit einem zweiten System verschränkt war, so dass bestimmte reine Zustände des ersten Systems mit bestimmten reinen Zuständen des zweiten System vollständig korreliert waren. Wenn dann durch diese Messung, die gar nicht auf das erste System einwirkt, der Zustand des zweiten Systems zu einem bestimmten reinen Zustand reduziert wurde, der nicht als solcher zu den korrelierten Zuständen gehört hatte, muss anschließend das erste System als Zustandsgemisch behandelt werden.
+
+Dieser Fall ist häufig, zum Beispiel wenn ein Atom ein anderes stößt, dabei mit gewisser Wahrscheinlichkeit eine Anregung verursacht und dann unter einem bestimmten Ablenkwinkel auf einen Detektor trifft. Das getroffene Atom befindet sich danach in einem Zustandsgemisch in Form einer inkohärenten Überlagerung von angeregtem Zustand und Grundzustand. Wenn man durch eine Messung am gestoßenen Atom die Richtung seines Rückstoßes festgestellt hätte, würde sich umgekehrt das stoßende Atom nun in einem Zustandsgemisch befinden, gebildet aus einer inkohärenten Überlagerung der gestreuten Wellen verschiedener Energie. Zur Beschreibung benutzt man den Reduzierten Dichteoperator, der sich aus dem Dichteoperator des ursprünglichen Gesamtsystems durch partielle Spurbildung ergibt und keine Informationen zu dem Teilsystem, an dem gemessen wurde, mehr enthält. Diese durch Verschränkung vermittelte Veränderung des Zustands eines Systems, ohne dass es Objekt einer physikalischen Einwirkung geworden wäre, stellt einen der für die Anschauung schwierigsten Aspekte der Quantenphysik dar (siehe z. B. Quantenverschränkung, EPR-Paradoxon, Quantenradierer).
+
+Für jeden einzelnen Bestandteil formula_22 des Zustandsgemischs ist der Mittelwert der Messergebnisse einer physikalischen Größe formula_49 gegeben durch den Erwartungswert
+formula_50
+Darin ist formula_51 der zu formula_49 gehörige Operator (s. Quantenmechanik, Observable).
+
+Da das Ensemble ein Gemisch von Systemen in den verschiedenen beteiligten Zuständen formula_22 ist, ist der Mittelwert aller Messungen an den einzelnen Systemen die gewichtete Summe der einzelnen Erwartungswerte:
+
+Dies ist gleich der Spur
+wie man mit Hilfe eines vollständigen Systems von orthonormierten Basisvektoren formula_56 sehen kann: Wegen
+formula_57 (Einheitsoperator) ist
+
+Sind die formula_56 gerade die Eigenzustände zur Observable formula_49 (d. h. formula_61 mit den Eigenwerten formula_62), dann gilt weiter
+
+Darin ist formula_64 das über das Ensemble gewichtete Mittel für die Wahrscheinlichkeit, ein herausgegriffenes System im Eigenzustand formula_56 anzutreffen. formula_66 ist also auch die Wahrscheinlichkeit, bei einer einzelnen Messung den Eigenwert formula_62 als Ergebnis zu erhalten. Charakteristisch ist, dass formula_66 durch eine inkohärente Summe gegeben wird, die von den relativen Phasen der am Ensemble beteiligten Zustände formula_22 unabhängig ist.
+
+Umgekehrt lässt sich der Operator formula_51 durch die aus seinen Eigenwerten formula_62 und den Dichteoperatoren der Eigenzustände formula_72 gebildete Summe darstellen:
+
+Die Dichtematrix ist die Matrix, mit der der Operator formula_9 in Bezug auf eine orthonormierte Basis formula_75 dargestellt werden kann:
+
+Im Folgenden bezeichnet das Zeichen „formula_77“, dass ein Bra, Ket oder ein Operator bezüglich einer Basis dargestellt wird (vergleiche auch Bra-Ket#Darstellung).
+Die Zustände „Spin auf“ (bezgl. z-Achse) formula_78
+und „Spin ab“ formula_79
+werden als ket-Vektoren durch Spalten dargestellt. Die zugehörigen bra-Vektoren sind dann Zeilenvektoren: formula_80 bzw. formula_81. Die Projektionsoperatoren (durch Matrizenmultiplikation):
+Dies sind auch die Dichtematrizen für vollständig in formula_83- bzw. formula_84-Richtung polarisierte Elektronen.
+
+Die formula_85-Komponente des Spins hat die aus den Eigenwerten gebildete Diagonalmatrix formula_86 Für das vorausgesagte Messergebnis ergibt sich für das Ensemble formula_87 richtig
+
+Für das Ensemble formula_89 ergibt sich
+formula_90
+
+Die Zustände von in formula_91- bzw. formula_92-Richtung polarisierten Elektronen sind
+formula_93
+Die Projektionsoperatoren dazu haben (in der Basis der formula_94-Eigenzustände!) die Matrizen formula_95
+Charakteristisch ist, dass dies keine Diagonalmatrizen sind und dass sich die verschiedenen Phasen, mit denen die formula_94-Eigenzustände als ket-Vektoren hier überlagert wurden, in den Matrixelementen außerhalb der Hauptdiagonale wiederfinden. Das ist Ausdruck der kohärenten Überlagerung, durch die aus die formula_97-Eigenzustände gebildet werden.
+
+Sind die Elektronen je zur Hälfte in formula_98-Richtung polarisiert, heißt die Dichtematrix:
+
+Die gleiche Dichtematrix ergibt sich für ein Gemisch aus Elektronen, die zu je 50 % in formula_100-Richtung (oder in eine beliebige andere Richtung) polarisiert sind. Damit sind auch alle möglichen Messergebnisse identisch zu denen am Ensemble, das aus formula_98-polarisierten Elektronen gebildet wurde. Die ursprünglichen zur Definition des Ensembles benutzten Polarisationsrichtungen sind physikalisch (und damit auch begrifflich) nicht mehr zu unterscheiden: Es ist immer "ein und dasselbe" Ensemble entstanden.
+
+Beispielsweise für ein Gemisch aus Elektronen mit Spin in formula_102-Richtung und formula_103-Richtung mit Anteilen formula_104 bzw. formula_105 heißt die Dichtematrix
+
+Der Erwartungswert des Spins in formula_98-Richtung ist dann
+Die in (formula_92)-Richtung polarisierten Elektronen tragen also erwartungsgemäß nichts zum Erwartungswert formula_110 bei.
+
+Gegeben sei ein quantenmechanisches System, das auf einem Hilbertraum formula_111 modelliert ist.
+Ein beschränkter linearer Operator formula_112 auf formula_111 ist ein Dichteoperator, wenn gilt:
+
+Obwohl die Begriffe Dichtematrix und Dichteoperator oft synonym gebraucht werden, besteht ein mathematischer Unterschied. Genau wie in der linearen Algebra eine Matrix die Basisdarstellung eines linearen Operators ist, kann in der Quantenmechanik zwischen abstraktem "Dichteoperator" und einer konkreten "Dichtematrix" in einer bestimmten Darstellung unterschieden werden. Ist formula_114 ein Dichteoperator, so bezeichnet
+die Dichtematrix in Ortsdarstellung. Sie ist allerdings keine echte Matrix, da die Ortsdarstellung über ein Kontinuum von "uneigentlichen" Basisvektoren formula_116 definiert ist, sondern ein so genannter Integralkern.
+
+In endlichdimensionalen Hilberträumen (z. B. bei Spinsystemen) ergibt sich dagegen dann eine positiv semidefinite Matrix mit Spur 1, also eine echte Dichtematrix, wenn eine Orthonormalbasis formula_117 gewählt wird:
+
+
+
+
+Ist das betrachtete Ensemble ein "reines Ensemble", besteht das System also nur aus einem reinen Zustand, so gilt für die Dichtematrix
+formula_129.
+
+Für gemischte Zustände gilt stets formula_130.
+
+Ein formula_40-Niveau-System, bei dem alle formula_132 Zustände gleich wahrscheinlich sind, hat die Dichtematrix
+wobei formula_134 die formula_40-dimensionale Einheitsmatrix bezeichnet.
+
+Der reduzierte Dichteoperator wurde 1930 durch Paul Dirac eingeführt. Er bezieht sich auf ein herausgegriffenes Teilsystem eines zusammengesetzten Systems und dient dazu, die Ergebnisse von Messungen an dem Teilsystem vorherzusagen, wenn die übrigen Teile des Systems gar nicht mitbeobachtet werden.
+
+Sind formula_49 und formula_137 zwei Systeme mit (normierten) Zuständen formula_138 in ihrem jeweiligen Hilbertraum formula_139, dann hat das zusammengesetzte System formula_140 den Tensorraum formula_141 zum Hilbertraum. Das Gesamtsystem befindet sich in einem "separablen" Zustand formula_142, wenn feststeht, dass die beiden Teilsysteme sich in den Zuständen formula_143 bzw. formula_144 befinden. Allgemein befindet sich das Gesamtsystem in einem Zustand
+(mit orthonormierten Basisvektoren formula_146 und Konstanten formula_147 ), der als verschränkt bezeichnet wird, wenn er sich "nicht" als separabler Zustand darstellen lässt.
+
+Für eine Observable des Teilsystems formula_49 ist der Operator formula_149 zunächst nur im Hilbertraum formula_150 definiert. Für die Messung dieser, nur das System formula_49 betreffenden Observablen am Gesamtsystem muss der Operator gemäß formula_152 zu einem Operator auf formula_141 erweitert werden, wobei formula_154 der Einheitsoperator in formula_155 ist.
+
+Ist der Zustand des Systems separabel, dann ergibt sich der Erwartungswert
+Das stimmt mit dem Ergebnis überein, das man erhält, wenn man das Teilsystem formula_49 von vornherein als ein isoliertes System betrachtet.
+
+Im Allgemeinen hingegen folgt für den Erwartungswert:
+Darin ist mit
+der reduzierte Dichteoperator für das Teilsystem formula_49 definiert, wenn das Gesamtsystem im Zustand formula_161 ist. Er ist ein Operator im Raum formula_162 und entsteht, wenn in der Matrix des Dichteoperators für das Gesamtsystem
+durch Summierung über den Index formula_164 der Basiszustände des Teilsystems formula_137 die partielle Spur gebildet wird.
+
+Eine einfache Interpretation ergibt sich für den Fall, dass es sich bei der Basis formula_166 um die Eigenvektoren des Operators formula_149 handelt (mit Eigenwerten formula_168). Dann ist der Erwartungswert von formula_149 ein inkohärent gewichteter Mittelwert von dessen Eigenwerten:
+Für den Fall, dass das Gesamtsystem in einem separablen Zustand vorliegt, z. B. formula_171, ergibt diese Formel das erwartete Ergebnis formula_172 denn alle Glieder mit Index formula_173 sind Null, und die Summe formula_174 ist die Norm von formula_175, also gleich 1.
+
+Der Einteilchendichteoperator ist bei einem Vielteilchensystem der auf den Hilbertraum eines Teilchens reduzierte Dichteoperator. Bei Systemen identischer Teilchen genügt die Kenntnis des Einteilchendichteoperators, um Erwartungswerte und Übergangsmatrixelemente jedes Operators auszurechnen, der die Summe von Einteilchenoperatoren ist. Das betrifft z. B. die kinetische Energie und die potenzielle Energie in einem äußeren Feld und ist daher ein wichtiges Hilfsmittel bei der Modellierung der Elektronenhülle von Atomen und Molekülen. Die Berechnungen werden häufig in Ortsdarstellung durchgeführt, also basierend auf der N-Teilchen-Wellenfunktion formula_176. Darin sind formula_177 die Orts- und Spinkoordinate des i-ten Teilchens. In der Matrixdarstellung treten sie hier als z. T. kontinuierliche Indizes auf und werden deshalb nicht als unterer Index, sondern wie das Argument einer Funktion geschrieben. Die Dichtematrix des Gesamtsystems heißt
+Die Einteilchendichtematrix ist dann
+Die Wahl der (N-1) Integrations- (bzw. Summations-)variablen mit den Nummern 2 bis formula_40 ist beliebig, da die Wellenfunktion bei identischen Teilchen gegenüber Umnummerierung höchstens das Vorzeichen wechselt und daher für die Einteilchendichtematrix immer dasselbe Ergebnis herauskommt.
+
+Das Diagonalelement formula_182 gibt die Gesamtdichte an, die die formula_40 Teilchen am Ort formula_184 mit Spinrichtung formula_185 bilden.
+
+Da der Einteilchendichteoperator formula_186 hermitesch ist, gibt es eine Basis formula_187 aus Eigenzuständen: formula_188. Für die Eigenwerte gilt formula_189 und formula_190. Die formula_40 Eigenzustände mit den größten Eigenwerten heißen "natürliche Orbitale". Wenn man jedes natürliche Orbital mit einem Teilchen besetzt, also einen Zustand in Form der Slater-Determinante bildet, stellt diese die beste Annäherung an die ursprüngliche N-Teilchen-Wellenfunktion formula_161 dar, die man im Rahmen eines Einzelteilchenmodells in Bezug auf die gesamte Teilchendichte erreichen kann.
+
+Aus der Schrödingergleichung, die die Zeitentwicklung (Dynamik) reiner Quantenzustände beschreibt, kann man unmittelbar die Zeitentwicklung gemischter Zustände ableiten. Dazu benutzt man eine beliebige Zerlegung der Dichtematrix in reine Zustände, deren Dynamik der Schrödinger-Gleichung genügt, und berechnet daraus die Dynamik des gemischten Zustandes zu
+wobei formula_194 der Hamilton-Operator des Systems ist. Diese Gleichung ist als von-Neumann’sche Bewegungsgleichung bekannt (nicht zu verwechseln mit der Heisenberg’schen Bewegungsgleichung).
+
+Diese Differentialgleichung kann man für zeitunabhängige Hamilton-Operatoren lösen und erhält mit dem unitären Zeitentwicklungs-Operator formula_195 die Gleichung
+
+Diese Lösung kann man durch Einsetzen leicht überprüfen.
+
+Bemerkenswert ist hierbei, dass für den Operator formula_197 die übliche Heisenberg'sche Bewegungsgleichung "nicht" gilt, da der Zeitentwicklungsoperator der direkt aus der Schrödingergleichung abgeleiteten Dynamik formula_198 gehorcht. Auch die Zeitentwicklung des Operators formula_199 durch den Zeitentwicklungsoperator formula_197 erfolgt nicht gemäß der üblichen Zeitentwicklungsgleichung für Operatoren (formula_201 für eine gewöhnliche Observable A), was jedoch verständlich ist, da formula_202
+
+Mit Hilfe der Dichtematrix formula_203 lässt sich die Von-Neumann-Entropie eines Systems wie folgt definieren:
+
+wobei formula_205 die Boltzmannkonstante ist, und die Spur über dem Raum formula_111 genommen ist, in dem formula_203 operiert.
+
+Die Entropie jedes reinen Zustands ist Null, da die Eigenwerte der Dichtematrix Null und Eins sind. Dies stimmt mit der heuristischen Argumentation überein, dass keine Unsicherheit über die Präparation des Zustandes herrscht.
+
+Man kann zeigen, dass auf einen Zustand angewendete unitäre Operatoren (wie der aus der Schrödinger-Gleichung gewonnene Zeitentwicklungs-Operator) die Entropie des Systems nicht ändern. Das verbindet die Reversibilität eines Prozesses mit seiner Entropieänderung – ein fundamentales Ergebnis, das die Quantenmechanik mit der Informationstheorie und der Thermodynamik verbindet.
+
+
+
+

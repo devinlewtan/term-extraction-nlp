@@ -1,0 +1,38 @@
+﻿Magnetooptischer Kerr-Effekt
+
+Der Magnetooptische Kerr-Effekt (MOKE) aus der Magnetooptik beschreibt eine Änderung in der Intensität bzw. eine Drehung der Polarisationsebene von Licht, das an ferromagnetischen Metalloberflächen reflektiert wird. Die Intensitätsänderung bzw. der Drehwinkel ist abhängig von der Geometrie und der Magnetisierung der Probe. 
+
+Der magnetooptische Kerr-Effekt sollte nicht mit dem elektrooptischen Kerr-Effekt verwechselt werden, bei dem elektrische Felder die Polarisationsebene von polarisiertem Licht drehen. Der magnetooptische Kerr-Effekt wurde 1876 von John Kerr entdeckt.
+
+Der magnetooptische Kerr-Effekt (kurz: MOKE) beschreibt eine Drehung der Polarisationsebene eines linear polarisierten Lichtstrahls um einen Winkel formula_1 bei Reflexion an einer Festkörperoberfläche mit Magnetisierung formula_2. Eine solche Magnetisierung existiert bei Ferromagneten oder in einem Magnetfeld befindlichen Paramagneten. Die Änderung der Polarisationsebene ist dabei proportional zur Magnetisierung der Probe. Somit kann über diesen "Kerr-Winkel" formula_1 die Magnetisierung der Probe beschrieben werden und die Änderung derselben im externen Magnetfeld beobachtet werden.
+Ein ähnlicher Effekt tritt auch bei Transmission von Licht durch die Probe auf. Dieser heißt Faraday-Effekt. 
+Beide Effekte resultieren unmittelbar aus Nichtdiagonalelementen des Permittivitätstensors. 
+
+Neben dem MOKE, der linear von der einfallenden Lichtintensität abhängt, existiert bei hohen Lichtintensitäten im Bereich der nichtlinearen Optik auch ein "nichtlinearer magnetooptischer Kerr-Effekt" (NOLIMOKE).
+
+Der MOKE ist Grundlage für die "magnetooptische Kerr-Spektroskopie" und die magnetooptische Datenspeicherung. 
+
+Wenn durch einen Analysator (Polarisator) die Polarisationsdrehung in eine Helligkeitsänderung umgesetzt wird, kann man mit Hilfe des MOKE magnetische Streufelder visualisieren. 
+
+Der magnetooptische Kerr-Effekt tritt in unterschiedlichen Formen auf, die sich durch die Lage der Magnetisierung in Bezug zur Einfallsebene des Lichts definieren.
+Beim polaren magnetooptischen Kerr-Effekt (PMOKE) liegt die Richtung der Magnetisierung senkrecht zur Oberfläche. Er bewirkt beim reflektierten Strahl eine Drehung der Polarisationsebene und eine Änderung der Polarisation von linear polarisiert zu elliptisch polarisiert. Diese Art des MOKE kommt in magnetooptischen Datenträgern zum Einsatz, da der Effekt in dieser Geometrie am größten ist und somit die erreichbare Datendichte maximal wird.
+
+Beim longitudinalen magnetooptischen Kerr-Effekt (LMOKE) liegt die Richtung der Magnetisierung parallel zur Oberfläche und in der Einfallsebene des Lichts. Er bewirkt wie der PMOKE eine Drehung der Polarisationsebene des reflektierten Strahls. Dieser Effekt ist typischerweise eine Größenordnung kleiner als PMOKE.
+
+Beim transversalen magnetooptischen Kerr-Effekt (TMOKE) liegt die Richtung der Magnetisierung parallel zur Oberfläche und senkrecht zur Einfallsebene des Lichts. Dieser Effekt tritt nur auf, wenn das einfallende Licht in der Einfallsebene polarisiert ist (p-Polarisation). Er bewirkt eine Änderung in der Intensität des reflektierten Strahls und keine Drehung der Polarisationsebene wie der PMOKE und der LMOKE. Der TMOKE ist typischerweise eine Größenordnung kleiner als LMOKE.
+
+Beim quadratischen magnetooptischen Kerr-Effekt (QMOKE), der auch als Voigt-Effekt bezeichnet wird, hängt die Änderung der Polarisation des reflektierten Lichts von Produkttermen der polaren, longitudinalen und transversalen Magnetisierungskomponenten ab. QMOKE kann die gleiche Größenordnung wie LMOKE haben und ist bei einkristallinen Materialien anisotrop, d. h., der Effekt hängt von der relativen Ausrichtung der Kristallachsen zur Einfallsebene ab.
+
+Reflektiert eine linear polarisierte Welle an einer magnetisierten Oberfläche, so dreht sich die Polarisationsebene um den Kerr-Winkel formula_1 gegenüber seiner Ausgangsrichtung. Zusätzlich wird die linear polarisierte Welle elliptisch polarisiert.
+
+Die Drehung kommt dadurch zustande, dass das Material nach seiner Magnetisierung unterschiedliche Brechungsindizes für die verschieden zirkulierenden Wellen hat und dadurch unterschiedliche Phasengeschwindigkeiten zustande kommen. Dadurch ergibt sich eine Phasendifferenz beider Wellen und dadurch eine Änderung der Polarisationsachse um den Kerr-Winkel.
+Weiterhin hat das Material auch unterschiedliche Absorptionskoeffizienten für rechts- und links-zirkular polarisiertes Licht, wodurch sich die Intensitäten ändern. Dadurch wird die Elliptizität erklärt. Dieses Phänomen wird magnetisch zirkularer Dichroismus genannt.
+
+Beide Informationen werden im komplexen Kerr-Winkel formula_5 wiedergegeben:
+
+formula_7 gibt dabei die Elliptizität an, für die formula_8 gilt, wobei formula_9 und formula_10 die Amplituden der Wellen sind. Da die Intensität formula_11 einer Welle direkt proportional zu ihrem Amplitudenquadrat ist, folgt
+mit den Intensitäten formula_13 für den rechts-zirkular polarisierten und formula_14 für den links-zirkular polarisierten Anteil.
+
+
+
+

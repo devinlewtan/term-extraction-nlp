@@ -1,0 +1,12 @@
+﻿Kohler-Regel
+
+Die Kohler-Regel besagt, dass ein von der magnetischen Flussdichte formula_1 abhängiger spezifischer Widerstand für kleine magnetische Flussdichten formula_2 extrapoliert werden kann:
+
+mit
+
+Genaue Ergebnisse liefert diese Regel insbesondere bei Flussdichten unter 30 mT. Für kleine magnetische Flussdichten gilt:
+
+Insbesondere kann durch Anwendung dieser Regel der spezifische Widerstand von supraleitenden Materialien gemessen werden. Dazu legt man unterhalb der kritischen Temperatur eine äußere überkritische Flussdichte an, so dass der Supraleiter die Meißner-Phase verlässt und der Widerstand messbar wird. Dann kann durch die Kohler-Regel der spezifische Widerstand aus den gemessenen Werten näherungsweise bestimmt werden.
+
+
+

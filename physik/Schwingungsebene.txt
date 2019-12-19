@@ -1,0 +1,10 @@
+﻿Schwingungsebene
+
+Die Schwingungsebene ist in der Schwingungslehre die Ebene einer Schwingung.
+
+
+Ganz allgemein ist die Schwingungsebene einer Transversalwelle die Ebene, die senkrecht auf der Ausbreitungsrichtung steht.
+
+Polarisation einer Welle kann nur in der Schwingungsebene geschehen, weshalb nur Transversalwellen polarisierbar sind. Longitudinalwellen, etwa Schall, hingegen besitzen keine Schwingungsebene und sind daher nicht polarisierbar.
+
+

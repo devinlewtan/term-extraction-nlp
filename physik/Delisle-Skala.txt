@@ -1,0 +1,11 @@
+﻿Delisle-Skala
+
+Die Delisle-Skala ist eine Temperaturskala, die 1732 von dem französischen Astronomen Joseph Nicolas Delisle (1688–1768) eingeführt wurde. Die Einheit der Delisle-Skala ist Grad Delisle, wobei diese keine SI-Einheit darstellt.
+
+1732 entwarf Delisle ein Thermometer, das mit flüssigem Quecksilber arbeitete. Als Bezugspunkt nahm er den Siedepunkt von Wasser (0 °De) bei einem normalen atmosphärischen Druck (1013,25 mbar) und maß dann die Volumenänderung des Quecksilbers.
+Das Delisle-Thermometer hatte ursprünglich 2400 Gradeinteilungen. Im Winter 1738 rekalibrierte Josias Weitbrecht (1702–1747) das Thermometer, als er feststellte, dass die Volumenänderung von Quecksilber über diese Temperaturdifferenz näherungsweise einem Verhältnis von 150 zu 10.000 entspricht. Als Bezugspunkte dienten nun der Siedepunkt von Wasser (0 °De) und der Schmelzpunkt von Eis (150 °De).
+Die Delisle-Skala verläuft somit wie die ursprünglich von Celsius entworfene Skala (Siedetemperatur von Wasser formula_1 und Schmelztemperatur formula_2) und damit entgegen der heutigen Celsiusskala, die vom Schmelzpunkt des Eises (0 °C) zum Siedepunkt von Wasser (100 °C) verläuft.
+
+Das Delisle-Thermometer wurde über 100 Jahre lang in Russland genutzt.
+
+

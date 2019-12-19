@@ -1,0 +1,46 @@
+﻿Vektorpotential
+
+Das Vektorpotential formula_1 ist, historisch gesehen, ein mathematisches Hilfsmittel, das in der klassischen Elektrodynamik dazu eingeführt wurde, den Umgang mit der magnetischen Induktion bzw. Flussdichte formula_2 (anschaulich gesprochen mit dem „Magnetfeld“) zu vereinfachen.
+
+Mathematisch ist das Vektorpotential (im Unterschied zum Skalarpotential) ein Vektorfeld formula_1, dessen Rotation gemäß folgender Formel 
+
+ein zweites Vektorfeld formula_2 liefert.
+
+Vektorpotentiale lassen sich u. a. dazu verwenden, die zur Beschreibung des elektromagnetischen Felds verwendeten Maxwell-Gleichungen zu entkoppeln und dadurch leichter lösbar zu machen. So zeigt sich, dass das Vektorpotential über eine Faltung aus einer gegebenen ortsabhängigen Stromdichte formula_6 (also eine Anordnung von stromdurchflossenen Leitern im Raum, wie zum Beispiel eine Spule) hervorgeht, man also das Vektorpotential zu einer gegebenen Stromdichte berechnen kann, und daraus dann die messbare magnetische Induktion bzw. Flussdichte formula_2, die durch diese Anordnung erzeugt wird (Biot-Savart-Gesetz). Dieses Vektorpotential hat die Einheit formula_8.
+
+Obwohl es zunächst nur als mathematisches Hilfsmittel eingeführt wurde, kommt ihm in der Quantenmechanik physikalische Realität zu, wie das Aharonov-Bohm-Experiment zeigte.
+
+Das Vektorpotential formula_1 wird so definiert, dass
+
+gilt. Hierbei ist formula_11 die Rotation des Vektorpotentials. Durch diesen Ansatz ist die Divergenz von formula_12 Null, da formula_13 für alle zweifach stetig differenzierbaren Vektorfelder. Dies wird durch die Maxwellgleichungen gefordert.
+
+In der Elektrodynamik gilt die obige Formel unverändert, wohingegen für das elektrische Feld formula_14
+
+gilt. Hierbei ist formula_16 das skalare Potential.
+
+Diese beiden Ansätze, zusammen mit der Lorenz-Eichung, werden benutzt, um die Maxwellgleichungen zu entkoppeln. In der Magnetostatik wird für gewöhnlich die Coulomb-Eichung benutzt, die den statischen Grenzfall der Lorenz-Eichung darstellt.
+
+Skalares Potential und Vektorpotential werden in der Relativitätstheorie und der Quantenelektrodynamik zum Viererpotential
+zusammengefasst.
+
+
+
+
+
+
+
+Bei der Berechnung von Feldern in ladungs- und leitungsstromfreien Gebieten, z. B. in Hohlleitern begegnet man dem elektrischen Vektorpotential formula_40.
+
+Aufgrund der Quellenfreiheit der betrachteten Felder gilt 
+
+Um einen funktionalen Zusammenhang zwischen formula_44 und formula_45 zu erhalten, subtrahiert man die Gleichungen formula_41 und formula_43 voneinander und erhält:
+
+Das Wirbelfeld formula_40 nennt man "elektrisches" Vektorpotential. Es beschreibt nur zeitlich "veränderliche elektrische" Felder.
+
+Gemäß dem helmholtzschen Theorem kann (fast) "jedes" Vektorfeld formula_50 als Superposition zweier Komponenten formula_51 und 
+formula_52 aufgefasst werden, deren erste der Gradient eines Skalarpotentials formula_53 ist, die zweite dagegen die Rotation eines Vektorpotentials formula_54:
+
+Ist formula_56 ein konservatives Kraftfeld, in dem die Kraft formula_57 dem Prinzip des kleinsten Zwanges folgend stets der Richtung des maximalen Anstiegs des Potentials formula_58 entgegengerichtet ist, gilt alternativ die Schreibweise 
+
+
+

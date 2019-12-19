@@ -1,0 +1,11 @@
+﻿Marangoni-Zahl
+
+Die Marangoni-Zahl formula_1 oder formula_2 (benannt zu Ehren des italienischen Physikers Carlo Marangoni) ist eine dimensionslose Kennzahl aus dem Bereich der Strömungsmechanik. Sie ist ein Maß für die Stärke der kapillaren Konvektion an Grenzflächen (Marangoni-Konvektion).
+
+Die Marangoni-Konvektion ist eine Strömung an Grenzflächen, die durch lokale Unterschiede der Grenzflächenspannung formula_3 verursacht wird. Da die Grenzflächenspannung der meisten Stoffe bei zunehmender Temperatur formula_4 abnimmt, entsteht eine Strömung von warmen zu kalten Bereichen der Grenzfläche. In diesem Fall der thermokapillaren Konvektion, die durch Temperaturdifferenzen formula_5 bedingt sind, lässt sich die Maragoni-Zahl definieren als:
+
+Dabei bezeichnet
+
+Analog können die lokale Unterschiede in der Grenzflächenspannung auch durch Konzentrationsunterschiede gelöster Stoffe (z. B. Detergentien) oder der Ladungsdichte entstehen und durch eine entsprechende Definition der Marangoni-Zahl ausgedrückt werden.
+
+

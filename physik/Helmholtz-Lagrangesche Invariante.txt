@@ -1,0 +1,11 @@
+﻿Helmholtz-Lagrangesche Invariante
+
+Die Helmholtz-Lagrangesche Invariante (nach Helmholtz und Lagrange) stellt in der paraxialen Optik den Zusammenhang zwischen Abbildungsmaßstab und Winkelverhältnis dar:
+
+mit
+
+Bei einer optischen Abbildung ist demnach das Produkt aus Objekt/Bild-Größe, Brechungsindex und Strahlwinkel auf der Objekt- und der Bildseite gleich.
+
+Eine ähnliche Grundaussage der paraxialen Optik ist die Abbesche Invariante.
+
+

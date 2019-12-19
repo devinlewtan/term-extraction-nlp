@@ -1,0 +1,33 @@
+﻿Duffing-Oszillator
+
+Der Duffing-Oszillator, benannt nach Georg Duffing, ist ein nichtlinearer Oszillator. Er kann als Erweiterung des harmonischen Oszillators, dessen Potential das lineare hookesche Gesetz zu Grunde liegt, um eine kubische Rückstellkraft betrachtet werden.
+Sein Verhalten wird durch folgende Differentialgleichung mit den zeitlichen Ableitungen von x beschrieben:
+
+formula_2 ist die Dämpfung, formula_3 sind die Amplitude und Frequenz der Anregung, formula_4 sind systemspezifische Parameter, welche die nichtlineare, rücktreibende Kraft charakterisieren.
+
+Die Zustandsraumdarstellung des homogenen Duffing-Oszillators formula_5 ist
+
+Für den stationären Fall gilt
+
+und damit
+
+Die Gleichung liefert für formula_10 drei stationäre Lösungen
+
+Diese sind nur dann reell, wenn formula_12 ist. Zur Beurteilung, welche dieser stationären Lösungen stabil sind, wird das Differentialgleichungssystem um diese Punkte linearisiert. Die Jacobi-Matrix des Systems 
+
+hat für formula_14 die Eigenwerte
+
+und für formula_16 die Eigenwerte
+
+Die Bedingung formula_12 liefert zwei Fälle.
+
+Fall 1: formula_19 und formula_20
+
+Fall 2: formula_23 und formula_24
+
+Die Differenzialgleichung 
+
+mit formula_28 beschreibt den stabilen Duffing-Oszillator.
+
+
+

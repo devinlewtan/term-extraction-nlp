@@ -1,0 +1,27 @@
+﻿Protonenemission
+
+Die Protonenemission (, auch "Protonenumwandlung, Protonenaktivität, Protonenradioaktivität" oder "Protonenzerfall" genannt) ist ein sehr seltenes Phänomen aus der Kernphysik, bei dem sich ein Atomkern unter Emission eines einzelnen Protons in das Element mit der nächst niederen Ordnungszahl umwandelt. Die Protonenemission darf nicht mit dem Protonenzerfall, nämlich dem hypothetischen Zerfall des Protons, verwechselt werden.
+
+Eine Protonenemission wurde erstmals 1970 von K. Jackson an dem Nuklid Co-53m beobachtet. Dieses zerfiel unter Abspaltung eines Protons direkt zu Fe-52 statt, wie zu erwarten, durch β-Zerfall zu Fe-53. Es unterliegt somit einem dualen Kernzerfall mit den Wahrscheinlichkeiten 1,5 % (Protonenemission) und 98,5 % (β-Zerfall) für die jeweiligen Zerfälle.
+
+Im Jahre 1981 wurde von S. Hofmann eine weitere Protonenemission an dem Nuklid Lu-151, das im UNILAC in Darmstadt hergestellt wurde, beobachtet.
+
+In den darauf folgenden Jahren schlossen sich weitere Beobachtungen an: Die Nuklide Tm-147, Tm-147m und Lu-150, sowie Cs-113 und I-109 wurden als Protonen-Emitter identifiziert, wobei ihre Hauptzerfallsart der β-Zerfall bleibt. Mittlerweile wurden 95 solcher Protonen-Emitter entdeckt.
+
+Eine Protonenemission tritt nur bei Nukliden auf, die ein sehr hohes Protonen-Neutronen-Verhältnis haben. Aufgrund dieses großen Verhältnisses können die Protonen nur noch sehr schlecht gebunden werden, die Bindungsenergie der Protonen sinkt sogar so stark ab, dass diese den Kern verlassen können. Solche „protonenreichen“ Kerne entledigen sich ihres „positiven Überschusses“ zwar meist durch einen β-Zerfall, also der Aussendung eines Positrons, doch in seltenen Fällen kann auch stattdessen ein Proton abgespalten werden.
+
+In dem folgenden Reaktionsschema wird der Zerfall des bereits oben genannten Nuklids Co-53m veranschaulicht:
+In fast allen Fällen wird sich das Nuklid durch den β-Zerfall umwandeln, doch mit einer geringen Wahrscheinlichkeit wird eine Protonenemission stattfinden.
+
+In diesem Fall handelt es sich bei dem Ausgangsnuklid um ein Nuklid im metastabilen Zustand, ein Kernisomer. Normalerweise zerfallen solche Kerne über einen Isomerieübergang; bei Co-53m ist dieser aber durch eine hohe Drehimpuls<nowiki>barriere</nowiki> (Kernspin 19/2) unterdrückt und wurde noch nicht beobachtet.
+
+Bei den meisten Nukliden jedoch tritt die Protonenemission aus dem Grundzustand heraus auf, wie bei dem bereits oben genannten Nuklid Lu-151.
+
+Noch viel seltener ist das Auftreten eines Zwei-Protonen-Zerfalls, das erstmals von Witali Iossifowitsch Goldanski 1960 und später von B. Alex Brown in Erwägung gezogen wurde. Hierbei werden nicht nur ein, sondern gleich zwei Protonen gleichzeitig ausgestoßen. Das geschieht nur bei Nukliden, bei denen das Protonen-zu-Neutronen-Verhältnis sogar noch größer ist als bei Ein-Proton-Emittern. Beobachtet wurde ein solcher Zerfall erstmals 2002, wiederum im UNILAC, am Nuklid Fe-45.
+
+und gleichzeitig am GANIL (Bertram Blank und andere).
+
+Bis heute sind 13 Zwei-Protonen-Emitter bekannt.
+
+
+

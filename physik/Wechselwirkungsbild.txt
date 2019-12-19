@@ -1,0 +1,43 @@
+﻿Wechselwirkungsbild
+
+Das Wechselwirkungsbild (auch bezeichnet als Wechselwirkungsdarstellung bzw. nach Paul Dirac als Dirac-Bild oder Dirac-Darstellung) ist in der Quantenmechanik ein Modell für den Umgang mit zeitabhängigen Problemen unter Berücksichtigung von Wechselwirkungen.
+
+Es ist dem Heisenberg- und dem Schrödinger-Bild weitgehend äquivalent, d. h. alle physikalisch relevanten Größen (Skalarprodukte, Eigenwerte usw.) bleiben die gleichen (siehe auch Mathematische Struktur der Quantenmechanik). 
+
+Zur Kennzeichnung, dass man das Wechselwirkungsbild verwendet, werden Zustände und Operatoren gelegentlich mit dem Index „I“ (wie engl. "interaction") oder „D“ (wie "Dirac-Bild") versehen: formula_1 bzw. formula_2
+
+Das Wechselwirkungsbild wurde 1926 von Paul Dirac in die Quantenmechanik eingeführt. In Zusammenhang mit Quantenelektrodynamik wurde das Wechselwirkungsbild auch von Tomonaga, Dirac und (in einer unveröffentlichten Arbeit als Student am City College of New York) von Julian Schwinger (1934) eingeführt. Die Behandlung der relativistischen Quantenfeldtheorie im Wechselwirkungsbild mit Zweiter Quantisierung fand danach Eingang in die Standardlehrbücher.
+
+Im Wechselwirkungsbild gelten folgende Annahmen:
+
+Der Grundgedanke des Wechselwirkungsbildes besteht darin, die zeitliche Entwicklung des Systems, die von formula_8 verursacht wird, in die zeitliche Abhängigkeit der Operatoren zu stecken, während die von formula_5 verursachte Zeitabhängigkeit in die Entwicklung des Zustandes eingeht.
+
+Dazu werden zwei Zeitentwicklungsoperatoren definiert:
+
+
+Der Erwartungswert "a" des Operators formula_15 muss in allen drei Bildern (Heisenberg-Bild: Index formula_16, Schrödinger-Bild: Index formula_17, Dirac) gleich sein:
+
+Der zeitabhängige Operator formula_20 ist wie im Heisenberg-Bild gegeben durch:
+
+Der zeitabhängige Zustand formula_1 kann nur indirekt – über die Reduktion des (im Schrödinger-Bild) vollständig die Dynamik beschreibenden Zustandes formula_23 um den von formula_8 verursachten Anteil seiner Zeitentwicklung – definiert werden:
+
+Damit lässt sich der Operator formula_26 definieren:
+
+Der zeitlich unabhängige Anteil des Hamiltonoperators formula_8 ist im Wechselwirkungsbild identisch mit dem im Schrödinger-Bild:
+
+Die Dynamik der Zustände wird (ähnlich dem Schrödinger-Bild) beschrieben durch die Gleichung:
+
+Die Dynamik der Operatoren wird (wie im Heisenberg-Bild) beschrieben durch die Heisenbergsche Bewegungsgleichung, mit dem nicht zeitabhängigen Hamilton-Operator formula_8, der das ungestörte System beschreibt:
+
+Mit formula_33 geht das Dirac-Bild in das Heisenberg-Bild über.
+
+Zum Zeitpunkt formula_34 stimmen alle drei Bilder überein:
+
+Zur Vorbereitung werden die zeitlichen Ableitungen von formula_37 und formula_38 ermittelt:
+
+Bewegungsgleichung für die Zustände:
+
+Bewegungsgleichung für die Operatoren:
+
+
+

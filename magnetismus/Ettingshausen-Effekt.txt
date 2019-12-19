@@ -1,0 +1,13 @@
+﻿Ettingshausen-Effekt
+
+Der Ettingshausen-Effekt, benannt nach Albert von Ettingshausen, beschreibt das Auftreten einer Temperaturdifferenz in einem stromdurchflossenen Leiter, der sich in einem stationären Magnetfeld befindet. Er gehört zu den galvanomagnetischen Effekten.
+Wenn in eine Richtung "(y)" ein Strom "I" mit der Stromdichte "j" fließt und senkrecht dazu "(z)" ein Magnetfeld der Flussdichte "B" einwirkt, entsteht senkrecht zu beiden ein Temperaturgradient 
+"P" ist hierbei der "Ettingshausen-Koeffizient", der die Einheit K·m/(A·T) = K·m/(J/m) = K·m/J hat.
+
+Ursache des Effekts ist die Lorentzkraft, die die beweglichen Ladungsträger (Elektronen) vermehrt auf eine Seite des Leiters treibt (Hall-Effekt). Langsame Elektronen werden dabei stärker abgelenkt als schnelle. Da sie geringere Energie haben als schnelle, ist die Seite, zu der sie hingelenkt werden, kühler als die andere. Der Effekt tritt vor allem bei Metallen wie Bismut auf, die schlechte Stromleiter (hohe Erwärmung) und schlechte Wärmeleiter (langsamer Ausgleich der Temperaturdifferenz) sind. 
+
+Der Ettingshausen-Effekt kann Messungen des Hall-Effekts verfälschen, weil durch die Temperaturdifferenz thermoelektrische Phänomene auftreten können. Da der Wärmetransport aber ein langsamer Prozess ist, kann man diese Fehlerquelle eliminieren, indem man den Hall-Effekt mit Wechselstrom misst. 
+
+Die Umkehrung des Ettingshausen-Effekts ist der thermomagnetische Nernst-Effekt, der auch als "erster Ettingshausen-Nernst-Effekt" bezeichnet wird. 
+
+

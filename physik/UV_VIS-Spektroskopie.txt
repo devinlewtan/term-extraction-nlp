@@ -1,0 +1,36 @@
+﻿UV/VIS-Spektroskopie
+
+Die UV/VIS-Spektroskopie ist ein zur optischen Molekülspektroskopie gehörendes spektroskopisches Verfahren, das elektromagnetische Wellen des ultravioletten (UV) und des sichtbaren (, VIS) Lichts nutzt. Die Methode ist auch unter UV/VIS-Spektralphotometrie oder als Elektronenabsorptionsspektroskopie bekannt. Im Alltag werden die verwendeten Geräte häufig ungenau als Photometer bezeichnet.
+
+Lichtabsorption im Bereich der sichtbaren und ultravioletten Strahlung wird durch Elektronenübergänge zwischen verschiedenen Zuständen im Molekül verursacht. Bei diesen Übergängen werden Valenzelektronen (beispielsweise die der p- und d-Orbitalen der äußeren Schalen) angeregt, das heißt, in ein höheres Energieniveau angehoben.
+
+Um ein Elektron beispielsweise von einem besetzten (HOMO) auf ein unbesetztes, höheres Orbital (LUMO) anzuheben, muss die Energie des absorbierten Photons genau der Energiedifferenz zwischen den beiden Energieniveaus entsprechen. Über den Zusammenhang
+
+kann die Wellenlänge des absorbierten Lichts für die aufzuwendende Energie berechnet werden, wobei formula_2 die Energie, formula_3 das plancksche Wirkungsquantum, formula_4 die Lichtgeschwindigkeit, formula_5 die Frequenz und formula_6 die Wellenlänge der elektromagnetischen Welle sind. Dieser Zusammenhang wird manchmal auch als Einstein-Bohr-Gleichung bezeichnet.
+Näherungsweise lässt sich dieser Zusammenhang in Form einer zugeschnittenen Größengleichung vereinfacht darstellen:
+
+Stoffe, die nur im UV-Bereich (formula_8 < 400 nm) absorbieren, erscheinen dem menschlichen Auge farblos. Einen Stoff nennt man dann farbig, wenn er Strahlung im Bereich des sichtbaren Spektrums absorbiert. Dies ist sowohl bei Verbindungen zu erwarten, die über niedrige Anregungsenergien verfügen (π-zu-π-Übergänge, konjugierten π-Elektronensystemen wie beispielsweise bei den Polyenen), als auch bei anorganischen Ionenkomplexen mit unvollständig aufgefüllten Elektronenniveaus (Beispiel: Cu-Verbindungen (meist bläulich - grünlich) gegenüber farblosen Cu-Verbindungen). Ebenfalls erscheinen Verbindungen farbig, wenn stark polarisierende Wechselwirkungen zwischen benachbarten Teilchen bestehen, wie es z. B. beim gelben AgI der Fall ist. Bei nur einem Absorptionsgebiet nimmt das Auge die zur absorbierten Strahlung komplementäre Farbe wahr.
+
+Grundsätzlich wertet man überwiegend Erscheinungen der Strahlungsabsorption im Rahmen der UV/VIS-Spektroskopie aus. Im Grundaufbau strahlt eine Lichtquelle elektromagnetische Strahlung aus, die über einen Strahlengang mit Spiegeln und weiteren Bauelementen (Details weiter unten) durch die Probe / den Analyten geleitet wird und dann auf einen Detektor trifft. Durch Anregung von Elektronen in der Probe ist die Intensität der Strahlung gegenüber dem originalen Primärstrahl in entsprechenden Bereichen geschwächt. Diese Differenz in der Strahlungsintensität wird gegen die jeweilige Wellenlänge, bei der gemessen wurde, aufgetragen und als Spektrum ausgegeben.
+
+Die Lichtquelle strahlt ultraviolettes, sichtbares und nahinfrarotes Licht im Wellenlängenbereich von etwa 200 nm bis 1100 nm aus. Im Monochromator wird zunächst die zur Messung ausgewählte Wellenlänge selektiert, worauf der Lichtstrahl auf den Sektorspiegel fällt. Der Sektorspiegel lässt das Licht abwechselnd durch die Messlösung und durch die Vergleichslösung fallen. Beide Lösungen befinden sich in sogenannten Küvetten. Die zwei Lichtstrahlen werden im Detektor empfangen und die Intensitäten im Verstärker verglichen. Der Verstärker passt dann die Intensität des Lichtstrahls aus der Vergleichslösung durch Einfahren der Kammblende der Intensität des Lichtstrahls aus der Messlösung an. Diese Bewegung wird auf einen Schreiber übertragen oder die Messwerte an eine Datenverarbeitung weitergegeben.
+
+Zunehmend werden küvettenfreie UV/VIS-Spektrometer zur Konzentrationsbestimmung kleiner Probevolumina (unter 2 Mikroliter) von Proben höherer Konzentrationen eingesetzt. Sogenannte Nanophotometer arbeiten mit Schichtdicken in Bereichen von 0,04 mm bis 2 mm. Sie benötigen keine Küvetten, keine Verdünnungen und können Proben mit einem Volumen von nur 0,3 µl analysieren (bei kleinster Schichtdicke), besitzen jedoch aufgrund der geringen Schichtdicke eine höhere Nachweisgrenze. Eine bewährte Technik basiert auf einer Kompression der Probe, welche somit unabhängig von der Oberflächenspannung und Verdunstung der Probe ist. Diese Methode findet Verwendung bei der Analyse von Nukleinsäuren (DNA, RNA, Oligonucleotide) und Proteinen (UV-Absorption bei 280 nm). Nach dem Lambert-Beer’schen Gesetz besteht ein Zusammenhang zwischen Absorption und Schichtdicke. Die Absorptionswerte bei den verschiedenen Schichtdicken (0,04 mm bis 2 mm) können somit berechnet werden. Geringe Schichtdicken wirken wie eine virtuelle Verdünnung der Probe, können jedoch nur bei entsprechend höheren Konzentrationen eingesetzt werden. Oftmals kann daher auf eine manuelle Verdünnung der Probe ganz verzichtet werden.
+
+Eine weitere Technologie ist die Diodenarray-Technologie. Die Probe in der Küvette wird mit einem Lichtstrahl bestrahlt, bestehend aus dem kontinuierlichen Wellenlängenbereich der Lichtquelle (z. B. Xenonblitzlichtlampe, 190 nm bis 1100 nm). Die Probe absorbiert bei einer Messung unterschiedliche Wellenlängen der Lichtquelle. Nicht absorbiertes Licht gelangt durch den Eintrittsspalt und wird an einem Beugungsgitter nach seiner Wellenlänge aufgespalten. Das Spektrum wird mithilfe eines CCD-Sensors detektiert und anschließend ausgewertet. Bei nicht automatisierten Geräten muss die Referenzprobe zusätzlich gemessen werden. Vorteile der Technologie sind kurze Messzeiten, da das gesamte UV/VIS Spektrum mit einer Messung aufgenommen werden kann, ein niedriger Wartungsaufwand, da keine beweglichen Bauteile im Spektrometer vorhanden sind und dass die Geräte kompakt konstruiert werden können.
+
+Nützlich sind die π-zu-π-Übergänge bei ungesättigten Kohlenwasserstoffen (beispielsweise Alkenen).
+Sie erfolgen über längerwelliges UV-Licht und sind einfach zu messen.
+Man erhält Informationen über die absorbierende Wellenlänge des Moleküls, die Struktur und Farbe. Dabei erfolgt die Lichtabsorption im umso längerwelligen Bereich, je größer die Anzahl der konjugierten Doppelbindungen ist. Liegt die Energie der π-zu-π-Übergänge im Bereich des sichtbaren Lichts, so erscheint das Molekül farbig. Dabei nimmt es immer die Komplementärfarbe des absorbierten Lichts an.
+
+Bei den betrachteten Elektronenübergängen sind stets die folgenden Auswahlregeln zu beachten (u. a. Laporte-Regel):
+
+
+Bei dem Laporte-Verbot müssen nach der Ligandenfeldtheorie zwei Abfragen getätigt werden.
+Bsp.:
+
+Achtung: Verboten heißt nicht, dass diese Übergänge nicht vorkommen! Die schwache Farbe von Komplexen entsteht durch Schwingungen der Liganden relativ zum Metallzentrum. Dadurch wird die beim Laporte-Verbot wichtige Inversionssymmetrie kurzzeitig aufgehoben und ein Übergang kann stattfinden.
+
+
+
+

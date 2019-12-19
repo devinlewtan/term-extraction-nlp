@@ -1,0 +1,30 @@
+﻿COMSOL Multiphysics
+
+COMSOL Multiphysics, vormals FEMLAB, ist eine Software zur Simulation physikalischer Vorgänge, die mittels Differentialgleichungen beschrieben werden können.
+
+Vertrieben wird das Programm heute durch direkte Niederlassungen (zum Beispiel COMSOL Multiphysics GmbH) und durch ein weltweites Netz von Distributoren (z. B. Humusoft (Prag), Addlink (Madrid), Pitotech (Taipeh)…).
+
+Im November 2005 fand die erste FEMLAB-Konferenz (heute: COMSOL-Konferenz) statt, die sich zum Ziel gesetzt hat, Interessenten aus Forschung, Lehre und Entwicklung eine gemeinsame Plattform zu bieten.
+
+Das Programm basiert auf der sogenannten Finite-Elemente-Methode (FEM) und wird in Forschung, Lehre und Entwicklung eingesetzt. Neben einfachen FEM-Berechnungen ist eine Kopplung von verschiedenen physikalischen Problemen (Multiphysik) auf einfache Art und Weise möglich. Dabei ist ein iteratives Hin- und Herschalten zwischen verschiedenen Anwendungen nicht nötig, gekoppelte Gleichungssysteme können simultan gelöst werden.
+
+Die Simulationssoftware ist modular aufgebaut. Neben dem Basispaket „COMSOL Multiphysics“ werden folgende optionale Pakete angeboten:
+
+Bereich Elektromagnetik
+Bereich Mechanik und Akustik
+
+Strömungsmechanik und Wärmetransport
+
+Bereich Chemie und Verfahrenstechnik
+Multifunktional
+Programmschnittstellen
+
+Die vorherigen Versionen von COMSOL Multiphysics wurden FEMLAB (FEM-laboratory) genannt. FEMLAB entstand aus einer Toolbox für Matlab, der Partial Differential Equation (PDE) Toolbox. Die Eingabe eigener partieller Differentialgleichungen ist Bestandteil des Basispakets.
+
+COMSOL Multiphysics bietet eine bidirektionale Schnittstelle zu MATLAB und Simulink, welche eine Skriptsteuerung von COMSOL Multiphysics über die MATLAB-Skriptsprache ermöglicht (Erweiterung um ca. 650 neue Funktionen).
+
+Weitere Schnittstellen:
+
+
+
+

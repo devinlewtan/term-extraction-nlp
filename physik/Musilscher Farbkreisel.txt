@@ -1,0 +1,11 @@
+﻿Musilscher Farbkreisel
+
+Der Musilsche Farb- oder Variationskreisel ist ein einfaches Instrument zur kontinuierlichen, stufenlosen Erzeugung von Mischfarben durch Additive Farbmischung mit Hilfe einer rotierenden, zweifarbigen Kreisfläche. Er wurde 1906 vom österreichischen Schriftsteller und Ingenieur Robert Musil für physikalische und wahrnehmungspsychologische Experimente entwickelt.
+Zwei aufeinanderliegende Kreisblätter gleicher Größe und unterschiedlicher Farbe werden radial angeschnitten, über die Schnittlinie ineinander verzahnt und leicht gegeneinander verdreht. In der Aufsicht stellt sich dies als eine aus einem großen Kreissegment (mit der Farbe des oberen Kreisblattes) und einem kleinen Kreissegment (mit der Farbe des unteren Kreisblattes) bestehende Kreisfläche dar. Durch weitere Drehung der Kreisblätter gegeneinander lässt sich das Größenverhältnis der beiden Segmente beliebig verändern. 
+Versetzt man die Kreisfläche nun in Rotationsbewegung um den Kreismittelpunkt, so entsteht für das menschliche Auge – eine ausreichend hohe Rotationsgeschwindigkeit vorausgesetzt – der Eindruck, die gesamte Kreisfläche besitze eine einzige, aus den Farben der Segmente zusammengesetzte Mischfarbe.
+
+Beim Musilschen Farbkreisel wird die rotierende Kreisfläche über eine Welle kontinuierlich angetrieben. Das Verhältnis der Größe der beiden Kreissegmente – und somit der Farbton der Mischfarbe – kann während des Betriebes stufenlos eingestellt werden.
+
+
+
+

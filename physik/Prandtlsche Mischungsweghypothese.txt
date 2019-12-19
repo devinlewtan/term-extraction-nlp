@@ -1,0 +1,16 @@
+﻿Prandtlsche Mischungsweghypothese
+
+Die Prandtlschen Mischungsweghypothese gehört zu den wichtigsten Schließungsansätzen im Zusammenhang der Turbulenzmodelle, um die zusätzlichen Unbekannten, die in den Reynolds-Gleichungen auftreten, zu berechnen.
+
+In der Strömungsmechanik lässt sich nach der Prandtlschen Mischungsweghypothese die Wirbelzähigkeit als Produkt einer charakteristischen Geschwindigkeit und einer charakteristischen Länge, der sog. Mischungsweglänge, darstellen. Sie wurde 1925 von Ludwig Prandtl aufgestellt. Die Mischungsweglänge kann dabei maximal so lang sein wie zum Beispiel die Dicke der Scherschicht. Sie wird auch als Kohärenzlänge bezeichnet, da man sie auch als Weg deuten kann, den ein Turbulenzballen durchschnittlich zurücklegt, bevor er seine Individualität einbüßt.
+
+Die Mischungsweglänge lässt sich darstellen als:
+
+Auf diese Weise erhält man die 1. Prandtlsche Mischungswegformel für die turbulente Schubspannung formula_2:
+
+Geht man davon aus, dass die Mischungsweglänge konstant ist, so ändert sich die Reynoldsspannung proportional zum Quadrat der gemittelten Strömungsgeschwindigkeit.
+
+Man erhält schließlich für die Wirbelzähigkeit:
+
+
+

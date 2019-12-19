@@ -1,0 +1,13 @@
+﻿Lambda-CDM-Modell
+
+Das ΛCDM-Modell bzw. Lambda-CDM-Modell ist ein kosmologisches Modell, das mit wenigen – in der Grundform sechs – Parametern die Entwicklung des Universums seit dem Urknall beschreibt. Da es das einfachste Modell ist, das in guter Übereinstimmung mit kosmologischen Messungen ist, wird es auch als Standardmodell der Kosmologie bezeichnet.
+
+Der griechische Buchstabe Lambda (Λ) steht dabei für die kosmologische Konstante, "CDM" für "cold dark matter" (kalte dunkle Materie).
+
+Das Lambda-CDM-Modell ist in guter Übereinstimmung mit den drei wichtigsten Klassen von Beobachtungen, die uns Aufschluss über das frühe Universum geben:
+
+Das Universum wird dabei als global flach (ungekrümmt) angenommen, die Energieanteile relativ zur kritischen Dichte sind dann auch relativ zur tatsächlichen Gesamtenergiedichte und der relative Anteil der dunklen Energie ergibt sich zu (69,1 ± 0,6) %. Die heutige Gesamtenergiedichte ist 8,62 · 10 kg/m, die Rotverschiebung "z", die dem Zeitalter der Reionisierung entspricht, beträgt 11,37. Das Alter des Universums wird zu 13,8242 Mrd. Jahren bestimmt.
+
+
+
+

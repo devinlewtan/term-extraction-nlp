@@ -1,0 +1,8 @@
+﻿Diffusionsanisotropie
+
+Die Diffusionsanisotropie ist die einachsige magnetische Anisotropie in ferro- und ferrimagnetischen Kristallen. 
+
+Bei geeigneter Temperatur bildet sich durch Diffusion eine magnetisch induzierte Nahordnung, indem sich z. B. im Mischkristall Paare aus gleichen Atomen bevorzugt in einer Richtung anordnen. Diese anisotrope Atomverteilung nennt man Richtungsordnung. Sie ist die Ursache der Diffusionsanisotropie.
+
+
+

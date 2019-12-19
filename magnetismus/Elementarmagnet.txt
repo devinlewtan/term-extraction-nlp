@@ -1,0 +1,13 @@
+﻿Elementarmagnet
+
+Als Elementarmagnet wird in einem magnetisierbaren Material die Einheit bezeichnet, die einen magnetischen Dipol feststehender Größe, aber variabler Richtung besitzt. Sind alle Richtungen gleich häufig, so heben sich die Magnetfelder aller Elementarmagnete insgesamt auf und der Körper erscheint unmagnetisch. Sind die Elementarmagnete dagegen bevorzugt längs einer Richtung ausgerichtet, so bildet die Summe ihrer Magnetfelder ein außen messbares Magnetfeld und der Körper ist magnetisiert.
+
+
+Bei paramagnetischen und diamagnetischen Materialien ist die Ausrichtung proportional zum äußeren magnetischen Feld und verschwindet, sobald dieses abgeschaltet wird. Die Stärke der durch die Ausrichtung erzeugten Magnetisierung wird durch die Magnetische Suszeptibilität beschrieben.
+
+Die stärksten Elementarmagnete werden durch solche Atomhüllen gebildet, die einen bestimmten, von Null verschiedenen Drehimpuls und damit ein magnetisches Moment besitzen. Etwa 1000fach schwächer wirken die Atomkerne, wenn sie einen Kernspin haben. In metallischen Festkörpern sind wegen des Elektronenspins auch die Leitungselektronen als Elementarmagneten zu betrachten, die sich wegen des Pauli-Prinzips aber nur sehr schwach ausrichten lassen. In vielen Festkörpern existieren keine bemerkbaren Elementarmagnete.
+
+Das Verständnis des Verhaltens von Elementarmagneten spielt vor allem für die Datenspeicherung eine große Rolle: Festplatten speichern Daten in Form von verschieden ausgerichteten ferromagnetischen Domänen. Um die Speicherkapazität bei fortschreitender Miniaturisierung weiter zu erhöhen, ist es nötig, die Größe dieser Domänen auf immer weniger Elementarmagnete zu reduzieren.
+
+
+

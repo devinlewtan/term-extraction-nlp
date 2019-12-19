@@ -1,0 +1,82 @@
+﻿Permeabilität (Geowissenschaften)
+
+Die Permeabilität formula_1 (lat.: "permeare" „durchlassen“, von lat.: "per" „hindurch“, und lat.: "meare" „passieren“) wird in der Geotechnik zur Quantifizierung der Durchlässigkeit von Böden und Fels für Flüssigkeiten oder Gase (z. B. Grundwasser, Erdöl oder Erdgas) benutzt. Mit ihr sehr eng verbunden ist der hier gleichzeitig erläuterte Durchlässigkeitsbeiwert formula_2.
+
+Die Permeabilität ist aus dem Darcyschen Gesetz abgeleitet und definiert als:
+
+Hierbei bedeuten:
+
+Die Permeabilität hängt nur von den Eigenschaften des "durchströmten" Mediums ab (Materialkennwert), denn das Produkt aus Fließrate formula_5 und Viskosität formula_6 bleibt konstant:
+
+Da die Permeabilität nicht von der Dichte beeinflusst wird, die bei Gasen vom Druck abhängt, ist sie gut für Gase geeignet und wird daher häufig in der Erdgas- und Erdölwirtschaft benutzt. Die dynamische Viskosität ist im Bereich der Gültigkeit des Gasgesetzes vom Druck unabhängig, eine Temperaturabhängigkeit ist immer gegeben.
+
+Als SI-Einheit für die Permeabilität ergibt sich m². Eine weitere gebräuchliche Maßeinheit ist das Darcy, benannt nach dem französischen Wissenschaftler Henry Darcy (1803–1858), der 1856 das Fließen von Wasser durch Kiesbettungen untersucht hat:
+
+Da 1 Darcy eine relativ hohe Permeabilität ist, werden in der Geotechnik und im Bergbau oft das Millidarcy (mD) oder die SI-Einheit (µm)² verwendet.
+
+Auch der Durchlässigkeitsbeiwert (bzw. die hydraulische Leitfähigkeit) quantifiziert die Durchlässigkeit von Boden oder Fels, jedoch gehen hier zusätzlich die Dichte und die Viskosität des durchströmenden Fluids ein:
+
+Hierbei bedeuten:
+
+Der Durchlässigkeitsbeiwert wird meist für strömende Flüssigkeiten (Wasser) verwendet, also in den Bereichen Wasserwirtschaft und Wasserbau. Da bei (inkompressiblen) Flüssigkeiten formula_19 vorausgesetzt werden kann, lässt sich der Durchlässigkeitsbeiwert auch vereinfacht schreiben als:
+
+mit der Höhendifferenz formula_21 über die die Strömung erfolgt.
+
+Sofern nicht anders angegeben, beziehen sich die in der Literatur angegebenen Werte für formula_2 üblicherweise auf Wasser. Ist der Durchlässigkeitsbeiwert für ein mit Wasser durchströmtes Medium bekannt, dann lässt sich die Durchlässigkeit dieses Mediums für andere Stoffe berechnen (s. u. "Bestimmung der Permeabilität").
+
+Die Grenze zwischen einem durchlässigen und einem undurchlässigen Boden liegt etwa bei 10 m/s.
+
+Die Durchlässigkeit von Böden hängt in erster Linie von ihrer Porosität ab, die von Fels von seiner Porosität und/oder seiner Klüftigkeit. Die Porosität von Böden wiederum hängt ab von den Korngrößen, ihrer Verteilung und damit vom Porenvolumen des Bodens.
+
+Durchlässigkeit und Durchlässigkeitsbeiwert quantifizieren in ähnlicher Weise die Fließrate formula_5 durch ein durchlässiges Medium in Abhängigkeit von der Druckdifferenz formula_9, unterschiedlich sind nur ihre Einheiten:
+Beide Größen können richtungsabhängig sein und werden dann als Tensoren dargestellt.
+
+Außerdem sind beide Größen konstant über die Fließrate formula_5, sofern die folgenden Bedingungen erfüllt sind:
+
+In gesteinsphysikalischen Laboratorien wird die Permeabilität routinemäßig an zylindrischen Proben mit einem Durchmesser von 30 mm und einer Länge von 40 bis 80 mm bestimmt; in den USA sind für Routinemessungen Proben von 1 Zoll ×  Zoll gebräuchlich. Für Untersuchungen, bei denen es auf ein großes Porenvolumen ankommt (beispielsweise relative Permeabilität), sind auch Probendurchmesser von 40 mm üblich. Die Orientierung der Proben ist standardmäßig parallel zur Schichtung.
+
+Ein Sonderfall ist die Bestimmung der Permeabilitätsanisotropie an Würfeln von 30 oder 40 mm Kantenlänge. Diese sind so aus dem Kernmaterial herauszuarbeiten, dass zwei Flächen parallel zur Schichtung orientiert sind und somit Daten parallel und senkrecht zur Schichtung an einer Probe bestimmt werden können.
+
+Mit der skizzierten Messanordnung wird formula_2 für Wasser bestimmt:
+
+formula_1 lässt sich dann über die dynamische Viskosität formula_6 des Wassers und seine Dichte formula_16 berechnen:
+
+Ist der Durchlässigkeitsbeiwert formula_2 für das mit Wasser durchströmte Medium experimentell bestimmt, so kann man aus der eben genannten Beziehung den Durchlässigkeitsbeiwert "dieses" Mediums für andere Fluide, z. B. für Erdöl, durch Einsetzen von deren Dichte und dynamischer Viskosität berechnen:
+
+oder unter Verwendung der kinematischen Viskosität formula_34:
+
+Für Böden besteht die Möglichkeit, den Durchlässigkeitsbeiwert formula_2 für Wasser in m/s aus der Kornverteilungskurve abzuschätzen "(Hazen, 1893)":
+
+Hierbei bedeuten:
+
+Diese Abschätzung gilt nur unter der Voraussetzung, dass der Ungleichförmigkeitsgrad formula_41 ist (gleichförmiger Boden).
+
+Nach Beyer ist
+
+formula_43 ist ein Beiwert, der vom Ungleichförmigkeitsgrad abhängt: formula_44 Für bestimmte formula_45 ist formula_46, so dass die Formel mit der von Hazen übereinstimmt.
+
+Angewendet werden diese Materialparameter dann, wenn Böden oder Fels von Flüssigkeiten oder Gasen durchströmt werden: Grundwasser­strömungen, Trinkwassergewinnung, Gewinnung von Erdöl oder Erdgas, Berechnungen des Wasserandrangs an Bauwerken und Tunneln, Ermittlung der Dichtigkeit von Dämmen und Deichen, auch bei kontaminierten Böden und der Verpressung von Kohlendioxid.
+
+Für die Wirtschaftlichkeit der Förderung von Erdöl und Erdgas ist die Produktionsrate eine wichtige Einflussgröße. Sie hängt u. a. von der Permeabilität der geologischen Formationen ab, aus denen diese Rohstoffe gefördert werden. Da jedoch auch der Weltmarktpreis mit über die Wirtschaftlichkeit entscheidet, lassen sich hier keine dauerhaft gültigen Grenzwerte angeben.
+
+Für die Planung von Injektionen zur Abdichtung und/oder zur Verbesserung der mechanischen Eigenschaften von Lockergesteinen ist die Kenntnis über die hydraulischen Eigenschaften bedeutend.
+
+Die Transmissibilität formula_47 ist definiert als Produkt aus Permeabilität formula_1 und der Mächtigkeit formula_49 der Wasser führenden Boden- oder Gesteinsschicht (Aquifer):
+
+Analog dazu wird die Transmissivität formula_51 definiert als Produkt aus Durchlässigkeitsbeiwert formula_2 und Mächtigkeit:
+
+Besteht der Aquifer aus i Schichten mit unterschiedlichen Durchlässigkeiten und Mächtigkeiten, dann werden die jeweiligen Produkte addiert:
+
+Aus letzter Formel wird der Zweck der beiden Größen deutlich: sie stellen die Integrale der jeweiligen Durchlässigkeitswerte (formula_1 oder formula_2) über die Aquifer-Mächtigkeit dar. Dies berücksichtigt, dass die Durchlässigkeit meist nicht über die gesamte Höhe des Aquifers gleich ist: der Aquifer ist inhomogen bezüglich seiner Durchlässigkeit.
+
+Wegen des gemeinsamen Faktors formula_49 besteht zwischen den beiden Größen die gleiche Beziehung wie zwischen formula_2 und formula_1:
+
+Die gebräuchlichere der beiden Größen ist in Anlehnung an die DIN die Transmissivität, da sie für die Gewinnung von Grundwasser als Trinkwasser eine wichtige Rolle spielt.
+
+Die Transmissivität wird meist über einen Pumpversuch ermittelt. Dabei erhält man jedoch nur die Gesamt-Transmissivität und "keine" Angaben über die o. g. Inhomogenitäten bezüglich der Durchlässigkeit des Aquifers.
+
+Anmerkungen:
+
+
+
+

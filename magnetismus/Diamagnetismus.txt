@@ -1,0 +1,30 @@
+﻿Diamagnetismus
+
+Diamagnetismus ist eine der Ausprägungsformen des Magnetismus in Materie. Diamagnetische Materialien entwickeln in einem externen Magnetfeld ein induziertes Magnetfeld in einer Richtung, die dem äußeren Magnetfeld entgegengesetzt ist. Diamagnetische Materialien haben die Tendenz, aus einem inhomogenen Magnetfeld herauszuwandern. Ohne äußeres Magnetfeld haben diamagnetische Materialien kein eigenes Magnetfeld, sie sind nichtmagnetisch.
+
+Der Proportionalitätsfaktor der Feldabschwächung wird durch die relative Permeabilität formula_1 (bzw. die magnetische Suszeptibilität formula_2) bestimmt und ist bei Diamagneten kleiner als 1 (vgl. Paramagnetismus).
+
+In der Physik werden alle Materialien mit negativer magnetischer Suszeptibilität und ohne magnetische Ordnung als diamagnetisch klassifiziert. Die am stärksten diamagnetischen Elemente unter Normalbedingungen sind Bismut und Kohlenstoff.
+
+1778 beobachtete Sebald Justinus Brugmans, dass bestimmte Materialien von Magnetfeldern abgestoßen werden. 1845 erkannte Michael Faraday, dass alle Materialien in der Natur auf äußere Magnetfelder reagieren. Er führte den Begriff des „Diamagnetismus“ auf Vorschlag des Philosophen William Whewell in die Physik ein.
+
+Wenn ein äußeres magnetisches Feld H auf diamagnetische Materialien einwirkt, ändert es die magnetische Ausrichtung der Bestandteile der Atome so, dass ein magnetisches Moment entsteht, welches dem äußeren magnetischen Feld entgegengesetzt ist. Das induzierte Feld B als Summe der magnetischen Momente der Atome des Materials schwächt dieses äußere Feld.
+
+Bei einem inhomogenen Feld ist Arbeit aufzubringen, um einen Diamagneten in Bereiche höherer Feldstärke zu bewegen, da die kompensierenden Effekte verstärkt werden müssen. Von selbst strebt ein diamagnetisches Material in Richtung niedrigerer Feldstärke. Die tatsächlichen Vorgänge lassen sich nur quantenmechanisch erklären: Der Spin jedes Elektrons besitzt ein magnetisches Moment und erzeugt so ein Feld, das jedoch aufgrund des Pauli-Prinzips und der thermischen Bewegungen makroskopisch nicht in Erscheinung tritt. Erst das äußere Feld induziert gleichgerichtete magnetische Dipole.
+
+Aufgrund dieser Überlegungen wird klar, dass jedes Material diamagnetisch ist. Weil die diamagnetischen Effekte jedoch schwächer als der Paramagnetismus und um Größenordnungen schwächer als der Ferromagnetismus sind, treten sie nur bei Materialien in Erscheinung, die weder para- noch ferromagnetisch sind. Man bezeichnet solche Stoffe dann als diamagnetisch.
+
+Diamagnetische Materialien besitzen eine magnetische Suszeptibilität χ kleiner als 0 bzw. dementsprechend eine relative Permeabilität kleiner als 1.
+
+Die Suszeptibilität ist nur in geringem Maße von der Temperatur, häufig jedoch stark vom Aggregatzustand, vom Kristallsystem und von der Richtung des Kristallgitters abhängig. Eine große Anisotropie ist zum Beispiel bei pyrolytisch abgeschiedenem Graphit zu beobachten (siehe sortierbare Tabelle). Verbindungen von paramagnetischen Elementen, wie dem hier angeführten Aluminium, können diamagnetisch sein.
+
+Supraleiter sind perfekte Diamagneten mit der Suszeptibilität −1: sie verdrängen die magnetischen Feldlinien aus ihrem Inneren ("Meißner-Ochsenfeld-Effekt").
+
+Durch den Effekt des Herauswanderns aus einem Magnetfeld ist es möglich, bei genügend starkem Magnetfeld (etwa 15 Tesla im Labor), Wasser und sogar Lebewesen schweben zu lassen. Diesen Effekt nennt man auch diamagnetische Levitation; bekannt wurden vor allem Versuche mit einem schwebenden Frosch, einer Spinne oder einem Holzklotz.
+
+Pyrolytischer Graphit ist orthogonal zur Kristallebene stark diamagnetisch. Mit einem starken Neodym-Magneten kann Graphit in der Schwebe gehalten werden.
+
+
+
+
+

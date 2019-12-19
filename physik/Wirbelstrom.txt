@@ -1,0 +1,35 @@
+﻿Wirbelstrom
+
+Wirbelstrom nennt man einen Strom, der in einem ausgedehnten elektrischen Leiter in einem sich zeitlich ändernden Magnetfeld oder in einem bewegten Leiter in einem zeitlich konstanten, dafür räumlich inhomogenen Magnetfeld induziert wird. Der Name wurde gewählt, weil die Induktionsstromlinien wie Wirbel in sich geschlossen sind.
+
+Wirbelströme erzeugen ihrerseits ein Magnetfeld, das gemäß der Lenzschen Regel der Änderung des Feldes entgegenwirkt. Dadurch wird bei hohen Frequenzen und großen Querschnitten der Strom aus der Mitte des Leiters verdrängt (Skin-Effekt).
+
+Hat der Leiter einen endlichen elektrischen Widerstand, erwärmt er sich. Diesen Wirbelstromverlusten entspricht im Fall des sich zeitlich ändernden Magnetfeldes eine von 90° abweichende Phasenverschiebung zwischen Strom und Spannung in der anregenden Spule bzw. im Fall der Relativbewegung zwischen Feld und Leiter eine bremsende Kraft. Die Kraft skaliert linear, die Verlustleistung quadratisch mit der Frequenz bzw. der Geschwindigkeit, soweit der Skineffekt vernachlässigbar ist. Insbesondere verschwindet die Kraft, wenn die Relativgeschwindigkeit zwischen Feld und Leiter Null wird.
+
+Eine genaue Berechnung der Stromverteilung und der wirkenden Kräfte erfordert das Lösen der Maxwellschen Gleichungen, für anwendungsnahe Geometrien durch numerische Verfahren.
+
+Die Wirbelstromprüfung dient der zerstörungsfreien Materialprüfung und Materialcharakterisierung und beruht auf der Messung der Amplitude und Phase von Wirbelströmen.
+
+Die Schirmwirkung nichtferromagnetischer metallischer Gehäuse gegen magnetische Wechselfelder beruht auf Wirbelströmen im Gehäuse, deren Magnetfeld die auftreffenden Felder teilweise kompensiert. Die Quantität der Schirmwirkung wird mit der Größe Schirmdämpfung erfasst. Sie ist gut, wenn die Wirbelströme wenig durch elektrischen Widerstand gedämpft werden.
+
+Dämpfung der Ströme führt zu einer Phasenverschiebung gegenüber dem erzeugenden Feld. Beim Spaltpolmotor erzeugt eine Kurzschlusswindung um den Spaltpol ein verzögertes Feld quer zum Hauptfeld und mit diesem zusammen ein Drehfeld. Bei mit Wechselstrom betriebenen Schützen und Zugmagneten verhindert eine Kurzschlusswindung um einen Teil des Ankers, dass die Zugkraft periodisch Null wird. Strenggenommen ist der Strom in der Kurzschlusswindung kein Wirbelstrom, da ihm sein Weg durch die Form des Leiters vorgegeben ist.
+
+Ein schnell zunehmendes inhomogenes Magnetfeld stößt geschlossene gute Leiter ab. Das wird zum Magnetumformen und dem Elektromagnetischen Pulsschweißen und beim Gaußgewehr benutzt.
+
+Die bremsende Kraft zwischen einem bewegten geschlossenen Leiter und einem Magnetfeld wird ausgenutzt bei der Wirbelstrombremse von Bahnfahrzeugen, bei Frei-Fall-Türmen, Fahrrad-Ergometern und zur Dämpfung mechanischer Schwingungen beim Rastertunnelmikroskop und in Drehspulmesswerken.
+
+Auch wenn sich das Magnetfeld gegenüber dem Leiter bewegt, entsteht eine Kraft und der Leiter wird ggf. bewegt. Auch hier ist die Kraft proportional zur Differenzgeschwindigkeit. In Asynchronmotoren, die auch als Linearmotor ausgeführt sein können, wird das Dreh- bzw. Wanderfeld elektromagnetisch erzeugt. In mechanischen Tachometern und Drehzahlmessern lenkt ein rotierender Permanentmagnet eine Aluminiumscheibe gegen eine Federkraft aus. Ähnlich arbeiten Wirbelstromabscheider, mit denen z. B. Aludosen oder -folien aus Abfällen abgetrennt werden.
+
+In Ferraris-Stromzählern wirken Wirbelströme sowohl antreibend als auch dämpfend: Ein aus den zu messenden Größen Strom und Spannung gebildetes magnetisches Wanderfeld treibt eine Aluminiumscheibe an, deren Drehung von einem Permanentmagneten stark gedämpft wird.
+
+Induktives Erwärmen von Metall (z. B. in Schmelzöfen, Kochgeschirr auf Induktionskochfeldern, Werkstücke zum induktiven Härten oder Thermischem Aufschrumpfen) nutzt ein magnetisches Wechselfeld. Auch das Getter von Elektronenröhren wird, in einem kleinen Blechnapf, induktiv durch den Glaskolben hindurch erhitzt, um es zu verdampfen. Notwendig ist, dass der zu erwärmende Metallteil zumindest flächig ausgedehnt ist und im zu erhitzenden Bereich ausreichend homogen elektrisch leitfähig ist. 
+
+Oft sind die mit der Erwärmung verbundenen Verluste eine unerwünschte Begleiterscheinung beim Einsatz magnetischer Wechselfelder. Als Maßnahme gegen die Wirbelstromverluste (andere siehe unter Eisenverluste) werden Eisenkerne von Transformatoren und Elektromotoren nicht massiv ausgeführt, sondern „geblecht“. Die Pakete aus meist lackisolierten Elektroblechen werden dabei parallel zu den magnetischen Feldlinien orientiert, sodass die möglichen großen Wirbelstrombahnen unterbrochen sind (siehe Abbildung); lediglich kleinere Wirbelströme in den einzelnen Blechen können sich ausbilden, deren Verlustleistung aber gering ist. Bei hohen Frequenzen werden für Transformatoren und Drosseln Ferrite oder Pulverkerne eingesetzt. 
+
+Leiter für Öl-Transformatoren hoher Leistung werden als Drillleiter (Röbeldraht) ausgeführt, im Querschnitt aufgebaut aus zwei nebeneinander liegenden Stapeln isolierter Flachdrähte (reduziert die Wirbelstromverluste im Kupfer), die laufend umgestapelt, transponiert, also sukzessive verdrillt werden, was die Flexibilität zum Wickeln schafft. Die Magnetwicklungen in Fehlerstrom- und Leitungsschutzschaltern sind mitunter ebenfalls aus Bündeln isolierter Einzelleiter aufgebaut.
+
+Leiter für höherfrequente Wechselströme bestehen zur Vermeidung der Stromverdrängung (Skin-Effekt) aus verflochtenen, isolierten, parallel geschalteten Einzelleitern (HF-Litze).
+
+
+
+

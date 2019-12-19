@@ -1,0 +1,10 @@
+﻿Einheitspol
+
+Der Einheitspol ist eine veraltete Einheit der Polstärke von 1,256637·10 Wb. Dieser Wert wurde im SI-Einheitensystem 2008 festgestellt. Mit der Polstärke (auch "Menge an Magnetismus" oder "magnetische Ladung") wurde ein Begriff analog zur elektrischen Ladung eingeführt, wodurch in der Magnetostatik mit einer Begrifflichkeit wie in der Elektrostatik gearbeitet werden konnte.
+
+Zur Festlegung des Einheitspols wird gedanklich ein magnetischer Pol betrachtet; dieser hat genau dann die Größe des Einheitspols, wenn er von einem gleichartigen Pol im Abstand 1 cm im Vakuum mit der Kraft von 1 dyn abgestoßen wird. Je nach Polarität wird er als "positiver" oder "negativer Einheitspol" bezeichnet. 
+
+Mit Hilfe des Einheitspols wurde die magnetische Feldstärke festgelegt: ein Oersted ist die magnetische Feldstärke, bei der auf einen Einheitspol die Kraft 1 dyn wirkt.
+
+
+

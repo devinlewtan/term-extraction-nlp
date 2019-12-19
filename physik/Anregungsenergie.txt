@@ -1,0 +1,9 @@
+﻿Anregungsenergie
+
+Unter Anregungsenergie versteht man in der Physik den energetischen Abstand eines angeregten Zustands von seinem Grundzustand in einem physikalischen System mit diskreten oder kontinuierlichen Anregungszuständen. Zum Beispiel in einem Atomelektronensystem, Molekül, Atomkern, Potential-Feld oder Festkörper-Elektronen- oder Phononen-System.
+
+In einem quantenmechanischen "kleinen" Vielteilchensystemen wie z. B. der Elektronenhülle eines Atoms oder den Bausteinen des Atomkerns sind nur wenige bestimmte, diskrete Energieniveaus möglich — was auch eine begrenzte Anzahl möglicher Energiesprünge beim Übergang zwischen zwei Niveaus bedingt. Und auch in den quasi-kontinuierlichen Zuständen "großer" Systeme mit Energiebändern gibt es einen Zustand minimaler Energie, beziehungsweise quasi-separierbare Freiheitsgrade der Anregung mit Zuständen jeweils minimaler Energie.
+
+Der Zustand mit der kleinsten Energie heißt Grundzustand. Alle anderen Zustände besitzen gegenüber diesem eine höhere Energie, nämlich die Anregungsenergie. Meist wird die Energie des Grundzustands willkürlich gleich null gesetzt, so dass die Anregungsenergien die Energien bezogen auf den Grundzustand sind.
+
+

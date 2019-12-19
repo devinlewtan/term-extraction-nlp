@@ -1,0 +1,19 @@
+﻿Erste Quantisierung
+
+Die erste Quantisierung, auch kanonische Quantisierung genannt, ist ein "schematisches Vorgehen" zum Aufstellen einer quantenmechanischen Bewegungsgleichung für ein physikalisches System. Sie wurde erstmals – in zwei verschiedenen Formen – 1925 von Werner Heisenberg und 1926 von Erwin Schrödinger vorgestellt, die damit die moderne Quantenmechanik begründeten.
+
+Die erste Quantisierung lässt sich in konkreten Fällen plausibel machen, indem man die Bewegung von Wellenpaketen für den klassischen Grenzfall formula_1 untersucht (formula_2: reduziertes Plancksches Wirkungsquantum).
+
+Die Bezeichnung "erste Quantisierung" ist in ihrem Verhältnis zur "zweiten Quantisierung" begründet. Historisch war sie nicht der erste Versuch der Quantisierung in der modernen Physik (s. Quantisierung (Physik)).
+
+Heisenberg und Schrödinger gehen davon aus, dass zunächst wie in der klassischen Physik die Hamiltonfunktion des Systems aufgestellt wird.
+
+Nach Schrödinger werden dann Energie und Impulse durch Operatoren ersetzt, die auf einem Hilbertraum definiert sind:
+
+Es ergibt sich eine Differentialgleichung für einen zeitveränderlichen Zustandsvektor, in dieser Darstellung eine Wellengleichung für die Wellenfunktion. Die stationären Lösungen der Differentialgleichung, die man für konstante Randbedingungen erhält, haben diskrete Eigenwerte für die Energie und einige weitere mechanische Größen.
+
+Aus der klassischen Hamiltonfunktion formula_4 entsteht so die Schrödinger-Gleichung, aus einer relativistischen Hamiltonfunktion die Klein-Gordon-Gleichung für Bosonen oder die Dirac-Gleichung für Fermionen.
+
+Vielleicht noch weniger anschaulich, mathematisch aber äquivalent, ist das von Heisenberg eingeführte Vorgehen, die klassischen Größen Ort "x" und Impuls "p" als Matrizen (formula_5) aufzufassen, die bestimmte Vertauschungsrelationen erfüllen müssen:
+
+

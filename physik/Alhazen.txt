@@ -1,0 +1,31 @@
+﻿Alhazen
+
+Alhazen (, verkürzt auch Ibn al-Haiṯam und "Ibn al-Heithem", (), latinisiert Alhacen, Avennathan oder Avenetan, geboren um 965 in Basra; gestorben nach 1040 in Kairo), war ein Mathematiker, Optiker und Astronom in der Blütezeit des Islam. Er verfasste grundlegende Beiträge zur Optik, Astronomie, Mathematik und Meteorologie.
+
+Über das Leben von Alhazen ist wenig bekannt, es waren aber zahlreiche Legenden über ihn im Umlauf, die auch ihren Eingang in spätere westliche Biographien fanden. Er wirkte in Kairo am Hof al-Hakims, wo er ein Projekt zur Regulierung der Nilüberschwemmungen vorschlug, das aber vom Kalifen abgelehnt wurde. Der Legende nach täuschte er, entweder um sein Versagen zu vertuschen oder um sich weniger Verwaltungsaufgaben als der Wissenschaft zu widmen, da er den Zorn al-Hakims fürchtete, eine Geisteskrankheit vor, wonach er sich an dem von al-Hakim gegründeten "Haus der Weisheit" ganz der Wissenschaft zuwandte. Nach dem Tode al-Hakims im Jahr 1021 soll er nach der Legende auf scheinbar „wunderbare Weise“ genesen sein.
+
+In seinen zahlreichen mathematischen Werken beschäftigte er sich mit Problemen der Zahlentheorie und der Geometrie.
+
+Von größter Bedeutung sind jedoch seine optischen Experimente: Die meisten Wissenschaftler der Antike, darunter Euklid und Ptolemäus, nahmen an, der visuelle Eindruck im Gehirn werde von „Sehstrahlen“ erzeugt, die vom menschlichen Auge ausgingen und die Umgebung abtasteten, ähnlich wie bei einem Blinden, der seine Umgebung mit einem Stab abtastet. Aristoteles hingegen war der Ansicht, Licht existiere unabhängig vom menschlichen Auge und bahne sich seinen Weg von den Gegenständen in das Auge über ein Medium. Alhazen jedoch ging auf neue Weise an die Frage heran, indem er den Aufbau des Auges analysierte. Er erkannte die Bedeutung der Linse im Auge und widerlegte in wissenschaftlichen Experimenten die Sehstrahlen-Theorie.
+
+Aufbauend auf Ibn Sahl verfeinerte und erweiterte er auch die Theorien Ptolemäus' zur Lichtbrechung und Lichtreflexion; insbesondere hat er die Eignung gewölbter Glasoberflächen zur optischen Vergrößerung erkannt und beschrieben. Mit diesen Erkenntnissen stellte er Lesesteine aus Glas her. Damit gilt er als Erfinder der Lupe und inspirierte wahrscheinlich mit seinen Schriften Roger Bacon zur Erfindung der Brille. Er führte auch Versuche zur Farbmischung und Camera Obscura aus.
+Noch heute ist sein Name mit einem Problem der Optik verbunden, das "Alhazensche Problem": Er löste geometrisch mit Kegelschnitten die Aufgabe, in einem sphärischen Spiegel den Punkt zu berechnen, von dem ein Gegenstand von gegebener Entfernung zu einem gegebenen Bild projiziert wird, was auf eine Gleichung vierten Grades führt bzw. auf die Bestimmung der Wurzel einer Gleichung dritten Grades (damit war sie nicht mit Zirkel und Lineal lösbar). Die vollständige algebraische Lösung fand Peter Neumann 1997. Das Problem geht bis auf Ptolemäus zurück und beschäftigte zum Beispiel Christiaan Huygens. Alhazen selbst gab in diesem Zusammenhang mit einer frühen Anwendung der vollständigen Induktion die erste Formel für die Summe von vierten Potenzen (die auch auf Summen ganzzahliger Potenzen verallgemeinert werden kann), und fand damit das Volumen des Paraboloids. Damit spielt er auch eine Rolle in der Frühgeschichte der Analysis.
+
+Ausgehend von seinen Erkenntnissen auf dem Gebiet der Optik entdeckte Alhazen, dass Brechung des Lichts auch in der Lufthülle der Erde stattfindet. Er stellte fest, dass der Mond sowohl am Horizont als auch im Zenit die gleiche Größe hat. Er erkannte also den scheinbar größeren Durchmesser des Mondes in Horizontnähe als eine Wahrnehmungstäuschung (Mondtäuschung). Auch berechnete er die Höhe der Atmosphäre aus der Beobachtung von Sonnenuntergängen.
+
+Er befasste sich nach der Optik auch mit Astronomie und entwickelte dazu neue Methoden der sphärischen Geometrie. Sein "Liber de mundo et coelo" und sein Konzept einer geometrisch-perspektivischen Optik waren ab etwa 1200 im christlichen Abendland (grundlegend etwa auch für Dietrich von Freiberg) weit verbreitet.
+
+Er machte sich auch um die Wissenschaftstheorie verdient: Als erster wandte er systematisch die induktiv-experimentelle wissenschaftliche Arbeitsweise an, bei der zuerst Experimente durchgeführt und erst danach anhand der Versuchsergebnisse Theorien aufgestellt werden; bis dahin war es üblich, Erkenntnisse nur durch logische Schlussfolgerungen zu gewinnen und Experimente allenfalls zur Veranschaulichung der so gefundenen Theorien durchzuführen.
+
+Alhazens eventuell von Gerhard von Cremona selbst oder in seinem Umkreis ins Lateinische übersetzter Kitāb al-Manāzir, der unter dem Titel "Perspectiva" oder "De aspectibus" verbreitet war, beeinflusste optische und darüber hinaus philosophische Theorien seit dem ausgehenden 13. Jahrhundert, insbesondere sind die Werke von Roger Bacon, Witelo und Johannes Peckham von Alhazens Auffassungen geprägt. Die Übersetzung wurde 1572 durch Friedrich Risner in Basel zusammen mit Witelos Optik publiziert, auf sie beziehen sich Keplers Paralipomena ad Vitellionem.
+
+Der Mondkrater Alhazen und der Asteroid (59239) Alhazen sind nach al-Haitham benannt.
+
+Um ihn zu ehren, nannte die Aga-Khan-Universität (Pakistan) ihren Lehrstuhl für Augenheilkunde (med.: Ophthalmologie) "The Ibn-e-Haitham Associate Professor and Chief of Ophthalmology".
+
+Ein fiktives Bildnis Alhazens befindet sich auf der seit 2003 im Umlauf befindlichen 10.000-Dinar-Banknote des irakischen Dinars.
+
+
+
+
+

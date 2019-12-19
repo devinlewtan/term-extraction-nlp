@@ -1,0 +1,15 @@
+﻿Bewegungsrichtung
+
+Die Bewegungsrichtung beschreibt in der Physik die Richtung, in die sich ein Teilchen bewegt.
+
+Diese spielt vor allen Dingen bei der Impulsübertragung von Massekörpern und Teilchen eine Rolle, bei denen durch Stöße und damit verbundene Impulsübertragung die Bewegungsrichtung der Teilchen verändert wird. Dabei wird die Bewegungsrichtung in Physik und Technik entsprechend dem vorliegen von Linearität bzw. Nichtlinearität in lineare Bewegungen (genannt Translation) und nichtlineare Bewegungen (wie z. B. die Rotation) unterschieden.
+
+Allgemein kann die Bewegungsrichtung durch jede am Teilchen angreifende Kraft geändert werden.
+
+Dargestellt wird die Bewegungsrichtung meistens mit Hilfe von Vektoren. Dabei bedient man sich meistens des sechs-dimensionalen Phasenraumes (hamiltonsche Mechanik), der neben der Ortskoordinaten auch die Impulskoordinaten erfasst, mit denen die Bewegung vollständig charakterisiert ist.
+
+In der Astronomie kennt man lockere Sternassoziationen oder "Bewegungshaufen", deren Mitglieder fast dieselbe, parallele Bewegungsrichtung haben. Daraus kann man ihre gemeinsame Entstehung aus einer riesigen Gaswolke erschließen. Als erste dieser Sterngruppen wurde um die Jahrhundertwende die Bärengruppe entdeckt.
+
+"Siehe auch:"
+
+

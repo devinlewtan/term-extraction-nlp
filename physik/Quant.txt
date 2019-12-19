@@ -1,0 +1,13 @@
+﻿Quant
+
+In der Physik wird unter Quant (von ‚wie groß‘, ‚wie viel‘) ein Objekt verstanden, das durch einen Zustandswechsel in einem System mit diskreten Werten einer physikalischen Größe erzeugt wird. Quantisierte Größen werden im Rahmen der Quantenmechanik und davon inspirierten Teilgebieten der theoretischen Physik wie der Quantenelektrodynamik beschrieben. Quanten können immer nur in bestimmten Portionen dieser physikalischen Größe auftreten, sie sind mithin die Quantelung dieser Größen.
+
+Oft wird mit dem physikalischen Begriff Quant ein Teilchencharakter der betrachteten Größe assoziiert. Dies ist jedoch nur ein Teil der eigentlichen Bedeutung des Begriffs. Ein Beispiel für ein Quant, dem man keinen Teilchencharakter zuschreiben kann, ist das Drehimpulsquant.
+
+Als physikalischer Terminus wird Quant nicht zur Bezeichnung der atomaren Struktur der Materie verwendet, obwohl auch hier eine kleinste Mengeneinheit (Quantelung) auftritt.
+
+
+Jürgen Audretsch: "Verschränkte Welt Faszination der Quanten", Wiley-VCh, Weinheim 2002, ISBN 3-527-40318-3
+
+
+

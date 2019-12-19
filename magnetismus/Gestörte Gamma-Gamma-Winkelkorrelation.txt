@@ -1,0 +1,135 @@
+﻿Gestörte Gamma-Gamma-Winkelkorrelation
+
+Die gestörte γ-γ-Winkelkorrelation, kurz PAC () oder PAC-Spektroskopie, ist eine Methode der nuklearen Festkörperphysik, mit der magnetische und elektrische Felder in Kristallstrukturen gemessen werden können. Dabei werden elektrische Feldgradienten und die Larmorfrequenz in Magnetfeldern sowie dynamische Effekte bestimmt. Mit dieser sehr sensitiven Methode, die nur ca. 10–1000 Milliarden Atome eines radioaktiven Isotops pro Messung benötigt, können Materialeigenschaften in der lokalen Struktur, Phasenübergänge, Magnetismus und Diffusion untersucht werden. Die PAC-Methode ist verwandt mit der Kernspinresonanz und dem Mößbauer-Effekt, jedoch zeigt sie keine Signalabschwächung bei sehr hohen Temperaturen. Heute wird hautsächlich die zeit-differenzielle PAC (TDPAC, ) verwendet. 
+
+PAC geht auf eine theoretische Arbeit von Donald R. Hamilton aus dem Jahr 1940 zurück. Das erste erfolgreiche Experiment wurde von Brady und Deutsch 1947 durchgeführt. Bei diesen ersten PAC-Experimenten wurden im Wesentlichen Spin und Parität von Kernspins untersucht. Es wurde jedoch früh erkannt, dass elektrische und magnetische Felder mit dem Kernmoment wechselwirken, was die Grundlage für eine neue Form der Materialuntersuchungen lieferte: Die nukleare Festkörperspektroskopie.
+
+Schritt für Schritt entwickelt sich die Theorie.
+Nachdem 1953 Abragam und Pound ihre Arbeiten über die Theorie von PAC veröffentlichten, die extranukleare Felder in der Theorie berücksichtigen, wurden danach viele Untersuchungen mit PAC durchgeführt.
+
+In den 1960er und 1970er Jahren stieg das Interesse an PAC-Experimenten stark an, deren Fokus hauptsächlich magnetische und elektrische Felder in Kristallen waren, in die die Sondenkerne eingebracht wurden. Mitte der 1960er Jahre wurde die Ionenimplantation entdeckt, die neue Möglichkeiten zur Probenherstellung ermöglichte. Die rasante elektronische Entwicklung der 1970er Jahre brachte deutliche Verbesserungen in der Signalverarbeitung. Von den 1980ern bis heute hat sich PAC als eine wichtige Methode zur Untersuchung und Charakterisierung von Materialien entwickelt, z. B. für die Untersuchung von Halbleitermaterialien, zwischenmetallischen Verbindungen, Oberflächen und Grenzflächen. Lars Hemmingsen et al. wendeten PAC zuletzt auch in biologischen Systemen an.
+
+Während bis ca. 2008 PAC-Instrumente konventionelle Hochfrequenzelektronik der 1970er Jahre verwendeten, wurde in 2008 durch Christian Herden und Jens Röder et al. das erste voll-digitalisierte PAC-Instrument entwickelt, dass umfangreiche Datenanalysen sowie den parallelen Einsatz mehrerer Sonden ermöglicht. Nachbauten und weitere Entwicklungen folgten.
+
+PAC nutzt radioaktive Sonden, die beim Zerfall einen Zwischenzustand mit Lebensdauern von 2 ns bis ca. 10 µs besitzen, siehe Beispiel In im Bild rechts. Nach dem Elektroneneinfang (EC, ) transmutiert Indium zu Cadmium. Unmittelbar danach befindet sich der Cadmium-Kern überwiegend im angeregten 7/2-Kernspin und nur zur einem ganz kleinen Teil im 11/2-Kernspin, letzterer soll nicht weiter betrachtet werden. Der 7/2 angeregte Zustand geht durch Aussenden eines γ-Quants mit 171 keV in den 5/2-Zwischenzustand über, der eine Lebensdauer von 84,5 ns besitzt und der sensitive Zustand für die PAC ist. Dieser Zustand wiederum zerfällt in den 1/2-Grundzustand durch aussenden eines γ-Quants mit 245 keV. PAC detektiert nun beide γ-Quanten und wertet das erste als Start-Signal, das zweite als Stop-Signal.
+Nun misst man die Zeit zwischen Start und Stopp für jedes Ereignis. Man spricht hier von einer Koinzidenz, wenn ein Start- und Stopp-Paar gefunden wurde. Da der Zwischenzustand nach den Gesetzen des radioaktiven Zerfalls zerfällt, erhält man nach dem Auftragen der Häufigkeit über der Zeit eine exponentielle Kurve mit der Lebensdauer dieses Zwischenzustandes. Aufgrund der nicht-kugelsymmetrischen Ausstrahlung des zweiten γ-Quants, die sogenannte Anisotropie, die eine intrinsische Eigenschaft des Kerns in diesem Übergang ist, kommt es mit den ihm umgebenden elektrischen oder/und magnetischen Feldern zu einer periodischen Störung (Hyperfeinwechselwirkung). Die Abbildung der Einzelspektren rechts zeigt den Effekt dieser Störung als Wellenverlauf auf dem exponentiellen Zerfall von je zwei Detektoren, ein Paar in 90° und eins in 180° zueinander. Die Wellenverläufe zu beiden Detektorpaaren sind gegeneinander verschoben. Sehr vereinfacht kann man sich vorstellen, dass ein fest stehender Beobachter einen Leuchtturm betrachtet, dessen Lichtintensität periodisch heller und dunkler wird. Entsprechend „sieht“ eine Detektoranordnung, meist 4 Detektoren in planarer 90°-Anordnung oder 6 Detektoren in oktaedrischer Anordnung, die Rotation des Kerns in Größenordnungen von MHz bis GHz.
+
+Nach der Anzahl n der Detektoren, ergibt sich die Anzahl der Einzelspektren ("z") nach "z"="n"²−"n", für "n"=4 daher 12 und für "n"=6 somit 30. Um ein PAC-Spektrum zu erhalten, werden die 90°- und 180°-Einzelspektren so miteinander verrechnet, dass die exponentiellen Funktionen sich aufheben und zusätzlich die unterschiedlichen Detektoreigenschaften sich herauskürzen. Es bleibt die reine Störfunktion übrig, wie in dem Beispiel eines komplexen PAC-Spektrums gezeigt ist. Seine Fouriertransformation ergibt die Übergangsfrequenzen als Peaks.
+
+formula_1, das Zählratenverhältnis wird wie folgt berechnet: 
+
+Je nach Spin des Zwischenzustandes zeigen sich eine unterschiedliche Anzahl von Übergangsfrequenzen. Für 5/2 Spin sind 3 Übergangsfrequenzen zu beobachten mit dem Verhältnis ω+ω=ω. Für jeden zugehörigen Gitterplatz der Einheitszelle ist in der Regel eine andere Kombination von 3 Frequenzen zu beobachten.
+
+PAC ist eine statistische Methode: Jedes radioaktive Sondenatom sitzt in seiner eigenen Umgebung. In Kristallen sind aufgrund der hohen Regelmäßigkeit der Anordnung der Atome oder Ionen die Umgebungen identisch oder sehr ähnlich, so dass Sonden auf identischen Gitterplätzen die gleiche Störgröße erfahren, die dann erst in einem PAC-Spektrum messbar wird. Befinden sich die Sonden hingegen in sehr unterschiedlichen Umgebungen, wie z. B. in amorphen Materialien, ist in der Regel eine breite Frequenzverteilung oder gar keine erkennbar und das PAC-Spektrum erscheint flach, ohne Frequenzverlauf. Bei Einkristallen können je nach Orientierung des Kristalls zu den Detektoren bestimmte Übergangsfrequenzen vermindert oder ausgelöscht werden, wie im Beispiel des PAC-Spektrums von Zinkoxid (ZnO) zu sehen ist.
+
+Beim typischen PAC-Spektrometer sind 4 Detektoren in planarer 90°- und 180°-Anordnung oder 6 Detektoren in oktaedrischer Anordnung um die Probe mit radioaktiver Quelle platziert. Als Detektoren werden Szintiallationskristalle aus BaF oder NaI verwendet. Bei modernen Instrumenten kommen heute überwiegend LaBr:Ce oder CeBr zum Einsatz. Photomultiplier wandeln die schwachen Lichtblitze in elektrische Signale um, die im Szintillator durch Gammastrahlung erzeugt wurden. In klassischen Instrumenten werden diese Signale verstärkt und in logischen UND/ODER Schaltungen in Kombination mit Zeitfenstern den verschiedenen Detektorkombinationen (für 4 Detektoren: 12, 13, 14, 21, 23, 24, 31, 32, 34, 41, 42, 43) zugeordnet und gezählt. Moderne digitale Spektrometer verwenden Digitizer-Karten, die das Signal direkt verwenden und in Energie- und Zeitwerte umwandeln und auf Festplatten speichern. Diese werden dann per Software nach Koinzidenzen durchsucht.
+Während bei klassischen Instrumenten für die jeweiligen γ-Energien begrenzende „Fenster“ vor der Verarbeitung gesetzt werden müssen, ist dies bei der digitalen PAC während des Aufzeichnens der Messung nicht notwendig und erfolgt erst im Analyseschritt. Bei Sonden mit komplexen Kaskaden ist es dadurch möglich, eine Datenoptimierung vorzunehmen oder mehrere Kaskaden parallel auszuwerten, sowie verschiedene Sonden gleichzeitig zu messen. Die dabei anfallenden Datenmengen können pro Messung zwischen 60 und 300 GB betragen.
+
+Als Materialien für die Untersuchung (Proben) eigenen sich prinzipiell alle Materialien, die fest und flüssig sein können. Je nach Fragestellung und Ziel der Untersuchung ergeben sich bestimmte Rahmenbedingungen. Für die Beobachtung klarer Störfrequenzen ist es aufgrund der statistische Methode notwendig, dass ein gewisser Anteil der Sondenatome sich in einer ähnlichen Umgebung befindet und z. B. denselben elektrischen Feldgradienten erfährt. Ferner darf sich während des Zeitfensters zwischen dem Start und Stop, oder grob ca. 5 Halbwertszeiten des Zwischenzustandes, die Richtung des elektrischen Feldgradienten nicht ändern. In Flüssigkeiten wird deshalb infolge der häufigen Stöße keine Störfrequenz messbar, es sei denn, die Sonde befindet sich komplexiert in großen Molekülen, wie z. B. in Proteinen. Die Proben mit Proteinen oder Peptiden werden zur Verbesserung der Messung meist eingefroren.
+
+Die am meisten untersuchten Materialien mit PAC sind Festkörper wie Halbleiter, Metalle, Isolatoren und verschiedene Arten funktioneller Materialien. Für die Untersuchungen liegen diese meist kristallin vor. Amorphe Materialien besitzen keine hochgeordneten Strukturen. Sie besitzen jedoch eine Nahordnung, die sich in der PAC-Spektroskopie als breite Verteilung von Frequenzen zeigen kann. Nano-Materialien haben nach dem Core-Shell-Modell einen kristallinen Kern und eine Hülle, die eine eher amorphe Struktur besitzt. Je kleiner das Nanoteilchen wird, um so größer wird der Volumenanteil dieses amorphen Anteils. In PAC-Messungen zeigt sich dies mit der Abnahme des kristallinen Frequenzanteils in einer Verringerung der Amplitude (Dämpfung).
+
+Die für eine Messung benötigte Menge an geeigneten PAC-Isotopen liegt zwischen ca. 10 bis 1000 Milliarden Atomen (10–10). Die richtige Menge hängt von den jeweiligen Eigenschaften des Isotops ab. 10 Milliarden Atome sind eine sehr kleine Stoffmenge. Zum Vergleich enthält ein Mol ca. 6,22·10 Teilchen. 10 Atome in einem Kubikzentimeter Beryllium ergeben eine Konzentration von ca. 8 nmol/L (Nanomol = 10 mol). Die radioaktiven Proben haben je eine Aktivität von 0,1–5 MBq, was in der Größenordnung der Freigrenze für das jeweilige Isotop liegt.
+
+Wie die PAC-Isotope in die zu untersuchende Probe gebracht werden, obliegt dem Experimentator und den technischen Möglichkeiten. Es sind folgende Methoden üblich:
+
+Bei der Implantation wird ein radioaktiver Ionenstrahl erzeugt, der auf das Probenmaterial gerichtet ist, wie z. B. an ISOLDE. Durch die kinetische Energie der Ionen (1–500 keV) fliegen diese in das Kristallgitter und werden durch Stöße abgebremst. Sie kommen entweder auf Zwischengitterplätzen zum Stehen oder stoßen ein Gitteratom von seinem Platz und ersetzen dieses. Dies führt zu einer Störung der Kristallstruktur. Diese Störungen können mit PAC untersucht werden. Durch Temperieren können diese Störungen ausgeheilt werden. Sollen hingegen Strahlendefekte im Kristall und deren Ausheilung untersucht werden, misst man unausgeheilte Proben, die dann schrittweise ausgeheilt werden.
+
+Die Implantation ist meist die Methode der Wahl, weil mit ihr sehr gut definierte Proben hergestellt werden können.
+
+Im Vakuum kann die PAC-Sonde auf die Probe aufgedampft werden. Die radioaktive Sonde wird dazu auf einer Heizplatte oder Glühlwendel aufgetragen, dort auf die Verdampfungstemperatur gebracht und auf dem gegenüberliegenden Probenmaterial kondensiert. Mit dieser Methode können z. B. Oberflächen untersucht werden. Weiterhin können durch Aufdampfen weiterer Materialien Grenzflächen hergestellt werden, deren Verhalten beim Temperieren mit PAC studiert werden kann. Ebenso kann die PAC-Sonde bei Sputtern übertragen werden mit Hilfe eines Plasmas.
+
+Bei der Diffusionsmethode wird die radioaktive Sonde meist in einem Lösungsmittel verdünnt auf die Probe aufgebracht, eingetrocknet und sie wird durch Temperieren in das Material eindiffundiert. Die Lösung mit der radioaktiven Sonde sollte dabei möglichst rein sein, da auch alle anderen Substanzen mit in die Probe eindiffundieren können und dadurch das Messergebnis beeinflusst wird. Die Probe sollte ausreichend in der Probe verdünnt sein. Daher sollte der Diffusionsvorgang sollte so geplant sein, dass eine möglichst gleichmäßige Verteilung oder ausreichende Eindringtiefe erreicht wird.
+
+PAC-Sonden können auch während der Synthese von Probenmaterialien beigegeben werden, um eine möglichst gleichmäßige Verteilung in der Probe zu erreichen. Diese Methode ist besonders gut geeignet, wenn beispielsweise die PAC-Sonde nur schlecht im Material diffundiert und eine höhere Konzentration an Korngrenzen zu erwarten ist. Da bei PAC nur sehr kleine Proben notwendig sind (ca. 5 mm), können Mikro-Ansätze verwendet werden. Ideal wird die Sonde der flüssigen Phase des Sol-Gel-Prozesses beigegeben oder einer der späteren Präkursor-Phasen.
+
+Bei der Neutronenaktivierung wird die Sonde direkt aus dem Probenmaterial hergestellt, indem durch Neutroneneinfang in sehr geringer Teil eines der Elemente des Probenmaterials in die gewünschte PAC-Sonde oder sein Mutterisotop umgewandelt wird. Wie auch bei der Implantation müssen Strahlenschäden ausgeheilt werden. Diese Methode beschränkt sich auf Probenmaterialien, die Elemente enthalten, aus denen durch Neutroneneinfang PAC-Sonden hergestellt werden können. Ferner können Proben mit solchen Elementen gezielt verunreinigt werden, das aktiviert werden soll. Beispielsweise eignet sich Hafnium für die Aktivierung ausgezeichnet wegen seines großen Einfangquerschnitts für Neutronen.
+
+Selten verwendet werden direkte Kernreaktionen, bei denen durch Beschuss durch hochenergetischen Elementarteilchen oder Protonen Kerne in PAC-Sonden umgewandelt werden. Hierbei treten große Strahlenschäden auf, die ausgeheilt werden müssen. Diese Methode wird bei PAD verwendet, die zu den PAC-Methoden gehört.
+
+Das aktuell weltweit größte PAC-Labor befindet sich an der ISOLDE im CERN mit ca. 10 Instrumenten, das wesentlich vom BMBF gefördert wird. An der ISOLDE werden radioaktive Ionenstrahlen hergestellt, indem Protonen aus dem Booster auf Target-Materialien (Urancarbid, flüssiges Zinn usw.) geschossen werden und die Spallationsprodukte bei hohen Temperaturen verdampft (bis zu 2000 °C), dann ionisiert und anschließend beschleunigt werden. Mit der anschließenden Massenseparation können meist sehr reine Isotopenstrahlen hergestellt werden, die in PAC-Proben implantiert werden können. Vom besonderem Interesse für die PAC sind dort kurzlebige Sonden wie: Cd, Hg, Pb, sowie verschiedene Sonden der seltenen Erden.
+
+Das erste formula_3-Quant (formula_4) wird isotop ausgestrahlt. Durch die Detektion dieses Quants in einem Detektor wird aus den vielen möglichen Richtungen eine Teilmenge herausgesucht, die eine gegebene Orientierung hat. Das zweite formula_3-Quant (formula_6) wird anisotop ausgestrahlt und zeigt den Effekt der Winkelkorrelation. Das Ziel ist relative Wahrscheinlichkeit formula_7 mit der Detektion von formula_8 im feststehenden Winkel formula_9 in Bezug zu formula_10 zu bestimmen (Störungstheorie). Die Wahrscheinlichkeit ist gegeben mit der Winkelkorrelation:
+
+Für eine formula_3-formula_3-Kaskade ist formula_14 gerade aufgrund der Konservierung der Parität sowie:
+Dabei ist formula_16 der Spin des Zwischenzustandes und formula_17 mit formula_18 die Multipolarität der zwei Übergänge. Für reine Multipolübergänge ist formula_19.
+
+formula_20 ist der Anisotropiekoeffizient, der abhängig ist vom Drehimpuls des Zwischenzustands und den Multipolaritäten des Überganges.
+
+Der radioaktive Kern ist für Untersuchungen im Probenmaterial eingebaut und sendet beim Zerfall zwei formula_3-Quanten aus. Während der Lebensdauer des Zwischenzustandes, also der Zeit zwischen formula_10 und formula_8, erfährt der Kern aufgrund der Hyperfeinwechselwirkung durch seine elektrische und magnetische Umgebung eine Störung. Durch diese Störung ändert sich die Winkelkorrelation nach:
+
+formula_25 ist der Störfaktor. Aufgrund der elektrischen und magnetischen Wechselwirkung erfährt der Drehimpuls des Zwischenzustandes formula_17 um seine Symmetrieachse ein Drehmoment. Quantenmechanisch bedeutet dies, dass die Wechselwirkung zu Übergängen zwischen dem M-Zuständen führt. Das zweite formula_3-Quant (formula_8) wird dann von einem Niveau mit geänderter Population ausgesandt. Diese Populationsänderung ist der Grund für die Dämpfung der Korrelation.
+
+Die Wechselwirkung findet zwischen dem magnetischen Kerndipolmoment formula_29 und dem Zwischenzustand formula_16 oder/und einem äußeren magnetischen Feld formula_31 statt. Die Wechselwirkung findet auch statt zwischen Kernquadrupolmoment und dem außerkernischen elektrischen Feldgradienten formula_32.
+
+Für die magnetische Dipolwechselwirkung ist die Frequenz der Präzession des Kernspins um die Achse des magnetischen Felds formula_31:
+
+formula_36 ist der Landé-Faktor und formula_37 ist das Kernmagneton.
+
+Mit formula_38 ergibt sich:
+
+Aus der allgemeinen Theorie wird dann erhalten:
+
+Für die magnetische Wechselwirkung ergibt sich dann:
+
+Die Energie der elektrischen Hyperfeinwechselwirkung zwischen der Ladungsverteilung des Kerns und dem extranuklearen statischen elektrischen Feld kann zu Multipolen erweitert werden. Der Monopolterm bewirkt lediglich eine Energieverschiebung und der Dipolterm verschwindet, sodass der erste relevante Expansionsterm der Quadrupolterm ist:
+
+Dieser kann als Produkt des Quadrupolmomentes formula_43 und des elektrischen Feldgradienten formula_44 geschrieben werden. Beide Tensoren sind von zweiter Ordnung. Höhere Ordnungen haben einen zu kleinen Effekt, um mit PAC gemessen werden zu können.
+
+Der elektrische Feldgradient ist die zweite Ableitung des elektrischen Potentials formula_45 am Kern:
+
+formula_44 wird so diagonalisiert, dass:
+
+Die Matrix ist spurenfrei im Hauptachsensystem (Laplace-Gleichung):
+
+Üblicherweise wird der elektrische Feldgradient mit dem größten Anteil formula_32 und formula_51 definiert:
+
+In kubischen Kristallen sind die Achsenparameter der Elementarzelle x,y,z gleich lang. Daher ist auch formula_54 und formula_55 In axialsymmetrischen Systemen ist ebenfalls formula_55.
+
+Für axialsymmetrische elektrische Feldgradienten nimmt die Energie der Unterzustände die Werte an:
+
+Die Energiedifferenz zwischen zwei Unterzuständen, formula_58 und formula_59, ist gegeben nach:
+
+Die Quadrupolfreuquenz formula_61 wird eingeführt.
+Die Formeln in den farbigen Rahmen sind wichtig für die Auswertung:
+
+In den Veröffentlichungen ist überwiegend formula_64 angegeben. formula_65 als Elementarladung und formula_66 als Planck-Konstante sind gut bekannt oder fest definiert. Das Kernquadrupolmoment formula_67 ist häufig nur sehr ungenau bestimmt (oft nur mit 2–3 Stellen). Da formula_64 viel genauer bestimmt werden kann als formula_67 ist aufgrund der Fehlerfortpflanzung es nicht sinnvoll, nur formula_32 anzugeben. Zudem ist formula_64 unabhängig vom Spin! Das Bedeutet, dass Messungen von zwei Isotopen desselben Elements miteinander vergleichen werden können, wie z. B. Hg(5/2−), Hg(5/2−) und Hg(9/2−). Weiterhin kann formula_64 als Fingerprint-Methode eingesetzt werden.
+
+Die Energiedifferenz ergibt sich dann nach:
+
+Wenn formula_55 ist, gilt:
+mit:
+Für ganzzahlige Spins gilt:
+Für halbe Spins gilt:
+
+Für den Störfaktor ergibt sich:
+
+mit dem Faktor für die Gewichtung der beobachteten Frequenzen:
+
+Was die magnetische Dipolwechselwirkung betrifft, induziert auch die elektrische Quadrupolwechselwirkung eine Präzision der Winkelkorrelation in der Zeit und dies moduliert die Quadrupolwechselwirkungsfrequenz. Diese Frequenz ist eine Überlappung der verschiedenen Übergangsfrequenzen formula_83. Die relativen Amplituden der verschiedenen Komponenten hängen von der Ausrichtung des elektrischen Feldgradienten relativ zu den Detektoren (Symmetrieachse) und vom Asymmetrieparameter formula_51 ab. Für eine Untersuchung mit verschiedenen Kernen benötigt man einen Parameter, der einen direkten Vergleich ermöglicht: Daher wird die vom Kernspin formula_85 unabhängige Quadrupolekopplungskonstante formula_64 eingeführt.
+
+Wenn am radioaktiven Kern gleichzeitig eine magnetische und elektrische Wechselwirkung vorliegt, ergeben sich kombinierte Wechselwirkungen, wie oben beschrieben. Dies führt zu Aufspaltung der jeweils beobachteten Frequenzen. Die Analyse ist gegebenenfalls nicht trivial aufgrund der hohen Anzahl von Frequenzen, die zugeordnet werden müssen. Diese hängen dann jeweils von der Richtung des elektrischen und magnetischen Feldes zueinander im Kristall ab. PAC ist eine der wenigen Methoden, mit der diese Richtungen bestimmt werden können.
+
+Fluktuiert während der Lebensdauer formula_87 des Zwischenniveaus das Hyperfeinfeld aufgrund von Sprüngen der Sonde in eine andere Gitterposition oder von Sprüngen eines nahen Atoms in eine andere Gitterposition, so geht die Korrelation verloren. Für den einfachen Fall mit einem ungestörten Gitter kubischer Symmetrie gilt bei einer Sprungrate von formula_88 für formula_89 äquivalente Plätze eine exponentielle Dämpfung des statischen formula_90-Terms:
+
+Hier ist formula_93 eine zu bestimmende Konstante, die nicht mit der Zerfallskonstante formula_94 verwechselt werden darf. Bei großen Werten von formula_95, ist nur noch der reine exponentielle Abfall zu beobachten:
+
+Der Grenzfall nach Abragam-Pound ergibt sich für formula_93, wenn formula_98 ist:
+
+Kerne, die vor der formula_3-formula_3-Kaskade transmutieren, führt dies meist zu einer Ladungsänderung in ionischen Kristallen (In zu Cd). In der Folge muss das Gitter auf diese Änderungen reagieren. Dabei können auch Defekte oder Nachbarionen wandern. Ebenso kann durch den hochenergetischen Zerfallsprozeß durch den Auger-Effekt der Kern in höhere Ionisierungszustände gebracht werden. Die Normalisierung des Ladungszustandes hängt dann von der Leitfähigkeit des Materials ab. In Metallen findet der Prozess sehr schnell statt. In Halbleitern und Isolatoren dauert dies erheblich länger. Bei all diesen Prozessen ändert sich das Hyperfeinfeld. Fällt diese Änderung in die formula_3-formula_3-Kaskade, kann sie als Nacheffekt (engl: ) beobachtet werden.
+
+Die Anzahl der Kerne im Zustand (a) im Bild rechts wird sowohl durch den Zerfall nach Zustand (b) als auch nach Zustand (c) depopuliert:
+
+mit: formula_105
+
+Daraus erhält man den exponentiellen Fall:
+
+Für die Gesamtzahl der Kerne im statischen Zustand (c) folgt dann:
+
+Die Anfangsbesetzungswahrscheinlichkeiten formula_108 ergeben sich für statische und dynamische Umgebung zu:
+
+In der allgemeinen Theorie ist für einen Übergang formula_111 gegeben:
+
+mit:
+
+

@@ -1,0 +1,54 @@
+﻿Magnetumformung
+
+Die Magnetumformung, zutreffender auch als elektromagnetische Umformung bezeichnet, ist ein elektrodynamisches Hochenergieumformungsverfahren zur Kaltumformung flacher (z. B. Bleche) und zylindrischer Halbzeuge (z. B. Rohre, Profile) aus elektrisch leitfähigen Materialien mittels gepulster Magnetfelder. Das Verfahren basiert auf dem sogenannten Pinch-Effekt.
+
+Das Werkstück wird dabei innerhalb oder in der Nähe einer Spule positioniert und durch die Lorentzkraft, ausgelöst durch einen kurzen und hohen Stromimpuls durch die Spule, berührungslos umgeformt. Bei dem Einsatz dieses Verfahrens zum Fügen (Elektromagnetisches Pulsschweißen) werden die Materialien mit sehr hoher Geschwindigkeit aufeinander gebracht und so kaltverschweißt.
+
+Magnetumformen kann teilweise herkömmliche Technologien des Tiefziehens, Walzens, Lötens, Schweißens und Klebens in Hinblick auf Produktionskosten und Produktqualität ersetzen und wird in der Industrie wie der Automobil-, Luftfahrt-, Elektro-, Kernkraft-, Verpackungs- und Küchengerätebranche eingesetzt.
+
+Das Magnetumformen hat folgende Vorteile:
+
+Nachteile sind:
+
+Das Magnetumformverfahren beruht auf der physikalischen Tatsache, dass ein zeitlich veränderliches Magnetfeld in benachbarten elektrisch leitenden Körpern Wirbelströme induziert. Auf diese Ströme übt das Magnetfeld Kräfte aus, deren Stärke vom räumlichen Gradienten der magnetischen Flussdichte und von der Größe der induzierten Ströme abhängt. Der leitende Körper (Blech, Rohr) erfährt eine hin zu geringeren Flussdichten gerichtete Kraft (siehe auch Wirbelstrombeschleuniger). Die im Werkstück gegenläufig zum Spulenstrom gerichteten Ströme haben zur Folge, dass Spule und Werkstück voneinander gedrückt werden (Lorentzkraft, Lenzsche Regel).
+
+Die Stärke der induzierten Ströme und damit die Kraftwirkung auf das Werkstück hängt unter anderem von der elektrischen Leitfähigkeit des verwendeten Werkstoffes ab. Das Verfahren ist daher besonders für Silber, Kupfer, Aluminium und seine Legierungen sowie auch z. B. für Messing geeignet.
+
+Auf die Oberfläche des Werkstücks wirken für kurze Zeit Drücke von einigen tausend Megapascal. Da auf die Spule gleichermaßen Kräfte wirken, sind die mechanischen Festigkeitsanforderungen an die Spulenkonstruktion sehr hoch.
+
+Dieser sogenannte magnetische Druck ist proportional zum Quadrat des Spulenstromes und herrscht nur für die Dauer der Entladung der Kondensatoren. In dieser Zeit nimmt das Werkstück die benötigte Umformenergie in Form eines Impulses auf. Die Effizienz beträgt etwa 2…25 %. Nach der kurzen Beschleunigungsphase bewegt sich das Material insbesondere bei geringer Masse sehr schnell. Die Geschwindigkeiten erreichen Werte bis zu 300 m/s. In der Folge werden die im Werkstück auftretenden Spannungen so hoch, dass ein Fließen im Sinne der Umformtechnik eintritt. Beim Schweißen trifft das Material mit solch hohen Geschwindigkeiten auf den Fügepartner und entwickelt lokale Vermischungsvorgänge, die es erlauben, auch nicht schmelzschweißbare Materialpaarungen zu verschweißen. Man sorgt dafür, dass das Materialpaar wie beim Sprengplattieren leicht schräg aufeinander trifft, sodass oberflächliche Oxidschichten durch eine überschallschnelle Stoßwelle entfernt werden.
+Für die Magnetumformung geeignete, starke und sich schnell ändernde Magnetfelder werden in Impulsgeneratoren erzeugt, indem geladene Kondensatoren im Verlauf von einigen zehn Mikrosekunden über eine an die Werkstückgeometrie angepasste Spule entladen werden. Es entsteht eine gedämpfte Schwingung entsprechend der Induktivität der Spule und dem Speicherkondensator (Schwingkreis).
+
+Als Schalter werden u. a. Funkenstrecken (Trigatrone), Ignitrone und auch Halbleiterschalter eingesetzt. Während die bereits seit längerem eingesetzten Thyristoren für viele Anwendungen zu geringe Stromanstiegsgeschwindigkeiten aufweisen, können speziell entwickelte Halbleiterstrukturen – so sogenannte "GTO-like"-Thyristoren (Fa. ABB) und so genannte Super-GTO (Fa. Siliconpower) – die bei hohen Resonanzfrequenzen erforderlichen hohen Stromanstiegsgeschwindigkeiten (12…50 kA/µs bis 100 kA/µs) liefern.
+Die Ladespannungen liegen im ein bis zweistelligen Kilovoltbereich. Die Energien sind im ein- bis dreistelligen kJ-Bereich zu finden. Es wird über Spitzenströme bis 1 MA, typisch 50…200 kA berichtet.
+
+Die Resonanzfrequenz richtet sich nach der Werkstückdicke: die Skintiefe sollte geringer sein als diese. Nach oben wird sie durch die Hochstromschalter und die Verkabelung begrenzt. Daher treten Frequenzen im ein- bis zweistelligen kHz-Bereich auf. Aufgrund der starken Dämpfung, der quadratischen Stromabhängigkeit und der bereits beginnenden Fortbewegung des Werkstückes ist nach nur die erste Halbwelle der Schwingung relevant.
+
+Die Wartungsintervalle bzw. Benutzungszahlen bewegen sich zwischen wenigen und über 10 Schuss. Von Verschleiß betroffen sind die Spulen, die Hochstromschalter, aber auch z. T. die Kondensatoren.
+
+Auch schlechte Leiter wie etwa Rohre aus rostfreiem Stahl sind mit diesem Verfahren umformbar, indem das Stahlrohr mit einem Treiber aus gut leitendem Material umgeben wird – häufig genügen wenige Windungen Aluminiumfolie. Die magnetischen Kräfte wirken hier nicht direkt auf den Stahl, sondern auf den Treiber, mit dessen Hilfe das Rohr umgeformt wird.
+
+Der Impuls beziehungsweise die eingebrachte mechanische Energie lassen sich über die Höhe der Kondensatorladung exakt einstellen.
+
+Für den effektiven Einsatz der magnetischen Kräfte beim Umformen muss der Abstand von der Spule zum Werkstück möglichst klein sein. Um die Spule zu entlasten und/oder um bei verschiedenen Werkstückabmessungen dennoch dieselbe Spule benutzen zu können, werden Feldformer eingesetzt, die es ermöglichen, die elektromagnetische Krafteinwirkung auf bestimmte Bereiche des Werkstücks zu konzentrieren.
+
+Der Feldformer bildet im Prinzip zwei gekoppelte Spulen (Außendurchmesser/Innendurchmesser), besteht aus Kupfer und muss längs zur Spulenachse wenigstens einmal geschlitzt sein, damit der Strom zum Innendurchmesser gelangen kann. Der Strom fließt aufgrund des Skineffektes nur auf der Feldformeroberfläche. Ist wie im Bild die Länge der inneren Zylinderfläche kürzer als die der äußeren bzw. der Spule, verstärkt sich die Wirkung, da dort die Stromdichte höher ist.
+Der auf der Innenwand des Feldformers fließende Strom konzentriert sich überdies auf den Bereich, der nahe am Werkstück ist. Dementsprechend herrscht in diesem Bereich ein besonders hoher magnetischer Druck.
+
+Bild 2 zeigt eine Anordnung mit einem zwecks Montage zweifach geschlitzten Feldformer und eine Darstellung der Richtungen der in Spule, Feldformer und Werkstück fließenden Ströme.
+
+Man unterscheidet beim Magnetumformen drei Grundformen: Kompression, Expansion und Flachumformung.
+
+Die am häufigsten angewandte Magnetumformung ist die Kompression. Hierbei wird als Arbeitsspule eine Zylinderspule benutzt, die das Werkstück umfasst. Die Kräfte auf das Werkstück sind radial nach innen gerichtet und drücken es zusammen oder pressen es auf einen inneren Kern. Dies zeigt Bild 3.
+
+In Bild 4 ist die Anwendung der Kompression beim Aufpressen eines rohrförmigen Werkstücks auf eine Gelenkgabel einer Kardanwelle dargestellt. Der Einsatz eines Feldformers gewährleistet magnetische Kräfte, die groß genug sind, um das Wandmaterial des Rohres in die Vertiefungen des Kreuzgelenkelementes zu treiben.
+
+Da bei der magnetischen Kompression ein hoher Grad an Rotationssymmetrie der auftretenden Kräfte erreicht werden kann, ist sie in der Regel mechanischen Verfahren bei der Aufpressung von Metallrohren auf Keramik, Glas oder spröden Kunststoff überlegen.
+
+Bei der Expansion werden rohrförmige Werkstücke aufgeweitet oder in eine das Rohr umschließende Form hineingedrückt. Die Arbeitsspule für die Erzeugung des für diese Umformung geeigneten Magnetfeldes ist in diesem Fall eine Zylinderspule, die in das rohrförmige Werkstück eingeführt wird. Die ist in Bild 5 dargestellt. Die auf das Rohr wirkenden Kräfte sind radial nach außen gerichtet.
+
+Bild 6 zeigt eine Anordnung für die Flachumformung. Das Magnetfeld wird in der Nähe eines Bleches erzeugt, das auf einer Matrize liegt. Die elektromagnetischen Kräfte treiben das Blech in die Vertiefung der Matrize. Das Magnetfeld ersetzt hier den herkömmlichen mechanischen Stempel. Die zur Erzeugung des Magnetfeldes benutzte Flachspule hat in diesem Beispiel die Form einer Uhrfeder (archimedische Spirale). Sie wird parallel zum Werkstück über diesem angebracht.
+Die drei beschriebenen Grundtypen des magnetischen Umformens können zum Umformen, Verbinden und Fügen, jedoch bei Einsatz geeigneter Werkzeuge auch zum Trennen benutzt werden. Dies verdeutlicht Bild 7 am Beispiel einer Flachspule. An den vorgesehenen Stellen wird das Werkstückmaterial in die Aussparungen der Unterlage getrieben und vom Werkstück getrennt. Analog dazu können Rohre mit beliebig geformten Löchern versehen oder geschnitten werden.
+
+
+

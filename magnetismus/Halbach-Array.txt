@@ -1,0 +1,13 @@
+﻿Halbach-Array
+
+Ein Halbach-Array ist eine spezielle Konfiguration von Permanentmagneten. Eine solche Konfiguration ermöglicht, dass sich der magnetische Fluss an der einen Seite der Konfiguration fast aufhebt, auf der anderen Seite jedoch verstärkt.
+Benannt ist eine solche Anordnung nach Klaus Halbach, damals Wissenschaftler am Lawrence Berkeley National Laboratory. Halbach stellte 1980 als erster ein Bauteil (ein 16-teiliger Quadrupol) dieser Art vor. Viele Fachautoren schreiben jedoch die Erstveröffentlichung John C. Mallinson zu, der diesen Effekt bereits 1973 unter der Bezeichnung „“ (dt. „einseitiger Fluss“) beschrieb.
+
+Ein Halbach-Array setzt sich aus Segmenten von Permanentmagneten zusammen, deren Magnetisierungsrichtung gegeneinander jeweils um 90° in Richtung der Längsachse des Arrays gekippt ist. Dadurch rücken die Feldlinien auf der Seite, in deren Richtung der Direktor des Feldes gekippt wird, enger zusammen, was eine Erhöhung der magnetischen Flussdichte bewirkt. Auf der gegenüberliegenden Seite liegen die Feldlinien weniger eng als im ungestörten Magneten, daher wird das Feld schon in geringem Abstand abgeschwächt, bzw. verschwindet völlig, da sich Nord- und Südpole jeweils abwechseln.
+
+Die Eigenschaft, dass sich der magnetische Fluss auf einer Seite des Halbach-Arrays fast aufhebt, ist in verschiedenen Anwendungen interessant, so zum Beispiel bei Magnetschwebebahnen (Inductrack). Haftmagnete (Dekomagnete am Kühlschrank, Magnetwand) werden häufig als Halbach-Array gefertigt, da so eine deutlich geringere Menge an magnetischem Material die gleiche Haltekraft erzielt.
+
+Beim Bau von Generatoren und Elektromotoren sind ringförmige Halbach-Arrays interessant. Die von Halbach zuerst untersuchten ringförmigen Quadrupole werden in Teilchenbeschleunigern verwendet. Eine relativ neue Anwendung ist die Verwendung ringförmiger Dipole für NMR-Experimente.
+
+
+

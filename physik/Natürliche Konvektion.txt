@@ -1,0 +1,33 @@
+﻿Natürliche Konvektion
+
+Bei natürlicher oder auch freier Konvektion strömt ein Fluid aufgrund von im System vorhandenen Dichteunterschieden. Wenn es dabei zu einem geschlossenen Kreislauf kommt, spricht man von "Schwerkraftzirkulation" (siehe Kamineffekt).
+
+Das Gegenteil der freien Konvektion ist die durch technische Hilfsmittel erzwungene Konvektion.
+
+Eine dauerhafte Zirkulation tritt immer dann auf, wenn eine Wärmequelle "tiefer" liegt als eine Wärmesenke (Kühlung), weil das erwärmte Fluid eine geringere Dichte besitzt und deshalb im Gravitationsfeld einen statischen Auftrieb erfährt. Wird Heizung und Kühlung vertauscht, stoppt die Zirkulation, ebenso bei fehlender Gravitation in Satelliten. 
+
+Bei der Erwärmung von Wasser von 0 °C auf 4 °C tritt ausnahmsweise der umgekehrte Fall ein, seine Dichte erhöht sich und es sinkt ab. Das liegt an der Dichteanomalie von Wasser, die in der Umgebung von 4 °C auftritt und eine spezielle Temperaturschichtung bewirkt.
+
+Die Strömungsgeschwindigkeit hängt vom Temperaturunterschied ab und kann für das erwärmte Fluid immer nur in der Richtung von „warm“ nach „kalt“ erfolgen. Für technische Prozesse werden daher häufig Ventilatoren oder Pumpen verwendet, um die Konvektion zu steuern.
+
+Der Dichteunterschied wird durch Erwärmen auf der einen Seite und Abkühlen auf der anderen Seite des Kreislaufes aufrechterhalten. Der daraus resultierende Differenzdruck wird „treibender Druck“ oder auch „wirksamer Druck“ genannt. Man spricht auch von Schwerkraftwirkung.
+
+Der Differenzdruck formula_1 ist vom Dichteunterschied formula_2 und der wirksamen Höhe formula_3 abhängig nach der Formel:
+
+
+In der technischen Gebäudeausrüstung ist die "Schwerkraftzirkulation" Prinzip jeder Schwerkraftheizung, die allerdings fast vollständig durch die Pumpenheizung ersetzt wurde. Dieses Prinzip wird auch im so genannten "Badestrang" angewendet, der ohne Pumpe parallel zur Warmwasserleitung verläuft und ganzjährig ein warmes Badezimmer bereitstellt.
+
+In Thermosiphonanlagen wird die Wärme über den Sonnenkollektor zugeführt, in dem unter nachfolgender Abkühlung und/oder Entnahme des Wassers die Zirkulation einsetzt.
+
+Im Kesselbau führen besondere Leitblechkonstruktionen zur Zirkulation des Kesselwassers zwischen der Kesselwand und den Nachschaltheizflächen. Damit erreicht man eine gleichmäßige Temperaturverteilung im Kesselmaterial, infolgedessen sich die Wärmespannungen verringern.
+
+Nicht erwünscht ist die Schwerkraftzirkulation als „Rückzirkulation“. Diese tritt beispielsweise auf, wenn bei stillstehender Pumpe das Wasser des Rücklaufs in entgegengesetzter Richtung auf die Pumpe drückt und diese in Bewegung versetzt. Betroffen sind davon Pumpenheizungsanlagen und Solarkreisläufe. Um die Pumpen zu schützen, baut man so genannte Schwerkraftbremsen. Das sind Rückschlagventile oder so genannte „Diskoscheiben“ die – vor oder hinter die Pumpe eingebaut – den Rückstrom des Wassers unterbinden.
+
+siehe Aufwindkraftwerk
+
+In der Erdatmosphäre finden ebenfalls zahlreiche Konvektionsvorgänge statt. In Küstennähe findet man das Land-See-Windsystem. Da sich die Landmasse schneller aufheizt bzw. abkühlt, kommt es über dem Land zu stärkeren tageszeitlichen Schwankungen als über dem Wasser. Daraus resultiert, dass sich die Luft tagsüber über dem Land stärker erwärmt, dort aufsteigt (A) und kühlere Luft vom Meer her nachfließt. Nachts wiederum kühlt die Luft über dem Land stärker ab, d. h., sie sinkt dort zu Boden (B) und strömt auf das Meer hinaus, wo sie wieder erwärmt wird und aufsteigt.
+
+Auch auf der Erdoberfläche kommt es aufgrund von Geländeformen und verschiedenen Oberflächen zu unterschiedlich starken Aufheizvorgängen. Warme Luftmassen lösen sich ab und steigen in Form von Thermik auf. Unterstützt werden können solche Luftbewegungen durch Kondensationsvorgänge, die die aufsteigende Luft aufheizen, indem sie latente Wärme freisetzen, und damit die Aufwärtsbewegung beschleunigen.
+
+
+

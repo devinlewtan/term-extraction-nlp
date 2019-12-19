@@ -347,33 +347,33 @@ TRANSPORTER 3
 ABC3
 TRANSPORTER
 BASE
-activation
+ACTIVATION
 FIGURE
-investigation
+INVESTIGATION
 BLOOD GROUP PRECURSOR
 GROUP PRECURSOR
-abstract
-records
+ABSTRACT
+RECORD
 MULTIPLE GENE
-entries
+ENTRY
 OMIM GENE
-gene lists
+GENE LIST
 OMIM GENE
-gene lists
+GENE LIST
 IDENTIFICATION
 OMIM REFERENCE
-http
+HTTP
 IDENTIFICATION
-identifier
+IDENTIFIER
 PAPER
 USER
 PROTEINS SHARE
 CED8 TRANSMEMBRANE PROTEIN
 CED8
-identities
-similarities
-pathways
-pathways
+IDENTITY
+SIMILARITY
+PATHWAY
+PATHWAY
 KERNEL DOCUMENT SELECTION
 DOCUMENT SELECTION
 BASE
@@ -392,123 +392,121 @@ BASE
 BASE
 BASE
 BASE
-candidates
+CANDIDATE
 CASPASE
-activation
-genes
-genes
+ACTIVATION
+GENE
+GENE
 CELL DEATH
 DEATH EFFECTOR
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CUTOFF
-scores
+SCORE
 CYTOCHROME
 C-APAF1-CASP9 PATHWAY
 C-DEPENDENT ACTIVATION
-tables
+TABLE
 FUNCTIONALLY-DESCRIPTIVE KERNEL
-genes
-genes
-gene expression
-genes
-genes
-functions
-genes
-genes
-genes
+GENE
+GENE
+GENE EXPRESSION
+GENE
+GENE
+FUNCTION
+GENE
+GENE
+GENE
 SYMBOL
-genes
+GENE
 SYMBOL
-genes
-genes
-genes
-genes
-genes
-parts
-examples
-mining efforts
-discoveries
-activator
+GENE
+GENE
+GENE
+GENE
+GENE
+PART
+EXAMPLE
+MINING EFFORT
+DISCOVERY
+ACTIVATOR
 MULTI-FUNCTIONAL
-correspondence
+CORRESPONDENCE
 ORIGINAL KERNEL
-limitations
-searches
+LIMITATION
+SEARCH
 CELL DEATH
-homologous
-query
-genes
+HOMOLOGOUS
+QUERY
+GENE
 PACE
 RELATIONSHIP
-references
-references
-references
+REFERENCE
+REFERENCE
+REFERENCE
 PAPER
-references
+REFERENCE
 PAPER
-references
+REFERENCE
 PAPER
-references
+REFERENCE
 PAPER
-references
-references
-references
-references
-references
-references
-references
-references
-references
+REFERENCE
+REFERENCE
+REFERENCE
+REFERENCE
+REFERENCE
+REFERENCE
+REFERENCE
+REFERENCE
+REFERENCE
 CELL DEATH GENE CED9
 DEATH GENE CED9
-steps
-relational databases
+STEP
 DATABASE TABLE
-relational databases
 DATABASE TABLE
-scores
+SCORE
 DISTRIBUTION
-scores
-searches
-searches
-results
-searches
-similarities
-similarities
-scores
-similarities
-scores
-similarities
-scores
-similarities
-scores
-similarities
-similarities
-similarities
-similarities
+SCORE
+SEARCH
+SEARCH
+RESULT
+SEARCH
+SIMILARITY
+SIMILARITY
+SCORE
+SIMILARITY
+SCORE
+SIMILARITY
+SCORE
+SIMILARITY
+SCORE
+SIMILARITY
+SIMILARITY
+SIMILARITY
+SIMILARITY
 STATISTICAL INFORMATION RETRIEVAL
-similarities
-genes
+SIMILARITY
+GENE
 STUDYING GENE
 GENE B
-scores
-uses
+SCORE
+USE
 USER
 USER

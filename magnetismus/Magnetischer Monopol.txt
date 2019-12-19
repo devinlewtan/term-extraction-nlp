@@ -1,0 +1,70 @@
+﻿Magnetischer Monopol
+
+Ein magnetischer Monopol ist ein gedachter Magnet, der nur einen Pol hat, also nur den Nord- oder nur den Süd-Pol. Nach seinen Wirkungen kann man sich einen einzelnen magnetischen Pol wie ein Ende eines langen Stabmagneten (siehe Polstärke) vorstellen, wenn dessen anderes Ende so weit entfernt ist, dass die von dort ausgehenden Kräfte vernachlässigbar klein sind.
+
+In bestimmten Festkörpern sind elektronische Strukturen (Quasiteilchen) nachgewiesen worden, die einer Mischung von genau gleich vielen einzelnen und frei beweglichen Nord- und Südpolen ähneln. Diese werden zwar als magnetische Monopole bezeichnet, können aber nur paarweise, nicht einzeln auftreten und nicht als freie Teilchen existieren.
+
+Ein wirklicher magnetischer Monopol, zu dem kein Gegenpol existiert, ist bisher nicht beobachtet worden. Wenn es ihn als Teilchen gäbe, wäre er Träger einer "magnetischen Ladung" entsprechend der elektrischen Ladung; magnetische Ladungen wären Quellen und Senken des magnetischen Feldes (siehe auch Monopol (Physik)). Überlegungen über solche magnetischen Monopole gab und gibt es in verschiedenen Bereichen der theoretischen Physik. In der beobachteten Natur kennt man jedoch bisher nur magnetische Felder mit geschlossenen Feldlinien, die keine Quellen und Senken besitzen.
+
+In Festkörpern vom Typ Spin-Eis werden seit 2009 sogenannte Monopole beobachtet und erforscht. Es handelt sich um monopolähnliche Quasiteilchen in Gestalt der beiden Enden von langen Ketten „zusammenhängend“ ausgerichteter Elektronenspins. Sie können sich, vergleichbar Gasmolekülen, frei durch den Festkörper bewegen und verhalten sich in vielerlei Hinsicht wie echte einzelne magnetische Monopole. Sie können aber nur paarweise als Nord- und Südpol auftreten. Daher kann man sie zwar lokal als Quellen der Magnetisierung ansehen, global bleibt das Magnetfeld jedoch quellenfrei.
+
+Nach konzeptionellen Vorarbeiten von Castelnovo, Moessner und Sondhi konnte 2009 ein Team vom Helmholtz-Zentrum Berlin zusammen mit anderen Forschern durch Neutronenbeugung in einem Dysprosium-Titanat-Kristall (DyTiO) erstmals solche sogenannten Monopole in fester Materie beobachten.
+
+2010 gelang es am Paul-Scherrer-Institut mittels Synchrotronstrahlung ebenfalls, diese Quasi-Monopole abzubilden.
+
+2013 entdeckten Forscher der Technischen Universitäten Dresden und München, dass die Quasimonopole beim Abbau von Skyrmion-„Kristallen“ eine Rolle spielen können. Dieser Effekt könnte bei einer zukünftigen Nutzung von Skyrmionen in der Datenspeichertechnik wichtig sein.
+
+2014 gelang es Forschern um David Hall (University of Amherst) und Mikko Möttönen (Universität Aalto), Quasimonopole in einem ferromagnetischen Bose-Einstein-Kondensat nachzubilden.
+
+Ein Dirac-String (engl. "string" = Faden) ist eine gedachte Linie, die von einem magnetischen Monopol ausgeht. Für ein elektrisch geladenes Teilchen, das sich im Magnetfeld des Monopols bewegt, ist auf dieser Linie die Phase der quantenmechanischen Wellenfunktion singulär und die Aufenthaltswahrscheinlichkeit gleich Null. Wenn es einen magnetischen Monopol gibt, muss auch die Existenz einer solchen Linie angenommen werden, da Teilchen außerhalb der Linie sonst keine eindeutige Phase hätten. Ein solcher "string" müsste wegen der auf ihm verschwindenden Aufenthaltswahrscheinlichkeit beobachtbar sein und ist an den Quasimonopolen tatsächlich beobachtet worden. In den Veröffentlichungen über die Quasimonopole werden diese daher auch „Dirac-Monopole“ genannt; es handelt sich aber nicht um Monopole im Sinne von Elementarteilchen, eine Vorstellung, die ebenfalls auf Paul Dirac zurückgeht.
+
+Von Paul Dirac stammt die Spekulation, es könne den magnetischen Monopol als Elementarteilchen geben, welches das magnetische Gegenstück zum Elektron wäre. Für diese Idee sprechen zwei Argumente:
+Beide Argumente werden in den folgenden Abschnitten erläutert. Trotz intensiver Bemühungen konnte bisher allerdings die Existenz eines solchen Teilchens nicht nachgewiesen werden.
+
+Symmetrien spielen in der Physik eine fundamentale Rolle. Die im 19. Jahrhundert formulierten Maxwell-Gleichungen, die die elektrischen und magnetischen Phänomene beschreiben, zeigen eine unnatürlich erscheinende Asymmetrie zwischen den Vektoren der elektrischen Feldstärke formula_1 und der magnetischen Flussdichte formula_2. Während die elektrischen Ladungen als Ladungsdichte formula_3 und zugehörige Stromdichte formula_4 auftreten, sind wegen der Nichtexistenz magnetischer Ladungen die entsprechenden magnetischen Größen gleich Null:
+
+Nimmt man jedoch die Existenz von magnetischen Ladungen (Monopolen) an, so gäbe es auch eine von Null verschiedene magnetische Ladungsdichte formula_5 und magnetische Stromdichte formula_6, die Gleichungen würden dann lauten:
+
+Man erhielte also eine Theorie, die unter folgenden Transformationen unverändert bliebe (sog. "symplektische Symmetrie"):
+Die Existenz magnetischer Monopole würde also die Unterschiede zwischen elektrischem und magnetischem Feld weiter verringern, elektrische und magnetische Phänomene wären streng „dual“ zueinander.
+
+Wie im Fall der Maxwell-Gleichungen ohne magnetische Monopole lassen sich Potentiale einführen, die hilfreich zur Konstruktion von Lösungen der jeweiligen Differentialgleichungen sind und gewissen neuen Differentialgleichungen genügen. Zusätzlich zum elektromagnetischen Viererpotential formula_7 führt man ein zweites, „magnetoelektrisches“ Viererpotential formula_8 ein. Die Potentiale werden dabei so gewählt (wobei eine gewisse Willkür besteht, insofern es möglich ist), dass sich der Feldstärketensor als Differentialform
+ergibt, bzw. in Indexnotation als
+
+Die Maxwell-Gleichungen nehmen die folgende Form an (wobei formula_11 als Vierervektoren aufgefasst werden):
+
+Es ergeben sich hieraus die Kontinuitätsgleichungen:
+
+Für die Potentiale heißt das:
+Dies heißt, dass sich formula_7 genau wie im Fall ohne magnetische Monopole unabhängig von formula_19 verhält, und die Komponenten von formula_8 völlig analog in jeder Komponente die Wellengleichung mit magnetischer Ladung bzw. Strom als Inhomogenität erfüllen. Die Theorie weist auch eine zusätzliche Eichinvarianz auf: Für Skalarfelder formula_21 ist sie nicht nur invariant unter der Transformation
+sondern auch unter
+
+Die oben erwähnte Symmetrietransformation lässt sich in dieser Notation als Transformation über den Hodge-Stern-Operator vom Feldstärketensor zum dualen Feldstärketensor, formula_24 sowie durch die Übergänge formula_25 und formula_26 verstehen.
+
+Außer dem Drehimpuls ist auch die elektrische Ladung quantisiert, d. h. sie tritt nur als ganzzahliges Vielfaches der Elementarladung auf. Nach Dirac würde das Vorhandensein magnetischer Monopole diesen Umstand leicht erklären: Ein sich im Feld eines Monopols bewegendes Elektron wird auf eine gekrümmte Bahn abgelenkt. Die mit der Ablenkung einhergehende Änderung des Drehimpulses kann nur quantisiert in bestimmten diskreten Schritten erfolgen, muss aber proportional der elektrischen Ladung sein. Daher folgt aus der Drehimpulsquantisierung zusammen mit der Existenz des magnetischen Monopols direkt die Quantisierung der elektrischen Ladung. Die Überlegung würde in gleicher Weise auch für die magnetische Ladung gelten. Der Monopol wäre also Träger der magnetischen Elementarladung.
+
+Möglicherweise kann sich ein Hinweis auf die Existenz magnetischer Monopole aus den sogenannten Theorien der großen Vereinheitlichung (GUT) ergeben. Diese Theorien beschreiben die Vereinheitlichung der Elektroschwachen Kraft mit der Starken Kraft bei hohen Energien, wie sie bis etwa 10 Sekunden nach dem Urknall in unserem Universum herrschten. Durch die Abkühlung des expandierenden Universums sank die typische Teilchenenergie zu diesem Zeitpunkt unter einen kritischen Wert von ungefähr 10 GeV (das entspricht etwa 10 Kelvin). Dadurch wurde die Symmetriebrechung der vereinheitlichten Kraft in die separaten Kräfte Starke Wechselwirkung und Elektroschwache Wechselwirkung ausgelöst. Dabei traten unter anderem stabile punktförmige topologische Defekte des Eichfeldes, sogenannte Solitonen, auf – die magnetischen Monopole. Dieser Mechanismus ist in etwa mit den Vorgängen in erstarrenden Flüssigkeiten zu vergleichen. Die Kristallisation startet gleichzeitig an verschiedenen Raumpunkten. Wachsen nun zwei Kristalle zusammen, entstehen an den Kontaktflächen Gitterdefekte. Die Dichte der entstandenen Monopole lässt sich zum Zeitpunkt der Entstehung auf etwa 10 m abschätzen. Die Tatsache, dass die Teilchendichte heutzutage signifikant niedriger liegt, wird auch als ein weiterer Hinweis auf eine starke inflationäre Phase des frühen Universums gesehen. In diesen Theorien sind Aufbau und Eigenschaften eines GUT-Monopols genau beschrieben.
+
+Ein GUT-Monopol besitzt eine Masse von etwa 10 GeV, einen Durchmesser von ungefähr 10 m und eine definierte zwiebelähnliche Substruktur. Demnach liegt in der Nähe des Zentrums, d. h. im Bereich von 10 m, ein GUT-symmetrisches Vakuum vor. Daran schließt sich eine Schale der sogenannten elektro-schwachen Vereinigung an mit Teilchen wie den Eichbosonen der schwachen Wechselwirkung W, W und Z. Diese Zone geht bei etwa 10 m in die Confinement-Schale über, die mit Gluonen und Photonen angefüllt ist. Die äußerste Schale wird aus Fermion-Antifermion-Paaren gebildet.
+
+Untersucht man die Ablenkung eines geladenen Teilchens in der Umgebung eines Monopols, so stellt man fest, dass eine solche Anordnung die Zeitumkehrinvarianz verletzt. Das bedeutet, der Prozess verläuft bei Umkehrung der Zeitrichtung nicht in derselben Art und Weise ab. Diese Tatsache sprach lange Zeit direkt gegen die Existenz von magnetischen Monopolen. Nachdem jedoch im Jahre 1964 die CP-Verletzung im Zerfall der K-Mesonen nachgewiesen werden konnte, folgt aus dem CPT-Theorem direkt die Existenz T-invarianzverletzender Prozesse.
+
+Aufgrund der oben genannten inneren Struktur können GUT-Monopole den Protonen- und Neutronenzerfall katalysieren. Dabei werden folgende Reaktionen von den Theorien vorhergesagt ("M" steht für den Monopol):
+Der Monopol selbst zerfällt bei diesen Reaktionen nicht. Durch diese Zerfallsprozesse ist er also in der Lage, die Stabilität von Materie zu beeinflussen.
+
+Wegen der oben genannten sehr hohen Ruheenergie des GUT-Monopols – seine Masse ist mit der eines Bakteriums vergleichbar – kann man ihn selbst in Colliding-Beam-Experimenten nicht direkt erzeugen und nachweisen. Deshalb ist man bei der Suche nach Monopolen auf deren natürlich vorhandene Flussdichte angewiesen, die jedoch von den gängigen Theorien als sehr niedrig vorhergesagt wird.
+
+Ein mögliches Experiment zum Nachweis des hypothetischen Teilchens basiert auf der Verwendung supraleitender Spulen. Beim Durchgang eines Monopols durch eine solche Spule wird durch die Änderung des magnetischen Flusses ein Ringstrom induziert, der nachgewiesen werden kann. Ein solcher Kreisstrom ist tatsächlich nur mittels magnetischer Monopole und nicht etwa durch das Feld eines herkömmlichen Dipolmagneten erzeugbar. Jedoch erfordert die relativ große Störanfälligkeit solcher Experimente eine sorgfältige Versuchsdurchführung.
+
+Weitere Experimente, wie beispielsweise Super-Kamiokande (das Kamiokande-Nachfolgeexperiment), zielen auf den Nachweis des oben beschriebenen durch Monopole induzierten Protonenzerfalls. Hierbei dienen als Protonenträger beispielsweise mehrere (zehn-)tausend Tonnen hochreines Wasser. Die Abschätzung der zu erwartenden Zerfallsrate setzt allerdings die Kenntnis des typischen Wirkungsquerschnitts der Zerfallsreaktion voraus.
+
+In einem Spulenexperiment wurde 1982 von Blas Cabrera (Stanford University, USA) ein einziges Ereignis beobachtet. Es kann jedoch nicht ausgeschlossen werden, dass es sich hierbei um eine Fehlsignatur handelt. Gegenwärtige Experimente geben deshalb stets Obergrenzen des Teilchenflusses an, die derzeit, abhängig von der verwendeten Methode, etwa im Bereich von 10 scm liegen. Das bedeutet umgerechnet, dass eine Fläche von 1 m im Durchschnitt höchstens alle 30.000 Jahre von einem Monopol durchquert wird.
+
+Anhand der Lebensdauer galaktischer magnetischer Felder kann eine obere Grenze für die Häufigkeit auf der Erde auftreffender GUT-Monopole ermittelt werden. Diese wird auf durchschnittlich höchstens einen Monopol pro Quadratmeter der Erdoberfläche und 31.700 Jahre geschätzt, was dem sogenannten Parker-Limit von F < 10 cms entspricht.
+
+Auch in anderen Eichtheorien kann der Feldstärketensor in "magnetische" und "elektrische" Anteile aufgespalten werden. In diesen Theorien können dann auch magnetische Monopole existieren. Ein Beispiel ist die Quantenchromodynamik bzw. SU(3)-Yang-Mills-Theorie. Hier werden sogenannte "chromomagnetische Monopole" mit der Confinement-Hypothese in Verbindung gebracht. Sie kommen für mögliche Erklärungsszenarien in Frage, sind aber bisher rein theoretischer Natur.
+
+Der russische Astrophysiker Igor Nowikow geht davon aus, dass auch die Felder makroskopischer Schwarzer Löcher magnetische Monopole sein können. In diesem Fall würde es sich um die Mündung einer Einstein-Rosen-Brücke handeln.
+
+
+

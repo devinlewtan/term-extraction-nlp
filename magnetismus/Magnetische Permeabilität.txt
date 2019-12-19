@@ -1,0 +1,41 @@
+﻿Magnetische Permeabilität
+
+Die magnetische Permeabilität formula_1 (auch magnetische Leitfähigkeit) bestimmt die Fähigkeit von Materialien, sich einem Magnetfeld anzupassen, oder präziser die Magnetisierung eines Materials in einem äußeren Magnetfeld. Es bestimmt daher die Durchlässigkeit ( „durchgehen, durchdringen“) von Materie für magnetische Felder.
+
+Eine eng verwandte Größe ist die magnetischen Suszeptibilität.
+Die Permeabilität formula_1 ist das Verhältnis der magnetischen Flussdichte formula_3 zur magnetischen Feldstärke formula_4:
+
+Die magnetische Feldkonstante formula_6 ist eine physikalische Konstante und gibt die magnetische Permeabilität des Vakuums an. Auch dem Vakuum ist eine Permeabilität zugewiesen, da sich auch dort Magnetfelder einstellen oder elektromagnetische Felder ausbreiten können. Die "Permeabilitätszahl" formula_7, früher auch als "relative Permeabilität" bezeichnet, ist das Verhältnis
+
+Für das Vakuum ergibt sich folglich eine Permeabilitätszahl von Eins. Die dimensionslose Größe formula_7 hängt mit der magnetischen Suszeptibilität formula_10 zusammen über die Beziehung
+
+Vor allem in der Elektrotechnik werden zur Erfassung zeitabhängiger Effekte Phasoren für die Felder und entsprechend eine komplexe Permeabilität benutzt.
+
+Der Realteil der komplexen Permeabilität formula_13 entspricht der normalen Permeabilität. Der Imaginärteil formula_14 hingegen beschreibt die Größe der Ummagnetisierungsverluste. 
+
+Mit Ausnahme der ferromagnetischen Materialien mit einer deutlich höheren relativen Permeabilität als eins, ist auch der Imaginärteil der komplexen Permeabilität vernachlässigbar, ebenso die Frequenzabhängigkeit der Permeabilität. Es ergibt sich eine skalare, frequenzunabhängige Permeabilität:
+
+Bei ferromagnetischen Materialien kann die Frequenzabhängigkeit für viele technische Anwendungen nicht vernachlässigt werden, es ergibt sich:
+
+wobei formula_17 die Frequenz des magnetischen Wechselfeldes ist. Der Imaginärteil formula_18 ist direkt der Bewegung der Bloch-Wände im Material zugeordnet und bei einer Resonanz ergibt sich ein Maximum, in der Regel im Bereich 10–1000 kHz.
+
+Wie viele physikalischen Materialeigenschaften ist auch die komplexe Permeabilität in der verallgemeinerten linearen Form eigentlich ein dreidimensionaler Tensor zweiter Stufe. Bei den meisten Materialien ist die Anisotropie der magnetischen Eigenschaften aber so klein, dass eine Beschreibung als skalare, komplexe Permeabilität ausreichend ist.
+
+Magnetische Materialien lassen sich anhand ihrer Permeabilitätszahl klassifizieren.
+
+
+
+
+Die Magnetisierung hängt bei ferromagnetischen Stoffen im Allgemeinen nicht linear vom äußeren Magnetfeld ab. Es ist möglich, ferromagnetische Werkstoffe bis zur Sättigung zu magnetisieren. Aufgrund dieser magnetischen Sättigung sowie der magnetischen Remanenz ist auch die Permeabilität nicht konstant. Für kleine Felder ist die Permeabilität deutlich größer als nahe der Sättigung. Außerdem hängt die Magnetisierung von der vorhergehenden Magnetisierung ab, man sagt sie haben ein "Gedächtnis". Das Verhalten wird durch eine Hystereseschleife beschrieben. Die Definition als Verhältnis formula_26 entspricht nur der Steigung der Magnetisierungskurve, wenn diese linear ist.
+
+Je nach Anwendung werden verschiedene Definitionen der Permeabilität benutzt. Für technische Anwendungen ist sie in DIN 1324 Teil 2 insgesamt elf Mal mit unterschiedlichen Berechnungen definiert. Neben der Permeabilität formula_1 als Quotient aus magnetischer Flussdichte formula_3 in Tesla (T) und magnetischer Feldstärke formula_4 in Ampere pro Meter (A/m) wird die differentielle Permeabilität formula_30, also Steigung der Hysteresekurve an einem Ort, verwendet.
+
+Das Problem konstant angenommener Permeabilität kann man anhand der Hysteresekurve sehen. Die Permeabilität formula_30 entspricht der Steigung
+
+In anisotropen Materialien ist die magnetische Permeabilität, ähnlich wie die elektrische Permittivität formula_33, im Allgemeinen richtungsabhängig. Diese magnetische Anisotropie lässt sich in erster Näherung mit einer Matrix bzw. einem Permeabilitätstensor formula_34 beschreiben. Die Komponenten der Vektoren formula_3 und formula_4 hängen dann über die Gleichung
+
+zusammen. Die Schreibweise als Tensor 2. Stufe ist nur eingeschränkt geeignet, um die magnetische Anisotropie von ferromagnetischen Werkstoffen zu erfassen. Insbesondere die kristalline Anisotropie ist nichtlinear. Hier ist eine analoge Definition wie bei der differentiellen Permeabilität nötig. Nur in dem Fall, dass Linearität und Isotropie gegeben sind, ist die Permeabilität eine skalare Materialkonstante.
+
+
+
+

@@ -1,0 +1,257 @@
+﻿Schatz der Optik
+
+Schatz der Optik (, lateinisch "De aspectibus" oder "Perspectiva") ist eine von dem arabischen Gelehrten Alhazen (965–1039/1040) verfasste siebenbändige Schrift, in der unter anderem optische, physikalische und meteorologische Themen abgehandelt werden. Teilweise basiert sie auf älteren Schriften und Auffassungen griechischer Philosophen, enthält aber auch zahlreiche revolutionäre neue Theorien von Alhazen selbst. Das Buch wurde Ende des zwölften Jahrhunderts vom Arabischen in Latein übersetzt und damit der westlichen Welt zugänglich. 1572 wurde es von Friedrich Risner gedruckt. Es hatte einen großen Einfluss auf die mittelalterliche Wissenschaft und gilt als ein Startpunkt der Entwicklung der neuzeitlichen Optik.
+
+gemäß der englischen Übersetzung
+
+1. Über das Sehen herrscht Verwirrung.
+2. Das Sehen muss durch Mathematik und Naturwissenschaft beschrieben werden.
+3. Naturwissenschaftler dachten bisher, irgendeine Form geht vom Objekt zum Auge. Mathematiker dachten, Strahlen gehen vom Auge zum Objekt.
+4. Die Mathematiker haben sich verschiedene Versionen der Extramission ausgedacht.
+5. Die Wahrheit muss Extra- oder Intromission sein, oder irgendetwas anderes. Einigkeit ist erreichbar durch gründliche Forschung.
+6. Mein Ausgangspunkt ist die Vergewisserung über die Gegebenheiten, das Unveränderliche, die Prämissen und Prinzipien, die durch Induktion zu finden sind. Zur Vertiefung soll Kritik an den Prämissen und Schlüssen geübt werden. Entscheidend ist gerechtes Urteil statt Vorurteil, Wahrheitssuche statt Meinungsbeeinflussung. So kann die herzerfüllende Wahrheit erkannt werden; so können wir Gewissheit erlangen. Gott unterstützt uns beim Vertreiben der Trübung des menschlichen Geistes.
+7. Ich habe 7 Bände zur Optik geschrieben.
+8. Mein Vorgängerbuch zum Schatz der Optik möge man bitte wegwerfen.
+
+1. Zum Sehen ist ein gewisser Abstand zwischen Auge und Objekt nötig.
+2. Das Objekt muss dem Auge gegenüber sein. Gedachte Verbindungslinien zwischen Auge und Objekt dürfen nicht auf ein opakes Hindernis stoßen.
+3. Ansonsten ist das Objekt unsichtbar, so lange es sich in derselben Atmosphäre befindet und nicht gespiegelt wird.
+4. Nur derjenige Teil ist unsichtbar, dessen Verbindungslinie zum Auge unterbrochen wird vom Hindernis.
+5. Sichtbarkeit herrscht, wenn eine ununterbrochene gerade Linie zwischen dem gesehenen Punkt und dem Auge verläuft.
+6. Dies lässt sich experimentell mit einer Konstruktion aus Lineal und Röhre prüfen.
+7. Betrachte das Objekt durch eine gerade Röhre, mit und ohne Abschirmung der Röhre.
+8. Durch die Unsichtbarmachung ist die Geradlinigkeit der Lichtausbreitung gezeigt.
+9. Zweifelsfrei schlussfolgern wir: Sichtbares liegt auf einer geraden Linie zwischen Auge und Gesehenem.
+10. Ein Objekt ist sichtbar, wenn es selbst Licht enthält oder von einem anderen Objekt empfängt, unabhängig davon, ob das Auge in lichterfüllter Luft ist.
+11. Ein Objekt wird unsichtbar, wenn es klein genug ist; abhängig von der Sehkraft.
+12. Ein Objekt ist unsichtbar, wenn es transparent ist.
+13. Ein Objekt wird ab einem gewissen Abstand unsichtbar, abhängig von der Objektgröße.
+14. und von der Helligkeit des Objekts (z. B. Feuer).
+15. Wir schlussfolgern: Der Abstand der Sichtbarkeit hängt ab vom Licht im Objekt
+16. und von dessen Farbe (z. B. beim Schiff).
+17. Weiß wird vor grellen Farben sichtbar, diese wiederum vor trüben Farben.
+18. Wir schlussfolgern: Der Abstand der Sichtbarkeit ist abhängig von der Farbe des Objekts
+19. und von der Sehkraft.
+20. Sichtbarkeit hängt also ab vom Zustand des Objekts und der Augen.
+21. Das Auge sieht kein Objekt, es sei denn, das Objekt erfüllt die genannten Bedingungen und das Auge ist unbeschadet.
+22. Details werden schon bei kleineren Abständen unsichtbar.
+23. Ein Objekt wird als kleiner werdend empfunden, wenn es sich wegbewegt.
+24. Nah am Auge verschwimmt und verschwindet das Objekt scheinbar.
+25. Wir halten fest: Für das Sehen ist ein gemäßigter Abstand nötig.
+26. Als nächstes werden wir Licht und Strahlung untersuchen, dann das Auge, um dann den Sehvorgang zu diskutieren.
+
+1. Selbstleuchtende Körper strahlen in alle Richtungen und erhellen alle zugewandten Flächen, so lange diese nicht abgeschirmt oder zu weit weg sind.
+2. Die Strahlung ist geradlinig, wenn die Luft oder der transparente Körper zwischen leuchtendem und beleuchtetem Körper durchgängig gleichartig ist.
+3. Diese Geradlinigkeit ist eine unveränderliche Gegebenheit. Wir sehen sie zum Beispiel, wenn Licht durch Löcher, Spalte oder Türen in ein staubiges Zimmer eintritt. In einem staubfreien Zimmer können wir die Geradlinigkeit an einem opaken Gegenstand mit Hilfe einer geraden Stange nachvollziehen. Wir finden kein Licht auf krummen Bahnen.
+4. Ebenso bei Mond- und Sternenlicht, das durch ein Loch in die Dunkelkammer tritt. Blickt das Auge vom Lichtfleck zum Loch, sieht es den Stern.
+5. Licht kann ebenso mit einem opaken Körper bei geradlinigem Abstand abgefangen werden.
+6. Das funktioniert auch mit Feuer, und lässt sich mit einer durchs Loch geschobenen geraden Stange überprüfen.
+7. Die Geradlinigkeit ist auch an Schatten nachvollziehbar, denn hier ist die geradlinige Verbindung zum luminösen Körper unterbrochen.
+8. Wir schlussfolgern: Strahlung von selbstleuchtenden Körpern verläuft geradlinig.
+9. Die Gesamtheit des selbstleuchtenden Körper besitzt mehr Licht als dessen Teile, wie wir zum Beispiel beim Sonnenauf- und Untergang merken.
+10. Licht strahlt von jenem Teil der Sonne auf ein Objekt, der dem Objekt zugewandt ist.
+11. Dasselbe gilt bei Sonnenfinsternis; jeder Teil der Sonne strahlt.
+12. Licht kommt geradlinig von jedem Teil der Sonne, siehe Sonnenfinsternis.
+13. Das wird auch daran deutlich, dass die Strahlen vom Loch in der Dunkelkammer auseinanderlaufen.
+14. Die Strahlung geht geradlinig von jedem Teil der Sonne zu jeder gegenüberliegenden Fläche.
+15. Dies gilt ebenso für den zunehmenden und abnehmenden, aufgehenden und untergehenden, sowie für den verfinsterten Mond.
+16. Ebenso für Feuer, wie wir mit einem Rohr in einer Kupferplatte experimentell prüfen können.
+17. Verschiedene Varianten unseres Experiments bestätigen, dass Licht vom gesamten Feuer stärker ist als von einem Teil davon.
+18. Wenn wir das Rohr unterschiedlich neigen, sehen wir, dass von jedem Teil der Flamme in alle Richtungen Licht strahlt.
+19. Wir schlussfolgern: Licht geht entlang jeder geraden Linie von jedem Teil jedes selbstleuchtenden Körpers aus.
+20. Ausgedehnte selbstleuchtende Körper sind kontinuierlich, insofern die kleinen Teile die Form des Feuers bewahren (z. B. in der Sonne, im Mond, und in den anderen Himmelskörpern), jeder noch so kleine Teil strahlt.
+21. Wir definieren das Licht von selbstleuchtenden Körpern als Primärlicht.
+22. Wenn das Tageslicht von der Sonne kommt, wieso sind dann selbst Schatten in Innenhöfen erhellt?
+23. Selbst vor und nach Sonnenaufgang sind die Atmosphäre und die Erde lichterfüllt.
+24. Beleuchtete Flächen erhellen gegenüberliegende Flächen.
+25. Dies können wir experimentell prüfen anhand einer Tür vor sonnenbeschienener Wand.
+26. Den Versuch können wir steigern mit einer Kammer in einer Kammer mit weißen Wänden. Das ist ebenso machbar bei Mond- und Tageslicht.
+27. Die Experimente zeigen, dass von dem Licht, welches auf einen Körper scheint, Licht in jede entgegengesetzte Richtung strahlt. So beleuchtet die Sonne die Atmosphäre, die Atmosphäre wiederum die Erde.
+28. Dies erklärt die hellen Schatten.
+29. Diese zufälligen Lichter können anhand von Gewissheit bringenden Experimenten untersucht werden; z. B. in einer Kammer in einer Kammer mit Löchern von Ost nach West.
+30. Wir spannen Fäden durch die Löcher und markieren die Schnittpunkte mit den Wänden.
+31. Bei Nacht ohne helle Sterne wird die Wand an den markierten Stellen dunkel sein.
+32. Bei erhellter Atmosphäre ergeben sich an den markierten Stellen Lichtflecken, die einzeln abgeschattet werden können.
+33. Wir können das Licht mit einem opaken Körper auffangen und auch zusätzliche Löcher in die Wände bohren.
+34. Wir schlussfolgern: Licht strahlt geradlinig von der Atmosphäre ab.
+35. Auf krummen Bahnen zwischen den Löchern und Wänden ist kein Licht.
+36. Ein Hindernis unterbricht nicht die Kontinuität der Luft.
+37. Licht strahlt geradlinig von jedem Teil der erleuchteten Luft in alle entgegengesetzten Richtungen ab.
+38. Tageslicht kommt geradlinig von der erhellten Atmosphäre.
+39. Man könnte einwenden, dass abends kein Licht durch die Atmosphäre kommt, obwohl stets die halbe Atmosphäre hell ist.
+40. Darauf antworte ich: Licht wird mit der Entfernung schwächer, also je mehr es in den Schattenkegel der Erde eindringt.
+41. Bei Sonnenaufgang grenzt die beleuchtete Atmosphäre direkt an den Schattenkegel an, ist also dem Betrachter nah und erscheint deshalb hell.
+42. Die Helligkeit ist abstandsabhängig; so entsteht eine Lichtsäule bei Dämmerung, Dunkelheit bei Nacht – dies ist geometrisch begründbar.
+43. Das Licht ist nicht der Luft innewohnend, sondern wird wie von einer Wand zurückgeworfen.
+44. Die Lichtmenge ist volumenabhängig.
+45. Morgen- und Abendlicht rühren vom großen Luftvolumen her, das durchblickt wird.
+46. Entlang der geraden Linie zum Auge multiplizieren sich die schwachen Lichter der verschiedenen Luftabschnitte, daher wird das Licht sichtbar.
+47. So hätten wir dieses Problem geklärt: Morgen- und Abendlicht kommen von der sonnenerhellten Luft.
+48. Wir können zufälliges Licht experimentell anhand von Wänden mit Türen und einem speziell markierten Holzblock prüfen.
+49. Wir markieren Winkel und Abstände auf dem Würfel.
+50. Wir bohren ein horizontales sowie ein schräg durchgehendes Loch ein.
+51. Wir setzen den Würfel in eine Wand ein, die einer weißen, beleuchteten Wand gegenübersteht.
+52. Wir schieben einen Stab mit Spitze durch das horizontale Loch im Würfel und markieren den Auftreffpunkt auf der weißen Wand.
+53. Wir schauen durch das Loch auf den markierten Punkt und kreisen den Kopf so weit, bis der Punkt unsichtbar wird.
+54. Den entsprechend anvisierten Kreis markieren wir auf der weißen Wand.
+55. Der Kreis muss gegebenenfalls korrigiert werden.
+56. Auch durch das schräge Loch wird der Kreis zu sehen sein.
+57. Das liegt an den vorher festgestellten Proportionen.
+58. Daher schneiden sich die Achsen der Löcher im Kreis auf der Wand.
+59. Der Kreismittelpunkt liegt auf der Achse des horizontalen Lochs
+60. Ebenso wie auf der Achse des schrägen Lochs.
+61. Die Längen der Löcher verhalten sich zueinander wie die Strecken von den Löchern bis zur weißen Wand.
+62. Dementsprechend sind die Kreise proportioniert.
+63. Dementsprechend verhalten sich die Kreise zu den horizontalen Strecken.
+64. Dementsprechend verhalten sich die schrägen Strecken zu den horizontalen Strecken.
+65. Dementsprechend verhalten sich die Kreise zu den schrägen Strecken.
+66. Daher kann nur der markierte Kreis durch das schräge Loch gesehen werden.
+67. Wenn mehr zu sehen ist, muss der Würfel korrigiert werden.
+68. An Stelle des Kreises auf der Wand bohren wir nun ein konisches Loch in die weiße Wand und bedecken das Loch mit weißem Tuch.
+69. Bei bedecktem schrägen Loch lassen wir in der Dunkelkammer durch das horizontale Loch einen weißen Gegenstand beleuchten, indem Licht von der weißen Wand kommt, welches wiederum von der Atmosphäre kommt.
+70. Wenn das weiße Tuch entfernt wird, verschwindet der Lichtfleck in der Dunkelkammer. Falls Restlicht vom Innern des Rohres kommt,
+71. sollte man das Rohr schwarz ausmalen.
+72. Licht erscheint, sobald das weiße Tuch das Loch in der weißen Wand bedeckt.
+73. Licht kommt also nur vom weißen Tuch herein,
+74. Licht auf krummen Bahnen nicht.
+75. Ein weißer Gegenstand zwischen dem Loch in der weißen Wand und dem Loch im Würfel wird die Kammer erhellen; ein weiterer Gegenstand zwischen dem Würfel-Loch und dem innen befindlichen Gegenstand wird das Licht wegnehmen.
+76. Wie [73] & [74].
+77. Zufälliges Licht geht nur geradlinig
+78. Denn auf krummen Linien kommt nichts an.
+79. Das Licht wird mit zunehmendem Abstand schwächer.
+80. Dieselben Beobachtungen sind beim schrägen Loch möglich.
+81. Wir schlussfolgern: Licht kommt nur vom weißen Tuch und nur geradlinig.
+82. Das Licht wird schwächer mit zunehmendem Abstand des Gegenstands vom schrägen Loch.
+83. Nun öffnen wir beide Löcher gleichzeitig.
+84. Nun verwenden wir beliebig viele Löcher. Wir schlussfolgern: Ein von Tageslicht beleuchteter Körper strahlt geradlinig in alle Richtungen.
+85. Bei Sonnenschein funktioniert das gleich, nur besser.
+86. Ebenso funktioniert es mit Mond- und Feuerlicht.
+87. Wir schlussfolgern: Zufälliges Licht in opaken Körpern strahlt geradlinig in alle Richtungen und wird mit zunehmendem Abstand schwächer.
+88. Wir definieren Licht von zufällig beleuchteten Körpern als Sekundärlicht, jedoch geht es auf dieselbe Weise vom Körper aus wie Primärlicht.
+89. Dies können wir im Experiment prüfen: Ein Lichtfleck von einem Loch in der Dunkelkammer strahlt ähnlich einem Primärlicht und kann durch eine Tasse abgeschirmt werden.
+90. Mit einem Spiegel wird die Dunkelkammer heller auf Grund des hellen Lichtflecks.
+91. Ohne Spiegel ist das Licht in der Dunkelkammer nicht basierend auf Spiegelung.
+92. Der Spiegel kann ein Objekt beleuchten.
+93. Wir tauschen ein weißes gegen ein schwarzes Objekt.
+94. Wir schlussfolgern: Das überall in der Dunkelkammer gesehene Licht ist Sekundärlicht, es entsteht nicht auf Grund von Spiegelung.
+95. Ebenso verhält sich Licht vom Mond.
+96. Dasselbe gilt für Licht von Gegenständen, die von einem Feuer beleuchtet sind.
+97. Spiegel hingegen reflektieren; zudem senden sie Licht wie jeder andere Körper in alle Richtungen aus.
+98. Jeder Teil eines Objekts strahlt in alle Richtungen, auch wenn dies wegen geringer Lichtmenge manchmal nicht wahrnehmbar ist.
+99. Reflektiertes Licht geht geradlinig.
+100. Dies können wir im Experiment prüfen, indem wir das reflektierte Licht mit einem opaken Objekt auffangen.
+101. Mit einer Nadel können wir einen Teil des reflektierten Lichts auffangen; mit Lineal prüfen wir anhand des Schattens die geradlinige Lichtausbreitung
+102. Wir schlussfolgern: Licht wird stets geradlinig, nie krummlinig reflektiert.
+103. Die Reflexion erfolgt nur in einer bestimmten Richtung.
+104. Auch nach Übergang in einen transparenten Körper von anderer Transparenz ist die Ausbreitung geradlinig.
+105. Dies können wir experimentell prüfen: Wir halten eine Glaskugel im Sonnenlicht vor eine Wand, ihr Schatten empfängt Licht, das durch einen opaken Körper aufgefangen werden kann. Die Geradlinigkeit der Lichtausbreitung überprüfen wir mit einer Nadel als Schattengeber.
+106. Licht geht nur in bestimmten geraden Linien durch den transparenten Körper.
+107. Licht im transparenten Körper hat nicht dieselbe Richtung wie das Licht davor oder dahinter, außer bei senkrechtem Eintritt.
+108. Der Austrittspunkt strahlt Sekundärlicht ab.
+109. Dies können wir experimentell prüfen: Ein Loch in der Dunkelkammer beleuchtet eine Glaskugel so, dass sie Gegenstände drum herum erhellt.
+110. Licht geht also von allen leuchtenden Körpern geradlinig in alle Richtungen.
+111. Sekundärlichter sind schwächer als Primärlichter; beide werden mit zunehmendem Abstand schwächer.
+112. Reflexion und Brechung geschehen geradlinig und nur in bestimmten Richtungen.
+113. Farbe geht einher mit Licht.
+114. Sekundärlichter sind stark farbig wenn der strahlende Körper stark farbig und der gegenüberliegende Körper schwach farbig ist.
+115. Grüne Pflanzen im Sonnenlicht färben eine nahe stehende, im Schatten befindliche Hauswand grün.
+116. Das Blattgrün erscheint im Schatten auf der Wand, im Boden und auf einer weißen Robe.
+117. Eine experimentelle Prüfung ist jederzeit möglich.
+118. Wir können folgendes Experiment durchführen: Ein vom Loch in der Dunkelkammer beleuchteter purpurner Körper färbt alle Innenwände purpur.
+119. Weißes Tuch in der Nähe des purpurnen Körpers ist umso stärker gefärbt, je näher es ist; rundum platzierte weiße Körper werden gefärbt.
+120. Dies funktioniert mit allen hellen Farben. Weiß erhellt alles, Schwarz verdunkelt alles.
+121. Farbe geht also stets einher mit Licht. Sie breitet sich ebenso geradlinig aus und nimmt mit vergrößertem Abstand ab.
+122. Die von anderen Objekten empfangene Farbe gelangt nicht durch Reflexion ins Auge, sondern wie von farbigen Köpern.
+123. Wir halten [122] nochmals fest.
+124. Wenn wir eine farbige Flüssigkeit in einem Glas vor das Loch einer Dunkelkammer halten, erscheint ein hingehaltenes weißes Tuch in klarer Farbe, die mit zunehmendem Abstand vom Glas schwächer wird.
+125. Dies funktioniert ebenso mit gefärbtem Wasser, die Farbe ist also an das Licht gebunden.
+126. Dies funktioniert ebenso mit einem flüssigkeitsgefüllten Glas, das von Feuer beleuchtet wird.
+127. Wir schlussfolgern: Zusammen mit dem Licht geht auch die Farbe aus transparenten Körpern hervor.
+128. Wir schlussfolgern weiterhin: Farbe allgemein geht stets mit dem Licht einher; wenn sie nicht sichtbar ist, ist der Sehsinn zu schwach dafür.
+129. Transparente Körper können ihre Farbe so wie Licht von selbst oder von anderen Körpern erhalten; sie strahlt wie Licht geradlinig in alle Richtungen.
+130. Farbe kann nicht von Körpern ausgehen, außer sie werden mit dem Licht abgestrahlt.
+131. Es ist nicht anzweifelbar oder ungewiss, dass Farbe und Licht gemeinsam von Körpern abstrahlen.
+132. Einige betrachten Farbe als etwas, was zwischen Auge und Licht entsteht, aber die schillernden Farben der Pfauenfedern beruhen auf Reflexion.
+133. Die Farbe von opaken Körpern hingegen ist rundum sichtbar (wenn auch unterschiedlich stark), beruht also nicht auf Reflexion.
+134. Farbe kommt von farbigen Körpern, z. B. von einem schamerfüllten Gesicht (während das äußere Licht und der Beobachterstandpunkt gleichbleiben).
+135. Angst färbt das Gesicht gelb.
+136. Wir schlussfolgern, dass Farbe eine Form des farbigen Körpers ist; es ist nicht ungewiss, dass sie nicht von externen Faktoren herrührt.
+137. Selbst da Farbe mit den Lichtbedingungen schwankt, kann ihre eigene Realität nicht bezweifelt werden.
+138. Da Licht natürlich in alle Richtungen abstrahlt, und da Farbe ans Licht gebunden ist, ist die Farbausbreitung um den Körper unabhängig vom Auge.
+139. Farbe beruht nicht auf Reflexion und wird nicht vom Sehsinn erzeugt.
+140. Wenn dem so ist, dann ist die Farbe des vom farbigen Körper bestrahlten Objekts eine Form auf dem bestrahlten Objekt.
+141. Da dem so ist, strahlt der beleuchtete Körper Farbe und Licht in alle Richtungen, unabhängig vom Auge.
+142. Farbe breitet sich mit dem Licht in alle Richtungen geradlinig aus.
+143. Dies geschieht, so lange der Körper beleuchtet ist und die angrenzenden Körper kontinuierlich transparent sind.
+144. Warum aber erscheint die Farbe nur auf abgeschatteten und vorrangig auf weißen Körpern, und nur wenn der gegenüberliegende Körper farbenkräftig ist? Dies ist durch den Sehsinn bedingt.
+
+1. In helles Licht zu schauen – zum Beispiel in direktes oder gespiegeltes Sonnenlicht – schmerzt.
+2. Nach langem Betrachten eines hell beleuchteten weißen Körpers legt sich scheinbar ein dunkler Schleier zwischen Betrachter und Betrachtetem; ob bei Sonnen – oder Feuerbeleuchtung.
+3. Nach langem Betrachten eines weißen Objekts bei Tageslicht erscheint etwas Gleichartiges wieder, sobald man auf eine dunkle Stelle schaut, sowie bei geschlossenen Augen.
+4. Gleiches geschieht nach langem Betrachten eines feuerbeleuchteten Körpers oder eines Lochs in der Dunkelkammer.
+5. Offenbar erzeugt Licht eine gewisse Wirkung auf den Sehsinn.
+6. Nach langem Betrachten einer hell beleuchteten Wiese oder eines purpurnen Körpers erscheint ein dunkler Ort grün beziehungsweise purpur.
+7. Wir schlussfolgern: Beleuchtete Farben wirken sich auf den Sehsinn aus.
+8. Die nachts sichtbaren Sterne sehen wir tagsüber nicht, da dann die Atmosphäre lichterfüllt ist.
+9. Von Feuer beleuchtete Details eines Objekts sind nicht mehr sichtbar, wenn der Betrachter auch das Feuer im Blick hat.
+10. Offenbar behindert helles Licht, das auf die Augen scheint, das Sehen von schwach beleuchteten Objekten.
+11. Details auf einem spiegelnden Objekt verschwinden, wenn es den hellen Himmel oder eine helle Wand ins Auge spiegelt.
+12. Dasselbe gilt für feine Schrift auf glattem Papier.
+13. Ein angezündeter Körper im Sonnenschein ist unsichtbar, aber das Feuer ist sichtbar.
+14. Ebenso wirkt ein weißes Objekt, das von einem beleuchteten farbigen Körper bestrahlt wird, im Schatten farbig, nicht aber im Sonnenschein.
+15. Ebenso wirkt ein Objekt, das von einem mit farbiger Flüssigkeit gefüllten Glas beleuchtet wird, nicht mehr farbig, wenn es mit einem weiteren Feuer beleuchtet wird.
+16. Manche Meerestiere und Glühwürmchen scheinen im Dunkeln wie Feuer zu leuchten, aber nicht bei Tageslicht oder Feuer.
+17. All dies zeigt, dass die starken Lichter sichtbarer Objekte gewisse Eigenschaften verschwinden lassen, die bei schwacher Beleuchtung sichtbar sind.
+18. An dunklen Orten verschwinden Details, die im Hellen sichtbar sind, z. B. Gravuren oder Schrift.
+19. Starkes Licht kann also gewisse Details hervorbringen, die in starkem Licht verschwinden.
+20. Dunkle Farben wirken im Hellen klar und deutlich, wirken in schwachem Licht jedoch schwarz.
+21. Starke Beleuchtung macht weiße Körper heller und mattfarbige Körper farbiger.
+22. Transparente, stark gefärbte Flüssigkeit wirkt in schwachem Licht schwarz, in hellem Licht farbig.
+23. Dasselbe gilt für transparente Steine.
+24. Der Schatten eines transparenten, farbigen Körpers wirkt farbig bei starkem und farblos bei schwachem Licht.
+25. Pfauenfedern und der Stoff abu qalamun ändern je nach Beleuchtung scheinbar ihre Farben.
+26. Wir schlussfolgern: Der Sehsinn nimmt Farben je nach Beleuchtung unterschiedlich wahr.
+27. Weiterhin hängt die Farbe ab vom Licht im Gegenstand, auf dem Auge, und auf der Luft.
+28. Warum starkes Licht die Sicht auf gewisse Objekte behindert, werde ich im Zusammenhang mit dem Sehvorgang erklären.
+
+1. Das Auge besteht aus diversen Schichten, Membranen und Körpern; es entspringt aus dem Vorderhirn.
+2. Zwei hohle, zweischichtige Nerven kreuzen sich vor dem Gehirn und führen in die Augenhöhlen.
+3. Die Nerven gehen durch Öffnungen in den Augenhöhlen und führen trichterartig zum Auge.
+4. Die Augäpfel bestehen aus mehreren Schichten.
+5. Die erste Schicht besteht aus weißem Fett und heißt Conjunctiva.
+6. Die zweite Schicht ist schwärzlich, samtartig ausgekleidet und heißt wegen ihrer Traubenartigkeit Uvea. Sie ist von der Conjunctiva bis auf vorn bedeckt.
+7. Gegenüber vom Nerv ist ein Loch in der Uvea.
+8. Das Loch und die offenliegende Uvea sind bedeckt von der hornartigen Cornea.
+9. Gegenüber vom Loch liegt das linsenförmige, feuchte, eisartig transparente Krystallin.
+10. Diese Körperflüssigkeit ist zweiteilig. Der hintere Teil ist ähnlich transparent wie zerbröseltes Glas, daher heißt er Glaskörper. Beide Teile sind umschlossen von der spinnennetzartigen Aranea.
+11. Die Cornea geht aus der äußeren Schicht des hohlen Nervs hervor, die Uvea aus der inneren.
+12. Eine eiweißartige Flüssigkeit, die albuginöse Flüssigkeit, erfüllt das Augeninnere.
+13. Zwischen all den transparenten Körpern bestehen gerade Linien.
+14. Man sagt, der Sehgeist fülle die Nerven und verleihe dem Krystallin die Sehkraft.
+15. Der Nerv erstreckt sich von der Öffnung in der Augenhöhle bis zum Krystallin. Dabei weitet er sich.
+16. Die Conjunctiva umschließt den divergierenden Nerv. Das Auge bewegt sich stets als Ganzes.
+17. Der Nerv wird nur an der Öffnung zur Augenhöhle gebogen.
+18. Da die Hornhaut übergeht in die Augenoberfläche, ist ihr Radius größer als der der Uvea.
+19. Laut Kugelgeometrie liegt das Zentrum der Hornhautinnenseite weiter innen als das der Uvea.
+20. Das Zentrum der äußeren Oberfläche ist ebenso weiter innen gelegen.
+21. Eine gerade Linie geht durch die beiden Zentren, und durch die Zentren der Öffnung und der Hornhaut.
+22. Die Zentren von albuginöser Flüssigkeit und Cornea fallen zusammen.
+23. Die gerade Linie durch Uvea, Cornea und Loch davor geht durch das Zentrum des Nervenhohlraums.
+24. Der Schnittkreis zwischen der Vorder- und Rückseite vom Krystallin ist der verbindende Kreis, oder parallel dazu.
+25. Die gerade Linie durch die Zentren von Uvea und Krystallin geht senkrecht durch den verbindenden Kreis
+26. und senkrecht durch den Rest vom Krystallin.
+27. So geht die Linie durch den Nervenhohlraum.
+28. Diese Linie geht senkrecht durch alle Teile des Auges.
+29. Höchstwahrscheinlich fallen das Zentrum der Kugel der hinteren Oberfläche vom Krystallin und das Zentrum der Kugel der Cornea zusammen.
+30. Alle Schichten, die dem Loch der Uvea gegenüberliegen, haben ihr Zentrum mitten im Augapfel.
+31. Bei Augenbewegung ändert sich die Lage dieses Zentrums nicht.
+32. Die Nervbiegung findet hinter diesem Zentrum statt.
+33. Der Nerv liegt symmetrisch in Bezug auf den verbindenden Kreis.
+34. Die Oberfläche des Nervenhohlraums ändert ihre Position bezüglich des Augapfels nicht.
+35. Die Linie durch die Zentren der Augenschichten geht gerade durch die Mitte des Nervenhohlraums.
+36. Dies sind also die Positionen und Proportionen.
+37. Die Geometrie ist für beide Augen dieselbe.
+38. Die Conjunctiva ist mit je zwei Muskeln befestigt; Lidern und Wimpern bedecken die Augen.
+39. Alles Gezeigte steht in den Anatomiebüchern.
+
+

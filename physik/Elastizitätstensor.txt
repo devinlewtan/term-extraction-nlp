@@ -1,0 +1,59 @@
+﻿Elastizitätstensor
+
+Der Elastizitätstensor bildet in der linearen Elastizität die Verzerrungen auf die Spannungen ab. Anisotropes Materialverhalten kann durch ihn abgebildet werden. Das Teilgebiet der Physik, das sich mit elastischen Verformungen befasst, wird Elastizitätstheorie genannt. Sie ist Teil der Kontinuumsmechanik und dadurch gekennzeichnet, dass elastische Deformationen reversibel sind: nach Wegfallen der äußeren Kraft kehrt das Material in seine Ausgangsform zurück. Das ist nicht mehr der Fall, wenn es zu Brüchen kommt oder zu plastischem Fließen – letzterer Fall wird durch die Plastizitätstheorie behandelt.
+
+Mechanische Spannungen werden zur Berechnung als Kraftansatz an einer (Schnitt-)Fläche eines Körpers betrachtet. Eine Kraft wird dabei zur Berechnung in die Komponente Normalspannungen (formula_1), senkrecht auf der gewählten Ebene, und Schubspannungen (formula_2), in der Ebene, geteilt. Diese verschiedenen Spannungen werden im Spannungstensor zusammengefasst:
+
+Entsprechend werden die Deformationen im Verzerrungstensor zusammengefasst:
+
+An einem einfachen Radiergummi kann man erkennen, dass ein Ziehen entlang der x-Achse nicht nur eine Deformation in x-Richtung verursacht, sondern den Radiergummi auch seitlich dünner werden lässt (Querkontraktion), d. h., formula_5 hängt auch linear mit den seitlichen Verschiebungen formula_6 und formula_7 zusammen.
+
+Im Folgenden seien "kleine Auslenkungen" angenommen. Dadurch kann das verallgemeinerte Hookesche Gesetz herangezogen werden, das einen linearen Zusammenhang zwischen Spannung und Verzerrung herstellt
+
+Hierbei ist der Elastizitätstensor formula_9 ein Tensor vierter Stufe, mit 3×3×3×3 = 81 Komponenten. Komponentenweise lautet der Zusammenhang
+bzw. mit der Einsteinschen Summenkonvention
+
+Zur Vereinfachung der Darstellung lassen sich unter gewissen Voraussetzungen Symmetrien der beteiligten Tensoren ausnutzen:
+Diese beiden Voraussetzungen ergeben die beiden "Nebensymmetrien"
+des Elastizitätstensors. Außerdem ergibt sich daraus, dass die Matrizen formula_18 und formula_19 jeweils nur 6 unabhängige Komponenten haben. Die Anzahl der unabhängigen Komponenten im Elastizitätstensor hat sich dadurch auf 6×6=36 reduziert.
+
+Die "Hauptsymmetrie"
+folgt aus der Hyperelastizität, welche das hier angenommene Hookesche Gesetz als Spezialfall enthält, unter Berücksichtigung des Satzes von Schwarz. Dadurch reduziert sich die Anzahl der unabhängigen Elastizitätskomponenten auf 21.
+
+Mithilfe der Voigtschen Notation werden die Komponenten der Spannungs- und Verzerrungsmatrizen jeweils in einem Spaltenvektor zusammengefasst. Dadurch lässt sich das Hookesche Gesetz in der Kelvin-Voigtschen Notation zu
+
+bzw. in der Kelvin-Mandelscher Notation
+
+darstellen, wobei in dieser Notation aufgrund der Hauptsymmetrie formula_23 gilt. Je nach Material und dessen Symmetrieeigenschaften können weitere Komponenten eliminiert werden, wie unten deutlich wird.
+
+Im Falle eines quadratisch nichtlinearen Materials ergibt sich der Zusammenhang
+zwischen Spannungstensor und Verzerrungstensor. Auch hier lassen sich obengenannte Symmetrien ausnutzen und die Matrix-Vektor-Notation einführen.
+
+Die vollständige (trikline) Anisotropie ist die allgemeinste Form eines Elastizitätsgesetzes. Sie zeichnet sich durch die folgenden Eigenschaften aus:
+Viele Faser-Kunststoff-Verbundwerkstoffe sind anisotrop. Ingenieure versuchen die aus vollständiger Anisotropie resultierenden Effekte zu nutzen.
+
+Die monokline Anisotropie hat für Konstruktionswerkstoffe wenig Bedeutung. Folgende Eigenschaften zeichnen die monokline Anisotropie aus:
+
+Viele Konstruktionswerkstoffe sind orthotrop, z. B. technisches Holz, Gewebe, viele Faser-Kunststoff-Verbunde, Walzbleche mit Textur usw. Die Orthotropie darf nicht mit der Anisotropie verwechselt werden. Der bloße richtungsabhängige Elastizitätsmodul ist noch kein Hinweis auf die Anisotropie. Die Orthotropie ist ein Sonderfall eines vollständig anisotropen Elastizitätsgesetzes.
+Die Orthotropie zeichnet sich durch die folgenden Eigenschaften aus:
+Orthotrope Werkstoffe machen also keine Schubverzerrung, wenn sie gedehnt werden. Dies macht sie für den Konstrukteur leicht handhabbar. Daher wird in der Faserverbundtechnik gezielt mit orthotropen Schichten wie dem ausgeglichenen Winkelverbund gearbeitet. Schichtholz wird so aufgebaut, dass es orthotrope Eigenschaften besitzt.
+
+Die transversale Isotropie zeichnet sich dadurch aus, dass das Elastizitätsgesetz um eine Achse gedreht werden kann, ohne dass es sich ändert. Es ist also gegenüber der Drehung invariant. Ein Beispiel für ein transversal isotropes Material ist ein Rundholz oder eine unidirektionale Schicht. Die elastischen Eigenschaften des Rundholzes ändern sich nicht, wenn man es um seine Längsachse dreht. Dennoch besitzt das Holz unterschiedliche Moduln längs und quer zur Faser.
+Die transversale Isotropie wird durch die folgenden Eigenschaften charakterisiert:
+Die transversale Isotropie ist ein Sonderfall der allgemeinen Orthotropie.
+
+Das isotrope Gesetz ist das bekannteste und wichtigste Elastizitätsgesetz. Mit ihm können nahezu alle Metalle und unverstärkte Kunststoffe beschrieben werden. Auch kurzfaserverstärkte Kunststoffe können isotrop sein, wenn man die Verstärkungsfasern statistisch verteilt (siehe: Faser-Matrix-Halbzeuge). Das isotrope Elastizitätsgesetz zeichnet sich für den Konstrukteur hauptsächlich durch die Invarianz gegenüber der Drehung aus. In einer Konstruktion ist es also unerheblich, wie der isotrope Werkstoff orientiert wird. Gewalzte metallische Bleche können eine schwache Anisotropie aufweisen.
+
+
+
+Siehe auch: Lamé-Konstanten.
+
+Die unterschiedlichen Elastizitätsgesetze zeichnen sich durch ihre Kopplungen aus. Eine Kopplung bezeichnet den Effekt, dass das Material mit einer Verformung außerhalb der Wirkrichtung der Belastung reagiert.
+
+Dies ist die bekannteste Kopplung. Sie wird auch als Querkontraktionskopplung bezeichnet. Die Kopplung bewirkt, dass sich der Werkstoff bei Zug einschnürt, bzw. bei Druck verbreitert. Ingenieure haben gelernt mit der Dehnungskopplung umzugehen und wenden sie gezielt an, z. B. beim Nieten. Praktisch alle Konstruktionswerkstoffe besitzen diese Kopplung.
+
+Besonders bei anisotropen Werkstoffen tritt diese Kopplung auf. Orthotrope Werkstoffe besitzen sie nicht. Die Dehnungs-Schiebungs-Kopplung erzeugt eine Schiebung bei einer Dehnung des Materials. Umgangssprachlich wird dies auch als Verzug bezeichnet. Mit Hilfe der klassischen Laminattheorie kann untersucht werden, ob ein Werkstoff eine Dehnungs-Schiebungs-Kopplung besitzt.
+
+Die Schiebungs-Schiebungs-Kopplung tritt nur bei anisotropen Werkstoffen auf. Eine Schiebung in der Ebene erzeugt hier auch eine Schiebung aus der Ebene heraus.
+
+

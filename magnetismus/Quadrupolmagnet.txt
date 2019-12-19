@@ -1,0 +1,24 @@
+﻿Quadrupolmagnet
+
+Ein Quadrupolmagnet ist eine Anordnung von vier magnetischen Polen, bei der sich die Nord- und die Südpole jeweils gegenüberliegen. Mathematisch tritt das magnetische Quadrupolfeld bei der Multipolentwicklung des Magnetfeldes als zweiter nichtverschwindender Term auf. Für eine prinzipielle Skizze siehe auch den elektrischen Quadrupol.
+
+In der Beschleunigerphysik werden Quadrupolmagneten zur Fokussierung des Teilchenstrahls in Beschleunigern und Strahlführungen eingesetzt. Dabei wird ausgenutzt, dass ihr Magnetfeld quer zur Strahlrichtung einen Gradienten, also ortsabhängige Feldstärke und Flussdichte hat, so dass auch die auf die Teilchen wirkende Lorentzkraft vom Ort abhängt. 
+
+Es sei formula_1 die Richtung der Strahlachse, formula_2 und formula_3 die beiden Querrichtungen. Auf der Sollstrahlachse (dem "Orbit"), also für formula_4, ist die Flussdichte des Quadrupolfelds Null. Sie wächst nach außen mit konstantem Gradienten an, also 
+
+wenn die Äquipotentialflächen, also die Oberflächen des Eisenjochs, hyperbolisch geformt sind. Der Proportionalitätsfaktor formula_7 heißt dabei Quadrupolstärke.
+
+Ein Quadrupolmagnet wirkt immer in einer der Richtungen quer zum Teilchenstrahl fokussierend, während er in der anderen Querrichtung defokussiert; das heißt, ein horizontal fokussierender Quadrupolmagnet defokussiert vertikal und umgekehrt. Um insgesamt eine Fokussierung zu erreichen, also den Strahl zusammenzuhalten, muss man daher eine Anordnung von Quadrupolen aufbauen, die in einer gegebenen Richtung abwechselnd fokussieren (F) und defokussieren (D); Kurzbezeichnungen für diese Anordnungen sind z. B. FDFD, FFDD oder FODO (O bezeichnet eine feldfreie sog. Driftstrecke). Es handelt sich um das gleiche Prinzip der "Starken Fokussierung", das auch z. B. bei den Dipolmagneten von modernen Zyklotrons und Synchrotrons angewandt wird.
+
+Die Fokussierung ist notwendig, da die Teilchen praktisch nie parallel zur Strahlachse fliegen; unter anderem trägt dazu die Raumladung, d. h. die gegenseitige Abstoßung der Teilchen untereinander bei. Ohne Fokussierung liefen die Teilchen früher oder später gegen die Wand der Vakuumkammer und gingen damit verloren.
+
+Durch die Quadrupolmagnete werden die Teilchen zu Schwingungen um die Sollbahn gebracht, den sogenannten Betatronschwingungen. Beim Bau und der Konfiguration eines Beschleunigers muss darauf geachtet werden, dass die Amplitude dieser Schwingungen nirgends so groß wird, dass die Teilchen in die Wand laufen. Unter anderem ist dies die Aufgabe der sogenannten Strahloptik.
+
+In manchen Quellen für polarisierte Ionen dient ein Quadrupolmagnet dazu, Atome in verschiedenen Spinzuständen voneinander zu trennen, siehe Stern-Gerlach-Versuch.
+
+Durch spezielle Anordnungen von Quadrupolmagneten können komplizierte, einander überlagerte Felder erzeugt werden, welche an definierten Stellen Teilgebiete mit der Feldstärke Null erzeugen, was bei Untersuchungen von Objekten mit Magnetresonanztomographen Vorteile bringt.
+
+F. Hinterberger: "Physik der Teilchenbeschleuniger und Ionenoptik". 2. Auflage, Springer, 2008, ISBN 978-3-540-75281-3.
+
+
+

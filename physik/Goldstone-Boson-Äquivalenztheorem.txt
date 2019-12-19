@@ -1,0 +1,13 @@
+﻿Goldstone-Boson-Äquivalenztheorem
+
+Das Goldstone-Boson-Äquivalenztheorem ist ein Theorem in der Quantenfeldtheorie. Es besagt, bei hohen Energien können zur Berechnung von Elementen der S-Matrix longitudinal polarisierte Eichbosonen durch die korrespondierenden Goldstone-Bosonen ersetzt werden. Es wurde 1985 von Michael Chanowitz und Mary Gaillard bewiesen.
+
+In einer ungebrochenen Quantenfeldtheorie sind Eichbosonen immer masselos und können daher nur transversale Spinpolarisation innehaben. Aufgrund des Goldstone-Theorems entsteht bei der Brechung der Symmetrie, die zur Masse der Eichbosonen führt, für jedes massive Eichboson ein korrespondierendes Goldstone-Boson.
+
+Bei hohen Energien ist die konstante Ruheenergie eines Teilchens, aufgrund der Äquivalenz von Masse und Energie also seine Masse, vernachlässigbar im Vergleich zur kinetischen Energie, und alle Teilchen können näherungsweise als masselos betrachtet werden. Das Goldstone-Boson-Äquivalenztheorem beschreibt daher, wie in diesem Fall mit der longitudinalen Polarisation verfahren werden kann.
+
+Bezeichnet formula_1 eine Streuamplitude mit formula_2 longitudinalen Eichbosonen
+und formula_3 die entsprechende Streuamplitude, in der die Eichbosonen durch Goldstone-Bosonen mit identischem Impuls formula_4 ersetzt wurden,
+dann gilt:
+
+

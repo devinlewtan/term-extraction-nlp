@@ -1,0 +1,36 @@
+﻿Magnetische Feldstärke
+
+Die magnetische Feldstärke (Formelzeichen: formula_1), auch als magnetische Erregung bezeichnet, ordnet als vektorielle Größe jedem Raumpunkt eine Stärke und Richtung des durch die magnetische Spannung erzeugten Magnetfeldes zu. Sie hängt über die Materialgleichungen der Elektrodynamik (formula_2) mit der magnetischen Flussdichte formula_3 zusammen.
+
+Die internationale Einheit der magnetischen Feldstärke ist das Ampere pro Meter:
+
+Bei einem geraden Leiter ist die Feldstärke entlang einer kreisförmigen Feldlinie konstant. Wenn formula_1 die magnetische Feldstärke außerhalb eines stromdurchflossenen geraden Leiters im Abstand formula_6 bezeichnet, formula_7 die Stromstärke im Leiter und formula_6 den Radius der kreisförmigen Feldlinie, dann ist der Betrag der magnetischen Feldstärke in Material mit homogener magnetischer Permeabilität:
+
+Zahlenbeispiel: Im Abstand formula_6 von 5 cm von der Achse eines geraden Leiters, welcher einen Strom formula_7 von 50 A führt, beträgt die magnetische Feldstärke:
+
+Wird eine einzige Windung mit dem Radius formula_6 vom Strom formula_7 durchflossen (Leiterschleife), misst man auf einem Punkt auf der Spulenachse im Abstand formula_15 vom Mittelpunkt des Ringes die Feldstärke
+
+Für die Herleitung siehe: Biot-Savart – Kreisförmige Leiterschleife
+
+Wird eine Spule der Länge formula_17 mit Durchmesser formula_18 und formula_19 Windungen vom Strom formula_7 durchflossen, misst man im Zentrum die Feldstärke formula_1
+
+Handelt es sich um eine langgestreckte Spule (Länge viel größer als Durchmesser, für kurze Spulen existieren nur Näherungsformeln), kann man obige Formel vereinfachen und erhält:
+
+Das Produkt formula_24 wird auch Amperewindungszahl oder als magnetische Spannung formula_25 bezeichnet, die magnetische Spannung – durch historisch bedingte Begriffsbildung – auch als magnetische Durchflutung mit dem Formelzeichen formula_26.
+
+Entlang der Spulenachse ist formula_1 an den Enden der Spule genau halb so groß wie in der Mitte. Im Innenraum der Spule ist formula_1 fast unabhängig vom Abstand zur Spulenachse und annähernd homogen. Starke Abweichungen misst man erst an den Enden der Spule.
+
+Zwei kurze, runde, hinsichtlich Größe und Windungszahl baugleiche und in gleicher Umlaufrichtung durchströmte Spulen im Abstand ihres Radius bauen zwischen sich ein weitgehend homogenes Magnetfeld auf. In der Mitte dieser als Helmholtz-Spule bekannten Anordnung hat das Magnetfeld die Feldstärke
+Dabei ist formula_19 die Anzahl der Windungen (pro Spule).
+
+Aus den Materialgleichungen der Elektrodynamik ergibt sich der Zusammenhang zwischen der magnetischen Feldstärke formula_1 und der magnetischen Flussdichte formula_3 in vektorieller Schreibweise:
+
+wobei formula_34 die magnetische Leitfähigkeit (Permeabilität) des betrachteten Raumpunktes ausdrückt. 
+
+Die Beziehung 
+
+aus den Maxwellschen Gleichungen stellt die lokale Form des Durchflutungssatzes dar. Dabei drückt formula_36 die Leitungsstromdichte und der zweite Summand mit der zeitlichen Ableitung der elektrischen Flussdichte formula_37 die Dichte des Verschiebungsstromes aus. Im einfachen statischen Fall ohne zeitliche Änderung verschwindet der zweite Summand und es gilt:
+
+Dies bedeutet, dass die Wirbeldichte des magnetischen Feldes formula_39 in jedem Raumpunkt gleich der lokalen Leitungsstromdichte ist. Die Bedeutung liegt darin, dass damit die Quellenfreiheit des magnetischen Feldes mathematisch ausgedrückt wird und die magnetischen Feldlinien immer in sich geschlossen sind.
+
+

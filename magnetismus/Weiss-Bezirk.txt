@@ -1,0 +1,13 @@
+﻿Weiss-Bezirk
+
+Als Weiss-Bezirke (auch weisssche Bezirke, nach dem französischen Physiker Pierre-Ernest Weiss) bezeichnet man beim Magnetismus mikroskopisch kleine magnetisierte Domänen in den Kristallen eines ferromagnetischen Stoffes.
+
+Weiss erkannte 1907, dass die magnetischen Momente der Atome („Elementarmagnete“) der Ferromagnetika auch ohne Einwirkung eines äußeren Magnetfeldes in begrenzten Bezirken parallel ausgerichtet sind. Die Größe dieser Bezirke erstreckt sich von etwa 10 bis 1000 µm linearer Ausdehnung.
+Die Richtung der Magnetisierung orientiert sich am Kristallgitter des Werkstoffs. Bei Werkstoffen, deren Korngröße dieser Größenordnung entspricht oder noch darunter liegt, sind alle Kristallite "Ein-Domänen-Teilchen", d. h., nicht weiter in Domänen unterteilt.
+
+Von Natur aus sind die Weiss-Bezirke bis zur Sättigung magnetisiert. Die Grenzen zwischen den Bezirken heißen Bloch-Wände. Setzt man ein hartmagnetisches Material einem steigenden Magnetfeld aus, verschieben sich zunächst die Bloch-Wände zugunsten derjenigen Weiss-Bezirke, die in Richtung des äußeren Feldes ausgerichtet sind. Bei weiter steigendem äußeren Feld ändern schließlich immer mehr Weiss-Bezirke schlagartig ihre Polung (Barkhausen-Sprung). Dieses Umklappen kann man hörbar machen, indem man den Wechselanteil bzw. die stufenförmige Zunahme des magnetischen Feldes mit einer Spule induktiv aufnimmt und verstärkt. Bei Änderung des äußeren Feldes entsteht ein hysteresebehaftetes Rauschen, welches Rückschlüsse auf die magnetischen Eigenschaften des Materials zulässt.
+
+Weiss-Bezirke treten in Analogie dazu auch in Ferroelektrika auf, wo sie Bereiche einheitlicher Dipolausrichtung bilden.
+
+
+

@@ -1,0 +1,31 @@
+﻿Satz von Sarkovskii
+
+Der Satz von Sarkovskii ist ein Satz der Mathematik, der eine wichtige Aussage über die möglichen Perioden
+bei der Iteration einer stetigen Funktion macht. Ein Spezialfall des Satzes ist die Aussage,
+dass ein stetiges dynamisches System auf der reellen Geraden mit einem Punkt der Ordnung 3 bereits Punkte zu jeder Ordnung besitzt. Dies wird häufig kurz so formuliert, dass Periode 3 Chaos impliziert.
+
+Sei
+
+eine stetige Funktion. Man sagt, dass formula_2 ein "periodischer Punkt der Ordnung (oder der Periodenlänge) m" ist, wenn formula_3 (wobei formula_4 die formula_5-fache Verknüpfung
+von formula_6 mit sich selbst bezeichnet) und formula_7 für alle formula_8.
+In der Aussage geht es um die möglichen Ordnungen von periodischen Punkten von formula_6. Zu ihrer Formulierung betrachtet man die sogenannte Sarkovskii-Ordnung der natürlichen Zahlen. Es handelt sich dabei um die totale Ordnung
+Diese Reihenfolge startet also mit den ungeraden Zahlen in aufsteigender Folge, gefolgt von den Zweifachen der ungeraden Zahlen,
+den vierfachen der ungeraden Zahlen usw., und endet mit den Zweierpotenzen in absteigender Folge.
+
+Der Satz von Sarkovskii besagt nun, dass wenn formula_6 einen periodischen Punkt der Länge formula_5 besitzt und formula_13 in der Sarkovskii-Ordnung gilt, dass es dann auch (mindestens) einen periodischen Punkt der Länge formula_14 gibt.
+
+Der Satz besitzt mehrere Konsequenzen. Zum einen, wenn formula_6 nur endlich viele periodische Punkte besitzt,
+so müssen diese alle eine Zweierpotenz als Ordnung haben. Wenn formula_6 irgendeinen periodischen Punkt besitzt, so besitzt formula_6 auch einen Fixpunkt. Ferner: sobald es einen Punkt der Ordnung formula_18 gibt, so gibt es
+periodische Punkte zu jeder Ordnung. Diese Aussage wird auch Satz von Li und Yorke genannt.
+
+Der Satz von Sarkovskii ist optimal in dem Sinne, dass man zu jeder natürlichen Zahl formula_5 eine stetige Funktion konstruieren kann derart, dass es zu jeder natürlichen Zahl, die in der Sarkovskii Ordnung nach formula_5 kommt (einschließlich formula_5), periodische Punkte mit dieser Periodenlänge gibt, aber keine periodischen Punkte mit kleinerer Ordnung. Es gibt also beispielsweise
+Funktionen, die keine periodischen Punkte der Länge formula_18 haben, wohl aber zu allen anderen Zahlen (Periode formula_23 impliziert nicht Chaos).
+
+Der Satz von Sarkovskii gilt nicht für dynamische Systeme auf anderen topologischen Räumen.
+Für die Drehung der Kreislinie um 120 Grad (Dritteldrehung) ist jeder Punkt periodisch mit der Länge formula_18, und keine weiteren Periodenlängen tauchen auf.
+
+Dieser Satz wurde 1964 vom ukrainischen Mathematiker Oleksandr Scharkowskyj bewiesen und blieb längere Zeit unbeachtet. Rund 10 Jahre später bewiesen Li und Yorke ohne Kenntnis des Originalresultats den Spezialfall, dass Periode formula_18
+Chaos impliziert.
+
+
+

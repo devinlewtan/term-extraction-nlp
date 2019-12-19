@@ -1,0 +1,15 @@
+﻿Mischbarkeit
+
+Unter Mischbarkeit versteht man die qualitative Aussage, dass bei der Vermengung von mindestens zwei verschiedenen Flüssigkeiten sie sich vollständig unter Bildung einer einzigen homogenen Phase mischen.
+
+Zum Beispiel lassen sich Wasser und niedere Alkohole in jedem Verhältnis mischen, Wasser und Benzol bilden hingegen zwei Phasen, eine wasserreiche und eine benzolreiche. Auch in der benzolreichen Phase ist allerdings Wasser enthalten (ca. 0,25 Molprozent bei 25 °C) und in der wasserreichen etwas Benzol (0,04 Molprozent bei 25 °C). Damit kann selbst dieses System in sehr begrenztem Umfang als mischbar betrachtet werden.
+
+Die Mischbarkeit hängt bei einigen Stoffgemischen deutlich von der Temperatur ab. Ein Beispiel dafür ist das Gemisch aus Methylvinylketon (3-Buten-2-on) und Wasser, das unterhalb 28 °C und oberhalb 84 °C mischbar ist, jedoch nicht zwischen diesen Grenzen (Mischungslücke, vgl. Abbildung).
+
+Einen großen Einfluss auf die Mischbarkeit zweier Flüssigkeiten hat ihre Polarität; so lassen sich vor allem Flüssigkeiten miteinander mischen, deren Polarität zueinander passt.
+
+Über die Mischbarkeit verschiedener Flüssigkeiten gibt eine Mischbarkeitstabelle Aufschluss.
+
+
+
+

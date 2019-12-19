@@ -1,0 +1,24 @@
+﻿EPICS
+
+Das Experimental Physics and Industrial Control System (EPICS) ist eine Reihe von Softwarewerkzeugen und Anwendungen zur Entwicklung und Implementierung eines Prozessleitsystem zum Betreiben von Geräten wie Teilchenbeschleuniger, Teleskope und anderen großen Experimente. Die Tools wurden entwickelt, um die Entwicklung von Systemen zu unterstützen, die oft mit einer großen Anzahl von Computernetzwerken ausgestattet sind, die Kontrolle und Feedback liefern.
+
+EPICS wurde 1988 von Bob Dalesio, Jeff Hill et al. als Ground Test Accelerator Controls System (GTACS) am Los Alamos National Laboratory (LANL) entwickelt.
+1989 kam Marty Kraimer vom Argonne National Laboratory (ANL) für 6 Monate an die Seite des GTA-Steuerungsteams und brachte seine Erfahrungen aus seiner Arbeit am Advanced Photon Source (APS) Control System in das Projekt ein. Die daraus resultierende Software wurde in EPICS umbenannt und 1991 auf der International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS) vorgestellt.
+EPICS war ursprünglich unter einer kommerziellen Lizenz erhältlich, wobei erweiterte Versionen von Tate & Kinetic Systems verkauft wurden. Die Lizenzen für Mitarbeiter waren kostenlos, erforderten aber eine rechtliche Vereinbarung mit LANL und APS. Eine EPICS-Community wurde gegründet und die Entwicklung wuchs, da sich weitere Einrichtungen der Zusammenarbeit anschlossen. Im Februar 2004 wurde EPICS nach seiner Veröffentlichung unter der EPICS Open License frei verteilbar.
+Es wird heute von über 50 großen Wissenschaftseinrichtungen weltweit sowie von mehreren kommerziellen Unternehmen genutzt und entwickelt.
+
+EPICS verwendet Client-Server-Modell und Publish/Subscribe-Techniken zur Kommunikation zwischen Computern. Die " Input/Output-Controller" (IOCs) sammeln Experiment- und Kontrolldaten in Echtzeit mit den daran angeschlossenen Messgeräten. Diese Informationen werden dann den Clients über den hochbandbreiten Channel Access (CA) oder das kürzlich hinzugefügte pvAccess-Netzwerkprotokoll zur Verfügung gestellt, die für Computer-Echtzeitanwendungen wie wissenschaftliche Experimente ausgelegt sind.
+
+IOCs halten und führen eine Datenbank mit "Aufzeichnungen", die entweder Geräte oder Aspekte der zu steuernden Geräte darstellen. Sie können entweder von Standardservern oder PCs, oder von VME oder MicroTCA-Standard-Eingebettetes System-Prozessoren gehostet werden. Für 'harte Echtzeit'-Anwendungen werden in der Regel die Betriebssysteme RTEMS oder VxWorks verwendet, während 'weiche Echtzeit'-Anwendungen unter Linux oder Microsoft Windows laufen.
+
+Daten, die in der Datenbank der Protokolle gespeichert sind, werden durch eindeutige Identifikatoren dargestellt, die als Prozessvariablen (PVs) bezeichnet werden. Diese PVs sind über die Kanäle zugänglich, die vom Channel Access Netzwerkprotokoll bereitgestellt werden.
+
+Datenbankaufzeichnungen sind für verschiedene Arten von Ein- und Ausgängen (z. B. analog oder binär) oder zur Bereitstellung eines unterschiedlichen Funktionsverhaltens, wie z. B. eines Berechnungsprotokolls, verfügbar. Es ist auch möglich, benutzerdefinierte Satzarten zu erstellen. Jeder Datensatz besteht aus einer Reihe von Feldern, die seine Daten enthalten und sein Verhalten festlegen. Die meisten Satzarten sind im EPICS-Referenzhandbuch aufgeführt.
+
+Es stehen Grafische Benutzeroberfläche-pakete zur Verfügung, mit denen Benutzer PV-Daten über typische Anzeige-Widgets wie Zifferblätter und Textfelder anzeigen und mit ihnen interagieren können. Beispiele sind EDM (Extensible Display Manager), MEDM (Motif/EDM) und CS:Studio/Phoebus.
+
+Jede Software, die das CA/pvAccess-Protokoll implementiert, kann PV-Werte lesen und schreiben. Erweiterungspakete sind verfügbar, um Unterstützung für MATLAB, LabVIEW, Perl, Python, Tcl, ActiveX etc. zu bieten. Diese können verwendet werden, um Skripte zu schreiben, die mit EPICS-gesteuerten Geräten interagieren.
+
+
+
+

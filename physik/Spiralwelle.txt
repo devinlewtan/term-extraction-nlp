@@ -1,0 +1,9 @@
+﻿Spiralwelle
+
+Spiralwellen, in der englischsprachigen Literatur auch als oder bezeichnet, sind eine spezielle Form von 2-dimensionalen chemischen Wellen. Dreidimensionale Spiralwellen werden auch als bezeichnet. Die Möglichkeit der Entstehung von Spiralwellen wurde erstmals 1946 durch Norbert Wiener und Arturo Rosenblueth theoretisch vorhergesagt. Beobachten lassen sich Spiralwellen beispielsweise bei der Anregung des Herzmuskels.
+
+Autokatalytische Wellen treten entweder als in sich geschlossene zirkuläre Wellenfronten auf, oder sie besitzen zwei Enden, welche die Grenzen des Ausbreitungsmediums berühren. Die dritte Erscheinungsform, nämlich die Spiralwellen, sind hingegen dadurch gekennzeichnet, dass ein Ende der Wellenfront stets an der Mediumgrenze entlang läuft, während das andere, der Kern, sich frei im Medium bewegt. Diese Bewegung kann auf unterschiedlichen Bahnen verlaufen, die von der Art des Mediums und von den speziellen Diffusions- und Reaktionsparametern bestimmt werden. Man kann in sich geschlossene und offene Trajektorien unterscheiden. Bei den in sich geschlossenen Trajektorien findet man Kreisbahnen und elliptische Bahnen. Je nach Konstellation der Parameter können die Kerne aber auch driften. Auf diese Weise entstehen häufig in sich geschlossene Rosetten. Es kann aber auch zu quasiperiodischen Bewegungen kommen, wobei offene Rosetten entstehen. Kollidiert der Kern der Spiralwelle mit einer Mediumgrenze, so entsteht wieder eine geschlossene Wellenfront, indem nun beide Enden der Welle die Mediumgrenze berühren, womit die Existenz der Spiralwelle beendet ist.
+
+Im Prinzip entstehen Spiralwellen durch Aufbrechen einer geschlossenen Wellenfront. Dies kann auf unterschiedliche Weise geschehen.
+
+

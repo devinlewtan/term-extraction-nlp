@@ -1,0 +1,14 @@
+﻿Sq-Variation
+
+Mit Sq-Variation (oft auch Sq-Gang) wird in der Geophysik die Schwankung der Horizontalintensität des Erdmagnetfeldes im Tagesverlauf bezeichnet. Ihr Beitrag lässt sich nur bei ruhiger Sonne separieren, daher die Bezeichnung "sq: solar-quiet". Sie hat ihren Ursprung in den Magnetfeldern, die die Plasmaströme in der Ionosphäre hervorrufen.
+
+Wird die Horizontalkomponente des lokalen Magnetfelds (also des Magnetfelds an der Messstation) in einem Diagramm über die Zeit aufgetragen, zeigt sich der Sq-Gang um die lokale Mittagszeit herum als deutliche Abweichung des ansonsten weitgehend konstanten Betrags der Horizontalintensität. Die Schwankungen hängen ab von der Jahreszeit und der geomagnetischen Breite. Sie liegen in der Größenordnung von maximal ±50nT, also im Mittel deutlich weniger als 0,1 % des Erdmagnetfeldes.
+
+Zur Mittagszeit trifft die Sonnenstrahlung unter dem steilsten Winkel auf die Erde ein. Der UV-Anteil der Strahlung verstärkt die Ionisierung in der irdischen Ionosphäre daher mittags in besonderem Maße (TEC). Dadurch wird auch der durch die Ionosphäre induzierte Anteil am Erdmagnetfeld deutlich verstärkt, was sich in einer Messung der Horizontalkomponente des Felds deutlich zeigt. Die Deklination des Magnetfelds und die Vertikalkomponente hingegen bleiben unverändert.
+
+Die Amplitude der Sq-Variation ist breitenabhängig.
+
+Die Sq-Variation ist ein periodischer Effekt mit ruhiger Kurve. Dies grenzt ihn klar von Störungen in der Ionosphäre ab. Auch die Abhängigkeit der Variation von der Breite ist untypisch für andere Störungen des Erdmagnetfelds.
+
+
+

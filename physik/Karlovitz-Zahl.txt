@@ -1,0 +1,31 @@
+﻿Karlovitz-Zahl
+
+Die Karlovitz-Zahl wird zur Beschreibung von turbulenten Verbrennungsprozessen verwendet und setzt sich aus dem Verhältnis der Zeitskala für die Ausbreitung der laminaren Flamme formula_1 zur kleinsten turbulenten Zeitskala formula_2 (Kolmogorov-Zeit) zusammen:
+
+Die laminare Flammen-Zeitskala formula_1 wird dabei üblicherweise als diejenige Zeit definiert, die die laminare Flammenfront benötigt, um sich durch Flammenpropagation mit der laminaren Flammengeschwindigkeit formula_7 um eine Strecke fortzubewegen, die gleich groß wie die laminare Flammenfrontdicke (inklusive ihrer Vorwärmschicht) formula_8 ist. Sie lässt sich auch über das Verhältnis der Diffusionskonstante formula_9 zum Quadrat der laminaren Flammengeschwindigkeit beschreiben:
+
+Falls formula_11, läuft die Wärme- und Stoffdiffusion innerhalb der Flammenfront viel schneller als alle Turbulenzzeitskalen ab. Somit werden die lokale Flammenstruktur und der Bereich der chemischen Reaktion nicht von Turbulenzen verändert, bzw. beeinflusst und es herrschen innerhalb der Flamme laminare Bedingungen. Die Flamme lässt sich in diesem Fall meist gut mit einem Flamelet-Ansatz beschreiben, bei dem angenommen wird, dass sich die Flammenfront in lokaler Näherung vollständig laminar verhält.
+
+Falls formula_12, sind die kleinsten turbulenten Wirbel gleich groß oder kleiner als die Dicke der Vorwärmschicht in der Flammenfront. Dadurch kann es zu einem turbulenten Wärme- und Stofftransport innerhalb der Flammenfront kommen. Dieser führt sowohl zu einer Verbreiterung der Flammenfront als auch zu einer Erhöhung der turbulenten Flammengeschwindigkeit.
+
+Die Namensgebung der dimensionslosen Kennzahl bezieht sich auf den ungarischen Physiker Béla Karlovitz.
+
+Nach obiger Definition der Karlovitz-Zahl lässt sich das Verhältnis auch über Längenskalen oder Geschwindigkeiten ausdrücken:
+
+Hierbei stehen formula_14 für die Kolmogorov-Länge (also der kleinsten Längenskala, die von der Turbulenz beeinflusst wird) und formula_15 für die Kolmogorov-Geschwindigkeit (also der Umlaufgeschwindigkeit von Wirbeln mit dem Durchmesser der Kolmogorov-Länge).
+
+Unter der Annahme, dass für die Schmidt-Zahl formula_16 gilt, dass also die kinematische Viskosität etwa gleich groß wie die stoffliche Diffusionskonstante ist, kann man die Karlovitz-Zahl, die Damköhler-Zahl formula_17 und die Reynolds-Zahl formula_18 näherungsweise in folgende Beziehung zueinander setzen:
+
+Ersetzt man in obiger Gleichung die laminare Flammen-Zeitskala durch die Reaktions-Zeitskala formula_20, lässt sich eine Karlovitz-Zahl für den Einfluss der Turbulenz auf die Reaktionsschicht definieren:
+
+Analog zur Definition der laminaren Flammen-Zeitskala beschreibt die Reaktions-Zeitskala diejenige Zeit, die die Flammenfront benötigt, um durch Flammenpropagation eine Strecke zurückzulegen, die gleich groß wie die Dicke der Reaktionsschicht formula_22 ist. Die Reaktionsschicht ist derjenige Abschnitt innerhalb der Flammenfront, in dem die chemischen Reaktionen ablaufen. In einer laminaren Flammenfront ist die Reaktionsschicht erheblich dünner als die durch Stoff- und Wärmediffusion geprägte Vorwärmschicht. Das Größenverhältnis wird oft mit einem Faktor formula_23 beschrieben. Es gilt also
+
+Typischerweise ist formula_25 eine Zahl der Größenordnung formula_26.
+
+Analog zur obigen Beschreibung lässt sich hier feststellen:
+
+Falls formula_27, laufen die chemischen Reaktionen viel schneller als alle Turbulenzzeitskalen ab. Somit wird die interne Struktur der Reaktionsschicht nicht von Turbulenzen verändert, und es herrschen innerhalb der Reaktionsschicht laminare Bedingungen.
+
+Falls formula_28, sind die kleinsten turbulenten Wirbel gleich groß oder kleiner als die Dicke der Reaktionsschicht in der Flammenfront. Dadurch kann es rein theoretisch zu einer turbulenten Verbreiterung der Reaktionsschicht kommen. In extremen Fällen würde dies zu einer homogenen Verteilung der chemischen Reaktionen über ein makroskopisches Volumen führen (perfekter Rührreaktor). Viel wahrscheinlicher ist es allerdings, dass bei einer derart intensiven turbulenten Störung der Reaktionsschicht lokale Verlöschungen auftreten und die Flammenfront aufbricht oder sogar gänzlich erlischt.
+
+

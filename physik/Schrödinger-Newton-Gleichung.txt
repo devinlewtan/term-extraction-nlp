@@ -1,0 +1,58 @@
+﻿Schrödinger-Newton-Gleichung
+
+Die Schrödinger-Newton-Gleichung (auch Newton-Schrödinger- oder Schrödinger-Poisson-Gleichung) ist eine nichtlineare Modifikation der Schrödingergleichung unter Berücksichtigung des Newtonschen Gravitationsgesetzes. Dabei ergibt sich eine Selbstwechselwirkung, da die Wellenfunktion massebehaftet angenommen wird. Die Gleichung kann entweder als eine Integro-Differentialgleichung oder als ein Gleichungssystem bestehend aus Schrödinger- und Poissongleichung geschrieben werden.
+
+Die Schrödinger–Newton-Gleichung wurde als erstes von Remo Ruffini und Silvano Bonazzola in Verbindung mit der Eigengravitation von Bosonensternen betrachtet.
+
+Später wurde von Lajos Diósi und Roger Penrose
+diskutiert, dass die Schrödinger-Newton-Gleichung eine Erklärung für den Kollaps der Wellenfunktion sein kann.
+Dabei hat Materie Quanteneigenschaften, wohingegen die Gravitation eine klassische Theorie bleibt.
+
+Außerdem wird die Schrödinger-Newton-Gleichung als Hartree-Approximation für die gegenseitige gravitative Anziehung in einem System mit einer großen Anzahl Teilchen verwendet.
+
+Als Gleichungssystem geschrieben ergibt sich die Schrödinger-Newton-Gleichung aus der linearen Schrödingergleichung, erweitert um ein Gravitationspotential formula_1
+hier ist formula_3 das nicht gravitative Potential; das Gravitationspotential formula_1 erfüllt die Poisson-Gleichung
+Aufgrund der Kopplung der Wellenfunktion und des Gravitationspotentials und wegen des Terms formula_6 ist das Gleichungssystem nichtlinear.
+
+Die Integro-Differentialform der Gleichung ist
+Diese Gleichung ergibt sich aus dem oben angegebenen Gleichungssystem unter der Annahme, dass das Gravitationspotential im Unendlichen verschwindet.
+
+Mathematisch gesehen ist die Schrödinger-Newton-Gleichung eine Hartree-Gleichung für den Fall formula_8. Die Gleichung hat viele Eigenschaften der linearen Schrödinger-Gleichung. Insbesondere bleibt die totale Wahrscheinlichkeit sowie die Energie erhalten; weiterhin ist die Gleichung invariant bezüglich einer Galilei-Transformation.
+Lösungen der Schrödinger-Newton-Gleichung wurden bereits analytisch und numerisch untersucht; die stationäre Gleichung, die sich durch Separation der Variablen ergibt, hat eine unendliche Menge von Lösungen, von denen lediglich der stationäre Grundzustand stabil ist.
+
+Die Schrödinger-Newton-Gleichung ergibt sich aus der Annahme, dass die Gravitation sich auch auf fundamentaler Ebene klassisch verhält und dass die Wellenfunktion massebehaftet ist. Effekte der Allgemeinen Relativitätstheorie werden dabei vernachlässigt. Für den Fall, dass die Annahme korrekt ist, ist die Schrödinger-Newton-Gleichung eine fundamentale Gleichung für ein einzelnes Teilchen; eine Verallgemeinerung auf Mehrteilchensysteme wird weiter unten beschrieben. Für den Fall, dass die Annahme nicht korrekt ist, ist die Schrödinger-Newton-Gleichung lediglich eine Näherung für die gravitative Anziehung in einem System mit einer großen Anzahl von Teilchen.
+
+Für den Fall, dass die Schrödinger-Newton-Gleichung eine fundamentale Gleichung ist, existiert eine entsprechende Gleichung für Mehrteilchensysteme, die von Diósi analog zur Einteilchengleichung unter der Annahme semi-klassischer Gravitation abgeleitet wurde:
+Das Potential formula_10 enthält alle gegenseitigen linearen Wechselwirkungen, z. B. das Coulomb-Potential, wohingegen das Gravitationspotential sich aus der Masseverteilung aller Teilchen ergibt.
+
+Bei einer Born-Oppenheimer-Näherung kann die formula_11-Teilchen-Gleichung separiert werden. Eine Gleichung beschreibt die relative Bewegung, die andere beschreibt die Dynamik des Schwerpunkts der Wellenfunktion. Für die relative Bewegung spielt die gravitative Wechselwirkung nur eine geringe Rolle, das sie üblicherweise schwach im Vergleich zu den anderen Wechselwirkungen ist. Sie hat aber einen signifikanten Einfluss auf die Bewegung des Schwerpunkts.
+
+Eine grobe Bestimmung der Größen, bei der sich Unterschiede zwischen der Schrödinger-Gleichung und der Schrödinger-Newton-Gleichung ergeben, ist durch Einsetzen einer Gauß-Verteilung möglich.
+
+Für eine radialsymmetrische Gauß-Verteilung
+hat die lineare Schrödingergleichung die Lösung
+Das Maximum der Wahrscheinlichkeitsdichte formula_14 befindet sich bei
+Für die Beschleunigung, das heißt die zweite Ableitung nach der Zeit formula_16, erhält man hieraus nach kurzer Rechnung
+Dies wird mit der Beschleunigung durch die Gravitation
+verglichen. Zur Zeit formula_19 ist formula_20 und die Gleichsetzung der Beträge der Beschleunigungen in diesem Abstand ergibt formula_21 und damit
+Diese Gleichung erlaubt es, mit formula_23 eine kritische Abmessung für eine gegebene Masse zu bestimmen, und umgekehrt.
+
+Numerische Berechnungen zeigen, dass diese Gleichung eine gute Abschätzung des Parameterbereichs ergibt, bei dem gravitative Einflüsse signifikant werden.
+
+Für ein Wasserstoffatom (formula_24 = atomare Masseneinheit) beträgt die kritische Größe ungefähr 10 Meter; bei einem Teilchen mit einer Masse von einem Mikrogramm erhält man 10 Meter. Im Bereich von 10 atomaren Masseneinheiten liegt die kritische Größe im Bereich von Mikrometern, so dass möglicherweise in Zukunft eine experimentelle Prüfung der Schrödinger-Newton-Gleichung möglich ist.
+
+Die Idee, dass Gravitation den Kollaps der Wellenfunktion hervorruft (oder zumindest beeinflusst), wurde schon in den 1960er Jahren von Károlyházy vorgeschlagen.
+
+Als mathematische Beschreibung wurde in diesem Zusammenhang die Schrödinger–Newton-Gleichung von Diósi vorgeschlagen.
+
+Roger Penrose diskutierte, dass eine Superposition von zwei oder mehr Quantenzuständen, welche sich signifikant in der Masseverteilung unterscheiden, instabil ist und daher in einen der Zustände übergeht. Seine Hypothese ist, dass es eine bevorzugte Menge von Zuständen (die stationären Zustände der Schrödinger-Newton Gleichung) gibt, die nicht weiter kollabieren, sondern stabil sind. Ein makroskopisches, massives System kann sich daher niemals in einer Superposition von Zuständen befinden, da die nichtlineare gravitative Selbstwechselwirkung sofort zu einem Kollaps in einen stationären Zustand der Schrödinger-Newton-Gleichung führt. Nach Penrose's Auffassung führt eine Messung eines Quantensystems einerseits zu einer Verschränkung mit der makroskopischen Umgebung und damit zur Dekohärenz, gleichzeitig führt die Verschränkung mit dem massiven Messsystem durch die gravitative Selbstwechselwirkung zur Reduktion zu einem bestimmten (dem gemessenen) Zustand.
+
+Es existieren drei grundsätzliche Probleme bei der Interpretation der Schrödinger-Newton-Gleichung als Ursache für den Kollaps der Wellenfunktion.
+
+Numerische Simulationen zeigen, dass beim „Kollaps“ der Wellenfunktion zu einer stationären Lösung ein kleiner Teil der Wellenfunktion zum Unendlichen strebt. Dies würde bedeuten, dass auch im Fall eines komplett reduzierten Zustands ein Teilchen mit einer geringen Wahrscheinlichkeit an einem entfernten Ort gemessen werden kann. Die Schrödinger-Newton-Gleichung kann damit nur teilweise als Erklärung herangezogen werden und der Effekt der Umgebung durch Dekohärenz muss berücksichtigt werden.
+
+Ein zweites Problem ist, dass die Bornsche Wahrscheinlichkeitsinterpretation nicht erklärt wird. Zur Lösung des Messproblems ist es nicht ausreichend, dass ein Kollaps der Wellenfunktion auftritt. Es muss auch erklärt werden, dass die Wahrscheinlichkeitsdichte, mit der ein Teilchen an einem bestimmten Ort gemessen wird, sich durch das Betragsquadrat der Wellenfunktion berechnen lässt. Es ist unklar, ob sich bei genauerer Analyse zeigen lässt, dass sich diese Wahrscheinlichkeitsdichte einstellt.
+
+Ein letztes Problem ergibt sich durch die Interpretation der Wellenfunktion als reales physikalisches Objekt. Damit kann die Wellenfunktion eine Größe sein, die zumindest im Prinzip gemessen werden kann. Durch die nichtlokale Natur der Wellenfunktion könnte es daher möglich sein, Information mit Überlichtgeschwindigkeit zu übertragen, was im Widerspruch zur Relativitätstheorie steht. Es ist unklar, ob dieses Problem bei genauerer Betrachtung tatsächlich relevant ist.
+
+

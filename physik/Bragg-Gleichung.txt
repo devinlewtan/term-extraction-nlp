@@ -1,0 +1,34 @@
+﻿Bragg-Gleichung
+
+Die Bragg-Gleichung, auch Bragg-Bedingung genannt, wurde 1912 von William Lawrence Bragg entwickelt. Sie beschreibt, wann es zu konstruktiver Interferenz von Wellen bei Streuung an einem dreidimensionalen Gitter kommt. Sie erklärt die Muster, die bei der Beugung von Röntgen- oder Neutronenstrahlung an kristallinen Festkörpern entstehen, aus der Periodizität von Gitterebenen. Das Analogon zur Bragg-Bedingung im reziproken Raum ist die Laue-Bedingung.
+
+Trifft Röntgenstrahlung auf einen Kristall, so wird dieser von einem Großteil der Strahlung ungehindert durchdrungen. Es wird allerdings auch beobachtet, dass ein kleiner Teil durch den Kristall abgelenkt wird – ein Phänomen, das man als Röntgenbeugung bezeichnet. Montiert man hinter dem Kristall einen geeigneten Detektor, zum Beispiel eine Fotoplatte, um die abgelenkten Strahlungsanteile sichtbar zu machen, entstehen darauf charakteristische Muster.
+
+Ursache für die Beugung ist die Streuung der Röntgenstrahlung an den einzelnen Atomen des Gitters. Dies kann man auch als eine schwache Reflexion der Röntgenstrahlung an den einzelnen Gitterebenen des Kristalls betrachten, wobei die Strahlung nur in solche Richtungen nennenswert reflektiert wird, in denen die einzelnen Reflexionen sich konstruktiv überlagern. Diese Bedingung beschreibt die Bragg-Gleichung:
+
+Die Bragg-Gleichung verknüpft:
+
+Jede Schar paralleler Gitterebenen hat einen charakteristischen Gitterebenenabstand "d" und damit, so die Bragg-Gleichung, auch einen charakteristischen Braggwinkel "formula_3". Für verschiedene Orientierungen, unter denen Strahlung auf den Kristall trifft, erhält man auf dem Detektor hinter dem Kristall fast immer auch verschiedene Bilder, weil sich immer andere Scharen paralleler Gitterebenen (mit anderen Braggwinkeln und mit anderen Orientierungen im Kristall) in Reflexionsstellung zum einfallenden Strahl befinden.
+
+Die Gitterebenen werden üblicherweise mit Laue-Indizes "hkl" gekennzeichnet, so dass sich für den Abstand zum Beispiel im kubischen System ergibt:
+
+mit der Gitterkonstanten formula_6. Die Bragg-Bedingung lautet damit im kubischen System:
+
+Für "n = 1" sind die Laue-Indizes mit den Miller-Indizes identisch. Für höhere Ordnungen "n" steht "hkl" für die Laue-Indizes, die mit der Beugungsordnung "n" multiplizierten Miller-Indizes der Gitterebene.
+
+Tatsächlich handelt es sich um ein Beugungsphänomen. Im elektromagnetischen Feld der einfallenden Strahlung werden die Elektronen der Atome zu erzwungenen Schwingungen angeregt und beginnen selbst Strahlung in Form von kugelförmigen Wellen abzustrahlen.
+Da die Wellen der einzelnen Elektronen sich in erster Näherung zu Wellen der zugehörigen Atome aufsummieren, und weiterhin die Abstände im Kristallgitter und die Wellenlänge der Röntgenstrahlung von ähnlicher Größenordnung sind, treten Interferenzerscheinungen auf.
+
+Ist die Bragg-Gleichung bei gegebener Wellenlänge formula_2 für eine Schar von parallelen Gitterebenen erfüllt, das heißt, trifft die Röntgenstrahlung unter dem richtigen Winkel auf den Kristall, kommt es zu konstruktiver Interferenz der bei der Beugung an den Elektronenhüllen entstehenden Kugelwellen. Makroskopisch entsteht der Eindruck einer Reflexion der Strahlung am Kristall.
+
+Die blauen Linien in der nebenstehenden Grafik (Schema zur Beugungsgeometrie) entsprechen Strahlen, die auf parallele Gitterebenen treffen und dabei mit dem Lot den Winkel formula_9 einschließen. Der Komplementärwinkel formula_10 heißt "Braggwinkel" oder "Glanzwinkel". "d" ist der Gitterebenenabstand, die schwarzen Punkte sind Atome auf den Gitterebenen.
+
+Aufgrund der großen Anzahl von Atomen in einem Kristall gibt es für den Fall nicht ausschließlich konstruktiver Interferenz statistisch zu jedem Atom immer ein zweites, das die gebeugte Welle des ersten genau auslöscht, so dass keine Reflexion mehr beobachtet werden kann. Dies ist auch die Situation in nicht-kristallinem Material, unabhängig von der Einstrahlrichtung.
+
+
+Die Drehkristallanordnung ist eine mögliche Durchführung des Versuchs. Da frühere Röntgenapparate sehr schwer und somit nicht drehbar waren, wurde der Röntgenstrahl auf einen drehbaren Kristall gelenkt. Durch Drehung des Kristalls und des Empfängers konnte der Kristall dann unter verschiedenen Winkeln untersucht werden.
+Eine zweite Möglichkeit stellt das Debye-Scherrer-Verfahren dar, bei dem der Kristall pulverisiert wird, so dass jede „Drehrichtung“ statistisch verteilt gleichzeitig vorhanden ist.
+
+
+
+

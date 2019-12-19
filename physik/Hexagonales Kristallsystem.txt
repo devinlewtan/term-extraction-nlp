@@ -1,0 +1,63 @@
+﻿Hexagonales Kristallsystem
+
+Das hexagonale Kristallsystem gehört zu den sieben Kristallsystemen der Kristallographie. Es umfasst alle Punktgruppen mit einer sechszähligen Dreh- oder Drehinversionsachse. Das hexagonale Kristallsystem ist mit dem trigonalen Kristallsystem eng verwandt und bildet zusammen mit ihm die hexagonale Kristallfamilie.
+
+Das hexagonale Kristallsystem umfasst die Punktgruppen formula_1 und formula_2. Dies sind alle die Punktgruppen der hexagonalen Kristallfamilie, in denen es keine Raumgruppe mit rhomboedrischer Zentrierung gibt. Die Raumgruppen des hexagonalen Kristallsystems können alle mit dem hexagonal primitiven Achsensystem beschrieben werden.
+Die hexagonalen Punktgruppen haben keine kubische Obergruppe. Somit ist die hexagonale Holoedrie zusammen mit der kubischen die höchstsymmetrische kristallographische Punktgruppe.
+
+In der hexagonalen Kristallfamilie gibt es das hexagonale und das trigonale Kristallsystem, sowie das hexagonale und das rhomboedrische Gitter-System. Die Einteilung in Kristallsysteme beruht auf der Symmetrie der Kristalle, die Einteilung in Gittersysteme bezieht sich auf die Metrik des Gitters. Während in den fünf anderen Kristallfamilien bzw. Kristallsystemen diese unterschiedlichen Sichtweisen zur selben Einteilung führen, ist dies in der hexagonalen Kristallfamilie nicht so. Darüber hinaus erfolgt hier die Einteilung in Gittersysteme nicht auf Basis der Punktgruppen, sondern der Raumgruppen. Da die Verhältnisse relativ kompliziert sind, werden sie an dieser Stelle ausführlicher beschrieben.
+
+Wie in allen wirteligen Kristallsystemen wird die Drehachse mit der höchsten Zähligkeit in die Richtung der c-Gitterachse gelegt. Die Ebene senkrecht dazu wird durch zwei gleich lange Achsen a und a beschrieben, die im Winkel von 120° zueinander stehen. Daraus ergibt sich folgende Metrik: formula_3 und formula_4 Die durch diese Basisvektoren gebildete Elementarzelle ist in Bild 1 dargestellt. Sie hat ein Volumen von formula_5
+
+In der Mineralogie und besonders in der Metallkunde ist es üblich, noch eine zusätzliche Achse a in der (a, a) Ebene zu verwenden (vgl. Bild 3). Diese hat dieselbe Länge wie a und steht im Winkel zu 120° sowohl zu a als auch zu a. Die Millerschen Indizes werden um den Index i zu so genannten "Miller-Bravais-Indizes" erweitert und haben dann vier Komponenten: (h, k, i, l). Dabei ist der Index i redundant, da gilt: i =  -(h+k). Ähnlich werden in der Metallkunde auch Richtungen durch viergliedrige Symbole [uvtw], die "Weber-Indizes", dargestellt.
+
+Oft wird in der Literatur die hexagonale Zelle als sechseckiges Prisma dargestellt (vgl. Bild 2). Da dieses Prisma kein Parallelepiped ist, handelt es sich aber nicht um eine Elementarzelle. Dieses Prisma besteht aus drei hexagonalen Elementarzellen.
+
+Bild 3 stellt die a-a-Ebene des hexagonalen Achsensystems dar. Im Einzelnen:
+
+
+Bei der Betrachtung möglicher Zentrierungen kommt es in diesem Achsensystem zu einer Besonderheit. Fügt man zusätzliche Gitterpunkte so ein, dass die volle Symmetrie des hexagonalen Gitters erhalten bleibt, so ergeben sich nur Punktgitter, die auch durch ein primitives hexagonales Gitter (mit anderen Gitterkonstanten) beschrieben werden können.
+
+Fügt man aber zusätzliche Gitterpunkte an den Stellen formula_6 und formula_7 beziehungsweise formula_8 und formula_9 ein, so ergibt sich ein neues Gitter, das aber nicht mehr die volle Symmetrie des hexagonalen Punktgitters, sondern die niedrigere Symmetrie formula_10 hat.
+
+Dieses Gittersystem kann auch mit einer primitiven Elementarzelle beschrieben werden. Für die Metrik dieser Zelle gilt: formula_11 und formula_12.
+Diese Elementarzelle hat die Form eines Rhomboeders, eines entlang seiner Raumdiagonalen verzerrten Würfels. Diese Elementarzelle ist zwar primitiv, aber nicht konventionell, da die dreizählige Achse nicht in Richtung eines Gittervektors, sondern in Richtung der Raumdiagonalen liegt.
+Dieses Gittersystem wird rhomboedrisch genannt, hat die Holoedrie formula_10 und wird unabhängig von der Aufstellung (hexagonale oder rhomboedrische Achsen) als R-Gitter bezeichnet.
+
+Die Lage der rhomboedrischen zu den hexagonalen Achsen hängt davon ab, welche der beiden Möglichkeiten zur Zentrierung der hexagonalen Zelle verwendet wurde. Im ersten Fall heißt die Aufstellung der Achsen obvers, im zweiten Fall revers. In der ersten Ausgabe der International Tables von 1935 wurde die reverse Aufstellung verwendet, in den darauffolgenden die obverse. Der Unterschied zwischen beiden Aufstellungen besteht in einer Drehung der hexagonalen zu den rhomboedrischen Achsen um 60°, 180° oder 300°.
+
+Da dieses Gittersystem nicht die volle Symmetrie des hexagonalen hat, kommt es nicht in allen Punktgruppen der hexagonalen Kristallfamilie vor.
+
+Das hexagonale Achsensystem wird zur Beschreibung aller Punktgruppen der hexagonalen Kristallfamilie eingesetzt. Punktgruppen deren Raumgruppen ausschließlich mit dem primitiv hexagonalen Gitter beschrieben werden können, bilden das hexagonale Kristallsystem. Alle Punktgruppen, in denen auch das rhomboedrisch zentrierte Gitter vorkommt, bilden das trigonale Kristallsystem. Auch in diesem System werden alle nicht zentrischen Raumgruppen mit dem hexagonalen Achsensystem beschrieben. Eine Beschreibung dieser Raumgruppen mit dem rhomboedrischen Gittersystem ist nicht möglich, auch wenn sie zur Holoedrie des rhomboedrischen Gittersystems gezählt werden. Nur bei den zentrischen Raumgruppen (Symbol R) hat man die Auswahl zwischen dem hexagonalen und dem rhomboedrischen Achsensystem.
+
+Im Gegensatz zur rhomboedrischen Zelle ist die hexagonale Zelle eine konventionelle Zelle, daher wird in der Regel das hexagonale Achsensystem verwendet. Bei den Strukturdaten der Minerale spielt das rhomboedrische System nur eine untergeordnete Rolle.
+
+Das Rhomboeder ist ein in Richtung der Raumdiagonalen verzerrter Würfel. Daher ist der Einsatz dieser Aufstellung in den Fällen angebracht, in denen eine kubische und eine rhomboedrische Struktur miteinander verglichen werden, da man hierbei das Achsensystem nicht ändern muss.
+
+Da das hexagonale Achsensystem kein orthogonales System ist, ist seine Metrik komplizierter. Einer der Ansätze damit umzugehen ist die Beschreibung durch ein orthorhombisches Gittersystem, das sogenannte orthohexagonale System. Es handelt sich dabei um eine orthorhombisch C-zentrierte Zelle. Die Grundfläche dieses Systems ist ein Rechteck mit dem Seitenlängenverhältnis b:a von formula_14. Sie ist in Bild 3 grün eingezeichnet. Die dritte Achse entspricht der hexagonalen c-Achse.
+
+Der Vorteil dieser Aufstellung ist die einfachere Metrik, der Nachteil ist der Verlust einer expliziten drei- bzw. sechszähligen Achse.
+
+Bei der Beschreibung von Ober- beziehungsweise Untergruppen wird in den International Tables eine dreifach vergrößerte hexagonale Zelle, die sogenannte H-Zelle verwendet.
+
+Es ist auch möglich das hexagonale Gitter mit sechs zentrierten rhomboedrischen Zellen zu beschreiben. Diese Zellen werden D-Zellen genannt. Zur Beschreibung von Strukturen werden sie nicht verwendet.
+
+Die Einteilung der Kristalle in Kristallsysteme beruhte ursprünglich auf der Morphologie. Im trigonalen bzw. hexagonalen System wurden alle die Kristalle zusammengefasst, deren Kristallform auf das Vorhandensein einer drei- bzw. sechszähligen Drehachse schließen lässt. Da aber die sechszählige Drehinversionsachse eine dreizählige Kristallform bewirkt, wurden die Punktgruppen formula_15 (trigonal-dipyramidal) und formula_16 (ditrigonal-dipyramidal) anfangs zum trigonalen Kristallsystem gezählt, wie man an den Bezeichnungen für die Kristallformen heute noch sieht.
+
+Zur Beschreibung der hexagonalen Kristallklassen in Hermann-Mauguin-Symbolik werden die Symmetrieoperationen bezüglich vorgegebener Richtungen im Gitter-System angegeben.
+
+Im hexagonalen Achsensystem: 1. Symbol in Richtung der c-Achse (<001>). 2. Symbol in Richtung einer a-Achse (<100>). 3.Symbol in einer Richtung senkrecht zu einer a und der c-Achse (<120>). Für die 3. Richtung wird auch oftmals die im Allgemeinen nicht äquivalente Richtung <210> angegeben. Auch wenn dies speziell für die Angabe der Lage der Symmetrieelemente keine Rolle spielt, so entspricht diese Angabe nicht den Konventionen.
+
+Charakteristisch für alle Raumgruppen des hexagonalen Kristallsystems ist die 6 (oder ) an 1. Stelle des Raumgruppensymbols.
+
+Weitere hexagonal kristallisierende chemische Stoffe siehe 
+
+Die hexagonal dichteste Kugelpackung kann wie folgt beschrieben werden: Die Verbindungslinien benachbarter Atome bilden einen Körper mit sechseckiger Grundfläche und Deckfläche. In der Mitte dieser beiden Flächen befindet sich je ein weiteres Atom. Zwischen Grund- und Deckfläche haben zusätzlich drei Atome Platz. Mit der Annahme von gleich großen Kugeln entspricht dies einer dichtesten Kugelpackung, deren Raumerfüllung ca. 74,05 % beträgt. Die Stapelabfolge lässt sich mit ABA beschreiben. So findet man hier auch die Bezeichnung "hexagonal-dichteste Kugelpackung" (hdp, engl. ). Hierbei beträgt das Seitenverhältnis im idealen Fall: formula_17.
+
+Eine Elementarzelle mit hexagonal dichtester Packung (hdp) besteht aus zwei rautenförmigen Grundflächen. Die Atome befinden sich innerhalb der Elementarzelle auf den kristallographischen Lagen 1/3, 2/3, 1/4 und 2/3, 1/3, 3/4 (ein Symmetriezentrum der Struktur liegt dann konventionsgemäß in 0, 0, 0).
+
+Viele Metalle kristallisieren in einer hexagonal dichtesten Kugelpackung: Be, Mg, Sc, Ti, Co, Zn, Y, Zr, Tc, Ru, Cd, Lu, Hf, Re, Os, Tl und einige Lanthanoide.
+Als prominentester Vertreter gilt Magnesium, weshalb dieser Strukturtyp auch Magnesiumtyp genannt wird.
+
+
+

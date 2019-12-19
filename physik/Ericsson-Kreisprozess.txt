@@ -1,0 +1,17 @@
+﻿Ericsson-Kreisprozess
+
+Der Ericsson-Kreisprozess (nach John Ericsson), auch Ackeret-Keller-Kreisprozess (nach Jakob Ackeret), ist ein thermodynamischer Kreisprozess. Der Prozess dient als Vergleichsprozess für eine Gasturbinenanlage (interne oder externe Erwärmung) mit interner Wärmeübertragung aus dem Abgas der Turbine an das verdichtete Gas (z. B. Luft). Der ideale Prozess hat den Wirkungsgrad des Carnot-Prozesses.
+
+Der Ericsson-Prozess besteht aus zwei Isobaren und zwei Isothermen. Er ist in den Diagrammen im Bild rechts orangefarben dargestellt und verläuft zwischen den Eckpunkten 1-2E-3E-4E-1.
+
+Die 4 Zustandsänderungen sind:
+
+
+Die Isobaren verlaufen im T-s-Diagramm äquidistant (in horizontaler Richtung gesehen!), so dass die der übertragenen Wärme entsprechende Fläche unter dem Verlauf von 2E bis 3E gleich der Fläche unter dem Verlauf von 4E bis 1 ist. Für die Wärmeübertragung wird ein idealer Gegenstrom-Wärmeübertrager benötigt. Die mittlere Temperatur der Wärmezufuhr von außen ist die höchste Prozesstemperatur und die mittlere Temperatur der Wärmeabfuhr die niedrigste, so dass der Wirkungsgrad gleich dem des Carnot-Prozesses ist (im T-s-Diagramm lässt sich die vom Kreisprozess eingeschlossene Fläche in ein flächengleiches Rechteck mit der Entropiedifferenz zwischen 1 und 2E und der Temperaturdifferenz zwischen 3E und 2E verformen).
+
+Isotherme Turbinen und Verdichter sind nicht realisierbar. Zur Wärmeübertragung über die Gehäusewand reicht die Verweilzeit nicht aus bzw. ist die Fläche zu klein. Deshalb ist die Annäherung an den idealen Prozess nur durch Aufteilen in verschiedene Verdichter- und Turbinenstufen mit jeweiliger Zwischenkühlung bzw. Zwischenerwärmung möglich. In den Diagrammen und im Schaltbild (rechts) ist eine Unterteilung in jeweils zwei Stufen dargestellt. Der interne Wärmeaustausch beschränkt sich jetzt auf die im T-s-Diagramm für die Wärmeaufnahme grün und die Wärmeabgabe rot gekennzeichneten gleich großen Flächen (auch als ideal angenommen, d. h. ohne die zur Wärmeübertragung erforderliche Temperaturdifferenz). Man erkennt daraus, dass die Annäherung an den Ericsson-Prozess umso besser ist, je mehr Stufen gewählt werden (für den Idealfall würden unendlich viele Stufen benötigt). Der bauliche Aufwand für mehrere Stufen ist hoch.
+
+
+
+
+

@@ -1,0 +1,12 @@
+﻿Fokus
+
+Der Fokus (von für „Feuerstätte“, „Herd“) oder Brennpunkt ist jener besondere Punkt eines abbildenden optischen Geräts, in dem sich die Strahlen schneiden, die parallel zur optischen Achse einfallen. Er befindet sich im Abstand der Brennweite auf der optischen Achse. Die im Brennpunkt zur Achse senkrechte Ebene heißt Brennebene (manchmal auch "Fourierebene", "Fokalfläche" oder "Fokalebene"). Für weit entfernte Objekte, wie die Sonne, ist die Brennebene zugleich Bildebene – vom heißen Abbild der Sonne, in dem sich ihre Strahlungsenergie konzentriert, hat der Brennpunkt seinen Namen. Hier und in der Praxis wird er deshalb auch Brennfleck genannt. Je schwächer die Optik "fokussiert", desto weiter ist der Fokus entfernt.
+
+Bei Zerstreuungslinsen oder Wölbspiegeln sind es nicht die gebrochenen bzw. reflektierten Strahlen selbst, sondern ihre rückwärtigen Verlängerungen, die sich im Fokus schneiden. Auch diese Art Fokus wird Brennpunkt genannt, obwohl sich hier keine Strahlungsenergie konzentriert.
+
+Eine Linse oder Linsengruppe besitzt für die Strahlen, die aus der entgegengesetzten Richtung einfallen, einen zweiten Brennpunkt. Ein Parabolspiegel dagegen hat für beide Richtungen denselben Brennpunkt.
+
+Die mathematischen Brennpunkte einer Ellipse, Parabel oder Hyperbel sind zwar keine Fokusse im Sinne dieses Artikels, ihr Name leitet sich jedoch vom physikalischen Brennpunkt ab, da auch reelle Ellipsoide und Paraboloide Lichtstrahlen im (mathematischen) Brennpunkt fokussieren können, z. B. im Flüstergewölbe, beim Parabolspiegel oder der Parabolantenne.
+
+
+

@@ -1,0 +1,12 @@
+﻿Schallreflexion
+
+Die Schallreflexion ist mit der Reflexion in der Optik vergleichbar, wenn die Abmessungen des Reflektors mindestens die fünffache Wellenlänge haben. Der einfachste Fall ist eine Reflexion an einer ebenen Fläche. Hierfür gilt die Regel Einfallswinkel gleich Reflexionswinkel auch für gekrümmte Flächen. Als Reflexionsfläche legt man die Tangente durch den Reflexionspunkt. An der Reflexionsfläche kann sich die Schallquelle spiegeln und auf der anderen Seite der Fläche abbilden. Diese neue Schallquelle wird als Spiegelschallquelle bezeichnet.
+Bei beidohrigem (binauralem) Hören tritt bei einer Verzögerung von 0 bis 1 ms zwischen Original- und Spiegelschallquelle Summenlokalisation auf. Zwischen 1 und 50 ms (Sprache) bzw. 80 ms (Musik) wirkt der Präzedenzeffekt. Darüber wird das zweite Schallereignis als Echo wahrgenommen. 1 ms entspricht 34,3 cm Wegdifferenz (bei 20 °C). Bei Aufnahme mit einem Mikrofon (zum Teil auch bei einohrigem (monauralem) Hören) ist eine Klangverfärbung wahrnehmbar, die durch eine kammfilterartige Überlagerung der zwei Schallsignale hervorgerufen wird.
+Am Immissionsort treffen neben der direkten Schallwelle reflektierte Wellen auf. Auch wenn keine reflektierenden Objekte – wie Mauern oder Gebäude – vorhanden sind, tritt im Regelfall immer eine Schallreflexion als Schalldruck am Boden ein. Die direkte und die reflektierte Welle überlagern sich am Immissionsort, und dieses führt zur konstruktiven bzw. destruktiven Interferenz, was zu Pegelerhöhungen bzw. zu Pegelabnahmen führt.
+Folgende Wörter gehören zur gestörten Schallausbreitung: Schallreflexion, Schallabsorption, Schalltransmission und Schalldissipation.
+Zusammenhänge: Der Schallreflexionsgrad "ρ" ist ein Maß für die reflektierte Schallintensität. Der Schallabsorptionsgrad "α" ist ein Maß für die absorbierte Schallintensität. Der Schalltransmissionsgrad "τ" ist ein Maß für die durchgelassenen Schallintensität der Schalldissipationsgrad "δ" ist ein Maß für die „verlorengegangene“ Schallintensität.
+Zusammenhänge:
+Aus der letzten Gleichung ist zu erkennen, dass sich der Anteil der absorbierten Schallintensität, also die Schallabsorption, aus der Summe der Anteile von durchgelassener (transmittierter) und „verlorengegangener“ (dissipierter) Schallintensität aus Schalltransmission und Schalldissipation zusammensetzt. Die erste Gleichung zeigt, dass die Summe von reflektierter und absorbierter Schallintensität, das sind Schallreflexion und Schallabsorption, also der gesamten Schallintensität entspricht.
+
+
+

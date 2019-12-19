@@ -1,0 +1,10 @@
+﻿Homogenes Feld
+
+In der Physik versteht man unter einem homogenen Feld ein Feld, dessen Feldstärke nicht vom Ort abhängt – die Kraft auf einen (Probe-)Körper in einem homogenen Feld ist also stets überall gleich groß und gleich gerichtet. 
+
+Felder, für die das nicht gilt, heißen inhomogen.
+
+Gibt es zwischen zwei Punkten eines Magnetfelds weder eine Flussänderung noch einen Feldstärkenunterschied und ist es ein gleichbleibendes Feld, dessen Feldlinien allesamt parallel in dieselbe Richtung verlaufen, spricht man von einem homogenen Magnetfeld.
+
+
+

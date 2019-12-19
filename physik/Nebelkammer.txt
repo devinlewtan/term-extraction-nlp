@@ -1,0 +1,17 @@
+﻿Nebelkammer
+
+Als Nebelkammer wird in der Physik ein Teilchendetektor bezeichnet, der dem Nachweis von ionisierender Strahlung dient und für manche Teilchen dabei auch deren Weg sichtbar macht. Nebelkammern werden heute fast nur noch zu Demonstrationszwecken verwendet. Früher waren Nebelkammern bedeutende wissenschaftliche Instrumente zur Erforschung der von radioaktiven Stoffen ausgehenden Strahlen. So wurde Charles Thomson Rees Wilson für die Entwicklung der Expansionsnebelkammer (auch Wilsonschen Nebelkammer) 1927 mit dem Nobelpreis für Physik ausgezeichnet.
+
+Eine Nebelkammer ist meist mit einem übersättigten Luft-Alkohol-Gemisch (Ethanol oder Isopropanol) gefüllt. Wenn ein energiereiches, geladenes Teilchen das Gas durchquert, erzeugt es durch Stoßionisation zahlreiche Ionen, die einzeln als Kondensationskerne für die Bildung feinster Tröpfchen wirken. In ihrer Gesamtheit bilden sie eine sichtbare Spur, einen Kondensstreifen.
+Durch Ablenkung des Teilchens mittels eines geeigneten elektrischen oder magnetischen Feldes können anhand der entstehenden Bahnkurven (siehe Abb.) Aussagen über die Masse, Ladung und Energie, und damit letztlich über die Art des betreffenden Teilchens und dessen Entstehungsprozess gemacht werden. In einfachen Nebelkammern befindet sich dazu meist ein starker Permanentmagnet am Boden der Kammer, der die geladenen Teilchen mittels der Lorentzkraft auf eine Spiralbahn zwingt (die Krümmung nimmt zu, weil das Teilchen durch die Stöße abgebremst wird).
+
+Auch ohne Präparat befindet sich in unserer Umwelt ein gewisses Maß an Alpha- und Betastrahlung, die man mit der Nebelkammer sichtbar machen kann:
+
+Je nach Art der Erzeugung des übersättigten Luft-Alkohol-Gemischs wird zwischen nicht-kontinuierlichen sowie kontinuierlichen Nebelkammern unterschieden:
+
+Die Wilsonsche Nebelkammer (benannt nach ihrem Erfinder Charles Thomson Rees Wilson) erzeugt die Übersättigung durch eine schnelle Expansion. Durch Herausziehen eines Kolbens (siehe nebenstehende Abb.) vergrößert sich das Volumen der Luft in der Nebelkammer, der Druck und damit auch die Temperatur sinkt. Dadurch ist der Dampf übersättigt und man braucht nur kleine Kondensationskeime, um eine Nebelspur zu erzeugen. Da die Luft nur kurze Zeit abkühlt, ist die Expansionsnebelkammer nur ungefähr eine Sekunde lang fähig, Nebelspuren zu erzeugen. Man kann somit nur einen kurzen "Schnappschuss" erzeugen und muss nach einer Pause dann erneut den Kolben herausziehen.
+
+Die Diffusionsnebelkammer (von Alexander Langsdorf 1936 erfunden) erzeugt die Übersättigung durch eine Kühlung der Bodenplatte auf ca. −30 °C. Ungefähr 10 cm über dem Boden befinden sich Heizdrähte, die das Luft-Alkohol-Gemisch im oberen Bereich auf einer Temperatur von ca. +15 °C halten. Zwischen Boden und Decke gibt es somit ein Temperaturgefälle und es entsteht knapp über dem Boden eine übersättigte Schicht, in der die Erzeugung von Nebelspuren möglich ist. Die Diffusionsnebelkammer kann viele Stunden in Betrieb bleiben. Nebelspuren, die sich an den Ionen bilden, verschwinden eher wieder und lassen neue Spuren eher sichtbar werden, wenn durch eine „Saugspannung“ zwischen Boden und Decke die freien Ionen der alten Nebelspuren immer wieder „abgesaugt“ werden. Ein solcher „Ionensauger“ ist nützlich, aber nicht zwingend notwendig.
+
+
+

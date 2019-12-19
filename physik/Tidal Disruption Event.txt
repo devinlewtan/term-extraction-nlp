@@ -1,0 +1,11 @@
+﻿Tidal Disruption Event
+
+Der Begriff Tidal Disruption Event ( für "Gezeiten-Sternzerrissereignis") beschreibt in der Astronomie die nahe Begegnung eines Sterns mit einem supermassiven Schwarzen Loch im Kern einer Galaxie, wodurch ein Teil der Materie des Sterns sein Gravitationsfeld verlässt und eine Akkretionsscheibe um das Schwarze Loch bildet. Dieser Vorgang sollte ruhige galaktische Kerne wieder in aktive galaktische Kerne umwandeln und mit einer Rate von 0,0001 pro Galaxie und Jahr ein vergleichsweise häufiges Ereignis sein.
+
+Um das Zentrum der Milchstraße Sagittarius A* sind die S-Sterne gefunden worden. Die S-Sterne sind frühe massereiche Blaue Riesen mit einer Umlaufdauer von wenigen Jahren. Durch Streuung aufgrund naher Begegnungen wird alle 100 bis 10.000 Jahre ein Stern dem supermassiven Schwarzen Loch so nahe kommen, dass sich Teile des Sterns innerhalb der Roche-Grenze des Schwarzen Lochs befinden. Diese Materie verlässt den gravitativen Einfluss des Sterns und bildet eine Akkretionsscheibe um das Schwarze Loch. Neben dem Einfangen von Gaswolken stellt dies eine zweite Variante dar, dass Materie in ein Schwarzes Loch im Zentrum einer Galaxie befördert wird und dieses damit in einen aktiven galaktischen Kern umwandelt. Ein Tidal Disruption Event führt aufgrund der Viskosität der Materie in der Akkretionsscheibe zu einem Ausbruch im Ultraviolett und im Röntgenbereich, der als "Tidal Flare" bezeichnet wird.
+
+Ein Tidal Flare sollte Schwarzkörpertemperaturen zwischen 0,04 und 0,12 keV haben und in der Größenordnung von Monaten bis Jahren andauern. Die Leuchtkraft kann bis zu 10 erg/s erreichen. Der Anstieg der Leuchtkraft liegt in der Größenordnung von Tagen bis Wochen in Abhängigkeit von der Masse des Schwarzen Lochs, wobei geringere Massen zu einem steileren Anstieg in der Lichtkurve führen. Neben der Masse kann mit Hilfe der Tidal Flares auch die Rotationsperiode der Schwarzen Löcher untersucht werden. Der Helligkeitsabfall sollte mit einem Power law von −5/3 abnehmen und dieser Abfall sollte zur Identifizierung von Tidal Disruption Event genutzt werden können, da kein anderes bekanntes Ereignis zu einem derartigen Rückgang der Leuchtkraft führt.
+
+Kandidaten für Tidal Disruption Events bzw. Tidal Flares sind:
+
+

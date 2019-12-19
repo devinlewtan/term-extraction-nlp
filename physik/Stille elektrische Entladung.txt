@@ -1,0 +1,38 @@
+﻿Stille elektrische Entladung
+
+Die stille elektrische Entladung (auch dielektrische Barriereentladung, DBE, , "DBD") oder Plasmaentladung ist eine Wechselspannungs-Gasentladung, bei der mindestens eine der Elektroden vom Gasraum durch galvanische Trennung mittels eines Dielektrikums elektrisch isoliert ist.
+
+Ein gas- oder luftgefüllter Raum zwischen isolierend umhüllten Elektroden kann ionisiert werden beziehungsweise gelangt in einen Plasmazustand (Niedertemperaturplasma ähnlich einer Glimmentladung), wenn eine Wechselspannung an den Elektroden im Gasraum ausreichende Feldstärken erzeugt. Durch Verschiebungsströme wird die Entladung auch durch die Isolation hindurch aufrechterhalten und es kann kontinuierlich elektrische Leistung in das Plasma übertragen werden. Man kann sich entsprechende Anordnungen als Kondensator mit inhomogenem Dielektrikum vorstellen, weshalb man auch von kapazitiver Anregung oder (etwas unzutreffend) elektrodenloser Anregung spricht. Die Feldstärke ist umgekehrt proportional zu den Dielektrizitätskonstanten und daher im Gas stets höher als im Dielektrikum. Dennoch wird die Oberfläche des Dielektrikums durch Ionenbombardement und Ultraviolettstrahlung belastet, was je nach Anwendung entweder ausgenutzt oder vermieden werden muss.
+
+DBE haben folgende Eigenschaften:
+
+Zur Erzeugung einer homogenen Entladung ist eine gepulste Anregung vorteilhaft. Die DBE wird dabei mit uni- oder bipolaren Pulsen mit Pulsdauern von wenigen Mikrosekunden bis hinunter zu einigen zehn Nanosekunden und Amplituden im einstelligen Kilovoltbereich beaufschlagt. Das Puls-Pausenverhältnis ist in der Regel sehr klein und liegt unterhalb von zehn Prozent.
+
+Die hohe elektrische Wechselspannung (einige Kilovolt) hoher Frequenz (etwa 10 bis 1000 kHz) oder die Hochfrequenzpulse können mit hoher Effizienz mit Resonanzwandlern erzeugt werden.
+
+Vorteile je nach Anwendung:
+
+Ein Vorteil ist auch das Arbeiten an normaler Luftatmosphäre.
+
+Der Frequenzbereich ist zwar nach oben nicht begrenzt, effektive elektrische Anregungsschaltungen arbeiten mit Halbleitern bis zu wenigen 100 kHz und bei Generatoren mit Elektronenröhren bei 10…100 MHz. Ähnlich arbeiten jedoch auch Verfahren mit Magnetrons im ISM-Band 2,4…2,5 GHz. Es ist jedoch zu beachten, dass das bei DBE mögliche Nichtgleichgewichtsplasma vornehmlich nur durch Pulsanregung erreicht wird. Im Gegensatz zu kontinuierlicher Anregung, beispielsweise mit einem Sinus- oder Rechtecksignal, weist der Pulsbetrieb ein kleines Puls-zu-Pause Verhältnis (duty cycle) auf. Nach erfolgter Anregung und Herbeiführung des Plasmazustandes können die im Gas gebildeten Ladungsträger während der Pause wieder abgebaut werden und ein wirkungsgrad-schädigendes Thermalisieren des Plasmas wird verhindert.
+
+Die Elektrodenkonfigurationen einer stillen Entladung können je nach Anwendung stark variieren:
+
+
+
+Einsatz in der Gaschromatographie als "Barrier Ionisation Discharge Detektor" (BID) mit kalter Plasmaentladung.
+Dieser Detektor nutzt die energiereichen Photonen des Heliumplasmas zur Ionisierung der Probemoleküle. Da praktisch alle Substanzen (außer Neon und Helium selbst) ein geringeres Ionisierungspotential haben, ist dieser Detektor als universell zu bezeichnen.
+Die japanische Firma Shimadzu hat das Prinzip der Barrier Ionisations Plasmaentladung weiterentwickelt und sich diese Technik seit 2013 durch zahlreiche Patente exklusiv gesichert.
+
+
+
+Erzeugung von Licht und ultravioletter optischer Strahlung:
+Anregung von Gaslasern.
+
+Betriebsgeräte für dielektrisch behinderte Gasentladungslampen sind in der Regel Leistungs-Hochfrequenzgeneratoren, die einen Transformator zur Ausgangsspannungserhöhung enthalten. Die einfachsten Betriebsgeräte generieren eine nieder- oder hochfrequente kontinuierliche Sinusspannung. Pro Sinus-Halbwelle kommt es in der Regel zu mehreren Lampenzündungen. Eine Alternative dazu stellen Generatoren mit Rechteck-Ausgangsspannungssignal dar. Die Lampenzündungen erfolgen hier zu Zeiten hoher Spannungsanstiegsgeschwindigkeiten und somit außerhalb der Plateauspannungen. Die zur Anwendung kommenden leistungselektronischen Topologien basieren – wie auch bei Betriebsgeräten für andere Gasentladungslampen – auf halb- oder vollbrückengetriebenen Resonanzkreisen. Die Lampenkapazität wird sinnvollerweise als kapazitiver Teil des Resonanzkreises genutzt. Bei kontinuierlich arbeitenden Betriebsgeräten muss somit die in der Kapazität der Lampe gespeicherte Energie nicht zurückgewonnen werden. Sie verbleibt im Resonanzkreis und lediglich die durch die Lampenzündungen konsumierte Wirkleistung muss in den Resonanzkreis eingekoppelt werden. Der für die Lampeneffizienz vorteilhafte gepulste Betrieb von DBE-Lampen ist nachteilig für die Effizienz des Pulsbetriebsgerätes, da die Lampe in der Regel einen sehr geringen Leistungsfaktor (typisch 10 %) aufweist und somit 90 % der zur Erreichung der Zündspannung notwendigen Energie wieder aus dem Resonanzkreis entnommen werden muss. Typische Topologien sind der Sperrwandler (Flyback converter) und resonante Halbrückenschaltungen (half bridge). Eine flexible Topologie, die diese beiden Schaltungsansätze vereint, wird in und vorgestellt und kann für DBE-Lampen mit variabler Kapazität genutzt werden. Eine Übersicht über mögliche Topologien und Ansteuerkonzepte für den gepulsten DBE-Betrieb liefert.
+
+Eine recht neue Methode zur Erzeugung von Barriereentladungen ist die direkte Nutzung eines piezoelektrischen Transformators (PT) als aktive dielektrische Komponente.
+
+
+
+

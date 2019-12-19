@@ -1,0 +1,28 @@
+﻿Magnetostriktion
+
+Magnetostriktion ist die Deformation magnetischer (insbesondere ferromagnetischer) Stoffe infolge eines angelegten magnetischen Feldes. Dabei erfährt der Körper bei konstantem Volumen eine elastische Längenänderung ("Joule-Magnetostriktion").
+
+Als Besonderheit, z. B. bei Invar-Legierungen, gibt es auch die Möglichkeit der "Volumen-Magnetostriktion", bei der das Volumen veränderlich ist; sie ist normalerweise wesentlich kleiner als die Joule-Magnetostriktion.
+
+Quantenmechanische Ursache des Phänomens (wie auch der zugrundeliegenden magnetischen Anisotropie) ist die Spin-Bahn-Wechselwirkung.
+
+Legt man an ferromagnetisches Material ein äußeres magnetisches Feld an, so richten sich die Weissschen Bezirke gleich aus. Durch das Drehen der Dipole ändert sich die Länge eines Stabes im Bereich von ca. 10 bis 30 µm/m (hochmagnetostriktive Werkstoffe: bis 2 mm/m). Durch ein magnetisches Wechselfeld wird jeder ferromagnetische Stoff, beispielsweise der Eisenkern eines Transformators, zu mechanischen Schwingungen angeregt. Durch Magnetostriktion an ferromagnetischen Materialien (z. B. in Spulenkernen) in sich ändernden Magnetfeldern kann es zu Geräuschen kommen – ähnlich wie es durch Elektrostriktion in einem sich stark ändernden elektrischen Feld an einem Dielektrikum (z. B. in einem Kondensator) zu Geräuschen kommen kann.
+
+Für induktive Bauteile sind magnetische Werkstoffe mit möglichst "geringer" Magnetostriktion wünschenswert, da sich einerseits die magnetischen Eigenschaften durch Druck oder Zug (z. B. durch Einspannen, Verkleben oder Vergießen von Kernen) verändern, und andererseits durch den Betrieb von Transformatoren oder Drosseln am 50-Hz-Netz das Netzbrummen mit einer Frequenz von 100 Hz in Europa auftritt. Die weichmagnetische "kristalline" Legierung Permalloy, NiFe, erfüllt die gewünschten Bedingungen. Noch besser sind amorphe Eisen-Legierungen.
+
+Verwendet wurde die Magnetostriktion schon früher, z. B. um Ultraschall zu erzeugen. Dabei wird ein Stab aus Material mit hoher Magnetostriktion (z. B. Nickel) in einer Spule mit Wechselstrom ummagnetisiert.
+
+Auch in modernen Warensicherungsetiketten wird dieser Effekt genutzt.
+
+Ein linearer Aktor, der mit Magnetostriktion arbeitet, ist der Wurmmotor. Magnetblasenspeicher nutzen Magnetostriktion zur Datenspeicherung.
+
+Es gibt magnetoelastische Sensoren, welche die inverse Magnetostriktion, d. h. die Änderung der Magnetisierung durch mechanische Spannungen, beispielsweise für die Messung von Zug- und Druckkraft sowie Torsion nutzen.
+
+Bei der Joule-Magnetostriktion wird ein Körper unter dem Einfluss eines magnetischen H-Feldes gedehnt. Mit Hilfe der relativen Längenänderung parallel zum Feld wird die (feldstärkeabhängige) magnetostriktive Konstante formula_1 definiert:
+
+Da das Umklappen der magnetischen Momente das Volumen erhält, gilt senkrecht zum Feld (vgl. auch Querdehnungszahl):
+
+Magnetostriktive Konstanten bekannter Materialien sind in der folgenden Tabelle aufgeführt. Die Daten stammen aus und .
+
+
+

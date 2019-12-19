@@ -1,0 +1,190 @@
+﻿Induktivität
+
+Induktivität ist eine Eigenschaft elektrischer Stromkreise oder Bauelemente, insbesondere von Spulen. Es ist zu unterscheiden zwischen Selbstinduktivität (auch Eigeninduktivität oder Selbstinduktion genannt) und "Gegeninduktivität"; mit „Induktivität“ ohne Zusatz ist fast immer die Selbstinduktivität gemeint. Die Selbstinduktivität eines Stromkreises setzt die zeitliche Änderungsrate des elektrischen Stroms formula_1 mit der elektrischen Spannung formula_2 in Beziehung:
+Das Formelzeichen der Selbstinduktivität ist "L". Es wurde zu Ehren von Emil Lenz gewählt, dessen theoretische Arbeiten zur elektromagnetischen Induktion grundlegend waren.
+Die Maßeinheit der Selbstinduktivität im SI-Einheitensystem ist das Henry, benannt nach dem US-amerikanischen Physiker Joseph Henry.
+
+Im wichtigen Fall einer Drahtschleife oder Spule kann man die Beziehung zwischen Spannung und zeitlich veränderlichem Strom unmittelbar mit Ampèreschem Gesetz und Induktionsgesetz verstehen: Ein elektrischer Strom erzeugt, wie vom Ampèreschen Gesetz beschrieben, ein Magnetfeld. Die zeitliche Änderung des Magnetfeldes „induziert“, wie vom Induktionsgesetz beschrieben, im selben Stromkreis eine elektrische Spannung. Beide Effekte sind proportional zur Zahl der Windungen formula_4, die Selbstinduktivität einer Spule ist daher proportional zu formula_5.
+
+Stromänderungen in einem Stromkreis "m" induzieren aber auch Spannungen in anderen in der Nähe befindlichen Stromkreisen "n". Diese „wechselseitige Induktion“ oder Gegeninduktion beschreibt man mit Koeffizienten "L" = "L" der wechselseitigen Induktivität.
+
+Selbst- und wechselseitige Induktion und die entsprechenden Induktivitäten spielen eine wichtige Rolle in Transformatoren, Elektromotoren und der Elektronik.
+
+Die erste Voraussetzung für die Gültigkeit der Gleichung formula_3 ist, dass das Magnetfeld „quasistatisch“ vom elektrischen Strom erzeugt wird. Es darf keine Phasenunterschiede zwischen Magnetfeld und Strom und keine Abstrahlung elektromagnetischer Wellen geben, d. h., die Frequenzen müssen hinreichend klein sein.
+
+Ferner muss die Stromverteilung frequenzunabhängig sein. Das ist der Fall bei kleinen Frequenzen, bei denen die Stromdichte über den Leiterquerschnitt konstant ist, sowie bei hohen Frequenzen bei vollständigem Skineffekt, wo der Strom in der Leiteroberfläche fließt (wie bei Supraleitern). Bei Frequenzen mit partiellem Skineffekt ist die Induktivität frequenzabhängig. Im Fall dünner Leiter macht es allerdings wenig Unterschied, ob der Strom im Leiterquerschnitt oder in der Leiteroberfläche fließt – die Frequenzabhängigkeit ist klein.
+
+Schließlich wird noch vorausgesetzt, dass im Bereich der Magnetfelder befindliche magnetisierbare Materialien konstante Permeabilitätszahlen haben. Andernfalls liegt nichtlineare Induktivität vor.
+
+In diesem Rahmen jedoch gilt die Beziehung formula_3 für Leiterschleifen mit beliebig ausgedehnten Leitern, und die Induktivitäten sind allein durch die Anordnung und Ausdehnung der elektrischen Leiter und magnetisierbaren Materialien bestimmt.
+
+Für Leiterschleifen wird die Induktivität in der Elektrotechnik oft definiert durch den von der Leiterschleife umfassten verketteten magnetischen Fluss Ψ gemäß
+
+Umfasst der Leiter den gleichen magnetischen Fluss Φ mehrfach, z. B. alle Windungen einer Spule "N" mit gleicher Größe, ergibt sich für den verketteten magnetischen Fluss der Spezialfall "N"Φ und die Selbstinduktivität zu
+
+Wenn ausschließlich magnetische Stoffe mit einer konstanten Permeabilitätszahl in der Umgebung des Stromkreises vorhanden sind, dann folgt aus dem Durchflutungsgesetz, dass die magnetische Flussdichte "B" dem Strom "I" in einer Leiterschleife proportional ist. Daher ist auch der insgesamt vom Strom "I" erzeugte magnetische Fluss Φ direkt proportional dem Momentanwert der Stromstärke i. Der dabei auftretende Proportionalitätsfaktor bei "N" Windungen ist die Selbstinduktivität "L" (wahrscheinlich zu Ehren von Emil Lenz so bezeichnet).
+
+Eine Induktivität von 1 H liegt vor, wenn bei gleichförmiger Stromänderung von 1 Ampere je Sekunde eine Selbstinduktionsspannung von 1 Volt entlang des Leiters entsteht.
+
+Weisen jedoch die magnetischen Stoffe wie Eisen in der Nähe des elektrischen Leiters keine konstante Permeabilitätszahl μ auf (diese ist beispielsweise von der magnetischen Flussdichte "B" abhängig), dann ist die Induktivität kein konstanter Proportionalitätsfaktor, sondern eine Funktion formula_12 der magnetischen Flussdichte. Es gibt dann eine Sättigungsmagnetisierung. Die sich ergebenden nichtlinearen Induktivitäten sind analytisch wesentlich schwieriger zu behandeln.
+
+Wird eine nichtlineare Induktivität um einen Arbeitspunkt herum ausgesteuert, so kann die Änderung des verketteten Flusses formula_13 in Bezug zur Änderung des Stroms vom Wert der statischen Induktivität abweichen. Für infinitesimal kleine Änderungen um den Arbeitspunkt ergibt sich aus dem Anstieg der Tangente an die formula_14-Kurve die dynamische Induktivität
+
+Bis Mitte des 20. Jahrhunderts wurde die Induktivität von Spulen manchmal mit der Einheit cm bzw. Quadrant beschriftet. Diese Angabe in Zentimetern rührt daher, dass die Induktivität im heute praktisch kaum noch gebrauchten elektromagnetischen CGS-Einheitensystem (EMU) in der Längendimension ausgedrückt wurde. Der Name Quadrant kommt daher, dass 10 EMU gleich 1 Henry ist, was wiederum der Länge in cm eines Erdquadranten entspricht.
+
+Eine Induktivität von 1 cm bzw. 1 Quadrant in elektromagnetischen CGS-Einheiten entspricht 1 nH in SI-Einheiten.
+
+Dem Induktionsgesetz entsprechend ergibt sich die Umlaufspannung "u" einer ruhenden um den magnetischen Fluss formula_16 geführten Schleife aus der zeitlichen Änderungsrate des durch diese Schleife hindurchtretenden magnetischen Flusses formula_16 bzw. aus der induzierten elektrischen Feldstärke "E" entlang der Schleife:
+
+Wenn die Leiterschleife den magnetischen Fluss N-fach umschlingt, wie es beispielsweise bei einer Spule der Fall ist, gilt näherungsweise:
+
+Das dabei auftretende negative Vorzeichen entspricht der Lenzschen Regel: die induzierte Spannung formula_20 sucht einen Strom hervorzurufen, der der ursprünglichen Stromänderung entgegenwirkt. Werden Strom formula_21 und Spannung formula_22 für die Induktivität als passives Bauelement in die gleiche Richtung definiert, ergibt sich für "u": formula_23. Mit der obigen Definition der Induktivität lässt sich die Beziehung von der Klemmenspannung "u" als Funktion des Stromes "i" als Differentialgleichung ausdrücken:
+
+In den meisten Fällen ändert sich die Induktivität nicht zeitlich und die Strom-Spannungs-Beziehung an der Induktivität kann angegeben werden zu
+
+Der dabei auftretende magnetische Fluss formula_16 ist jener Fluss, der erst aufgrund des Stroms "i" durch die Leiterschleifen erzeugt wird. Eine Änderung dieses Flusses induziert in jeder der "N" Leiterschleifen eine Spannung formula_23 und wird damit als verketteter magnetischer Fluss formula_13 wirksam. Weitere externe magnetische Flüsse durch die Leiterschleifen sind in diesem Fall als nicht vorhanden angenommen bzw. zeitlich konstant. Die Spannung "u" nennt man die bei Selbstinduktion auftretende "Klemmenspannung".
+Das Vorzeichen in obiger Gleichung ist abhängig von der Zählrichtung von Strom und Spannung.
+Stimmt die Richtung der Spannung "u" mit der Richtung des Stromes entlang der Leiterschleife überein, wie in nebenstehender Grafik dargestellt, spricht man vom so genannten Verbraucherzählsystem, und es gilt:
+
+Sind die Richtungen von Spannung "u" Strom "i" entlang der Leiterschleife entgegengesetzt gerichtet, spricht man vom so genannten Erzeugerzählpfeilsystem, und es gilt:
+
+Man bezeichnet diesen bei Stromänderung entstehenden Spannungsabfall "u" dann als "Selbstinduktionsspannung" oder "induktiven Spannungsabfall". Die obige Differentialgleichung ist die Elementgleichung, mit der sich lineare Induktivitäten, wie beispielsweise Spulen in elektrischen Schaltungen, beschreiben lassen.
+
+Ausgehend vom Induktionsgesetz, erzeugen extern einwirkende, zeitlich veränderliche magnetische Flüsse in zeitlich konstanten Leiterschleifen zeitlich veränderliche elektrische Spannungen. Aber auch der magnetische Fluss, der durch einen Strom durch die Spule selbst entsteht, wirkt auf die Spule ein. Ändert sich die Stromstärke durch die Spule, so ändert sich das von ihr selbst erzeugte Magnetfeld und induziert dadurch in der Spule selbst eine Spannung, die der Stromstärkeänderung entgegengerichtet ist. Dieser Umstand wird allgemein als Selbstinduktion bezeichnet. Je schneller und stärker sich das Magnetfeld ändert, desto höher ist die erzeugte Induktionsspannung. Grundsätzlich kann die Selbstinduktion vollständig durch das Induktionsgesetz beschrieben werden und erfordert keine formalen Ergänzungen oder Anpassungen.
+
+Allerdings kommt es bei der in Elektrotechnik üblichen Netzwerktheorie, welche beispielsweise zur Beschreibung von elektrischen Maschinen wie Transformatoren Verwendung findet, unter Umständen zu Verständnisschwierigkeiten, da die Netzwerktheorie keine Feldgrößen wie den magnetischen Fluss kennt.
+
+Stattdessen wird mit zeitlich veränderlichen Spannungen und Strömen in Ersatzschaltbildern mit passiven Bauelementen wie Spulen und elektrischen Widerständen gearbeitet. Die induzierten Spannungen werden als Spannungsquellen modelliert, welche historisch auch als "elektromotorische Kraft" "(EMK)" bezeichnet werden. Da es sich bei induzierten Spannungen aber um keine Kraft im physikalischen Sinn handelt, sollte der Begriff EMK zur Vermeidung von Missverständnissen vermieden werden und als selbstinduzierte Quellenspannung bezeichnet werden.
+
+Im Netzwerkmodell, wie sie unter anderem Schaltpläne darstellen, wird mit Zählpfeilen und bestimmten Orientierungen gearbeitet, wie es die nebenstehende Abbildung darstellt. Zur Verdeutlichung ist der von extern auf die Leiterschleife einwirkende magnetische Fluss Φ und die davon verursachten induzierten Spannungen "u" mit dem Index "ext" versehen. Bei Belastung der extern geschlossenen Schleife fließende Strom "i" erzeugt einen magnetischen Fluss Φ, welcher mit dem Index "I" kennzeichnet ist. Die selbstinduzierte Quellenspannung lässt sich als eine Spannungsquelle mit dem Betrag "u" modellieren, wie in erster Abbildung dargestellt, und ist der den Spulenstrom "i" treibenden Spannung "u" entgegengerichtet. Man bezeichnet sie daher auch als "Gegenspannung". Anwendung findet diese Darstellung beispielsweise bei der Beschreibung des so genannten Magnetisierungsstromes bei einem Transformator.
+
+Das Modell des "induktiven Spannungsabfalles", wie in zweiter Abbildung dargestellt, kommt ohne weitere Spannungsquelle aus. Die an der eingezeichneten Spule "L" auftretende Spannung weist dabei in die gleiche Richtung wie der Strom "i" welcher durch die von extern treibenden Spannung "u" verursacht ist. Diese Darstellung hat den Vorteil, dass die Zusammenhänge im Netzwerkmodell bei harmonischen Vorgängen durch das Ohmsche Gesetz mit Blindwiderständen einfacher beschrieben werden können. Der in der Elektrotechnik wichtige Spezialfall von harmonischen Vorgängen bei den auftretenden Größen reduziert die zeitlichen Ableitungen im Induktionsgesetz auf Multiplikationen mit jω (dΦ/d"t" ≡ jωΦ), was in der komplexen Ebene einer Drehung um 90° entspricht und den Zugang zur komplexen Wechselstromrechnung darstellt. Dabei bezeichnet formula_31 die imaginäre Einheit.
+
+Transformiert man die Differenzialgleichung:
+
+in den Laplace-Bereich mit der unabhängigen Variablen formula_33, (Fourier, formula_34), so wird aus dem Differentialoperator formula_35 der Faktor formula_36, und es gilt:
+
+Das Zeichen formula_38 bezeichnet die Kreisfrequenz formula_39. Ähnlich wie beim Ohmschen Gesetz lässt sich für die Spule daraus ein Wechselstromwiderstand:
+
+definieren, der auch als (komplexe) Impedanz bezeichnet wird.
+
+Wird, z. B. für sehr einfache Schaltungen, die Phasenverschiebung zwischen Strom und Spannung an der Induktivität nicht betrachtet, kann man Wechselstromrechnungen auch ohne komplexe Zahlen durchführen. Wird eine Induktivität an eine Wechselspannung vom Betrag "U" gelegt, kann der Betrag "I" des Stroms nach der Formel:
+
+berechnet werden, wobei für den induktiven Blindwiderstand "X" bei der Frequenz "f" gilt:
+
+Dies gilt jedoch nur für Induktivitäten die eine konstante und nicht von der Aussteuerung abhängige Permeabilitätszahl haben, wie es zum Beispiel bei einer Luftspule der Fall ist.
+
+Der Leerlaufstrom von Luftspulen kann um weniger als 90 Grad phasenverschoben zur Spannung sein. Bei der geringen Frequenz von 50 Hz in der Beispielmessung ist der Ohmsche Widerstand dominant.
+Der Leerlaufstrom von Spulen mit Eisenkern verläuft, bedingt durch dessen Hysteresekurve, gänzlich anders als bei einer Luftspule.
+
+Die Selbstinduktion wird unter anderem genutzt, um die erforderliche hohe Zündspannung bei Leuchtstofflampen oder für Zündkerzen im Ottomotor zu erzeugen. Es lassen sich Spannungen von einigen 1000 V erzeugen. Im Elektrozaun und im Funkeninduktor werden auf diese Weise Hochspannungsimpulse erzeugt.
+
+Das Schalten jeder Induktivität stellt für Schalter eine Belastung dar. Die dabei entstehende hohe Spannung ist für Schalter, insbesondere elektronische Schalter wie Transistoren, gefährlich, denn beim Ausschalten ändert sich das Magnetfeld sehr abrupt und erzeugt damit die hohe Selbstinduktionsspannung. Um die Zerstörung des Schalters zu vermeiden oder die Spannung zu begrenzen, wird ein Kondensator oder eine Freilaufdiode antiparallel zur Spule geschaltet.
+
+Die Selbstinduktion ist unter anderem auch der Grund für die Induktivität, welche zur Beschreibung des Verhaltens der Spule in Wechselstromkreisen benötigt wird. Die Induktivität führt zu einer Phasenverschiebung zwischen Strom und Spannung, was im Rahmen der komplexen Wechselstromrechnung bei der Berechnung von induktiven Widerständen Anwendung findet.
+
+Durch Anwendung der Berechnungsmethoden für magnetische Felder, insbesondere des Biot-Savart-Gesetzes, lassen sich für einige einfache geometrische Leiteranordnungen die äußeren Induktivitäten analytisch bestimmen. Kompliziertere Leiteranordnungen sind in der Feldberechnung meist nur noch mittels numerischer Berechnungsverfahren zugänglich.
+
+Die im Folgenden näher dargestellten Leiteranordnungen haben auch technische Bedeutung: bei der Herstellung von Induktivitäten (Bezeichnung für elektrische Bauteile mit einer definierten Induktivität als Haupteigenschaft) wird oft eine solche Standardform angewendet. Solche Bauelemente werden Spulen oder Drosseln genannt.
+
+Eine Ringspule, auch als Toroidspule bezeichnet, besteht aus einem Ring mit dem mittleren Radius formula_43 und Querschnittsfläche formula_44, dessen magnetische Eigenschaften maßgeblich sind. Es ist oft magnetisch gut leitfähig und hat eine hohe relative Permeabilitätszahl formula_45, wie beispielsweise Ferrit. Das dabei auftretende formula_46 ist die magnetische Feldkonstante, eine Naturkonstante.
+
+Dieser ringförmige Kern ist mit einer dünnen Lage Draht mit formula_4 Windungen bewickelt. Die Induktivität formula_48 ist dann in Näherung gegeben in der Form:
+
+Eine bessere Näherung für die Induktivität einer Ringspule, welche die Abhängigkeit der magnetischen Feldstärke als Funktion des Radius beachtet, lautet:
+
+Dabei wird ein rechteckförmiger Querschnitt des Ringes mit der Höhe formula_51 angenommen. Der äußere Radius des Kerns ist mit formula_52 und der Innenradius mit formula_43 bezeichnet.
+
+In allen Fällen gilt, dass diese Gleichungen nur bei hinreichend dünn bewickeltem Ring gute Näherungsergebnisse liefern.
+
+Der Vorteil gleichmäßig bewickelter Ringspulen liegt in der Feldfreiheit außerhalb der Wicklung, weshalb sie keine magnetischen Störfelder aussenden und für solche auch kaum empfänglich sind.
+
+Bei einer zylinderförmigen Luftspule, deren Länge formula_54 groß gegenüber dem Durchmesser des Querschnitts formula_44 ist, lässt sich die Induktivität näherungsweise folgendermaßen berechnen:
+
+Dabei wird neben der Voraussetzung einer dünnlagigen geschlossenen Bewicklung der magnetische Widerstand des Außenraumes vernachlässigt und nur formula_57 des Kerns angenommen. Diese Gleichung gilt also ebenfalls nur in Näherung. Für kürzere Zylinderspulen existieren Approximationsformeln, die die endliche Länge der Spule und damit die „schlechtere“ magnetische Feldführung in ihrem Inneren berücksichtigen. Für eine Spule, deren Länge noch mindestens das 0,6-Fache des Radius beträgt, gilt (formula_58: Windungsradius):
+
+Ist die Zylinderspule mit einem Material gefüllt, so wird der äußere Magnetfeldraum relevant. Es ist die Permeabilitätszahl (für die meisten Materialien ist formula_60) einzubeziehen und die obigen einfachen Formeln können nicht angewendet werden. Derartige mit einem magnetischen Material gefüllte Zylinderspulen mit offenem Magnetkreis werden häufig angewendet und haben trotz der um sie herum herrschenden Magnetfelder einige Vorteile: sie geraten aufgrund des Luftanteiles im Magnetkreis kaum in die magnetische Sättigung, sind leicht herzustellen und haben eine geringe Eigenkapazität.
+
+
+Aus der Beziehung zur Induktionsspannung bei Änderung des magnetischen Flusses im Innern einer langen Spule formula_61
+
+folgt
+
+Die Induktivität "L" wird aus
+
+identifiziert mit
+
+In der Praxis werden oft fertige Spulenkerne verwendet, für die häufig vom Hersteller eine Induktivitätskonstante "A" (Al-Wert, meist in nH pro Quadratwindung) angegeben wird und dem Kehrwert des magnetischen Widerstands R entspricht. In diesem Wert sind bereits alle Materialkonstanten und die spezielle Geometrie der Anordnung als Näherung zusammengefasst. Wenn man den Kern mit "N" Windungen bewickelt, erhält man eine Spule mit der Induktivität:
+
+Das gilt nur, wenn das Kernmaterial in einem linearen Bereich seiner Kennlinie aus Induktion "B" und magnetischer Feldstärke "H" betrieben wird beziehungsweise unterhalb der Sättigungsinduktion bleibt.
+
+Induktive Bauelemente wie Spulen speichern Energie in Form ihres Magnetfeldes. Das Magnetfeld einer Spule der Induktivität "L", die vom Momentanwert des Stromes "I" durchflossen wird, enthält die Energie "W:"
+
+Bei einer plötzlichen Unterbrechung des Stromkreises muss sich die in der Spule gespeicherte Energie in sehr kurzer Zeit umsetzen und erzeugt an den Anschlussklemmen eine sehr hohe Selbstinduktionsspannung, die zu Beschädigungen an der Isolation oder anderen Schaltungsteilen führen kann. Um das zu vermeiden, werden induktive Bauelemente vor dem Abschalten oft mit einem Lastwiderstand kurzgeschlossen, in dem sich die im Magnetfeld gespeicherte Energie thermisch umsetzt.
+Diese hohe Spannung kann aber auch zur Versorgung von elektrischen Bauteilen mit hohem Spannungsbedarf, wie etwa einer Zündkerze, verwendet werden.
+
+Andere Methoden zur thermischen Umsetzung bei Umschaltvorgängen sind die in Gleichspannungskreisen verwendeten Schutzdioden.
+
+Der Begriff "äußere Induktivität" wird für den Beitrag des im Raum außerhalb des elektrischen Leiters auftretenden magnetischen Flusses zur Induktivität verwendet. In obigen Beispielen zur Bestimmung der Induktivität verschiedener geometrischer Leiteranordnungen wurden die Querschnitte der elektrischen Leiter als vernachlässigbar dünn angenommen. In diesem Fall kann sich die Bestimmung der Induktivität auf die Bestimmung der äußeren Induktivität bzw. einer idealisierten Feldform beschränken.
+
+Besitzt der elektrische Leiter (Draht) hingegen eine nicht vernachlässigbare räumliche Ausdehnung, eine entsprechende Querschnittsfläche, tritt auch eine magnetische Flussdichteverteilung innerhalb des Leiters auf. Die davon abgeleitete Induktivität wird als innere Induktivität bezeichnet. Im einfachsten Fall einer gleichmäßigen Stromverteilung über den Querschnitt des Leiters mit der Länge "l" lässt sich die innere Induktivität mit folgender Gleichung bestimmen:
+
+Bemerkenswert daran ist, dass die innere Induktivität nicht von den konkreten geometrischen Abmessungen wie Durchmesser der Querschnittsfläche des Leiters abhängt. Jener Ausdruck gilt nur bei gleichmäßiger Stromverteilung, also nur bei Gleichstrom, und nur wenn die Querschnittsfläche des Leiters keine inneren Begrenzungen aufweist. Ist die Stromverteilung aufgrund des Skineffektes bei höheren Frequenzen nicht mehr gleichmäßig, ergeben sich andere, komplexere Ausdrücke für die frequenzabhängige innere Induktivität. Die inneren Induktivitäten sind wegen der Stromverdrängung im Leiter stark frequenzabhängig und nehmen mit steigender Frequenz praktisch auf Null ab.
+
+Die innere Induktivität ist vor allem bei der Bestimmung der Gesamtinduktivität von elektrischen Kabeln von Bedeutung, da selbst bei diesen bei niedrigen Frequenzen (z. B.: Netzfrequenz) die Leiterquerschnitte oft nicht vernachlässigt werden können.
+
+Zur Bestimmung der Induktivität eines Koaxialkabels der Länge "l" (sogenannter Induktivitätsbelag) sind bei niedrigen Frequenzen die inneren Induktivitäten des inneren Leiters "L" und des äußeren Leiters "L" zu berücksichtigen. Hauptsächlich wirkt jedoch die Induktivität "L" des konzentrischen Raumes zwischen den beiden Leitern. Die gesamte Induktivität einer koaxialen Leitung der Länge "l" ergibt sich aus der Summe der einzelnen Teilinduktivitäten:
+
+Im Gleichstromfall kann für den inneren Leiter mit dem Durchmesser "d" obiger Ausdruck für die innere Induktivität verwendet werden:
+
+Die ebenfalls stark frequenzabhängige innere Induktivität des äußeren Leiters mit der Dicke "s" und den Innendurchmesser "D", der als Kreisring konzentrisch angeordnet ist, kann im Gleichstromfall in guter Näherung bestimmt werden zu:
+
+Die frequenzunabhängige äußere Induktivität im Dielektrikum ist bei Koaxialleitern:
+
+Bei höheren Frequenzen, ab 10 kHz aufwärts, können die beiden Terme der inneren Induktivität wegen des Skineffektes vernachlässigt werden. Für die Bestimmung der Wellenimpedanz eines Koaxialkabels bei typischen Frequenzen ist daher nur der Summand "L" der äußeren Induktivität von wesentlicher Bedeutung.
+
+Die Gegeninduktivität kennzeichnet die gegenseitige magnetische Einwirkung zweier oder mehrerer räumlich benachbarter Stromkreise. Sie wird auch als magnetische Kopplung bezeichnet. Die wichtigste technische Anwendung findet die Gegeninduktivität bei einem Transformator.
+
+Die relative Permeabilitätszahl μ hängt als Stoffkonstante nicht nur vom jeweiligen Material ab, sondern bei vielen Materialien auch von der magnetischen Flussdichte. Bei hohen magnetischen Flussdichten kommt es zu einer so genannten magnetischen Sättigung des Materiales und als Folge zu einer Reduktion der relativen Permeabilitätszahl μ bis herunter auf 1. Dadurch ist die Induktivität direkt von der magnetischen Flussdichte abhängig, die ihrerseits meist eine Funktion des durch die Spule fließenden elektrischen Stromes ist. Somit ändert sich die Induktivität einer Spule in Abhängigkeit vom "Momentanwert" des Stromes, der durch die Spule fließt.
+
+Die Folge davon ist, dass sich die dynamische Induktivität bei sehr kleinen Aussteuerungen um den Arbeitspunkt von der statischen Induktivität unterscheiden kann. Bei größeren Aussteuerungen über die lineare Arbeitspunktnäherung hinaus, können bei nichtlinearen Induktivitäten in Wechselspannungsanwendungen zusätzliche Oberschwingungen als nichtlineare Verzerrungen auftreten. Auch sind bei Berechnungen mit nichtlinearen Induktivitäten die einfachen Methoden der (linearen) komplexen Wechselstromrechnung nicht mehr direkt anwendbar.
+
+Die Nichtlinearität von Induktivitäten kann erwünscht sein, z. B. bei Speicherdrosseln in Schaltreglern, um diese besser an verschiedene Lastfälle anzupassen, oder in den Ablenkschaltungen von Röhrenfernsehern, um dem nichtlinearen Stromverlauf in den Ablenkspulen entgegenzuwirken. Auch bei den so genannten Sättigungsdrosseln zur Entstörung von Thyristorstellern ist Nichtlinearität erwünscht.
+
+Induktivität kann nicht direkt gemessen werden. Lediglich ihre Auswirkung kann festgestellt werden.
+
+Durch Aufschalten einer bekannten Wechselspannung und Messung des durch das induktive Bauelement fließenden Wechselstromes (oder umgekehrt) kann über die Reaktanz die Induktivität ermittelt werden. Dazu werden Amplitude und Phasenlage bestimmt. Diese Methode wird in einfachen Labormessgeräten angewandt und liefert den Induktivitätswert, die Güte sowie den Wert eines äquivalenten Serien- oder Parallelwiderstandes.
+
+Durch Parallelschalten einer bekannten Kapazität zur Induktivität erhält man einen Schwingkreis. Ermittelt man dessen Resonanzfrequenz, kann man daraus auf die Induktivität schließen. Diese Methode ist auch ohne spezielle Geräte durchführbar und daher unter Bastlern und Amateuren weit verbreitet. Die Genauigkeit ist recht hoch.
+
+Für hohe Genauigkeiten wird eine Maxwell-Messbrücke verwendet. Diese Methode ist sehr genau und wird u. a. in der automatisierten Fertigung von Spulen eingesetzt.
+
+Beim Bestimmen der Induktivitäten realer Spulen muss beachtet werden, dass je nach Spulenkonstruktion zu sehr hohen Frequenzen hin die kapazitive Kopplung der Windungen und Lagen wirksam wird. Der Impedanzverlauf steigt bis zu einem Maximalwert und bekommt Schwingkreischarakter, um zu noch höheren Frequenzen hin wieder zu sinken – die Spule stellt dann eine Kapazität dar.
+
+Jeder elektrische Strom verursacht ein Magnetfeld (Elektromagnetismus), in dem magnetische Energie gespeichert ist. Somit besitzt jedes Stück eines elektrischen Leiters eine kleine Induktivität. Auf Leiterplatten kann als Überschlagsrechnung mit einer Induktivität von rund 1,2 nH pro Millimeter Leitungslänge gerechnet werden. Zusammengefasst ergeben diese Induktivitäten die parasitäre Aufbauinduktivität einer elektrischen Schaltung.
+
+Die Magnetfelder nahe beieinander liegender Leiterstücke beeinflussen sich durch die magnetische Kopplung gegenseitig. Liegen z. B. Hin- und Rückleitung eines Stromkreises sehr eng beieinander, heben sich deren Magnetfelder gegenseitig teilweise auf, was die Gesamtinduktivität dieser Anordnung stark verringert. Daher werden Strompfade oft eng aneinander geführt und Kabel miteinander verdrillt.
+
+Soll sich der Strom in einer induktiven Leiterschleife ändern, muss eine zur Stromänderungsgeschwindigkeit d"i"/d"t" proportionale Spannung "U" wirksam sein:
+
+Häufig zum Schalten von Lasten mit induktivem Verhalten benutzte Schalter und Relais weisen deswegen deutliche Abnutzungsspuren an den Kontakten auf, die deren Funktion stark beeinträchtigen können: beim Abschalten fließt der Strom aufgrund der Induktivität weiter und bildet einen Lichtbogen (siehe Schaltlichtbogen), in den sich die in der Induktivität gespeicherte Energie entlädt.
+Noch kritischer sind Stromflussänderungen, die durch Halbleiterschalter hervorgerufen werden. Halbleiterbauteile werden von derart hohen Spannungen oft zerstört. Daher muss bei der Konstruktion von Schaltungen mit hohen Stromänderungsgeschwindigkeiten auf einen niederinduktiven Aufbau geachtet werden. Zusätzlich werden häufig Snubber-Netzwerke am Halbleiter angebracht. Falls möglich und nötig, werden auch Freilaufdioden benutzt. Neuere Halbleiterschalter können oft auch ohne Schutzbeschaltung induktive Lasten schalten, indem der Energieabbau in einem kontrollierten Avalanchedurchbruch erfolgt.
+
+Ein weiteres Problem parasitärer Induktivitäten ist die Interaktion mit parasitären Kapazitäten. Der dadurch entstandene Schwingkreis kann störende Spannungsschwingungen erzeugen, die Halbleiterbauteilen schaden können und die Elektromagnetische Verträglichkeit und die Signalübertragungseigenschaften verschlechtern.
+
+In Computern kann sich der Strombedarf einzelner Integrierter Schaltungen im Nanosekundentakt ändern. Weil das einer Frequenz im Gigahertzbereich entspricht, kann die Induktivität der Stromversorgungsleitungen nicht ignoriert werden, auch wenn sie nur wenige Zentimeter kurz sind. Der induktive Widerstand des Drahtes vergrößert den Innenwiderstand der Spannungsquelle mit steigender Frequenz ganz erheblich. Als Folge kann die Spannung bei Stromänderungen beispielsweise zwischen 2 V und 10 V schwanken und den IC stören, möglicherweise sogar zerstören. Als Gegenmittel werden induktionsarme Kondensatoren unmittelbar an den IC-Anschlüssen angeordnet, die einen sehr geringen dynamischen Innenwiderstand sicherstellen.
+
+Im allgemeinsten Fall sind Stromverteilung und Magnetfeld aus den Maxwellgleichungen zu bestimmen.
+Im Fall von Leiterschleifen aus dünnen Drähten ist die Stromverteilung dagegen zumindest näherungsweise vorgegeben, Skineffekt und Abschirmströme ergeben jedoch auch hier Komplikationen und Fallunterscheidungen.
+
+Die wechselseitige Induktivität zweier „fadenförmiger“ Leiterschleifen "m" und "n" lässt sich mit dem "Neumann-Kurvenintegral"
+erhalten. Das Symbol μ bezeichnet die magnetische Feldkonstante, "C" und "C" sind die von den Leiterschleifen aufgespannten Kurven. Die Formel ist in guter Näherung auf reale Drahtschleifen anwendbar, wenn die Krümmungsradien der Schleifen und die Abstände zwischen den Drähten größer als der Drahtradius sind.
+
+Die Neumann-Formel ist zur Berechnung von Selbstinduktivitäten nicht verwendbar, da bei formula_75 die beiden Kurven zusammenfallen und der Integrand formula_76 divergiert. Es ist notwendig, den endlichen Drahtradius formula_77 und die Stromverteilung im Drahtquerschnitt zu berücksichtigen. Es verbleibt der Beitrag des Integrals über alle Punktpaare mit formula_78 und ein Korrekturterm,
+
+formula_80 falls der Strom gleichmäßig über die Drahtoberfläche verteilt ist (Skineffekt),
+formula_81 falls der Strom gleichförmig über den Drahtquerschnitt verteilt ist. Im Skineffekt-Fall ist auch zu beachten, dass bei geringem Abstand zwischen den Leitern zusätzliche Abschirmströme induziert werden, und die formula_82 enthaltenden Ausdrücke dann ungenau werden.
+
+
+
+

@@ -1,0 +1,55 @@
+﻿Paramagnetismus
+
+Paramagnetismus ist eine der Ausprägungsformen des Magnetismus in Materie. Wie der Diamagnetismus beschreibt er das magnetische Verhalten eines Materials, das einem externen Magnetfeld ausgesetzt ist. Paramagneten folgen in ihrer Magnetisierung dem äußeren Feld, so dass das Magnetfeld in ihrem Inneren stärker ist als außerhalb. Paramagnetische Materialien haben dadurch die Tendenz, in ein Magnetfeld hineingezogen zu werden. Ohne ein äußeres Magnetfeld zeigen paramagnetische Materialien keine magnetische Ordnung (im Gegensatz zu der auch ohne Magnetfeld auftretenden „spontanen Magnetisierung“ z. B. beim Ferromagnetismus).
+
+Die magnetische Permeabilität formula_1 ist bei Paramagneten größer als 1 (bzw. die magnetische Suszeptibilität formula_2 positiv). In der physikalischen Klassifikation gelten alle Materialien, die dieser Bedingung genügen und keine persistierende magnetische Ordnung aufweisen, als paramagnetisch.
+
+Paramagnetismus tritt nur in den Stoffen auf, die ungepaarte Elektronen besitzen (Radikale, Übergangsmetallkationen, Lanthanoidkationen) und deren Atome bzw. Moleküle ein magnetisches Moment besitzen. Ursachen dafür sind quantenmechanische Effekte, u. a. der Eigendrehimpuls (Spin) der Elektronen.
+
+Modellhaft kann man sich eine paramagnetische Probe aus lauter kleinen Stabmagneten aufgebaut vorstellen, die sich zwar drehen, aber nicht verrutschen können. Bringt man die Probe in ein Magnetfeld, so werden sich die Stabmagnete bevorzugt in Richtung der magnetischen Feldlinien ausrichten. Ein wichtiges Merkmal dabei ist, dass die Stabmagnete einander nicht beeinflussen – sie richten sich alle unabhängig voneinander aus. Die Wärmefluktuationen bewirken eine ständige, zufällige Neuorientierung der Stabmagnete. Dabei sind ungeordnete Stabmagnetausrichtungen, also Konfigurationen der Stabmagnetausrichtungen mit im Mittel verschwindendem magnetischen Moment, sehr viel wahrscheinlicher als eine geordnete Verteilung, bei der die magnetischen Momente in gleiche Richtung ausgerichtet sind und zu einem nicht-verschwindenden magnetischen Gesamtmoment führen. Daher braucht man also umso stärkere Magnetfelder, je stärker man die Magnete ausrichten möchte.
+
+Physikalisch ausgedrückt: Die Ursache eines paramagnetischen Verhaltens liegt in der Ausrichtung der mikroskopischen magnetischen Momente eines Stoffes in einem Magnetfeld. Die einzelnen magnetischen Momente sind dabei voneinander unabhängig. Im Unterschied zu Ferromagneten wird eine solche Ausrichtung nach Abschalten des Magnetfeldes durch thermische Fluktuationen sofort wieder zerstört. Die Magnetisierung formula_3 des Stoffes ist proportional zum angelegten Magnetfeld formula_4
+Je größer dabei die magnetische Suszeptibilität formula_7 des Stoffes ist, desto leichter lässt sich dieser demnach magnetisieren. Die Suszeptibilität ist also ein Maß für die Stärke des Paramagnetismus. Wegen des einfachen Zusammenhangs der Suszeptibilität mit der relativen magnetischen Permeabilität formula_8 wird auch häufig letztere als Maß genommen.
+
+Häufig kann man lesen, dass eine sehr große Suszeptibilität bedeutet, eine Probe sei ferromagnetisch. Diese Aussage ist so nicht ganz richtig. Zwar ist die Suszeptibilität von Ferromagneten in vielen Fällen sehr groß, jedoch liegt die Ursache in der besagten Kopplung. Ferromagneten zeigen auch nach Abschalten des Magnetfeldes noch eine Magnetisierung, die sogenannte Remanenz, während bei Paramagneten, wie bereits gesagt, die Magnetisierung nach Abschalten des Feldes wieder verschwindet.
+
+Eine klassische Betrachtung liefert keine Erklärung für das Vorhandensein der oben besprochenen magnetischen Momente. Diese lassen sich jedoch quantenmechanisch verstehen. Die für den Magnetismus wichtige Aussage dabei ist, dass der Gesamtdrehimpuls formula_9 eines atomaren Zustandes immer mit einem magnetischen Moment formula_10 verknüpft ist
+Dabei ist formula_12 der Landé-Faktor und formula_13 das Bohrsche Magneton. Der Gesamtdrehimpuls ergibt sich dabei aus drei Komponenten:
+Das zum Kernspin gehörende magnetische Moment ist – wegen der bedeutend größeren Masse der Nukleonen – allerdings zu schwach, um einen nennenswerten Beitrag zur Suszeptibilität liefern zu können. Daher wird dieser im Folgenden nicht weiter beachtet. Es sei aber darauf hingewiesen, dass das magnetische Moment des Kernes durchaus messbar ist, was in der Medizin bei der Magnetresonanztomografie (MRT) genutzt wird (daher wird das Verfahren auch Kernspintomografie genannt).
+
+Die wesentlichen Beiträge zur Suszeptibilität rühren aus verschiedenen Quellen, die weiter unten aufgeführt werden. Da es jedoch immer auch diamagnetische Beiträge zur Suszeptibilität gibt, entscheidet erst eine Addition aller Beiträge, ob ein Stoff letztlich paramagnetisch ist. Tritt allerdings Langevin-Paramagnetismus (s. u.) auf, so ist dessen Beitrag üblicherweise dominant.
+
+Der Gesamtdrehimpuls eines Atoms im Grundzustand lässt sich theoretisch über die sogenannten Hundschen Regeln bestimmen. Wichtigste Essenz daraus ist, dass sich der Gesamtdrehimpuls
+immer zu Null addiert. In allen anderen Fällen besitzt das Atom also ein magnetisches Moment.
+
+Die Temperaturabhängigkeit dieses Beitrags wird durch das Curiesche Gesetz
+beschrieben, dabei ist formula_15 die Curie-Konstante (eine Materialkonstante).
+
+Eine genauere Analyse des Langevin-Paramagnetismus geschieht mit Hilfe der Langevin- und der Brillouin-Funktion.
+
+Elektronen können sich praktisch frei in Metallen bewegen. Jedes Elektron besitzt infolge seines Spins ein magnetisches Moment – man erwartet also einen Curie-ähnlichen Beitrag zur Suszeptibilität. Es haben jedoch nur die angeregten Leitungselektronen wegen des Pauli-Prinzips die Freiheit, ihren Spin im Magnetfeld auszurichten. Deren Anzahl ist proportional zu formula_16 (formula_17 ist die Fermitemperatur, eine weitere Materialkonstante):
+Eine genaue Betrachtung zeigt allerdings, dass es eine Abhängigkeit von der Stärke des externen Magnetfeldes gibt.
+
+Auch wenn der Gesamtdrehimpuls eines Atoms in seinem Grundzustand Null ist, so muss das nicht für angeregte Zustände gelten. Bei einer endlichen Temperatur sind immer einige Atome in einem angeregten Zustand, daher kommt dieser Beitrag bei allen Stoffen vor. Von nennenswerter Größe ist er allerdings nur in Molekülkristallen; dort kann er den Langevin-Paramagnetismus sogar an Stärke übertreffen. Die Größe dieses Beitrages zu berechnen ist aber gerade für Moleküle recht aufwändig.
+
+formula_19
+
+Die magnetischen Eigenschaften von gekörnten ferromagnetischen Festkörpern sind abhängig von der Korngröße. Bei Verkleinerung der Korngröße nimmt die Anzahl der magnetischen Bezirke (Weiss-Bezirk) pro Korn ab. Unterhalb einer kritischen Größe ist es energetisch ungünstig, mehrere dieser Bereiche auszubilden. Es existiert also nur noch ein Weiss-Bezirk pro Korn, d. h. alle atomaren magnetischen Momente eines Korns sind parallel zueinander angeordnet. Unterhalb einer weiteren kritischen Größe ist bei endlichen Temperaturen eine stabile Ausrichtung des magnetischen Gesamtmoments nicht mehr möglich, da die zur Ummagnetisierung benötigte Energie kleiner als die thermische Energie wird. Der Festkörper als Ganzes verhält sich nun paramagnetisch mit der Besonderheit, dass die magnetischen Momente nicht einzeln, sondern in Blöcken auf externe Magnetfelder reagieren. Diese besondere Form des Paramagnetismus wird als Superparamagnetismus bezeichnet.
+
+Der Paramagnetismus von Sauerstoff wird bei der physikalischen Gasanalyse genutzt.
+
+Die Elektronenhülle der Alkalimetalle besteht aus einer Edelgaskonfiguration und einem zusätzlichen s-Elektron. Nach den Hundschen Regeln besitzen die Atome im Grundzustand also ein magnetisches Moment. Dies ist der erste Fall (s. o.), der einen starken Beitrag zur Suszeptibilität liefert. Die Alkalimetalle sind demnach paramagnetisch.
+
+Im Gegensatz zu den Alkalimetallen besitzen die Erdalkalimetalle zwei s-Elektronen und damit eine abgeschlossene Unterschale. Jedoch gehören sie zu den Metallen und betreffen damit den zweiten Fall. Mit Ausnahme von Beryllium überwiegt dieser Beitrag den diamagnetischen, womit die Erdalkalimetalle schwach paramagnetisch sind.
+
+Die Metalle der Seltenen Erden gehören zu den technisch wichtigsten Materialien für Legierungen in Permanentmagneten. Die Ursache liegt darin, dass die entscheidende nicht vollständig besetzte Schale im Inneren der Elektronenhülle liegt (f-Elektronen) und somit praktisch keinen Einfluss auf die chemischen Eigenschaften der Atome hat. Fast alle diese Metalle sind daher paramagnetisch (nach dem ersten Fall), jedoch variiert die Stärke des Paramagnetismus sehr; Gadolinium ist sogar ferromagnetisch. Das macht sie zu idealen Kandidaten in Legierungen mit ferromagnetischen Metallen, wodurch sehr starke Permanentmagnete hergestellt werden können.
+
+Da Moleküle häufig eine abgeschlossene Elektronenkonfiguration haben und keine Metalle sind, zeigen sie nur einen Beitrag nach dem dritten Fall. Einige Beispiele für paramagnetische Substanzen sind:
+
+Magnetit (FeO) zeigt normalerweise ferrimagnetisches Verhalten (Ferrimagnetismus). 
+Bei Teilchengrößen, welche kleiner als 20 bis 30 nm sind, zeigt sich bei Raumtemperatur superparamagnetisches Verhalten. Bei Anwesenheit eines äußeren magnetischen Feldes richten sich alle Teilchen in Richtung dieses Feldes aus. Nach Entfernen des äußeren Feldes ist die thermische Energie groß genug, sodass die gemeinsame Ausrichtung der Teilchen relaxiert und die Magnetisierung wieder gegen Null geht.
+
+
+
+
+

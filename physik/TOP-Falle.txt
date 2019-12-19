@@ -1,0 +1,13 @@
+﻿TOP-Falle
+
+Eine TOP-Falle (englisch: „time-averaged, orbiting potential trap“ oder „Time-Orbiting-Potential“-Falle) ist eine Weiterentwicklung der Quadrupolfalle. Sie nutzt das magnetische Moment von neutralen Atomen, um diese einzufangen und zu speichern. 
+
+Die TOP-Falle besteht aus einem magnetischen Quadrupolfeld, das um die Symmetrieachse rotiert. Die Rotation ist notwendig, weil stets ein Ort innerhalb der Falle existiert, an dem das Magnetfeld verschwindet. An diesem Ort können die Atome die Falle durch Ändern ihres inneren Drehimpulses oder Spins verlassen (Spin-Flip).
+
+Es gibt dabei drei entscheidende Frequenzen:
+
+Damit eine TOP-Falle funktioniert, muss die Rotationsfrequenz größer sein als die Fallenfrequenz, jedoch kleiner als die Larmorfrequenz. Dies kann man wie folgt verstehen: Die Rotationsfrequenz muss viel größer sein als die Fallenfrequenz, damit sich der Ort, an dem die Atome die Falle verlassen könnten, schneller bewegt, als die Teilchen reagieren können. Durch die schnelle Rotation des Potentials „spürt“ jedes Atom ein zeitlich gemitteltes (effektives) Potential. Andererseits muss die Rotationsfrequenz kleiner sein als die Larmorfrequenz, weil ansonsten die Elektronen dem Magnetfeld nicht mehr folgen können. Die Elektronen würden überhaupt kein Feld spüren.
+
+Die Quic-Falle benutzt zusätzliche Joffe-Spulen.
+
+

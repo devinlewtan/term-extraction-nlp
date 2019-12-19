@@ -1,0 +1,7 @@
+﻿Analogie elektrischer und magnetischer Größen
+
+Die Analogie elektrischer und magnetischer Größen ist eine Folge der starken Symmetrie in den Maxwellschen Gleichungen zwischen den auftretenden elektrischen und magnetischen Größen. Diese Analogien sind für das Verstehen elektromagnetischer und elektrotechnischer Zusammenhänge und Erscheinungen hilfreich und werden in Lehrbüchern häufig angegeben. 
+
+So haben die Größen des stationären Strömungsfeldes eine starke Analogie zur Strömungsmechanik sowie zur Thermodynamik und sind recht anschaulich erklärbar (siehe auch Elektro-Hydraulische Analogie). Die Größen des elektrostatischen und des magnetischen Feldes sind eher abstrakt, können aber über die Analogie gut verstanden werden. Darüber hinaus wird der Unterschied zwischen elektrischem und magnetischem Feld (z. B. elektrische und magnetische Monopole, Lenzsche Regel) in den Analogien sehr deutlich.
+
+

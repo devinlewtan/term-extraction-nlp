@@ -1,0 +1,15 @@
+﻿Magnetokalorischer Effekt
+
+Der magnetokalorische Effekt bezeichnet das Phänomen einer Temperaturerhöhung in einem magnetisierbaren Material, wenn es einem stärkeren Magnetfeld ausgesetzt wird. Der Effekt ist umkehrbar, äußert sich dann als sinkende Temperatur als Folge eines abnehmenden Magnetfelds.
+
+Der Effekt entsteht, indem die magnetischen Momente des Materials durch das Magnetfeld ausgerichtet werden; diese Ausrichtung nimmt mit sinkendem Magnetfeld auch wieder ab. Die Ausrichtungsgeschwindigkeit der magnetischen Momente zeigt meist ein deutliches Hysterese-Verhalten, das vom jeweiligen Material abhängt. Die Suche nach geeigneten Legierungen mit geringer Hysterese soll Materialien ergeben, die sich als Wärmepumpe eignen: durch periodische Magnetisierung und gleichzeitiges Abführen der entstehenden Wärme kann mit ihnen eine Kühlwirkung erreicht werden. Der Test entsprechender Prototypen dient der Erprobung des Effektes für Anwendungen in Haushaltsgeräten. Viele der Prototypen verwenden Gadolinium, das eine Curie-Temperatur von 19 °C hat, oder Legierungen mit diesem Element.
+
+Der magnetokalorische Effekt kann auch zum Erwärmen genutzt werden, z. B. über eine Fußbodenheizung (magnetische Wärmepumpe). Der "Coefficent of Performance" (COP) ist dabei höher als jener einer konventionellen Wärmepumpe.
+
+Auf der Elektronikmesse CES im Jahr 2015 stellten BASF und niederländische Wissenschaftler den ersten Prototypen eines Weinkühlers vor, bei dem eine magnetokalorische Wärmepumpe die Kälte erzeugt. Das Gerät verbraucht 35 Prozent weniger Strom als vergleichbare Modelle und arbeitet nahezu lautlos. Dabei kommt das neue Material Quice zum Einsatz, das aus den preiswerten und leicht zu beschaffenden Elementen Eisen und Mangan hergestellt wird. Wenn dieser Werkstoff in ein Magnetfeld gerät, erwärmt er sich um 20 Grad und mehr. Diese Wärmeenergie nimmt ein Kühlkreislauf auf, in dem Wasser zirkuliert. Es transportiert die Wärme in die Umwelt. Parallel dazu kühlt das Innere des Kühlgerätes ab.
+
+Die Gesamtentropie eines Systems ist konstant oder steigt. Bei dem magnetokalorischen Effekt besteht die Gesamtentropie aus der thermischen und der magnetischen Entropie. Durch die Ausrichtung der magnetischen Momente in einem Material sinkt die magnetische Entropie. Somit muss die thermische Entropie als Ausgleich steigen und somit die Temperatur.
+
+
+
+

@@ -1,0 +1,11 @@
+﻿Ringresonator
+
+Ein Ringresonator ist ein optischer Resonator, der Anwendung in der Lasertechnik findet und meist direkt als Laserresonator verwendet wird.
+
+Im Gegensatz zu einem linearen Resonator mit nur zwei Spiegeln besteht ein Ringresonator typischerweise aus vier Spiegeln, die den Laserstrahl auf einen geschlossenen Weg lenken. Dabei können die Laserstrahlen auf sich kreuzende Wegen („Sanduhr“) geleitet werden oder auf einen Weg in Form eines „Vierecks“.
+
+Durch Verwendung eines Ringresonators beim Aufbau eines Laser lässt sich das sogenannte räumliche Lochbrennen verringern, da sich beim Ringresonator keine stehende Welle ausbildet, sondern eine fortlaufende Welle. Weiterhin ist der Einmodenbetrieb (nur eine einzige Frequenz im Laserlicht) mit weniger frequenzselektiven Elementen zu erreichen.
+
+Anwendung findet er zum Beispiel im Laserkreisel.
+
+

@@ -1,0 +1,13 @@
+﻿Strahlerzeile
+
+Unter einer Strahlerzeile versteht man in der Akustik eine äquidistante Anordnung von N punktförmigen Einzelschallquellen (Monopole). Aufgrund der Überlagerung einzelner Wellen, deren Ursprung in den einzelnen Quellen liegt, entsteht eine Richtcharakteristik. Dies wird in der Praxis zur gezielten Beschallung, beziehungsweise bei Mikrofonen zur gerichteten Aufnahme genutzt. Als Beispiele seien hier die Beschallung von Kirchen oder Bahnhöfen zu nennen.
+
+Bei gleichem Schallfluss für alle Monopole können für die Richtcharakteristik der Strahlerzeile drei Fälle unterschieden werden:
+
+
+Mathematisch lässt sich die Richtcharakteristik wie folgt bestimmen:
+
+Ferner lässt sich die Richtcharakteristik durch Verzögerungen der einzelnen Schallquellen zueinander schwenken. Durch eine Abnahme des Schallflusses nach außen hin können Nebenkeulen, bei geringerer Richtwirkung der Hauptkeule, unterdrückt werden.
+
+
+

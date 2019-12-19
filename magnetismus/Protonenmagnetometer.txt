@@ -1,0 +1,18 @@
+﻿Protonenmagnetometer
+
+Ein Protonenmagnetometer (auch: Protonen-Präzessions-Magnetometer) ist ein Messgerät für Magnetfelder, welches auf der Präzession des Spins von Protonen basiert.
+
+Ein Protonenmagnetometer besteht aus einem nichtmagnetischen Gefäß, das mit einer protonenhaltigen Flüssigkeit gefüllt und mit einer Spule umgeben ist. Als Flüssigkeit kommt ein Kohlenwasserstoff wie z. B. Petroleum oder auch Wasser zum Einsatz; es muss eine Substanz sein, die viel Wasserstoff enthält, da der Atomkern von Wasserstoff aus einem Proton besteht.
+
+Mit Hilfe der Spule wird ein starkes Magnetfeld angelegt, das den Kernspin in die Richtung des Magnetfelds ausrichtet. Anschließend wird dieses starke Magnetfeld entfernt, so dass die Protonen nur noch dem zu messenden Magnetfeld, welches viel schwächer ist, ausgesetzt sind. Weil das zu messende Magnetfeld nicht in die gleiche Richtung wie das Spulenmagnetfeld zeigt, werden die Protonenspins zur Larmorpräzession gebracht, dabei senden sie eine elektromagnetische Strahlung aus, welche in der Spule eine Spannung induziert. Die Präzessionsfrequenz ist dabei proportional zur Stärke des Magnetfelds formula_1
+der konstante Faktor formula_3 heißt gyromagnetisches Verhältnis und hat für Protonen den Wert formula_4. (Für nähere physikalische Details siehe Larmorpräzession, Kernspinresonanz.)
+Mit einem Protonenmagnetometer kann nicht kontinuierlich gemessen werden, sondern die Protonenspins müssen regelmäßig ausgerichtet werden; die Präzession klingt nach dem Abschalten des Ausrichtungsfeldes innerhalb weniger Sekunden exponentiell ab, nur in dieser Zeit kann gemessen werden. Gleichzeitig wird dadurch auch die Trägheit des Instruments bestimmt, denn die Präzessionsfrequenz passt sich nicht sofort an eine Änderung der magnetischen Feldstärke an.
+
+Mit dem Protonenmagnetometer kann nur die absolute Magnetfeldstärke gemessen werden, nicht jedoch die Feldrichtung – man spricht von einem skalaren Magnetometer, im Unterschied zu einem vektoriellen Magnetometer wie z. B. der Förster-Sonde. Da Frequenzen sehr genau gemessen werden können, ist die Messgenauigkeit eines Protonenmagnetometers sehr hoch, ungefähr bei 0,5 nT.
+
+Vom Funktionsprinzip ähnlich ist das Cäsium-Magnetometer; hier wird jedoch der Spin von Elektronen verwendet. Dabei geschieht die Ausrichtung des Spins auf eine andere Weise, nämlich durch optisches Pumpen.
+
+Eine besondere Art von Protonenmagnetometer ist ein Kernspintomograph – hier wird allerdings nicht das Magnetfeld gemessen, sondern es werden anhand eines bekannten Magnetfeldes die Protonen gemessen, insbesondere deren Vorhandensein sowie ihre Wechselwirkungen mit Nachbaratomen. Dabei werden die Präzessionsfrequenzen durch einen Sender im Radiobereich angeregt. Durch die Allgegenwart von Wasser im menschlichen Körper ist dies eine besonders vielseitige Untersuchungsmethode in der Medizin.
+
+
+

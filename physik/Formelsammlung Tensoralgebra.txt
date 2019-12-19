@@ -1,0 +1,386 @@
+﻿Formelsammlung Tensoralgebra
+
+Diese Formelsammlung fasst Formeln und Definitionen der Tensoralgebra für Tensoren zweiter Stufe in der Kontinuumsmechanik zusammen.
+
+
+Für Summen gilt dann z. B.
+
+Dies gilt für die anderen Indexgruppen entsprechend.
+
+Kreuzprodukt:
+
+Die hier verwendeten Vektoren sind Spaltenvektoren
+
+Drei Vektoren formula_36 können spaltenweise in einer 3×3-Matrix formula_37 arrangiert werden:
+
+Die Determinante der Matrix
+
+ist
+
+
+Also gewährleistet formula_40, dass die Vektoren formula_36 eine rechtshändige Basis bilden.
+
+Die Spaltenvektoren bilden eine Orthonormalbasis, wenn
+
+worin formula_43 die transponierte Matrix ist. Bei der hier vorausgesetzten Rechtshändigkeit gilt dann zusätzlich formula_44
+
+Basisvektoren formula_15
+
+Duale Basisvektoren formula_13
+
+Beziehungen zwischen den Basisvektoren
+
+mit dem Spatprodukt
+
+Trägt man die Basisvektoren spaltenweise in eine Matrix ein, dann finden sich die dualen Basisvektoren in den Zeilen der Inversen oder den Spalten der transponiert Inversen:
+
+mit der transponiert inversen formula_52
+
+In der Standardbasis formula_53 sind die Basisvektoren zu sich selbst dual:
+
+Beziehung zwischen den Skalarprodukten der Basisvektoren:
+
+Wechsel von
+
+Basis formula_13 mit dualer Basis formula_15
+
+nach
+
+Basis formula_62 mit dualer Basis formula_12:
+
+Matrizengleichung:
+
+Abbildung formula_66
+
+Dyade: formula_67
+
+Abbildung formula_74
+
+Abbildung formula_76 oder formula_77
+
+Abbildung formula_79 oder formula_80
+
+Abbildung formula_83
+
+Abbildung formula_85
+
+Abbildung formula_87
+
+Abbildung formula_83
+
+Abbildung formula_83
+
+Durch die Eigenschaften des dyadischen Produktes wird formula_94 zu einem Vektorraum und entsprechend kann jeder Tensor komponentenweise bezüglich einer Basis dargestellt werden.
+
+mit Komponenten formula_96
+
+Meistens ist aber:
+siehe auch #Axialer Tensor oder Kreuzproduktmatrix
+
+Siehe auch #Vektorinvariante
+Das Skalarkreuzprodukt mit dem #Einheitstensor vertauscht das dyadische Produkt durch das Kreuzprodukt:
+
+Mit der Formel für das Produkt zweier #Permutationssymbole:
+
+Eigenschaften:
+Aber meistens:
+
+Siehe auch #Hauptinvarianten, #Kofaktor eines Tensors.
+
+Determinantenproduktsatz:
+
+Multiplikation mit Skalaren formula_135:
+
+Charakteristische Gleichung:
+
+mit der Hauptinvariante formula_139. Spezialfall:
+
+Zusammenhang mit dem Spatprodukt:
+
+Zusammenhang mit dem äußeren Tensorprodukt:
+
+Zusammenhang mit dem Kofaktor formula_144:
+
+Spatprodukt und #Determinante eines Tensors:
+Kreuzprodukt und #Kofaktor eines Tensors:
+
+Die Komponenten formula_162 ergeben sich durch Vor- und Nachmultiplikation mit der Transformationsmatrix
+die ein #Einheitstensor ist:
+
+Definition für einen Tensor formula_17:
+
+Zwei Tensoren formula_17 und formula_168 sind identisch wenn gilt:
+
+Definition
+
+Wenn λ die Eigenwerte des Tensors A sind, dann hat cof(A) die Eigenwerte λλ, λλ, λλ.
+
+
+Betrag: formula_172
+
+Eigenschaften:
+Kreuzprodukt und Kofaktor:
+
+Definition:
+
+
+Betrag: formula_181
+
+Eigenschaften:
+
+Definition
+
+Die Inverse ist nur definiert, wenn formula_188
+
+Zusammenhang mit dem adjungierten Tensor formula_189:
+
+Werden die Spalten von formula_17 mit Vektoren bezeichnet
+
+dann gilt:
+
+Satz von Cayley-Hamilton:
+
+worin formula_195 die drei Hauptinvarianten sind.
+
+Inverse des transponierten Tensors:
+
+Inverse eines Tensorprodukts:
+
+Spezialfälle:
+
+mit Eigenwert formula_203 und Eigenvektor formula_204. Die Eigenvektoren werden auf die Länge eins normiert.
+
+Jeder Tensor hat drei Eigenwerte und drei dazugehörige Eigenvektoren. Mindestens ein Eigenwert und Eigenvektor sind reell. Die beiden anderen Eigenwerte und -vektoren können reell oder komplex sein.
+
+"Charakteristische Gleichung"
+
+Die Koeffizienten sind die "#Hauptinvarianten":
+
+Satz von Cayley-Hamilton:
+
+Sei formula_210 "symmetrisch".
+
+Symmetrische Tensoren haben reelle Eigenwerte und paarweise zueinander senkrechte oder orthogonalisierbare Eigenvektoren, die also eine Orthonormalbasis aufbauen. Die Eigenvektoren werden so nummeriert, dass die ein Rechtssystem bilden.
+
+Hauptachsentransformation mit Eigenwerten formula_211 und Eigenvektoren formula_212 des symmetrischen Tensors formula_17:
+
+bzw.
+
+Sei formula_216 "schiefsymmetrisch".
+
+Schiefsymmetrische Tensoren haben einen reellen und zwei konjugiert komplexe, rein imaginäre Eigenwerte. Der reelle Eigenwert von formula_17 ist null zu dem ein Eigenvektor gehört, der proportional zur reellen "#Vektorinvariante" formula_218 ist. Siehe auch #Axialer Tensor oder Kreuzproduktmatrix.
+
+Sei formula_219 und formula_220 eine Basis und formula_221 die dazu duale Basis.
+
+Der Tensor
+
+hat die Eigenwerte
+
+und Eigenvektoren
+
+Der Tensor
+
+hat die Eigenwerte
+
+und Eigenvektoren
+
+Definition
+Invarianten:
+
+Eigensystem:
+
+mit formula_236
+
+Allgemein:
+
+Es gilt:
+
+Vektortransformation
+
+Tensorprodukt
+
+Skalarprodukt
+
+Invarianten:
+
+Eigenwerte:
+Jeder Vektor ist Eigenvektor.
+
+Definition
+
+Determinantenproduktsatz:
+
+Definition
+Invarianten (formula_247 ist der Drehwinkel):
+
+"Eigentlich orthogonaler" Tensor formula_249, entspricht einer Drehung.
+
+"Uneigentlich orthogonaler" Tensor formula_250, entspricht einer Drehspiegelung.
+
+Spatprodukt:
+
+Kreuzprodukt und #Kofaktor eines Tensors:
+
+Gegeben ein Einheitsvektor formula_253 und Drehwinkel formula_247. Dann sind die folgenden Tensoren formula_255 orthogonal und drehen um die Achse formula_253 mit Winkel formula_247:
+
+Drehung von Vektorraumbasis formula_259 mit Drehachse formula_253:
+
+Gegeben Orthonormalbasis formula_262, Drehwinkel formula_247 und formula_264 sei die Drehachse:
+formula_266: Drehung, formula_267: Drehspiegelung um formula_264
+
+Wenn formula_262 ein Rechtssystem (Mathematik) bilden, dann dreht Q gegen den Uhrzeigersinn, sonst im Uhrzeigersinn um die Drehachse.
+
+Eigensystem:
+
+Drehwinkel:
+
+Drehachse formula_253:
+
+Definition
+
+Notwendige Bedingungen für positive Definitheit:
+
+Notwendige und hinreichende Bedingung für positive Definitheit: Alle Eigenwerte von formula_17 sind größer als null.
+
+Immer positiv definit falls formula_188:
+
+Definition
+In kartesischen Koordinaten:
+Invarianten:
+
+Bilinearform:
+
+Ein Eigenwert ist null, zwei imaginär konjugiert komplex, siehe #Axialer Tensor oder Kreuzproduktmatrix.
+
+Dualer axialer Vektor:
+
+mit #Vektorinvariante formula_218. Der zum Eigenwert null gehörende Eigenvektor ist proportional zum dualen axialen Vektor formula_293 denn
+
+Kreuzproduktmatrix formula_297 eines Vektors formula_298:
+Invarianten:
+Eigensystem:
+
+Eigenschaften:
+
+Potenzen von formula_306
+
+Definition
+
+Alle Eigenwerte sind reell.
+
+Alle Eigenvektoren sind reell und paarweise orthogonal zueinander oder orthogonalisierbar.
+
+Symmetrische Tensoren haben keine #Vektorinvariante:
+
+Definition
+
+Mit den Eigenwerten formula_316, den Eigenvektoren formula_317 und einer reellwertigen Funktion formula_318 eines reellen Argumentes formula_135 definiert man über die Hauptachsentransformation
+
+den Funktionswert des Tensors:
+
+Insbesondere mit dem Deformationsgradienten formula_322:
+
+Rechter Strecktensor
+
+Linker Strecktensor
+
+Henky-Dehnung
+
+Die Tensoren
+
+bilden eine Basis im Vektorraum formula_327 der symmetrischen Tensoren zweiter Stufe. Bezüglich dieser Basis können alle symmetrischen Tensoren zweiter Stufe in Voigt'scher Notation dargestellt werden:
+
+Diese Vektoren dürfen addiert, subtrahiert und mit einem Skalar multipliziert werden. Beim Skalarprodukt muss
+berücksichtigt werden.
+
+Definition
+
+Definition
+
+Gegeben ein beliebiger Tensor formula_341
+
+Symmetrische und schiefsymmetrische Tensoren sind orthogonal zueinander:
+
+Deviatoren und Kugeltensoren sind orthogonal zueinander:
+
+Gegeben sei die Gerade durch den Punkt formula_369 mit Richtungsvektor formula_370 und ein beliebiger anderer Punkt formula_371.
+
+Dann ist
+Der Punkt formula_373 ist die senkrechte Projektion von formula_371 auf die Gerade. Der Tensor G extrahiert den Anteil eines Vektors in Richtung von formula_370 und I-G den Anteil senkrecht dazu.
+
+Gegeben sei die Ebene durch den Punkt formula_369 und zwei die Ebene aufspannende Vektoren formula_298 und formula_378 sowie ein beliebiger anderer Punkt formula_371. Dann verschwindet die Normale
+nicht. Dann ist
+Der Punkt formula_373 ist die senkrechte Projektion von formula_371 auf die Ebene. Der Tensor P extrahiert den Anteil eines Vektors in der Ebene und I-P den Anteil senkrecht dazu.
+
+Die Projektion der Geraden, die durch die Punkte formula_369 und formula_371 verläuft, liegt in der Ebene in Richtung des Vektors formula_11.
+
+Falls formula_387 und formula_388 folgt:
+
+Eigenwerte
+
+Falls formula_341:
+
+Falls formula_398:
+
+Falls formula_403:
+
+Falls formula_405:
+
+Falls formula_407:
+
+Falls formula_409:
+
+Für #Orthogonale Tensoren Q gilt:
+
+Definition:
+
+Kreuzprodukt von Vektoren:
+
+
+
+
+Tensoren zweiter Stufe sind ebenfalls Elemente eines Vektorraums formula_94 wie im Abschnitt Tensoren als Elemente eines Vektorraumes dargestellt. Daher kann man Tensoren vierter Stufe definieren, indem man in dem Kapitel formal die Tensoren zweiter Stufe durch Tensoren vierter Stufe und die Vektoren durch Tensoren zweiter Stufe ersetzt, z. B.:
+
+mit Komponenten formula_424 und die Tensoren formula_425 sowie formula_426 bilden eine Basis von formula_94.
+
+Standardbasis in formula_94:
+
+Tensortransformation:
+
+Tensorprodukt:
+
+Übliche Schreibweisen für Tensoren vierter Stufe:
+
+Transposition:
+
+Spezielle Transposition formula_435 vertauscht formula_436-tes mit formula_437-tem Basissystem.
+
+Beispielsweise:
+
+Definition: formula_441
+
+Dann gilt: formula_442
+
+Für beliebige Tensoren zweiter Stufe formula_17 gilt:
+
+Diese fünf Tensoren sind sämtlich symmetrisch.
+
+Mit beliebigen Tensoren zweiter Stufe formula_446 und formula_447 gilt:
+
+In dem in diesen Formeln im Tensor vierter Stufe formula_168 durch formula_450 und die Transpositionen formula_451 durch formula_452 ersetzt werden, entstehen die Ergebnisse mit transponiertem formula_447:
+
+Mit den Spannungen formula_456 und den Dehnungen formula_457 im Hooke'schen Gesetz gilt:
+
+mit den Lamé-Konstanten formula_203 und formula_460. Dieser Elastizitätstensor ist symmetrisch.
+
+Invertierungsformel mit formula_461, formula_462 und formula_463:
+
+mit der Querdehnzahl formula_465 und dem Elastizitätsmodul formula_466.
+
+Aus der Basis formula_467 des Vektorraums formula_468 der symmetrischen Tensoren zweiter Stufe kann eine Basis des Vektorraums formula_469 der linearen Abbildungen von symmetrischen Tensoren auf symmetrische Tensoren konstruiert werden. Die 36 Komponenten der Tensoren vierter Stufe aus formula_470 können als Voigt'scher Notation in eine 6×6-Matrix einsortiert werden:
+
+Die Vektoren und Matrizen in Voigt'scher Notation können addiert, subtrahiert und mit einem Skalar multipliziert werden. Das Matrizenprodukt von Matrix und Vektor ist ebenfalls möglich. Beim Skalarprodukt muss
+berücksichtigt werden.
+
+
+

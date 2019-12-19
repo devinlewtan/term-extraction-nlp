@@ -1,0 +1,12 @@
+﻿Edward Seidel
+
+Edward „Ed“ Seidel (* 21. August 1957 in Bethesda (Maryland)) ist ein US-amerikanischer Astrophysiker und Informatiker.
+
+Seidel studierte Mathematik und Physik am College of William & Mary mit dem Bachelor-Abschluss, Physik an der University of Pennsylvania mit dem Master-Abschluss und wurde an der Yale University in Astrophysik promoviert. Seidel war Leiter der Gruppe numerische Relativität am Max-Planck-Institut für Gravitationsphysik in Golm und ab 2003 Gründungsdirektor des Center for Computation and Technology der Louisiana State University, bevor er Professor an der University of Illinois at Urbana-Champaign wurde (in den Abteilungen Physik, Astronomie und Informatik). Er leitete das Office for Cyberinfrastructure und war Assistant Director für Mathematik und Physik der National Science Foundation und war 2012 bis 2014 Senior-Vizepräsident für Forschung und Innovation der MIT Skoltech Initiative am Skolkovo Institute of Science and Technology in Moskau. 2014 bis 2017 war er Direktor des National Center for Supercomputing Applications in Illinois. Danach ging er wieder an die University of Illinois, wo er Vizepräsident für wirtschaftliche Entwicklung und Innovation des University of Illinois System ist, zu der die Universitäten in Chicago, Urbana und Springfield gehören.
+
+Er befasst sich mit numerischer Relativität, der Lösung der Gleichungen der Allgemeinen Relativitätstheorie auf dem Computer, zum Beispiel für die Kollision schwarzer Löcher.
+
+2006 erhielt er den Sidney Fernbach Award und er erhielt den Gordon Bell Prize und den Heinz-Billing-Preis der Max-Planck-Gesellschaft. Er ist Fellow der American Physical Society und der American Association for the Advancement of Science, Mitglied von IEEE und SIAM.
+
+
+

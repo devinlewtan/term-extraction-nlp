@@ -1,0 +1,25 @@
+﻿GMR-Effekt
+
+Der GMR-Effekt () oder Riesenmagnetowiderstand basiert auf einem magnetoresistiven Effekt und wird in Strukturen beobachtet, die aus sich abwechselnden magnetischen und nichtmagnetischen dünnen Schichten mit einigen Nanometern Schichtdicke bestehen. Der Effekt bewirkt, dass der elektrische Widerstand der Struktur von der gegenseitigen Orientierung der Magnetisierung der magnetischen Schichten abhängt, und zwar ist er bei Magnetisierung in entgegengesetzte Richtungen deutlich höher als bei Magnetisierung in die gleiche Richtung.
+
+Angewendet wird er vor allem in magnetischen Festplatten.
+
+Der Effekt wurde zuerst 1988 von Peter Grünberg vom Forschungszentrum Jülich und Albert Fert von der Universität Paris-Süd in voneinander unabhängiger Arbeit entdeckt, wofür sie 2007 gemeinsam mit dem Nobelpreis für Physik ausgezeichnet wurden.
+
+Beim GMR-Effekt handelt es sich um einen quantenmechanischen Effekt, der durch die Spinabhängigkeit der Streuung von Elektronen an Grenzflächen erklärt werden kann. Elektronen, die sich in einer der beiden ferromagnetischen Schichten gut ausbreiten können, weil ihr Spin günstig orientiert ist, werden in der zweiten ferromagnetischen Schicht stark gestreut, wenn diese entgegengesetzt magnetisiert ist. Sie durchlaufen die zweite Schicht aber wesentlich leichter, wenn die Magnetisierung dieselbe Richtung aufweist wie in der ersten Schicht.
+
+Werden zwei Schichten eines ferromagnetischen Materials durch eine dünne nichtmagnetische Schicht getrennt, so richten sich die Magnetisierungen bei bestimmten Dicken der Zwischenschicht in entgegengesetzten Richtungen aus. Schon kleine äußere magnetische Felder reichen aber aus, um diese antiferromagnetische Ordnung wieder in die ferromagnetische Ordnung umzuschalten.
+
+In Verbindung mit dem GMR-Effekt bewirken Variationen des äußeren Magnetfeldes in geeigneten Strukturen daher große Änderungen des elektrischen Widerstandes der Struktur.
+
+Die Möglichkeiten, den Effekt in einem Sensor für ein magnetisches Feld einzusetzen (und damit als einen neuen Typ von Lesekopf in einem Festplattenlaufwerk), wurden schnell durch ein von Stuart Parkin geleitetes IBM-Forschungsteam entdeckt, indem er zeigte, dass der Effekt auch in polykristallinen Schichten auftritt.
+
+In der Anwendung des Effektes unterscheidet man heute folgende Fälle:
+
+IBM stellte im Dezember 1997 die erste kommerzielle Festplatte her, die den GMR-Effekt nutzte. Weitere Anwendungen sind Magnetfeldsensoren in Automobilen.
+
+Die Nutzung des Effektes in nichtflüchtigen Speichermedien (siehe MRAM) hatte im Jahr 2010 noch keine Marktreife erreicht.
+
+
+
+

@@ -1,0 +1,27 @@
+﻿Dipolkraft
+
+Die Dipolkraft stellt die Wechselwirkung zwischen einem magnetischen oder elektrischen Dipol und einem äußeren elektromagnetischen Feld dar.
+
+Sie ist nach der Coulomb-Kraft die zweitführende Ordnung der Krafteinwirkung eines elektrischen Feldes auf eine beliebige Ladungsverteilung und – in Ermangelung magnetischer Monopole – die führende Ordnung der Krafteinwirkung eines Magnetfeldes auf eine beliebige Stromverteilung.
+
+Generell ist die Kraft formula_1 eines elektrischen Feldes formula_2 auf eine Ladungsverteilung formula_3 mit der Ladungsdichte formula_4 gegeben durch
+
+Entwickelt man das externe elektrische Feld in einer Taylor-Reihe:
+
+mit dem Nabla-Operator formula_7 als Maß für die Inhomogenität des Feldes zwischen zwei Punkten,
+
+so ergibt sich mit
+
+Entsprechend gilt für die Wechselwirkung eines Magnetfelds mit einer Stromverteilung:
+
+mit
+
+Eine Dipolkraft wirkt somit nur in einem inhomogenen externen Feld und ist nur dann eine gute Näherung, wenn das elektrische oder magnetische Feld nicht zu stark mit dem Ort variiert.
+
+Bei einer Ladungsverteilung ohne intrinsisches Dipolmoment kann ein äußeres elektrisches Feld einen Dipol mit dem Dipolmoment formula_15 induzieren. Dieses ist bei Paraelektrika und Dielektrika gegeben durch
+
+wobei der Parameter formula_17 Polarisierbarkeit genannt wird.
+
+Je nach Vorzeichen seiner Polarisierbarkeit wird ein Stoff von der Dipolkraft in Richtung zunehmender oder abnehmender Feldstärke bewegt. Im Bereich von Resonanzfrequenzen wechselt die Polarisierbarkeit von Atomen das Vorzeichen. Deshalb kann man durch Verstimmung des Feldes, das z. B. von einem Laser eingestrahlt wird, steuern, ob das Atom durch die Dipolkraft in Richtung des Intensitätsminiums oder des -maximums des Feldes bewegt wird. Bei der Dielektrophorese wird die Dipolkraft zur Manipulation von Teilchen oder Partikeln wie z. B. Viren benutzt.
+
+
