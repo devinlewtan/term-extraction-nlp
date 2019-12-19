@@ -1,5 +1,7 @@
 # term-extraction-nlp
-Natural Language Processing Final Project: German version of The Termolator (terminology extraction system)
+Natural Language Processing Final Project - Fall 2019
+German version of The Termolator (terminology extraction system)
+Devin Lewtan and Thomas Yu
 
 The Termolator takes two sets of documents as input a FOREGROUND set and a BACKGROUND set and finds instances of terminology that are more characteristic of the FOREGROUND than the BACKGROUND. 
 
